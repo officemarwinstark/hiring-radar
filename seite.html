@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hiring-Radar</title>
+<style>
+:root{--bg:#f4f7f6;--karte:#ffffff;--linie:#d6dfdc;--text:#12242a;--leise:#5a6f72;--akzent:#0f6e63;--akzent-hell:#e2f1ee;--warn:#b4541a}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-size:16px;line-height:1.45}
+.rahmen{max-width:1120px;margin:0 auto;padding:24px 16px 48px}
+h1{margin:0;font-size:28px;letter-spacing:-.01em}
+h1 span{color:var(--akzent)}
+.unter{margin:4px 0 20px;color:var(--leise)}
+.filter{display:grid;grid-template-columns:2fr 1fr 1fr 1.2fr;gap:10px;background:var(--karte);border:1px solid var(--linie);border-radius:10px;padding:14px}
+.feld{display:flex;flex-direction:column;gap:4px;min-width:0}
+.feld label{font-size:12px;font-weight:600;color:var(--leise);text-transform:uppercase;letter-spacing:.06em}
+input,select,button{font:inherit;color:inherit}
+input[type=search],select{width:100%;padding:9px 10px;border:1px solid var(--linie);border-radius:7px;background:#fff}
+input[type=search]:focus,select:focus,button:focus-visible,a:focus-visible{outline:2px solid var(--akzent);outline-offset:1px}
+.leiste{display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px;margin:16px 0 10px}
+.zahl{font-weight:600}
+.zahl small{font-weight:400;color:var(--leise)}
+.schalter{display:flex;border:1px solid var(--linie);border-radius:7px;overflow:hidden;background:#fff}
+.schalter button{border:0;background:transparent;padding:7px 14px;cursor:pointer}
+.schalter button[aria-pressed=true]{background:var(--akzent);color:#fff}
+.knopf{margin-left:auto;border:1px solid var(--akzent);background:#fff;color:var(--akzent);font-weight:600;padding:7px 14px;border-radius:7px;cursor:pointer}
+.knopf:hover{background:var(--akzent-hell)}
+.tabelle{background:var(--karte);border:1px solid var(--linie);border-radius:10px;overflow-x:auto}
+table{border-collapse:collapse;width:100%}
+th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--linie);vertical-align:top}
+th{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--leise);background:#f9fbfa;white-space:nowrap}
+tr:last-child td{border-bottom:0}
+td.z,th.z{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+td a{color:var(--akzent);font-weight:500}
+.marke{display:inline-block;font-size:12px;padding:1px 8px;border-radius:999px;background:var(--akzent-hell);color:var(--akzent);white-space:nowrap}
+.firma-knopf{border:0;background:none;padding:0;color:var(--akzent);font-weight:600;cursor:pointer;text-align:left}
+.leer{padding:28px 16px;text-align:center;color:var(--leise)}
+.mehr{display:block;margin:14px auto 0;border:1px solid var(--linie);background:#fff;padding:9px 18px;border-radius:7px;cursor:pointer}
+.fuss{margin-top:22px;font-size:13px;color:var(--leise)}
+[hidden]{display:none !important}
+@media (max-width:760px){.filter{grid-template-columns:1fr 1fr}.filter .feld:first-child{grid-column:1 / -1}.knopf{margin-left:0}}
+</style>
+</head>
+<body>
+<div class="rahmen">
+  <h1>Hiring<span>-Radar</span></h1>
+  <p class="unter" id="unter"></p>
+
+  <div class="filter">
+    <div class="feld"><label for="suche">Suche</label><input type="search" id="suche" placeholder="Job oder Firma, zum Beispiel: account executive"></div>
+    <div class="feld"><label for="bereich">Bereich</label><select id="bereich"></select></div>
+    <div class="feld"><label for="land">Land</label>
+      <select id="land">
+        <option value="dach">DACH gesamt</option>
+        <option value="Deutschland">Nur Deutschland</option>
+        <option value="Österreich">Nur Österreich</option>
+        <option value="Schweiz">Nur Schweiz</option>
+        <option value="alle">Alle Länder</option>
+      </select></div>
+    <div class="feld"><label for="dauer">Offen seit</label>
+      <select id="dauer">
+        <option value="30-180">30 bis 180 Tagen</option>
+        <option value="0-14">höchstens 14 Tagen (neu)</option>
+        <option value="30-">mindestens 30 Tagen</option>
+        <option value="181-">über 180 Tagen (Dauer-Anzeigen)</option>
+        <option value="0-">egal wie lange</option>
+      </select></div>
+  </div>
+
+  <div class="leiste">
+    <div class="zahl" id="zahl"></div>
+    <div class="schalter" role="group" aria-label="Ansicht">
+      <button type="button" id="ansStellen" aria-pressed="true">Stellen</button>
+      <button type="button" id="ansFirmen" aria-pressed="false">Firmen</button>
+    </div>
+    <button type="button" class="knopf" id="export">Als Tabelle herunterladen</button>
+  </div>
+
+  <div class="tabelle">
+    <table>
+      <thead id="kopf"></thead>
+      <tbody id="liste"></tbody>
+    </table>
+    <div class="leer" id="leer" hidden>Keine Treffer. Ändere die Suche oder wähle bei „Offen seit“ eine andere Spanne.</div>
+  </div>
+  <button type="button" class="mehr" id="mehr" hidden>Mehr anzeigen</button>
+
+  <p class="fuss">„Tage offen“ zählt ab dem Tag, an dem die Firma die Anzeige zuerst veröffentlicht hat. Quelle sind die öffentlichen Stellenlisten der Firmen. Jeder Eintrag führt zur Original-Anzeige.</p>
+</div>
+
+<script id="daten" type="application/json">__DATEN__</script>
+<script>
+"use strict";
+const D = JSON.parse(document.getElementById("daten").textContent);
+const S = D.stellen;   // [firma, titel, ort, land, bereich, tage, link]
+const $ = id => document.getElementById(id);
+const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text !== undefined) e.textContent = text; return e; };
+let ansicht = "stellen", grenze = 200, treffer = [];
+
+const dach = S.filter(s => s[3] !== "Ausland");
+$("unter").textContent = dach.length.toLocaleString("de-DE") + " offene Stellen im deutschsprachigen Raum bei " +
+  new Set(dach.map(s => s[0])).size + " Firmen. Stand: " + D.stand + ".";
+
+const bereiche = [...new Set(S.map(s => s[4]))].sort((a, b) => (a === "Sonstiges") - (b === "Sonstiges") || a.localeCompare(b, "de"));
+$("bereich").append(new Option("Alle Bereiche", ""));
+for (const b of bereiche) $("bereich").append(new Option(b, b));
+
+function filtern() {
+  const worte = $("suche").value.toLowerCase().split(/\s+/).filter(Boolean);
+  const bereich = $("bereich").value, land = $("land").value;
+  const [von, bis] = $("dauer").value.split("-").map(x => x === "" ? Infinity : Number(x));
+  treffer = S.filter(s => {
+    if (land === "dach" ? s[3] === "Ausland" : land !== "alle" && s[3] !== land) return false;
+    if (bereich && s[4] !== bereich) return false;
+    const t = s[5];
+    if (!(von === 0 && bis === Infinity) && (t === null || t < von || t > bis)) return false;
+    if (worte.length) { const text = (s[0] + " " + s[1] + " " + s[2]).toLowerCase(); if (!worte.every(w => text.includes(w))) return false; }
+    return true;
+  });
+  grenze = 200; zeigen();
+}
+
+function firmenListe() {
+  const m = new Map();
+  for (const s of treffer) {
+    const f = m.get(s[0]) || {name: s[0], n: 0, max: 0, bereiche: new Map()};
+    f.n++; f.max = Math.max(f.max, s[5] || 0); f.bereiche.set(s[4], (f.bereiche.get(s[4]) || 0) + 1); m.set(s[0], f);
+  }
+  return [...m.values()].sort((a, b) => b.n - a.n || a.name.localeCompare(b.name, "de"));
+}
+
+function zeigen() {
+  const kopf = $("kopf"), liste = $("liste"); kopf.textContent = ""; liste.textContent = "";
+  const tr = el("tr"); let rest = 0;
+  if (ansicht === "stellen") {
+    for (const [t, z] of [["Firma"], ["Stelle"], ["Bereich"], ["Ort"], ["Tage offen", 1]]) tr.append(el("th", z ? "z" : "", t));
+    for (const s of treffer.slice(0, grenze)) {
+      const r = el("tr"), stelle = el("td");
+      if (s[6]) { const a = el("a", "", s[1]); a.href = s[6]; a.target = "_blank"; a.rel = "noopener"; stelle.append(a); } else stelle.textContent = s[1];
+      const b = el("td"); b.append(el("span", "marke", s[4]));
+      r.append(el("td", "", s[0]), stelle, b, el("td", "", s[2]), el("td", "z", s[5] === null ? "" : String(s[5]))); liste.append(r);
+    }
+    rest = treffer.length - grenze;
+  } else {
+    for (const [t, z] of [["Firma"], ["Am meisten gesucht"], ["Passende Stellen", 1], ["Längste Suche in Tagen", 1]]) tr.append(el("th", z ? "z" : "", t));
+    const firmen = firmenListe();
+    for (const f of firmen.slice(0, grenze)) {
+      const r = el("tr"), name = el("td"), k = el("button", "firma-knopf", f.name); k.type = "button";
+      k.addEventListener("click", () => { $("suche").value = f.name; setzeAnsicht("stellen"); filtern(); });
+      name.append(k);
+      const top = [...f.bereiche.entries()].sort((a, b) => b[1] - a[1]).slice(0, 2).map(x => x[0] + " (" + x[1] + ")").join(", ");
+      r.append(name, el("td", "", top), el("td", "z", String(f.n)), el("td", "z", String(f.max))); liste.append(r);
+    }
+    rest = firmen.length - grenze;
+  }
+  kopf.append(tr);
+  const firmenZahl = new Set(treffer.map(s => s[0])).size;
+  const z = $("zahl"); z.textContent = treffer.length.toLocaleString("de-DE") + " Stellen ";
+  z.append(el("small", "", "bei " + firmenZahl + (firmenZahl === 1 ? " Firma" : " Firmen")));
+  $("leer").hidden = treffer.length > 0;
+  $("mehr").hidden = rest <= 0;
+}
+
+function setzeAnsicht(a) {
+  ansicht = a; grenze = 200;
+  $("ansStellen").setAttribute("aria-pressed", String(a === "stellen"));
+  $("ansFirmen").setAttribute("aria-pressed", String(a === "firmen"));
+}
+
+function herunterladen() {
+  const zelle = v => '"' + String(v === null ? "" : v).replace(/"/g, '""') + '"';
+  const zeilen = [["Firma", "Stelle", "Ort", "Land", "Bereich", "Tage offen", "Link"]].concat(treffer).map(r => r.map(zelle).join(";"));
+  const blob = new Blob(["﻿" + zeilen.join("\r\n")], {type: "text/csv;charset=utf-8"});
+  const a = document.createElement("a"); a.href = URL.createObjectURL(blob);
+  a.download = "hiring-radar-" + D.stand.split(".").reverse().join("-") + ".csv";
+  document.body.append(a); a.click(); a.remove(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+
+let warte = 0;
+$("suche").addEventListener("input", () => { clearTimeout(warte); warte = setTimeout(filtern, 120); });
+for (const id of ["bereich", "land", "dauer"]) $(id).addEventListener("change", filtern);
+$("ansStellen").addEventListener("click", () => { setzeAnsicht("stellen"); zeigen(); });
+$("ansFirmen").addEventListener("click", () => { setzeAnsicht("firmen"); zeigen(); });
+$("mehr").addEventListener("click", () => { grenze += 200; zeigen(); });
+$("export").addEventListener("click", herunterladen);
+filtern();
+</script>
+</body>
+</html>
