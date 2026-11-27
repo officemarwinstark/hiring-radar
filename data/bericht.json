@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27 16:26",
+ "stand": "2026-11-27 16:29",
  "firmen": [
   {
    "quelle": "greenhouse",
@@ -20,56 +20,56 @@
    "kuerzel": "hellofresh",
    "name": "HelloFresh",
    "stellen": 354,
-   "dach": 79
+   "dach": 72
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "celonis",
    "name": "Celonis",
    "stellen": 255,
-   "dach": 68
+   "dach": 63
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "flix",
    "name": "Flix",
    "stellen": 178,
-   "dach": 60
+   "dach": 47
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "sumup",
    "name": "SumUp",
    "stellen": 337,
-   "dach": 47
+   "dach": 35
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "databricks",
    "name": "Databricks",
    "stellen": 888,
-   "dach": 45
+   "dach": 42
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "raisin",
    "name": "Raisin",
    "stellen": 35,
-   "dach": 26
+   "dach": 24
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "wolt",
    "name": "Wolt - English",
    "stellen": 183,
-   "dach": 25
+   "dach": 22
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "anthropic",
    "name": "Anthropic",
    "stellen": 634,
-   "dach": 20
+   "dach": 19
   },
   {
    "quelle": "greenhouse",
@@ -83,14 +83,14 @@
    "kuerzel": "staffbase",
    "name": "Staffbase",
    "stellen": 30,
-   "dach": 18
+   "dach": 17
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "n26",
    "name": "N26",
    "stellen": 27,
-   "dach": 17
+   "dach": 16
   },
   {
    "quelle": "greenhouse",
@@ -125,14 +125,14 @@
    "kuerzel": "mongodb",
    "name": "MongoDB",
    "stellen": 423,
-   "dach": 14
+   "dach": 10
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "gitlab",
    "name": "GitLab",
    "stellen": 243,
-   "dach": 12
+   "dach": 11
   },
   {
    "quelle": "greenhouse",
@@ -146,14 +146,14 @@
    "kuerzel": "moonfare",
    "name": "Moonfare",
    "stellen": 18,
-   "dach": 11
+   "dach": 7
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "commercetools",
    "name": "commercetools",
    "stellen": 24,
-   "dach": 8
+   "dach": 5
   },
   {
    "quelle": "greenhouse",
@@ -167,7 +167,7 @@
    "kuerzel": "adyen",
    "name": "Adyen",
    "stellen": 234,
-   "dach": 7
+   "dach": 6
   },
   {
    "quelle": "greenhouse",
@@ -216,7 +216,7 @@
    "kuerzel": "freenow",
    "name": "Freenow by Lyft",
    "stellen": 12,
-   "dach": 4
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
@@ -286,7 +286,7 @@
    "kuerzel": "enpal",
    "name": "Enpal",
    "stellen": 189,
-   "dach": 150
+   "dach": 129
   },
   {
    "quelle": "ashby",
@@ -307,7 +307,7 @@
    "kuerzel": "upvest",
    "name": "Upvest",
    "stellen": 33,
-   "dach": 27
+   "dach": 26
   },
   {
    "quelle": "ashby",
@@ -335,7 +335,7 @@
    "kuerzel": "moss",
    "name": "Moss",
    "stellen": 34,
-   "dach": 25
+   "dach": 22
   },
   {
    "quelle": "ashby",
@@ -398,7 +398,7 @@
    "kuerzel": "harvey",
    "name": "Harvey",
    "stellen": 387,
-   "dach": 16
+   "dach": 15
   },
   {
    "quelle": "ashby",
@@ -559,21 +559,21 @@
    "kuerzel": "veeva",
    "name": "Veeva",
    "stellen": 865,
-   "dach": 60
+   "dach": 52
   },
   {
    "quelle": "lever",
    "kuerzel": "sonarsource",
    "name": "Sonar",
    "stellen": 111,
-   "dach": 32
+   "dach": 31
   },
   {
    "quelle": "lever",
    "kuerzel": "finn",
    "name": "FINN",
    "stellen": 32,
-   "dach": 32
+   "dach": 31
   },
   {
    "quelle": "lever",
@@ -590,74 +590,39 @@
    "dach": 1
   },
   {
-   "quelle": "lever",
-   "kuerzel": "tsmg",
-   "name": "TSMG",
-   "stellen": 4502,
-   "dach": 929
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "jobgether",
-   "name": "Jobgether",
-   "stellen": 4334,
-   "dach": 364
-  },
-  {
    "quelle": "greenhouse",
    "kuerzel": "teampicnic",
    "name": "Picnic",
    "stellen": 349,
-   "dach": 189
-  },
-  {
-   "quelle": "greenhouse",
-   "kuerzel": "cfoinsights",
-   "name": "CFO Insights",
-   "stellen": 833,
-   "dach": 144
-  },
-  {
-   "quelle": "greenhouse",
-   "kuerzel": "privateequityinsights",
-   "name": "Private Equity Insights",
-   "stellen": 1421,
-   "dach": 144
-  },
-  {
-   "quelle": "greenhouse",
-   "kuerzel": "unitedmedia",
-   "name": "United Media",
-   "stellen": 837,
-   "dach": 144
+   "dach": 74
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "caronsale",
    "name": "CarOnSale",
    "stellen": 110,
-   "dach": 104
+   "dach": 53
   },
   {
    "quelle": "ashby",
    "kuerzel": "bjakcareer",
    "name": "Bjak",
    "stellen": 1581,
-   "dach": 99
+   "dach": 51
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "indiecampers",
    "name": "Indie Campers",
    "stellen": 583,
-   "dach": 86
+   "dach": 32
   },
   {
    "quelle": "ashby",
    "kuerzel": "airapps",
    "name": "Air Apps",
    "stellen": 499,
-   "dach": 84
+   "dach": 51
   },
   {
    "quelle": "ashby",
@@ -671,63 +636,56 @@
    "kuerzel": "thequalitygroupgmbh1",
    "name": "The Quality Group GmbH",
    "stellen": 115,
-   "dach": 77
+   "dach": 75
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "projectaservicesgmbhcokg",
    "name": "A11",
    "stellen": 77,
-   "dach": 75
+   "dach": 74
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "capco",
    "name": "Capco",
    "stellen": 708,
-   "dach": 74
+   "dach": 34
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "evernest",
    "name": "Evernest",
    "stellen": 122,
-   "dach": 73
+   "dach": 41
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "wppmedia",
    "name": "WPP Media",
    "stellen": 762,
-   "dach": 72
-  },
-  {
-   "quelle": "greenhouse",
-   "kuerzel": "thequalitygroupgmbh2",
-   "name": "The Quality Group",
-   "stellen": 99,
-   "dach": 71
+   "dach": 65
   },
   {
    "quelle": "ashby",
    "kuerzel": "doctolib",
    "name": "Doctolib",
    "stellen": 146,
-   "dach": 70
+   "dach": 69
   },
   {
    "quelle": "ashby",
    "kuerzel": "clera",
    "name": "Clera",
    "stellen": 299,
-   "dach": 68
+   "dach": 53
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "rubyhotels",
    "name": "Ruby Hotels",
    "stellen": 113,
-   "dach": 67
+   "dach": 52
   },
   {
    "quelle": "lever",
@@ -748,14 +706,14 @@
    "kuerzel": "harmattan-ai",
    "name": "Harmattan AI",
    "stellen": 189,
-   "dach": 60
+   "dach": 48
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "feverup",
    "name": "FeverUp",
    "stellen": 594,
-   "dach": 60
+   "dach": 39
   },
   {
    "quelle": "ashby",
@@ -769,35 +727,35 @@
    "kuerzel": "qualysoft",
    "name": "Qualysoft",
    "stellen": 90,
-   "dach": 58
+   "dach": 55
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "ionos",
    "name": "IONOS DE",
    "stellen": 45,
-   "dach": 41
+   "dach": 31
   },
   {
    "quelle": "ashby",
    "kuerzel": "rohlik",
    "name": "Rohlik",
    "stellen": 82,
-   "dach": 38
+   "dach": 26
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "avimedical",
    "name": "Avi Medical",
    "stellen": 40,
-   "dach": 38
+   "dach": 25
   },
   {
    "quelle": "ashby",
    "kuerzel": "voize",
    "name": "voize",
    "stellen": 46,
-   "dach": 36
+   "dach": 34
   },
   {
    "quelle": "ashby",
@@ -811,7 +769,7 @@
    "kuerzel": "leverdemo-8",
    "name": "Lever Implementation Training Environment",
    "stellen": 430,
-   "dach": 35
+   "dach": 27
   },
   {
    "quelle": "lever",
@@ -832,7 +790,7 @@
    "kuerzel": "octoenergy",
    "name": "Octopus Energy Group",
    "stellen": 149,
-   "dach": 33
+   "dach": 21
   },
   {
    "quelle": "ashby",
@@ -853,21 +811,21 @@
    "kuerzel": "alixpartners",
    "name": "AlixPartners",
    "stellen": 135,
-   "dach": 31
+   "dach": 27
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "nebius",
    "name": "Nebius",
    "stellen": 340,
-   "dach": 31
+   "dach": 28
   },
   {
    "quelle": "lever",
    "kuerzel": "steerbridge",
    "name": "SteerBridge",
    "stellen": 46,
-   "dach": 31
+   "dach": 29
   },
   {
    "quelle": "greenhouse",
@@ -888,7 +846,7 @@
    "kuerzel": "pennylane",
    "name": "Pennylane SAS",
    "stellen": 207,
-   "dach": 29
+   "dach": 27
   },
   {
    "quelle": "ashby",
@@ -930,21 +888,21 @@
    "kuerzel": "pergolux",
    "name": "Pergolux",
    "stellen": 48,
-   "dach": 26
+   "dach": 24
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "bitpanda",
    "name": "Bitpanda",
    "stellen": 36,
-   "dach": 25
+   "dach": 23
   },
   {
    "quelle": "ashby",
    "kuerzel": "applied",
    "name": "Applied Intuition",
    "stellen": 330,
-   "dach": 24
+   "dach": 19
   },
   {
    "quelle": "ashby",
@@ -958,21 +916,21 @@
    "kuerzel": "autoscout24",
    "name": "AutoScout24",
    "stellen": 32,
-   "dach": 24
+   "dach": 22
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "mozilla",
    "name": "Mozilla",
    "stellen": 153,
-   "dach": 24
+   "dach": 23
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "planetlabs",
    "name": "Planet",
    "stellen": 103,
-   "dach": 23
+   "dach": 21
   },
   {
    "quelle": "lever",
@@ -1000,7 +958,7 @@
    "kuerzel": "blockstream",
    "name": "Blockstream",
    "stellen": 44,
-   "dach": 21
+   "dach": 19
   },
   {
    "quelle": "ashby",
@@ -1021,7 +979,7 @@
    "kuerzel": "auterion",
    "name": "Auterion",
    "stellen": 29,
-   "dach": 20
+   "dach": 19
   },
   {
    "quelle": "greenhouse",
@@ -1042,7 +1000,7 @@
    "kuerzel": "vivenu",
    "name": "vivenu GmbH",
    "stellen": 32,
-   "dach": 20
+   "dach": 19
   },
   {
    "quelle": "ashby",
@@ -1077,7 +1035,7 @@
    "kuerzel": "gympass",
    "name": "Wellhub",
    "stellen": 88,
-   "dach": 19
+   "dach": 16
   },
   {
    "quelle": "greenhouse",
@@ -1091,7 +1049,7 @@
    "kuerzel": "sosafe",
    "name": "SoSafe",
    "stellen": 33,
-   "dach": 18
+   "dach": 17
   },
   {
    "quelle": "greenhouse",
@@ -1112,7 +1070,7 @@
    "kuerzel": "agency",
    "name": "Meridial",
    "stellen": 827,
-   "dach": 17
+   "dach": 16
   },
   {
    "quelle": "ashby",
@@ -1161,7 +1119,7 @@
    "kuerzel": "eye-security",
    "name": "Eye Security",
    "stellen": 26,
-   "dach": 15
+   "dach": 14
   },
   {
    "quelle": "ashby",
@@ -1175,14 +1133,14 @@
    "kuerzel": "trading212",
    "name": "Trading212",
    "stellen": 39,
-   "dach": 15
+   "dach": 10
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "rubrik",
    "name": "Rubrik Job Board",
    "stellen": 224,
-   "dach": 15
+   "dach": 3
   },
   {
    "quelle": "greenhouse",
@@ -1210,7 +1168,7 @@
    "kuerzel": "finanzcheck",
    "name": "FFG FINANZCHECK Finanzportale GmbH",
    "stellen": 29,
-   "dach": 14
+   "dach": 10
   },
   {
    "quelle": "greenhouse",
@@ -1224,7 +1182,7 @@
    "kuerzel": "smavagmbh",
    "name": "smava GmbH",
    "stellen": 28,
-   "dach": 14
+   "dach": 11
   },
   {
    "quelle": "greenhouse",
@@ -1245,7 +1203,7 @@
    "kuerzel": "usasurveyjob",
    "name": "TowardJobs",
    "stellen": 1557,
-   "dach": 14
+   "dach": 10
   },
   {
    "quelle": "ashby",
@@ -1301,21 +1259,21 @@
    "kuerzel": "apaleo",
    "name": "Apaleo",
    "stellen": 15,
-   "dach": 13
+   "dach": 12
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "artefact",
    "name": "Artefact",
    "stellen": 89,
-   "dach": 13
+   "dach": 8
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "axon",
    "name": "Axon",
    "stellen": 458,
-   "dach": 13
+   "dach": 12
   },
   {
    "quelle": "greenhouse",
@@ -1364,7 +1322,7 @@
    "kuerzel": "tandem-health",
    "name": "Tandem Health",
    "stellen": 76,
-   "dach": 12
+   "dach": 8
   },
   {
    "quelle": "ashby",
@@ -1385,14 +1343,14 @@
    "kuerzel": "betterhelp",
    "name": "BetterHelp",
    "stellen": 101,
-   "dach": 12
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "artefactlinkedin",
    "name": "LinkedIn Job Wrapping",
    "stellen": 143,
-   "dach": 12
+   "dach": 10
   },
   {
    "quelle": "greenhouse",
@@ -1455,7 +1413,7 @@
    "kuerzel": "nomos",
    "name": "Nomos",
    "stellen": 11,
-   "dach": 11
+   "dach": 10
   },
   {
    "quelle": "ashby",
@@ -1497,14 +1455,14 @@
    "kuerzel": "svetness",
    "name": "Svetness Personal Training",
    "stellen": 5050,
-   "dach": 11
+   "dach": 1
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "valtech",
    "name": "Valtech",
    "stellen": 134,
-   "dach": 11
+   "dach": 6
   },
   {
    "quelle": "greenhouse",
@@ -1574,21 +1532,21 @@
    "kuerzel": "braze",
    "name": "Braze",
    "stellen": 357,
-   "dach": 10
+   "dach": 8
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "catonetworks",
    "name": "Cato Networks",
    "stellen": 117,
-   "dach": 10
+   "dach": 9
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "florafoodgroup",
    "name": "Flora Food Group",
    "stellen": 61,
-   "dach": 10
+   "dach": 7
   },
   {
    "quelle": "greenhouse",
@@ -1630,14 +1588,14 @@
    "kuerzel": "factor-eleven",
    "name": "Factor Eleven",
    "stellen": 9,
-   "dach": 9
+   "dach": 8
   },
   {
    "quelle": "ashby",
    "kuerzel": "kayak",
    "name": "KAYAK",
    "stellen": 40,
-   "dach": 9
+   "dach": 8
   },
   {
    "quelle": "ashby",
@@ -1651,7 +1609,7 @@
    "kuerzel": "tebi",
    "name": "Tebi",
    "stellen": 27,
-   "dach": 9
+   "dach": 7
   },
   {
    "quelle": "greenhouse",
@@ -1693,14 +1651,14 @@
    "kuerzel": "veeamsoftware",
    "name": "Veeam Software",
    "stellen": 211,
-   "dach": 9
+   "dach": 8
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "zattoo",
    "name": "Zattoo",
    "stellen": 9,
-   "dach": 9
+   "dach": 8
   },
   {
    "quelle": "lever",
@@ -1714,7 +1672,7 @@
    "kuerzel": "agicap",
    "name": "Agicap",
    "stellen": 25,
-   "dach": 9
+   "dach": 7
   },
   {
    "quelle": "lever",
@@ -1777,7 +1735,7 @@
    "kuerzel": "chainguard",
    "name": "Chainguard",
    "stellen": 105,
-   "dach": 8
+   "dach": 7
   },
   {
    "quelle": "greenhouse",
@@ -1798,7 +1756,7 @@
    "kuerzel": "netskope",
    "name": "Netskope",
    "stellen": 123,
-   "dach": 8
+   "dach": 7
   },
   {
    "quelle": "greenhouse",
@@ -1819,7 +1777,7 @@
    "kuerzel": "verve",
    "name": "Verve",
    "stellen": 39,
-   "dach": 8
+   "dach": 6
   },
   {
    "quelle": "lever",
@@ -1909,7 +1867,7 @@
    "quelle": "greenhouse",
    "kuerzel": "butternutbox",
    "name": "Butternut Box",
-   "stellen": 38,
+   "stellen": 39,
    "dach": 7
   },
   {
@@ -1931,7 +1889,7 @@
    "kuerzel": "sothebys",
    "name": "Sotheby's",
    "stellen": 69,
-   "dach": 7
+   "dach": 6
   },
   {
    "quelle": "greenhouse",
@@ -2029,14 +1987,14 @@
    "kuerzel": "appinio",
    "name": "Appinio",
    "stellen": 8,
-   "dach": 6
+   "dach": 5
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "applovin",
    "name": "AppLovin",
    "stellen": 41,
-   "dach": 6
+   "dach": 5
   },
   {
    "quelle": "greenhouse",
@@ -2050,7 +2008,7 @@
    "kuerzel": "eucalyptus",
    "name": "Careers at Eucalyptus",
    "stellen": 84,
-   "dach": 6
+   "dach": 5
   },
   {
    "quelle": "greenhouse",
@@ -2099,7 +2057,7 @@
    "kuerzel": "pia",
    "name": "WePractice (Psychotherapeut:in in Weiterbildung)",
    "stellen": 7,
-   "dach": 6
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
@@ -2162,7 +2120,7 @@
    "kuerzel": "dilitrust",
    "name": "DiliTrust",
    "stellen": 34,
-   "dach": 6
+   "dach": 5
   },
   {
    "quelle": "lever",
@@ -2239,7 +2197,7 @@
    "kuerzel": "jupus",
    "name": "JUPUS",
    "stellen": 6,
-   "dach": 5
+   "dach": 4
   },
   {
    "quelle": "ashby",
@@ -2260,14 +2218,14 @@
    "kuerzel": "onebrief",
    "name": "Onebrief",
    "stellen": 33,
-   "dach": 5
+   "dach": 3
   },
   {
    "quelle": "ashby",
    "kuerzel": "perk",
    "name": "Perk",
    "stellen": 113,
-   "dach": 5
+   "dach": 4
   },
   {
    "quelle": "ashby",
@@ -2288,7 +2246,7 @@
    "kuerzel": "anaplan",
    "name": "Anaplan",
    "stellen": 133,
-   "dach": 5
+   "dach": 4
   },
   {
    "quelle": "greenhouse",
@@ -2414,14 +2372,14 @@
    "kuerzel": "teneo",
    "name": "Teneo",
    "stellen": 58,
-   "dach": 5
+   "dach": 4
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "teneolinkedin",
    "name": "Teneo external feed for LinkedIn",
    "stellen": 57,
-   "dach": 5
+   "dach": 4
   },
   {
    "quelle": "greenhouse",
@@ -2435,14 +2393,14 @@
    "kuerzel": "artefactjobs",
    "name": "Welcome to the Jungle",
    "stellen": 47,
-   "dach": 5
+   "dach": 3
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "workato",
    "name": "Workato",
    "stellen": 54,
-   "dach": 5
+   "dach": 3
   },
   {
    "quelle": "lever",
@@ -2610,7 +2568,7 @@
    "kuerzel": "catapultsports",
    "name": "Catapult Sports",
    "stellen": 18,
-   "dach": 4
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
@@ -2687,14 +2645,14 @@
    "kuerzel": "openspace",
    "name": "OpenSpace",
    "stellen": 14,
-   "dach": 4
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "pfm",
    "name": "Precision for Medicine",
    "stellen": 107,
-   "dach": 4
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
@@ -2708,7 +2666,7 @@
    "kuerzel": "qualtrics",
    "name": "Qualtrics",
    "stellen": 176,
-   "dach": 4
+   "dach": 3
   },
   {
    "quelle": "greenhouse",
@@ -2721,7 +2679,7 @@
    "quelle": "greenhouse",
    "kuerzel": "sohohouseco",
    "name": "Soho House & Co.",
-   "stellen": 249,
+   "stellen": 248,
    "dach": 4
   },
   {
@@ -2764,7 +2722,7 @@
    "kuerzel": "infinit",
    "name": "INFINIT",
    "stellen": 18,
-   "dach": 4
+   "dach": 1
   },
   {
    "quelle": "lever",
@@ -2785,7 +2743,7 @@
    "kuerzel": "lalamove",
    "name": "Lalamove",
    "stellen": 152,
-   "dach": 4
+   "dach": 2
   },
   {
    "quelle": "lever",
@@ -2813,7 +2771,7 @@
    "kuerzel": "sila",
    "name": "Sila Services",
    "stellen": 215,
-   "dach": 4
+   "dach": 3
   },
   {
    "quelle": "ashby",
@@ -3030,7 +2988,7 @@
    "kuerzel": "boxinc",
    "name": "Box",
    "stellen": 127,
-   "dach": 3
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
@@ -3065,7 +3023,7 @@
    "kuerzel": "cognite",
    "name": "Cognite - AI for Industry",
    "stellen": 62,
-   "dach": 3
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
@@ -3149,7 +3107,7 @@
    "kuerzel": "precisionmedicinegroup",
    "name": "Precision Medicine Group",
    "stellen": 151,
-   "dach": 3
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
@@ -3212,7 +3170,7 @@
    "kuerzel": "taboola",
    "name": "Taboola",
    "stellen": 39,
-   "dach": 3
+   "dach": 1
   },
   {
    "quelle": "greenhouse",
@@ -3226,7 +3184,7 @@
    "kuerzel": "theorchard",
    "name": "The Orchard",
    "stellen": 27,
-   "dach": 3
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
@@ -3282,7 +3240,7 @@
    "kuerzel": "yext",
    "name": "Yext",
    "stellen": 35,
-   "dach": 3
+   "dach": 1
   },
   {
    "quelle": "greenhouse",
@@ -3625,7 +3583,7 @@
    "kuerzel": "accelerationpartners",
    "name": "Acceleration Partners",
    "stellen": 7,
-   "dach": 2
+   "dach": 1
   },
   {
    "quelle": "greenhouse",
@@ -3891,7 +3849,7 @@
    "kuerzel": "portwest",
    "name": "Portwest",
    "stellen": 34,
-   "dach": 2
+   "dach": 1
   },
   {
    "quelle": "greenhouse",
@@ -4087,7 +4045,7 @@
    "kuerzel": "mantisinnovation",
    "name": "Mantis Innovation",
    "stellen": 59,
-   "dach": 2
+   "dach": 1
   },
   {
    "quelle": "lever",
