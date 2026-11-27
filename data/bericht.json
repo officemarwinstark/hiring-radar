@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27 15:37",
+ "stand": "2026-11-27 15:54",
  "firmen": [
   {
    "quelle": "greenhouse",
@@ -19,7 +19,7 @@
    "quelle": "greenhouse",
    "kuerzel": "hellofresh",
    "name": "HelloFresh",
-   "stellen": 356,
+   "stellen": 354,
    "dach": 79
   },
   {
@@ -33,8 +33,8 @@
    "quelle": "greenhouse",
    "kuerzel": "flix",
    "name": "Flix",
-   "stellen": 179,
-   "dach": 62
+   "stellen": 178,
+   "dach": 60
   },
   {
    "quelle": "greenhouse",
@@ -47,8 +47,8 @@
    "quelle": "greenhouse",
    "kuerzel": "databricks",
    "name": "Databricks",
-   "stellen": 883,
-   "dach": 44
+   "stellen": 888,
+   "dach": 45
   },
   {
    "quelle": "greenhouse",
@@ -61,7 +61,7 @@
    "quelle": "greenhouse",
    "kuerzel": "wolt",
    "name": "Wolt - English",
-   "stellen": 184,
+   "stellen": 183,
    "dach": 25
   },
   {
@@ -145,8 +145,8 @@
    "quelle": "greenhouse",
    "kuerzel": "moonfare",
    "name": "Moonfare",
-   "stellen": 17,
-   "dach": 10
+   "stellen": 18,
+   "dach": 11
   },
   {
    "quelle": "greenhouse",
