@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27 15:34",
+ "stand": "2026-11-27 15:37",
  "firmen": [
   {
    "quelle": "greenhouse",
@@ -33,7 +33,7 @@
    "quelle": "greenhouse",
    "kuerzel": "flix",
    "name": "Flix",
-   "stellen": 180,
+   "stellen": 179,
    "dach": 62
   },
   {
@@ -136,17 +136,17 @@
   },
   {
    "quelle": "greenhouse",
-   "kuerzel": "moonfare",
-   "name": "Moonfare",
-   "stellen": 17,
-   "dach": 10
-  },
-  {
-   "quelle": "greenhouse",
    "kuerzel": "stripe",
    "name": "Stripe",
    "stellen": 765,
    "dach": 11
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "moonfare",
+   "name": "Moonfare",
+   "stellen": 17,
+   "dach": 10
   },
   {
    "quelle": "greenhouse",
@@ -283,6 +283,13 @@
   },
   {
    "quelle": "ashby",
+   "kuerzel": "enpal",
+   "name": "Enpal",
+   "stellen": 189,
+   "dach": 150
+  },
+  {
+   "quelle": "ashby",
    "kuerzel": "n8n",
    "name": "n8n",
    "stellen": 76,
@@ -290,10 +297,31 @@
   },
   {
    "quelle": "ashby",
-   "kuerzel": "DeepL",
-   "name": "DeepL",
-   "stellen": 10,
-   "dach": 2
+   "kuerzel": "sereact",
+   "name": "Sereact",
+   "stellen": 48,
+   "dach": 39
+  },
+  {
+   "quelle": "ashby",
+   "kuerzel": "upvest",
+   "name": "Upvest",
+   "stellen": 33,
+   "dach": 27
+  },
+  {
+   "quelle": "ashby",
+   "kuerzel": "reonic",
+   "name": "Reonic",
+   "stellen": 32,
+   "dach": 27
+  },
+  {
+   "quelle": "ashby",
+   "kuerzel": "tacto",
+   "name": "Tacto",
+   "stellen": 28,
+   "dach": 26
   },
   {
    "quelle": "ashby",
@@ -304,37 +332,72 @@
   },
   {
    "quelle": "ashby",
-   "kuerzel": "langfuse",
-   "name": "Langfuse",
-   "stellen": 0,
-   "dach": 0
+   "kuerzel": "moss",
+   "name": "Moss",
+   "stellen": 34,
+   "dach": 25
   },
   {
    "quelle": "ashby",
-   "kuerzel": "blackforestlabs",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
+   "kuerzel": "openai",
+   "name": "OpenAI",
+   "stellen": 875,
+   "dach": 24
   },
   {
    "quelle": "ashby",
-   "kuerzel": "lakera",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
+   "kuerzel": "snowflake",
+   "name": "Snowflake",
+   "stellen": 379,
+   "dach": 19
   },
   {
    "quelle": "ashby",
-   "kuerzel": "lakera.ai",
-   "name": "Lakera",
-   "stellen": 0,
-   "dach": 0
+   "kuerzel": "elevenlabs",
+   "name": "ElevenLabs",
+   "stellen": 108,
+   "dach": 18
+  },
+  {
+   "quelle": "ashby",
+   "kuerzel": "pliant",
+   "name": "Pliant",
+   "stellen": 29,
+   "dach": 17
+  },
+  {
+   "quelle": "ashby",
+   "kuerzel": "peec",
+   "name": "Peec AI",
+   "stellen": 28,
+   "dach": 17
+  },
+  {
+   "quelle": "ashby",
+   "kuerzel": "bunch",
+   "name": "bunch",
+   "stellen": 31,
+   "dach": 17
+  },
+  {
+   "quelle": "ashby",
+   "kuerzel": "qonto",
+   "name": "Qonto",
+   "stellen": 66,
+   "dach": 17
   },
   {
    "quelle": "ashby",
    "kuerzel": "taktile",
    "name": "Taktile",
    "stellen": 39,
+   "dach": 16
+  },
+  {
+   "quelle": "ashby",
+   "kuerzel": "harvey",
+   "name": "Harvey",
+   "stellen": 387,
    "dach": 16
   },
   {
@@ -346,136 +409,10 @@
   },
   {
    "quelle": "ashby",
-   "kuerzel": "pliant",
-   "name": "Pliant",
-   "stellen": 29,
-   "dach": 17
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "finn",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "AlephAlpha",
-   "name": "Aleph Alpha",
-   "stellen": 2,
-   "dach": 2
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "proximafusion",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "sereact",
-   "name": "Sereact",
-   "stellen": 48,
-   "dach": 39
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "quantum-systems",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "neura-robotics",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "deepset",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "qdrant",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "upvest",
-   "name": "Upvest",
-   "stellen": 33,
-   "dach": 27
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "mondu",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "moss",
-   "name": "Moss",
-   "stellen": 34,
-   "dach": 25
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "topi",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "payrails",
-   "name": "Payrails",
-   "stellen": 6,
-   "dach": 3
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "hawk",
-   "name": "Hawk",
-   "stellen": 20,
-   "dach": 9
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "taxdoo",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "kittl",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "peec",
-   "name": "Peec AI",
-   "stellen": 28,
-   "dach": 17
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "superchat",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
+   "kuerzel": "wayve",
+   "name": "Wayve",
+   "stellen": 150,
+   "dach": 12
   },
   {
    "quelle": "ashby",
@@ -486,171 +423,10 @@
   },
   {
    "quelle": "ashby",
-   "kuerzel": "dash0",
-   "name": "Dash0",
-   "stellen": 6,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "tacto",
-   "name": "Tacto",
-   "stellen": 28,
-   "dach": 26
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "kertos",
-   "name": "Kertos",
-   "stellen": 5,
-   "dach": 5
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "flinn",
-   "name": "Flinn",
-   "stellen": 8,
-   "dach": 8
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "cloover",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "reonic",
-   "name": "Reonic",
-   "stellen": 32,
-   "dach": 27
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "ostrom",
-   "name": "Ostrom",
-   "stellen": 3,
-   "dach": 3
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "1komma5grad",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "enpal",
-   "name": "Enpal",
-   "stellen": 189,
-   "dach": 150
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "theexplorationcompany",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "marvelfusion",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "planqc",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "orbem",
-   "name": "Orbem",
-   "stellen": 7,
-   "dach": 7
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "jua",
-   "name": "Jua",
-   "stellen": 6,
-   "dach": 4
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "cradle",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "cognigy",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "personio",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "traderepublic",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "sumup",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "pitch",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "bunch",
-   "name": "bunch",
-   "stellen": 31,
-   "dach": 17
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "avimedical",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "nelly",
-   "name": "Nelly",
-   "stellen": 1,
-   "dach": 1
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "everphone",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
+   "kuerzel": "hawk",
+   "name": "Hawk",
+   "stellen": 20,
+   "dach": 9
   },
   {
    "quelle": "ashby",
@@ -661,139 +437,6 @@
   },
   {
    "quelle": "ashby",
-   "kuerzel": "sennder",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "choco",
-   "name": "Choco",
-   "stellen": 0,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "getquin",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "scalable",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "raisin",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "billie",
-   "name": "Billie",
-   "stellen": 1,
-   "dach": 1
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "vivid",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "tomorrow",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "openai",
-   "name": "OpenAI",
-   "stellen": 875,
-   "dach": 24
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "notion",
-   "name": "Notion",
-   "stellen": 174,
-   "dach": 4
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "linear",
-   "name": "Linear",
-   "stellen": 30,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "ramp",
-   "name": "Ramp",
-   "stellen": 183,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "deel",
-   "name": "Deel",
-   "stellen": 0,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "elevenlabs",
-   "name": "ElevenLabs",
-   "stellen": 108,
-   "dach": 18
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "lovable",
-   "name": "Lovable",
-   "stellen": 78,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "synthesia",
-   "name": "Synthesia",
-   "stellen": 22,
-   "dach": 4
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "supabase",
-   "name": "Supabase",
-   "stellen": 82,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "posthog",
-   "name": "PostHog",
-   "stellen": 9,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "vanta",
-   "name": "Vanta",
-   "stellen": 61,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
    "kuerzel": "cohere",
    "name": "Cohere",
    "stellen": 122,
@@ -801,10 +444,17 @@
   },
   {
    "quelle": "ashby",
-   "kuerzel": "harvey",
-   "name": "Harvey",
-   "stellen": 387,
-   "dach": 16
+   "kuerzel": "flinn",
+   "name": "Flinn",
+   "stellen": 8,
+   "dach": 8
+  },
+  {
+   "quelle": "ashby",
+   "kuerzel": "orbem",
+   "name": "Orbem",
+   "stellen": 7,
+   "dach": 7
   },
   {
    "quelle": "ashby",
@@ -815,66 +465,31 @@
   },
   {
    "quelle": "ashby",
-   "kuerzel": "1password",
-   "name": "1Password",
-   "stellen": 77,
-   "dach": 1
+   "kuerzel": "kertos",
+   "name": "Kertos",
+   "stellen": 5,
+   "dach": 5
   },
   {
    "quelle": "ashby",
-   "kuerzel": "mistral",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
+   "kuerzel": "jua",
+   "name": "Jua",
+   "stellen": 6,
+   "dach": 4
   },
   {
    "quelle": "ashby",
-   "kuerzel": "perplexity",
-   "name": "Perplexity",
-   "stellen": 150,
-   "dach": 0
+   "kuerzel": "notion",
+   "name": "Notion",
+   "stellen": 174,
+   "dach": 4
   },
   {
    "quelle": "ashby",
-   "kuerzel": "cursor",
-   "name": "Cursor",
-   "stellen": 87,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "replit",
-   "name": "Replit",
-   "stellen": 38,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "clay",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "retool",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "zapier",
-   "name": "Zapier",
-   "stellen": 9,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "snowflake",
-   "name": "Snowflake",
-   "stellen": 379,
-   "dach": 19
+   "kuerzel": "synthesia",
+   "name": "Synthesia",
+   "stellen": 22,
+   "dach": 4
   },
   {
    "quelle": "ashby",
@@ -885,45 +500,31 @@
   },
   {
    "quelle": "ashby",
-   "kuerzel": "qonto",
-   "name": "Qonto",
-   "stellen": 66,
-   "dach": 17
+   "kuerzel": "payrails",
+   "name": "Payrails",
+   "stellen": 6,
+   "dach": 3
   },
   {
    "quelle": "ashby",
-   "kuerzel": "alan",
-   "name": "Alan",
-   "stellen": 140,
-   "dach": 0
+   "kuerzel": "ostrom",
+   "name": "Ostrom",
+   "stellen": 3,
+   "dach": 3
   },
   {
    "quelle": "ashby",
-   "kuerzel": "pigment",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
+   "kuerzel": "DeepL",
+   "name": "DeepL",
+   "stellen": 10,
+   "dach": 2
   },
   {
    "quelle": "ashby",
-   "kuerzel": "dust",
-   "name": "Dust",
-   "stellen": 36,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "photoroom",
-   "name": "Photoroom",
-   "stellen": 7,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "poolside",
-   "name": "poolside",
-   "stellen": 4,
-   "dach": 0
+   "kuerzel": "AlephAlpha",
+   "name": "Aleph Alpha",
+   "stellen": 2,
+   "dach": 2
   },
   {
    "quelle": "ashby",
@@ -934,58 +535,30 @@
   },
   {
    "quelle": "ashby",
-   "kuerzel": "modal",
-   "name": "Modal",
-   "stellen": 53,
-   "dach": 0
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "wayve",
-   "name": "Wayve",
-   "stellen": 150,
-   "dach": 12
-  },
-  {
-   "quelle": "ashby",
-   "kuerzel": "isomorphiclabs",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "spotify",
-   "name": "Spotify",
-   "stellen": 97,
+   "kuerzel": "nelly",
+   "name": "Nelly",
+   "stellen": 1,
    "dach": 1
   },
   {
-   "quelle": "lever",
-   "kuerzel": "palantir",
-   "name": "Palantir",
-   "stellen": 305,
-   "dach": 0
+   "quelle": "ashby",
+   "kuerzel": "billie",
+   "name": "Billie",
+   "stellen": 1,
+   "dach": 1
   },
   {
-   "quelle": "lever",
-   "kuerzel": "mistral",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "qonto",
-   "name": "Qonto",
-   "stellen": 0,
-   "dach": 0
+   "quelle": "ashby",
+   "kuerzel": "1password",
+   "name": "1Password",
+   "stellen": 77,
+   "dach": 1
   },
   {
    "quelle": "lever",
    "kuerzel": "veeva",
    "name": "Veeva",
-   "stellen": 866,
+   "stellen": 865,
    "dach": 60
   },
   {
@@ -997,55 +570,6 @@
   },
   {
    "quelle": "lever",
-   "kuerzel": "zenjob",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "medwing",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "heyjobs",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "choco",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "wefox",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "clark",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "omio",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
    "kuerzel": "finn",
    "name": "FINN",
    "stellen": 31,
@@ -1053,472 +577,10 @@
   },
   {
    "quelle": "lever",
-   "kuerzel": "billie",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "kontist",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "sennder",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "tier",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "blinkist",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "pitch",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "ecosia",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "taxfix",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "forto",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "bitpanda",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "tourradar",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "gostudent",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "refurbed",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "adverity",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "storyblok",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "scandit",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "smallpdf",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "frontify",
-   "name": "Frontify",
-   "stellen": 0,
-   "dach": 0
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "beekeeper",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "nexthink",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "yokoy",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "volocopter",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "mobimeo",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "lilium",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "contentsquare",
-   "name": "Contentsquare",
-   "stellen": 26,
-   "dach": 0
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "ledger",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "payfit",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "backmarket",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "pennylane",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "swile",
-   "name": "Swile",
-   "stellen": 23,
-   "dach": 0
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "mollie",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "bird",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "messagebird",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "picnic",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "plaid",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "eventbrite",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "outreach",
-   "name": "Outreach",
-   "stellen": 15,
-   "dach": 0
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "netflix",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "kayak",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "getaround",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "voi",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "einride",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "kry",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "truecaller",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "tide",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "productboard",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "mews",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "kiwicom",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "jobandtalent",
-   "name": "Jobandtalent",
-   "stellen": 31,
-   "dach": 0
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "cabify",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "wallapop",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "factorial",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "travelperk",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "glovo",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "babbel",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "soundcloud",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "mambu",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "getyourguide",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "personio",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "flink",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "gorillas",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "grover",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "auto1",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "zalando",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "deliveryhero",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "doctolib",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "komoot",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
+   "kuerzel": "spotify",
+   "name": "Spotify",
+   "stellen": 97,
+   "dach": 1
   },
   {
    "quelle": "lever",
@@ -1526,125 +588,6 @@
    "name": "ResearchGate",
    "stellen": 1,
    "dach": 1
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "jimdo",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "onefootball",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "idealo",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "hometogo",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "tado",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "thermondo",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "zolar",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "enpal",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "moss",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "candis",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "circula",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "leapsome",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "workmotion",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "userlane",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "usercentrics",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "demodesk",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
-  },
-  {
-   "quelle": "lever",
-   "kuerzel": "getsafe",
-   "stellen": 0,
-   "dach": 0,
-   "fehler": "HTTP Error 404: Not Found"
   }
  ]
 }

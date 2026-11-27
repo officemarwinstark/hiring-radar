@@ -420,23 +420,13 @@
   "link": "https://sumup.com/careers/positions/7945103002?gh_jid=7945103002"
  },
  {
-  "firma": "SumUp",
-  "titel": "Erfahrener Außendienstmitarbeiter (m/w/d)",
-  "ort": "Dortmund, North Rhine-Westphalia, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2025-04-08",
-  "tage_offen": 598,
-  "link": "https://sumup.com/careers/positions/7869240002?gh_jid=7869240002"
- },
- {
   "firma": "Moss",
   "titel": "Customer Success Manager (f/m/d)",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
   "bereich": "Kundenservice",
   "online_seit": "2025-04-07",
-  "tage_offen": 598,
+  "tage_offen": 599,
   "link": "https://jobs.ashbyhq.com/moss/a46b0577-2c58-41ef-a277-643691f9d16f"
  },
  {
@@ -446,8 +436,18 @@
   "land": "Deutschland",
   "bereich": "Sales",
   "online_seit": "2025-04-07",
-  "tage_offen": 598,
+  "tage_offen": 599,
   "link": "https://jobs.ashbyhq.com/moss/c17bdb8a-86b5-41ba-9c23-f8548269614a"
+ },
+ {
+  "firma": "SumUp",
+  "titel": "Erfahrener Außendienstmitarbeiter (m/w/d)",
+  "ort": "Dortmund, North Rhine-Westphalia, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2025-04-08",
+  "tage_offen": 598,
+  "link": "https://sumup.com/careers/positions/7869240002?gh_jid=7869240002"
  },
  {
   "firma": "Trade Republic",
@@ -572,22 +572,22 @@
  {
   "firma": "SumUp",
   "titel": "Field Sales Manager (m/w/d)",
-  "ort": "Cologne, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2025-07-31",
-  "tage_offen": 484,
-  "link": "https://sumup.com/careers/positions/8082105002?gh_jid=8082105002"
- },
- {
-  "firma": "SumUp",
-  "titel": "Field Sales Manager (m/w/d)",
   "ort": "Düsseldorf, North Rhine-Westphalia, Germany",
   "land": "Deutschland",
   "bereich": "Sales",
   "online_seit": "2025-07-31",
   "tage_offen": 484,
   "link": "https://sumup.com/careers/positions/8082062002?gh_jid=8082062002"
+ },
+ {
+  "firma": "SumUp",
+  "titel": "Field Sales Manager (m/w/d)",
+  "ort": "Cologne, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2025-07-31",
+  "tage_offen": 484,
+  "link": "https://sumup.com/careers/positions/8082105002?gh_jid=8082105002"
  },
  {
   "firma": "Flix",
@@ -1390,6 +1390,16 @@
   "link": "https://job-boards.greenhouse.io/solarisbank/jobs/8419465002"
  },
  {
+  "firma": "Tacto",
+  "titel": "Product Growth",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
+  "online_seit": "2026-02-11",
+  "tage_offen": 288,
+  "link": "https://jobs.ashbyhq.com/tacto/29539be2-a6bd-4fb7-b705-d5e800455f23"
+ },
+ {
   "firma": "Moss",
   "titel": "Account Manager (f/m/d)",
   "ort": "Munich, Germany",
@@ -1408,16 +1418,6 @@
   "online_seit": "2026-02-12",
   "tage_offen": 288,
   "link": "https://jobs.ashbyhq.com/moss/4c725910-ddbc-49c7-92e3-052e1478778b"
- },
- {
-  "firma": "Tacto",
-  "titel": "Product Growth",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-02-11",
-  "tage_offen": 288,
-  "link": "https://jobs.ashbyhq.com/tacto/29539be2-a6bd-4fb7-b705-d5e800455f23"
  },
  {
   "firma": "Helsing",
@@ -1900,6 +1900,16 @@
   "link": "https://www.moonfare.com/open-position/?gh_jid=7701620003"
  },
  {
+  "firma": "Grover",
+  "titel": "Account Executive DACH (C1+ German) (m/w/x)",
+  "ort": "Berlin HQ",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-04-16",
+  "tage_offen": 225,
+  "link": "https://job-boards.greenhouse.io/grover/jobs/7703111003"
+ },
+ {
   "firma": "Langdock",
   "titel": "AI Transformation Manager - m/f/d",
   "ort": "Berlin, Germany",
@@ -1958,16 +1968,6 @@
   "online_seit": "2026-04-17",
   "tage_offen": 224,
   "link": "https://www.moonfare.com/open-position/?gh_jid=7704141003"
- },
- {
-  "firma": "Grover",
-  "titel": "Account Executive DACH (C1+ German) (m/w/x)",
-  "ort": "Berlin HQ",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-04-16",
-  "tage_offen": 224,
-  "link": "https://job-boards.greenhouse.io/grover/jobs/7703111003"
  },
  {
   "firma": "Veeva",
@@ -2230,16 +2230,6 @@
   "link": "https://traderepublic.com/en-de/about?jobId=7718242003&gh_jid=7718242003"
  },
  {
-  "firma": "Taktile",
-  "titel": "Sr. Applied AI Engineer",
-  "ort": "Berlin Office, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-04-27",
-  "tage_offen": 213,
-  "link": "https://jobs.ashbyhq.com/taktile/fd4d4145-62df-438d-9667-92b5ecbbfa7d"
- },
- {
   "firma": "Tacto",
   "titel": "(Intern) Builder",
   "ort": "Munich, Germany",
@@ -2248,6 +2238,16 @@
   "online_seit": "2026-04-27",
   "tage_offen": 213,
   "link": "https://jobs.ashbyhq.com/tacto/47883882-c0b9-47cf-acdd-35b2e0a4751b"
+ },
+ {
+  "firma": "Taktile",
+  "titel": "Sr. Applied AI Engineer",
+  "ort": "Berlin Office, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-04-27",
+  "tage_offen": 213,
+  "link": "https://jobs.ashbyhq.com/taktile/fd4d4145-62df-438d-9667-92b5ecbbfa7d"
  },
  {
   "firma": "Docker",
@@ -2580,16 +2580,6 @@
   "link": "https://job-boards.greenhouse.io/anthropic/jobs/5226862008"
  },
  {
-  "firma": "Codesphere",
-  "titel": "(Senior) Product Manager Deployments (m/f/d)",
-  "ort": "Karlsruhe, Germany",
-  "land": "Deutschland",
-  "bereich": "Produkt und Design",
-  "online_seit": "2026-05-22",
-  "tage_offen": 189,
-  "link": "https://jobs.ashbyhq.com/codesphere/08b8cda9-5382-4c2a-83b6-51946637275a"
- },
- {
   "firma": "Snowflake",
   "titel": "Senior Product Manager, Streaming Platform",
   "ort": "DE-Berlin-Trion Building, Germany",
@@ -2598,6 +2588,16 @@
   "online_seit": "2026-05-22",
   "tage_offen": 189,
   "link": "https://jobs.ashbyhq.com/snowflake/e90e34f4-9746-483d-8d53-c3d297e06ff9"
+ },
+ {
+  "firma": "Codesphere",
+  "titel": "(Senior) Product Manager Deployments (m/f/d)",
+  "ort": "Karlsruhe, Germany",
+  "land": "Deutschland",
+  "bereich": "Produkt und Design",
+  "online_seit": "2026-05-22",
+  "tage_offen": 189,
+  "link": "https://jobs.ashbyhq.com/codesphere/08b8cda9-5382-4c2a-83b6-51946637275a"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -2906,7 +2906,7 @@
   "land": "Deutschland",
   "bereich": "Produkt und Design",
   "online_seit": "2026-06-10",
-  "tage_offen": 169,
+  "tage_offen": 170,
   "link": "https://n26.com/en-eu/careers/positions/7996650?gh_jid=7996650"
  },
  {
@@ -2940,16 +2940,6 @@
   "link": "https://jobs.elastic.co/jobs?gh_jid=7995039&gh_jid=7995039"
  },
  {
-  "firma": "Codesphere",
-  "titel": "Senior Account Executive (m/f/d)",
-  "ort": "Karlsruhe, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-06-12",
-  "tage_offen": 168,
-  "link": "https://jobs.ashbyhq.com/codesphere/9e100207-3659-43b4-9cd1-3d44f303e57b"
- },
- {
   "firma": "Tacto",
   "titel": "(Intern) Pre-Sales Builder / AI Automation",
   "ort": "Munich, Germany",
@@ -2958,6 +2948,16 @@
   "online_seit": "2026-06-12",
   "tage_offen": 168,
   "link": "https://jobs.ashbyhq.com/tacto/6b175aec-f934-4e19-9c0a-3bbc6c3b4825"
+ },
+ {
+  "firma": "Codesphere",
+  "titel": "Senior Account Executive (m/f/d)",
+  "ort": "Karlsruhe, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-06-12",
+  "tage_offen": 168,
+  "link": "https://jobs.ashbyhq.com/codesphere/9e100207-3659-43b4-9cd1-3d44f303e57b"
  },
  {
   "firma": "Helsing",
@@ -3100,6 +3100,26 @@
   "link": "https://jobs.lever.co/finn/ea2dec72-8a5d-4cf8-83a1-caa6652a9559"
  },
  {
+  "firma": "Enpal",
+  "titel": "Growth Intern (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
+  "online_seit": "2026-06-24",
+  "tage_offen": 156,
+  "link": "https://jobs.ashbyhq.com/enpal/01d697a0-6c0c-4e2e-8bd1-296c71e4494a"
+ },
+ {
+  "firma": "Reonic",
+  "titel": "Venture Development Intern - New Products (AI x Greentech) (m/f/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-06-24",
+  "tage_offen": 156,
+  "link": "https://jobs.ashbyhq.com/reonic/5b1d3176-9919-4e48-9712-d0a6cb642cc6"
+ },
+ {
   "firma": "Parloa",
   "titel": "Senior Software Engineer",
   "ort": "Berlin, Germany",
@@ -3120,24 +3140,14 @@
   "link": "https://jobs.ashbyhq.com/peec/5bef8322-fdeb-4fe3-bf5f-9973fbbd27d0"
  },
  {
-  "firma": "Reonic",
-  "titel": "Venture Development Intern - New Products (AI x Greentech) (m/f/d)",
-  "ort": "Berlin, Germany",
+  "firma": "HelloFresh",
+  "titel": "Senior Creator Channel Manager (all genders)",
+  "ort": "Berlin, Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-06-24",
-  "tage_offen": 156,
-  "link": "https://jobs.ashbyhq.com/reonic/5b1d3176-9919-4e48-9712-d0a6cb642cc6"
- },
- {
-  "firma": "Enpal",
-  "titel": "Growth Intern (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-06-24",
-  "tage_offen": 156,
-  "link": "https://jobs.ashbyhq.com/enpal/01d697a0-6c0c-4e2e-8bd1-296c71e4494a"
+  "bereich": "Sonstiges",
+  "online_seit": "2026-06-25",
+  "tage_offen": 155,
+  "link": "https://careers.hellofresh.com/global/en/job/8020347?gh_jid=8020347"
  },
  {
   "firma": "HelloFresh",
@@ -3150,14 +3160,14 @@
   "link": "https://careers.hellofresh.com/global/en/job/8020349?gh_jid=8020349"
  },
  {
-  "firma": "HelloFresh",
-  "titel": "Senior Creator Channel Manager (all genders)",
-  "ort": "Berlin, Berlin, Germany",
+  "firma": "Sereact",
+  "titel": "Mechanical Engineer (m/f/d)",
+  "ort": "Stuttgart Schockenriedstr. 17, Germany",
   "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-06-25",
-  "tage_offen": 155,
-  "link": "https://careers.hellofresh.com/global/en/job/8020347?gh_jid=8020347"
+  "bereich": "Technik",
+  "online_seit": "2026-06-26",
+  "tage_offen": 154,
+  "link": "https://jobs.ashbyhq.com/sereact/0a25cbf5-db56-4f5e-81b8-c46b477d247c"
  },
  {
   "firma": "Taktile",
@@ -3168,16 +3178,6 @@
   "online_seit": "2026-06-26",
   "tage_offen": 154,
   "link": "https://jobs.ashbyhq.com/taktile/050f12b4-23ed-400d-bdd1-ddbc8a8d0ac5"
- },
- {
-  "firma": "Sereact",
-  "titel": "Mechanical Engineer (m/f/d)",
-  "ort": "Stuttgart Schockenriedstr. 17, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-06-26",
-  "tage_offen": 154,
-  "link": "https://jobs.ashbyhq.com/sereact/0a25cbf5-db56-4f5e-81b8-c46b477d247c"
  },
  {
   "firma": "Codesphere",
@@ -3202,22 +3202,22 @@
  {
   "firma": "Flix",
   "titel": "Senior SAP functional in-house Consultant (m/f/d)",
-  "ort": "Munich",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-06-29",
-  "tage_offen": 151,
-  "link": "https://flix.careers/job/8611535002?gh_jid=8611535002"
- },
- {
-  "firma": "Flix",
-  "titel": "Senior SAP functional in-house Consultant (m/f/d)",
   "ort": "Berlin",
   "land": "Deutschland",
   "bereich": "Sonstiges",
   "online_seit": "2026-06-29",
   "tage_offen": 151,
   "link": "https://flix.careers/job/8611538002?gh_jid=8611538002"
+ },
+ {
+  "firma": "Flix",
+  "titel": "Senior SAP functional in-house Consultant (m/f/d)",
+  "ort": "Munich",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-06-29",
+  "tage_offen": 151,
+  "link": "https://flix.careers/job/8611535002?gh_jid=8611535002"
  },
  {
   "firma": "Grafana Labs",
@@ -3300,6 +3300,26 @@
   "link": "https://careers.hellofresh.com/global/en/job/8043163?gh_jid=8043163"
  },
  {
+  "firma": "commercetools",
+  "titel": "Principal Engineer, Product Security (m/f/x)",
+  "ort": "München, Bayern, Germany (Hybrid)",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-07-02",
+  "tage_offen": 148,
+  "link": "https://job-boards.greenhouse.io/commercetools/jobs/7791434003"
+ },
+ {
+  "firma": "commercetools",
+  "titel": "Principal Engineer, Product Security (m/f/x)",
+  "ort": "Berlin, Germany (Hybrid)",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-07-02",
+  "tage_offen": 148,
+  "link": "https://job-boards.greenhouse.io/commercetools/jobs/7791432003"
+ },
+ {
   "firma": "Harvey",
   "titel": "Customer Success Manager, Enterprise",
   "ort": "Munich, Germany",
@@ -3318,26 +3338,6 @@
   "online_seit": "2026-07-03",
   "tage_offen": 147,
   "link": "https://careers.trivago.com/apply/8608475002.?gh_jid=8608475002"
- },
- {
-  "firma": "commercetools",
-  "titel": "Principal Engineer, Product Security (m/f/x)",
-  "ort": "München, Bayern, Germany (Hybrid)",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-07-02",
-  "tage_offen": 147,
-  "link": "https://job-boards.greenhouse.io/commercetools/jobs/7791434003"
- },
- {
-  "firma": "commercetools",
-  "titel": "Principal Engineer, Product Security (m/f/x)",
-  "ort": "Berlin, Germany (Hybrid)",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-07-02",
-  "tage_offen": 147,
-  "link": "https://job-boards.greenhouse.io/commercetools/jobs/7791432003"
  },
  {
   "firma": "Codesphere",
@@ -3440,16 +3440,6 @@
   "link": "https://job-boards.greenhouse.io/solarisbank/jobs/8596423002"
  },
  {
-  "firma": "Pliant",
-  "titel": "Platform Infrastructure Engineer EU/UK remote (m/f/d)",
-  "ort": "Remote (European Union), Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-07-08",
-  "tage_offen": 141,
-  "link": "https://jobs.ashbyhq.com/pliant/4e819d1b-9492-4778-b1e3-6a6fefb44d91"
- },
- {
   "firma": "Enpal",
   "titel": "Ausbilder:in für Elektriker:innen (w/m/d)",
   "ort": "Berlin, Germany",
@@ -3468,6 +3458,16 @@
   "online_seit": "2026-07-09",
   "tage_offen": 141,
   "link": "https://jobs.ashbyhq.com/snowflake/a4753822-7581-4cf3-8fcc-856f54d684b0"
+ },
+ {
+  "firma": "Pliant",
+  "titel": "Platform Infrastructure Engineer EU/UK remote (m/f/d)",
+  "ort": "Remote (European Union), Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-07-08",
+  "tage_offen": 141,
+  "link": "https://jobs.ashbyhq.com/pliant/4e819d1b-9492-4778-b1e3-6a6fefb44d91"
  },
  {
   "firma": "Helsing",
@@ -3510,16 +3510,6 @@
   "link": "https://n26.com/en-eu/careers/positions/8034981?gh_jid=8034981"
  },
  {
-  "firma": "Langdock",
-  "titel": "Forward Deployed Infrastructure Engineer - m/f/d",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-07-13",
-  "tage_offen": 137,
-  "link": "https://jobs.ashbyhq.com/langdock/d57ef155-c7a4-489e-b3e6-e30e418fd553"
- },
- {
   "firma": "ElevenLabs",
   "titel": "Account Management Lead - Western Europe",
   "ort": "Germany",
@@ -3528,6 +3518,16 @@
   "online_seit": "2026-07-13",
   "tage_offen": 137,
   "link": "https://jobs.ashbyhq.com/ElevenLabs/0dbfbe3e-7218-4045-ba78-28b0d2e5ab6d"
+ },
+ {
+  "firma": "Langdock",
+  "titel": "Forward Deployed Infrastructure Engineer - m/f/d",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-07-13",
+  "tage_offen": 137,
+  "link": "https://jobs.ashbyhq.com/langdock/d57ef155-c7a4-489e-b3e6-e30e418fd553"
  },
  {
   "firma": "Staffbase",
@@ -3582,22 +3582,22 @@
  {
   "firma": "MongoDB",
   "titel": "Solutions Architect",
-  "ort": "Berlin; Cologne; Frankfurt; Hamburg; Munich; Stuttgart",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-07-15",
-  "tage_offen": 135,
-  "link": "https://www.mongodb.com/careers/job/?gh_jid=8066544"
- },
- {
-  "firma": "MongoDB",
-  "titel": "Solutions Architect",
   "ort": "Germany",
   "land": "Deutschland",
   "bereich": "Technik",
   "online_seit": "2026-07-15",
   "tage_offen": 135,
   "link": "https://www.mongodb.com/careers/job/?gh_jid=8066560"
+ },
+ {
+  "firma": "MongoDB",
+  "titel": "Solutions Architect",
+  "ort": "Berlin; Cologne; Frankfurt; Hamburg; Munich; Stuttgart",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-07-15",
+  "tage_offen": 135,
+  "link": "https://www.mongodb.com/careers/job/?gh_jid=8066544"
  },
  {
   "firma": "Upvest",
@@ -3710,6 +3710,16 @@
   "link": "https://sumup.com/careers/positions/8640268002?gh_jid=8640268002"
  },
  {
+  "firma": "Sereact",
+  "titel": "Internship Teleoperation & Data Labeling",
+  "ort": "Stuttgart Schockenriedstr. 17, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-07-20",
+  "tage_offen": 130,
+  "link": "https://jobs.ashbyhq.com/sereact/6cdac4ee-0bbb-44f5-a846-c0dbe1ce345a"
+ },
+ {
   "firma": "Taktile",
   "titel": "Forward Deployed Engineer",
   "ort": "Berlin Office, Germany",
@@ -3748,16 +3758,6 @@
   "online_seit": "2026-07-20",
   "tage_offen": 130,
   "link": "https://jobs.ashbyhq.com/langdock/f572fdf3-3b46-4f78-876f-9767a6f97538"
- },
- {
-  "firma": "Sereact",
-  "titel": "Internship Teleoperation & Data Labeling",
-  "ort": "Stuttgart Schockenriedstr. 17, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-07-20",
-  "tage_offen": 130,
-  "link": "https://jobs.ashbyhq.com/sereact/6cdac4ee-0bbb-44f5-a846-c0dbe1ce345a"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -3900,16 +3900,6 @@
   "link": "https://helsing.ai/jobs/4938743101?gh_jid=4938743101"
  },
  {
-  "firma": "Hawk",
-  "titel": "BDR",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-07-28",
-  "tage_offen": 122,
-  "link": "https://jobs.ashbyhq.com/hawk/e2c2cb12-0734-4ef1-a030-75a7252179ef"
- },
- {
   "firma": "Enpal",
   "titel": "AC Ausbilder:in (w/m/d) für die Akademie",
   "ort": "Berlin, Germany",
@@ -3918,6 +3908,16 @@
   "online_seit": "2026-07-28",
   "tage_offen": 122,
   "link": "https://jobs.ashbyhq.com/enpal/4d2b140e-a564-45b5-af1e-a758d678620c"
+ },
+ {
+  "firma": "Hawk",
+  "titel": "BDR",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-07-28",
+  "tage_offen": 122,
+  "link": "https://jobs.ashbyhq.com/hawk/e2c2cb12-0734-4ef1-a030-75a7252179ef"
  },
  {
   "firma": "Raisin",
@@ -4270,16 +4270,6 @@
   "link": "https://helsing.ai/jobs/4947377101?gh_jid=4947377101"
  },
  {
-  "firma": "Sereact",
-  "titel": "Teleoperation Trainer (m/f/d)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-08-06",
-  "tage_offen": 113,
-  "link": "https://jobs.ashbyhq.com/sereact/c340239b-e7fd-462d-b323-8fadbf572b39"
- },
- {
   "firma": "Enpal",
   "titel": "Sales Manager (w/m/d) Wärmepumpe",
   "ort": "Berlin, Germany",
@@ -4288,6 +4278,16 @@
   "online_seit": "2026-08-06",
   "tage_offen": 113,
   "link": "https://jobs.ashbyhq.com/enpal/3c14f911-928c-4715-83c5-928534c0fcd9"
+ },
+ {
+  "firma": "Sereact",
+  "titel": "Teleoperation Trainer (m/f/d)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-08-06",
+  "tage_offen": 113,
+  "link": "https://jobs.ashbyhq.com/sereact/c340239b-e7fd-462d-b323-8fadbf572b39"
  },
  {
   "firma": "Notion",
@@ -4360,16 +4360,6 @@
   "link": "https://flix.careers/job/8690650002?gh_jid=8690650002"
  },
  {
-  "firma": "Pliant",
-  "titel": "Engineering Manager - Authentication & Authorisation *remote* (m/f/d)",
-  "ort": "Remote (European Union), Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-08-07",
-  "tage_offen": 112,
-  "link": "https://jobs.ashbyhq.com/pliant/1eb187d1-2e16-455f-ab0a-a9f97d4d19e3"
- },
- {
   "firma": "Enpal",
   "titel": "Teamleiter:in für Photovoltaikanlagen (w/m/d)",
   "ort": "Remote, Germany",
@@ -4378,6 +4368,16 @@
   "online_seit": "2026-08-07",
   "tage_offen": 112,
   "link": "https://jobs.ashbyhq.com/enpal/0f645fb8-de3c-409c-936f-17e49c7be7dc"
+ },
+ {
+  "firma": "Pliant",
+  "titel": "Engineering Manager - Authentication & Authorisation *remote* (m/f/d)",
+  "ort": "Remote (European Union), Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-08-07",
+  "tage_offen": 112,
+  "link": "https://jobs.ashbyhq.com/pliant/1eb187d1-2e16-455f-ab0a-a9f97d4d19e3"
  },
  {
   "firma": "Sonar",
@@ -4420,6 +4420,16 @@
   "link": "https://www.scout24.com/en/career/jobs/8119006?gh_jid=8119006"
  },
  {
+  "firma": "Tacto",
+  "titel": "(Senior) Account Manager",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-08-09",
+  "tage_offen": 109,
+  "link": "https://jobs.ashbyhq.com/tacto/dbb872a5-a598-4cf2-9d4d-e2eb3e2ffd6f"
+ },
+ {
   "firma": "Langdock",
   "titel": "Senior Systems Software Engineer (Linux & HPC) - m/f/d",
   "ort": "Berlin, Germany",
@@ -4438,16 +4448,6 @@
   "online_seit": "2026-08-09",
   "tage_offen": 109,
   "link": "https://jobs.ashbyhq.com/langdock/e92df507-d2cc-4cfa-8a3e-ce59b767771e"
- },
- {
-  "firma": "Tacto",
-  "titel": "(Senior) Account Manager",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-08-09",
-  "tage_offen": 109,
-  "link": "https://jobs.ashbyhq.com/tacto/dbb872a5-a598-4cf2-9d4d-e2eb3e2ffd6f"
  },
  {
   "firma": "Veeva",
@@ -4640,6 +4640,16 @@
   "link": "https://jobs.ashbyhq.com/enpal/0250cce8-3f82-4ab5-bf61-46765581f78c"
  },
  {
+  "firma": "Solaris",
+  "titel": "AFC Advisory Manager",
+  "ort": "Frankfurt",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-08-16",
+  "tage_offen": 103,
+  "link": "https://job-boards.greenhouse.io/solarisbank/jobs/8694475002"
+ },
+ {
   "firma": "Databricks",
   "titel": "Senior Solutions Architect (EDW Enterprise Data Warehouse Migrations)",
   "ort": "Berlin, Germany; Munich, Germany",
@@ -4668,16 +4678,6 @@
   "online_seit": "2026-08-17",
   "tage_offen": 102,
   "link": "https://job-boards.greenhouse.io/anthropic/jobs/5391016008"
- },
- {
-  "firma": "Solaris",
-  "titel": "AFC Advisory Manager",
-  "ort": "Frankfurt",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-08-16",
-  "tage_offen": 102,
-  "link": "https://job-boards.greenhouse.io/solarisbank/jobs/8694475002"
  },
  {
   "firma": "HelloFresh",
@@ -4750,16 +4750,6 @@
   "link": "https://job-boards.greenhouse.io/typeform/jobs/8134637"
  },
  {
-  "firma": "Hawk",
-  "titel": "(Senior) Information Security Officer (German)",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-08-18",
-  "tage_offen": 101,
-  "link": "https://jobs.ashbyhq.com/hawk/f6761564-392a-4047-bd24-838274d8c907"
- },
- {
   "firma": "Tacto",
   "titel": "Sales Manager",
   "ort": "Munich, Germany",
@@ -4768,6 +4758,16 @@
   "online_seit": "2026-08-17",
   "tage_offen": 101,
   "link": "https://jobs.ashbyhq.com/tacto/839557cd-5cfd-4bc8-a62b-7be17f8cd3f3"
+ },
+ {
+  "firma": "Hawk",
+  "titel": "(Senior) Information Security Officer (German)",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-08-18",
+  "tage_offen": 101,
+  "link": "https://jobs.ashbyhq.com/hawk/f6761564-392a-4047-bd24-838274d8c907"
  },
  {
   "firma": "FINN",
@@ -4840,6 +4840,16 @@
   "link": "https://jobs.ashbyhq.com/bunch/3695ced9-70df-4e6f-8d87-2e949f45f2e1"
  },
  {
+  "firma": "FINN",
+  "titel": "(Junior) Strategy & Business Development Manager (m/f/x)",
+  "ort": "Munich",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-08-19",
+  "tage_offen": 100,
+  "link": "https://jobs.lever.co/finn/ab8e8334-4efd-4f86-89d7-dc0f163d05aa"
+ },
+ {
   "firma": "Helsing",
   "titel": "Forward Strategist",
   "ort": "Munich",
@@ -4888,16 +4898,6 @@
   "online_seit": "2026-08-19",
   "tage_offen": 99,
   "link": "https://jobs.ashbyhq.com/openai/5d1a6c05-e18b-43a2-8808-6498929ac253"
- },
- {
-  "firma": "FINN",
-  "titel": "(Junior) Strategy & Business Development Manager (m/f/x)",
-  "ort": "Munich",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-08-19",
-  "tage_offen": 99,
-  "link": "https://jobs.lever.co/finn/ab8e8334-4efd-4f86-89d7-dc0f163d05aa"
  },
  {
   "firma": "Helsing",
@@ -5060,16 +5060,6 @@
   "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4961224101"
  },
  {
-  "firma": "Moss",
-  "titel": "IT Program Manager (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-08-26",
-  "tage_offen": 93,
-  "link": "https://jobs.ashbyhq.com/moss/9a6c3c3f-fbbd-41c8-b107-482a680d7ea9"
- },
- {
   "firma": "Enpal",
   "titel": "Venture Development Intern (w/m/d)",
   "ort": "Berlin, Germany",
@@ -5078,6 +5068,16 @@
   "online_seit": "2026-08-26",
   "tage_offen": 93,
   "link": "https://jobs.ashbyhq.com/enpal/5e53a3ab-c784-41d2-92a1-a103b92147e7"
+ },
+ {
+  "firma": "Moss",
+  "titel": "IT Program Manager (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-08-26",
+  "tage_offen": 93,
+  "link": "https://jobs.ashbyhq.com/moss/9a6c3c3f-fbbd-41c8-b107-482a680d7ea9"
  },
  {
   "firma": "Veeva",
@@ -5452,6 +5452,16 @@
  {
   "firma": "HelloFresh",
   "titel": "Fachkraft für Arbeitssicherheit (all genders)",
+  "ort": "Hannover, Lower Saxony, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-09-03",
+  "tage_offen": 85,
+  "link": "https://careers.hellofresh.com/global/en/job/8176723?gh_jid=8176723"
+ },
+ {
+  "firma": "HelloFresh",
+  "titel": "Fachkraft für Arbeitssicherheit (all genders)",
   "ort": "Frankfurt am Main, Hesse, Germany",
   "land": "Deutschland",
   "bereich": "Sonstiges",
@@ -5468,16 +5478,6 @@
   "online_seit": "2026-09-03",
   "tage_offen": 85,
   "link": "https://careers.hellofresh.com/global/en/job/8176721?gh_jid=8176721"
- },
- {
-  "firma": "HelloFresh",
-  "titel": "Fachkraft für Arbeitssicherheit (all genders)",
-  "ort": "Hannover, Lower Saxony, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-09-03",
-  "tage_offen": 85,
-  "link": "https://careers.hellofresh.com/global/en/job/8176723?gh_jid=8176723"
  },
  {
   "firma": "HelloFresh",
@@ -5520,16 +5520,6 @@
   "link": "https://job-boards.greenhouse.io/adyen/jobs/8158624"
  },
  {
-  "firma": "Peec AI",
-  "titel": "Senior Backend Engineer",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-09-03",
-  "tage_offen": 85,
-  "link": "https://jobs.ashbyhq.com/peec/96f3d53d-7fa5-4e47-8a92-8cb95c925bc3"
- },
- {
   "firma": "Enpal",
   "titel": "Customer Excellence Manager:in (w/m/d)",
   "ort": "Berlin, Germany",
@@ -5548,6 +5538,16 @@
   "online_seit": "2026-09-03",
   "tage_offen": 85,
   "link": "https://jobs.ashbyhq.com/enpal/4e6bce81-f722-4493-9b42-535a29c2d09f"
+ },
+ {
+  "firma": "Peec AI",
+  "titel": "Senior Backend Engineer",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-09-03",
+  "tage_offen": 85,
+  "link": "https://jobs.ashbyhq.com/peec/96f3d53d-7fa5-4e47-8a92-8cb95c925bc3"
  },
  {
   "firma": "Veeva",
@@ -6310,26 +6310,6 @@
   "link": "https://job-boards.greenhouse.io/wolt/jobs/8203915"
  },
  {
-  "firma": "Sereact",
-  "titel": "Technical Support Engineer (m/f/d)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-09-16",
-  "tage_offen": 72,
-  "link": "https://jobs.ashbyhq.com/sereact/9134861b-4bd8-41ea-b28e-dd590bf7562e"
- },
- {
-  "firma": "Upvest",
-  "titel": "Senior Business Development Manager, Financial Institutions - Germany (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-09-16",
-  "tage_offen": 72,
-  "link": "https://jobs.ashbyhq.com/upvest/ea490c48-01c1-487a-bc6a-660a32490a23"
- },
- {
   "firma": "Enpal",
   "titel": "Key Account Manager - B2B (w/m/d)",
   "ort": "Berlin, Germany",
@@ -6358,6 +6338,26 @@
   "online_seit": "2026-09-16",
   "tage_offen": 72,
   "link": "https://jobs.ashbyhq.com/enpal/856e9499-8434-4de0-96e5-a40c0d2716b7"
+ },
+ {
+  "firma": "Sereact",
+  "titel": "Technical Support Engineer (m/f/d)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-09-16",
+  "tage_offen": 72,
+  "link": "https://jobs.ashbyhq.com/sereact/9134861b-4bd8-41ea-b28e-dd590bf7562e"
+ },
+ {
+  "firma": "Upvest",
+  "titel": "Senior Business Development Manager, Financial Institutions - Germany (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-09-16",
+  "tage_offen": 72,
+  "link": "https://jobs.ashbyhq.com/upvest/ea490c48-01c1-487a-bc6a-660a32490a23"
  },
  {
   "firma": "bunch",
@@ -6430,6 +6430,16 @@
   "link": "https://careers.trivago.com/apply/8794953002.?gh_jid=8794953002"
  },
  {
+  "firma": "Enpal",
+  "titel": "Partner Sales Manager (w/m/d)",
+  "ort": "Konstanz, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-09-17",
+  "tage_offen": 71,
+  "link": "https://jobs.ashbyhq.com/enpal/8acdd60b-eb0f-4a15-afbf-4e1788ff7494"
+ },
+ {
   "firma": "Sereact",
   "titel": "Strategic Accounts Manager (m/f/d)",
   "ort": "Stuttgart Schockenriedstr. 17, Germany",
@@ -6460,16 +6470,6 @@
   "link": "https://jobs.ashbyhq.com/upvest/5c86b1fd-d477-4b08-b41b-80a46654ea43"
  },
  {
-  "firma": "Hawk",
-  "titel": "Enterprise Account Director",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-09-17",
-  "tage_offen": 71,
-  "link": "https://jobs.ashbyhq.com/hawk/521daa89-c378-4d3f-8e8a-36b007d41f5c"
- },
- {
   "firma": "Peec AI",
   "titel": "Growth Engineer",
   "ort": "Berlin, Germany",
@@ -6480,14 +6480,14 @@
   "link": "https://jobs.ashbyhq.com/peec/369f8742-e3ca-46b5-b816-dcd5b0d8ab01"
  },
  {
-  "firma": "Enpal",
-  "titel": "Partner Sales Manager (w/m/d)",
-  "ort": "Konstanz, Germany",
+  "firma": "Hawk",
+  "titel": "Enterprise Account Director",
+  "ort": "Munich, Germany",
   "land": "Deutschland",
-  "bereich": "Sales",
+  "bereich": "Sonstiges",
   "online_seit": "2026-09-17",
   "tage_offen": 71,
-  "link": "https://jobs.ashbyhq.com/enpal/8acdd60b-eb0f-4a15-afbf-4e1788ff7494"
+  "link": "https://jobs.ashbyhq.com/hawk/521daa89-c378-4d3f-8e8a-36b007d41f5c"
  },
  {
   "firma": "Orbem",
@@ -6650,16 +6650,6 @@
   "link": "https://jobs.ashbyhq.com/sereact/6232c37f-f89a-43bb-ab78-614587eb2e39"
  },
  {
-  "firma": "Codesphere",
-  "titel": "Technical Bid Manager (m/f/d)",
-  "ort": "Karlsruhe, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-09-21",
-  "tage_offen": 67,
-  "link": "https://jobs.ashbyhq.com/codesphere/d3ae9e13-8c04-4cd8-ab9c-384cb752e2af"
- },
- {
   "firma": "Harvey",
   "titel": "Account Executive, Mid Market - Berlin",
   "ort": "Munich, Germany",
@@ -6668,6 +6658,16 @@
   "online_seit": "2026-09-21",
   "tage_offen": 67,
   "link": "https://jobs.ashbyhq.com/harvey/5960a059-9da8-4dc2-a599-2c7c0949b2b4"
+ },
+ {
+  "firma": "Codesphere",
+  "titel": "Technical Bid Manager (m/f/d)",
+  "ort": "Karlsruhe, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-09-21",
+  "tage_offen": 67,
+  "link": "https://jobs.ashbyhq.com/codesphere/d3ae9e13-8c04-4cd8-ab9c-384cb752e2af"
  },
  {
   "firma": "Celonis",
@@ -6710,16 +6710,6 @@
   "link": "https://job-boards.greenhouse.io/contentful/jobs/8221365"
  },
  {
-  "firma": "Flinn",
-  "titel": "Enterprise Account Executive (w/m/d)",
-  "ort": "Vienna, Austria",
-  "land": "Österreich",
-  "bereich": "Sales",
-  "online_seit": "2026-09-22",
-  "tage_offen": 66,
-  "link": "https://jobs.ashbyhq.com/flinn/3ae4f7b3-1bcb-499a-9ac0-168a43cd73f7"
- },
- {
   "firma": "Reonic",
   "titel": "First Hire GTM - New Products (AI x Greentech) (m/f/d)",
   "ort": "Berlin, Germany",
@@ -6748,6 +6738,16 @@
   "online_seit": "2026-09-22",
   "tage_offen": 66,
   "link": "https://jobs.ashbyhq.com/harvey/799df8d8-2d4c-459a-884b-61a7c9824ad8"
+ },
+ {
+  "firma": "Flinn",
+  "titel": "Enterprise Account Executive (w/m/d)",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "bereich": "Sales",
+  "online_seit": "2026-09-22",
+  "tage_offen": 66,
+  "link": "https://jobs.ashbyhq.com/flinn/3ae4f7b3-1bcb-499a-9ac0-168a43cd73f7"
  },
  {
   "firma": "FINN",
@@ -6830,6 +6830,16 @@
   "link": "https://jobs.ashbyhq.com/n8n/dbc78a40-2efd-43ca-bb33-fb7cb0583cb8"
  },
  {
+  "firma": "OpenAI",
+  "titel": "Applied AI Engineer, Codex",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-09-23",
+  "tage_offen": 65,
+  "link": "https://jobs.ashbyhq.com/openai/6a7cedbd-0a7c-4f3e-8389-55357ad444b3"
+ },
+ {
   "firma": "Peec AI",
   "titel": "Sales Development Manager",
   "ort": "Berlin, Germany",
@@ -6860,14 +6870,14 @@
   "link": "https://jobs.ashbyhq.com/bunch/52ac4d7a-9ad4-4968-b582-ac5ca09e6c8a"
  },
  {
-  "firma": "OpenAI",
-  "titel": "Applied AI Engineer, Codex",
-  "ort": "Munich, Germany",
+  "firma": "Veeva",
+  "titel": "Account Partner - Commercial",
+  "ort": "Germany - Berlin",
   "land": "Deutschland",
-  "bereich": "Daten",
+  "bereich": "Sonstiges",
   "online_seit": "2026-09-23",
   "tage_offen": 65,
-  "link": "https://jobs.ashbyhq.com/openai/6a7cedbd-0a7c-4f3e-8389-55357ad444b3"
+  "link": "https://jobs.lever.co/veeva/1555d2e8-bd56-4c44-b2b0-5b9914267a78"
  },
  {
   "firma": "HelloFresh",
@@ -6930,16 +6940,6 @@
   "link": "https://job-boards.greenhouse.io/wooga/jobs/8213462"
  },
  {
-  "firma": "Sereact",
-  "titel": "Elektroniker (m/w/d)",
-  "ort": "Stuttgart Schockenriedstr. 17, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-09-24",
-  "tage_offen": 64,
-  "link": "https://jobs.ashbyhq.com/sereact/dec65d38-2a7f-4a49-bdc4-02741e3590f6"
- },
- {
   "firma": "Enpal",
   "titel": "Kundenbetreuer:in (w/m/d)",
   "ort": "DE Remote, Germany",
@@ -6950,14 +6950,14 @@
   "link": "https://jobs.ashbyhq.com/enpal/d53d9f32-ba52-4bcd-8bb1-65501dcaf41d"
  },
  {
-  "firma": "Veeva",
-  "titel": "Account Partner - Commercial",
-  "ort": "Germany - Berlin",
+  "firma": "Sereact",
+  "titel": "Elektroniker (m/w/d)",
+  "ort": "Stuttgart Schockenriedstr. 17, Germany",
   "land": "Deutschland",
   "bereich": "Sonstiges",
-  "online_seit": "2026-09-23",
+  "online_seit": "2026-09-24",
   "tage_offen": 64,
-  "link": "https://jobs.lever.co/veeva/1555d2e8-bd56-4c44-b2b0-5b9914267a78"
+  "link": "https://jobs.ashbyhq.com/sereact/dec65d38-2a7f-4a49-bdc4-02741e3590f6"
  },
  {
   "firma": "Helsing",
@@ -7060,16 +7060,6 @@
   "link": "https://sumup.com/careers/positions/8852097002?gh_jid=8852097002"
  },
  {
-  "firma": "n8n",
-  "titel": "Senior Partner Marketing Manager - GSIs",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-09-28",
-  "tage_offen": 60,
-  "link": "https://jobs.ashbyhq.com/n8n/d350543e-b663-4d36-8dc9-72cd02957818"
- },
- {
   "firma": "Enpal",
   "titel": "Werkstudent:in Customer Success Manager:in (w/m/d)",
   "ort": "Berlin, Germany",
@@ -7078,6 +7068,16 @@
   "online_seit": "2026-09-28",
   "tage_offen": 60,
   "link": "https://jobs.ashbyhq.com/enpal/b8f180ba-4429-49e6-866d-59e4379dfda4"
+ },
+ {
+  "firma": "n8n",
+  "titel": "Senior Partner Marketing Manager - GSIs",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
+  "online_seit": "2026-09-28",
+  "tage_offen": 60,
+  "link": "https://jobs.ashbyhq.com/n8n/d350543e-b663-4d36-8dc9-72cd02957818"
  },
  {
   "firma": "Celonis",
@@ -7120,16 +7120,6 @@
   "link": "https://job-boards.greenhouse.io/wolt/jobs/8419486"
  },
  {
-  "firma": "Langdock",
-  "titel": "AI Associate - m/f/d",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-09-28",
-  "tage_offen": 59,
-  "link": "https://jobs.ashbyhq.com/langdock/944946c0-b6a3-4506-a4b7-3ce8c8778ea3"
- },
- {
   "firma": "Sereact",
   "titel": "Mechaniker / Mechatroniker (m/w/d) – Robotersysteme",
   "ort": "Stuttgart Schockenriedstr. 17, Germany",
@@ -7140,16 +7130,6 @@
   "link": "https://jobs.ashbyhq.com/sereact/24f2048a-4342-49d1-97ec-dcfe7ce9f92e"
  },
  {
-  "firma": "Kertos",
-  "titel": "Account Executive - German Speaking (all genders)",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-09-29",
-  "tage_offen": 59,
-  "link": "https://jobs.ashbyhq.com/kertos/0b4bade6-19f9-4708-b6c8-2126f98a842f"
- },
- {
   "firma": "Snowflake",
   "titel": "Software Engineer Intern - Berlin (2027)",
   "ort": "DE-Berlin-Trion Building, Germany",
@@ -7158,6 +7138,26 @@
   "online_seit": "2026-09-29",
   "tage_offen": 59,
   "link": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8"
+ },
+ {
+  "firma": "Langdock",
+  "titel": "AI Associate - m/f/d",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-09-28",
+  "tage_offen": 59,
+  "link": "https://jobs.ashbyhq.com/langdock/944946c0-b6a3-4506-a4b7-3ce8c8778ea3"
+ },
+ {
+  "firma": "Kertos",
+  "titel": "Account Executive - German Speaking (all genders)",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-09-29",
+  "tage_offen": 59,
+  "link": "https://jobs.ashbyhq.com/kertos/0b4bade6-19f9-4708-b6c8-2126f98a842f"
  },
  {
   "firma": "Veeva",
@@ -7310,36 +7310,6 @@
   "link": "https://n26.com/en-eu/careers/positions/8239610?gh_jid=8239610"
  },
  {
-  "firma": "Parloa",
-  "titel": "Staff Product Engineer",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-09-30",
-  "tage_offen": 58,
-  "link": "https://jobs.ashbyhq.com/parloa/8adc761e-ee2f-46c7-8bd7-10813d1e3b82"
- },
- {
-  "firma": "Pliant",
-  "titel": "Payment Program Manager – Card Issuing (m/f/d)",
-  "ort": "Germany (Remote)",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-09-30",
-  "tage_offen": 58,
-  "link": "https://jobs.ashbyhq.com/pliant/f1e62eb1-ae47-4151-8b38-9197b6447609"
- },
- {
-  "firma": "Reonic",
-  "titel": "Founders Associate Finance - (AI x Greentech) (m/f/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-09-30",
-  "tage_offen": 58,
-  "link": "https://jobs.ashbyhq.com/reonic/a9ba4e8a-2018-4463-9c90-960c62e0762d"
- },
- {
   "firma": "Enpal",
   "titel": "Inhouse Consulting Internship (w/m/d)",
   "ort": "Berlin, Germany",
@@ -7378,6 +7348,36 @@
   "online_seit": "2026-09-30",
   "tage_offen": 58,
   "link": "https://jobs.ashbyhq.com/enpal/b75bf6b5-f1af-4a3c-9ead-33e9ab819b85"
+ },
+ {
+  "firma": "Reonic",
+  "titel": "Founders Associate Finance - (AI x Greentech) (m/f/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-09-30",
+  "tage_offen": 58,
+  "link": "https://jobs.ashbyhq.com/reonic/a9ba4e8a-2018-4463-9c90-960c62e0762d"
+ },
+ {
+  "firma": "Parloa",
+  "titel": "Staff Product Engineer",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-09-30",
+  "tage_offen": 58,
+  "link": "https://jobs.ashbyhq.com/parloa/8adc761e-ee2f-46c7-8bd7-10813d1e3b82"
+ },
+ {
+  "firma": "Pliant",
+  "titel": "Payment Program Manager – Card Issuing (m/f/d)",
+  "ort": "Germany (Remote)",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-09-30",
+  "tage_offen": 58,
+  "link": "https://jobs.ashbyhq.com/pliant/f1e62eb1-ae47-4151-8b38-9197b6447609"
  },
  {
   "firma": "1Password",
@@ -7570,6 +7570,16 @@
   "link": "https://www.pinterestcareers.com/jobs/?gh_jid=8214745"
  },
  {
+  "firma": "Reonic",
+  "titel": "Product Manager - UX/UI Focus (AI x Greentech) (m/f/d)",
+  "ort": "Augsburg, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-10-02",
+  "tage_offen": 56,
+  "link": "https://jobs.ashbyhq.com/reonic/a514cc3f-d038-4876-8b57-e3e6c670748a"
+ },
+ {
   "firma": "Moss",
   "titel": "Business Development Representative (f/m/d)",
   "ort": "Berlin, Germany",
@@ -7598,16 +7608,6 @@
   "online_seit": "2026-10-01",
   "tage_offen": 56,
   "link": "https://jobs.ashbyhq.com/moss/07d4f666-2c09-4807-8bfd-d1ad0a75cdb7"
- },
- {
-  "firma": "Reonic",
-  "titel": "Product Manager - UX/UI Focus (AI x Greentech) (m/f/d)",
-  "ort": "Augsburg, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-10-02",
-  "tage_offen": 56,
-  "link": "https://jobs.ashbyhq.com/reonic/a514cc3f-d038-4876-8b57-e3e6c670748a"
  },
  {
   "firma": "Wayve",
@@ -7790,26 +7790,6 @@
   "link": "https://job-boards.greenhouse.io/staffbase/jobs/8869896002"
  },
  {
-  "firma": "Hawk",
-  "titel": "Chief Information Security Officer (CISO)",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-06",
-  "tage_offen": 52,
-  "link": "https://jobs.ashbyhq.com/hawk/39f59175-818d-41aa-b0d9-f9f6e0d639f0"
- },
- {
-  "firma": "Peec AI",
-  "titel": "AI Search Strategist",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-10-05",
-  "tage_offen": 52,
-  "link": "https://jobs.ashbyhq.com/peec/b8453610-548e-4e8d-9245-f65f1117f4cc"
- },
- {
   "firma": "OpenAI",
   "titel": "Forward Deployed Engineer - Munich",
   "ort": "Munich, Germany",
@@ -7870,14 +7850,14 @@
   "link": "https://jobs.ashbyhq.com/ElevenLabs/bd230a18-2ff4-493c-8555-8476bf7de0e4"
  },
  {
-  "firma": "Cohere",
-  "titel": "Senior Account Executive, Germany PUBSEC (Berlin, Germany)",
+  "firma": "Peec AI",
+  "titel": "AI Search Strategist",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Sales",
+  "bereich": "Daten",
   "online_seit": "2026-10-05",
   "tage_offen": 52,
-  "link": "https://jobs.ashbyhq.com/cohere/e588a0ac-6a84-42fd-808f-6474fd8ff6f0"
+  "link": "https://jobs.ashbyhq.com/peec/b8453610-548e-4e8d-9245-f65f1117f4cc"
  },
  {
   "firma": "Wayve",
@@ -7908,6 +7888,26 @@
   "online_seit": "2026-10-06",
   "tage_offen": 52,
   "link": "https://jobs.ashbyhq.com/wayve/c1e7830a-35a5-4ce4-b7e8-f8ab85540890"
+ },
+ {
+  "firma": "Hawk",
+  "titel": "Chief Information Security Officer (CISO)",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-10-06",
+  "tage_offen": 52,
+  "link": "https://jobs.ashbyhq.com/hawk/39f59175-818d-41aa-b0d9-f9f6e0d639f0"
+ },
+ {
+  "firma": "Cohere",
+  "titel": "Senior Account Executive, Germany PUBSEC (Berlin, Germany)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-10-05",
+  "tage_offen": 52,
+  "link": "https://jobs.ashbyhq.com/cohere/e588a0ac-6a84-42fd-808f-6474fd8ff6f0"
  },
  {
   "firma": "Helsing",
@@ -7992,22 +7992,22 @@
  {
   "firma": "SumUp",
   "titel": "Erfahrener Außendienstmitarbeiter (m/w/d)",
-  "ort": "Vienna, Vienna, Austria",
-  "land": "Österreich",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-07",
-  "tage_offen": 51,
-  "link": "https://sumup.com/careers/positions/8874567002?gh_jid=8874567002"
- },
- {
-  "firma": "SumUp",
-  "titel": "Erfahrener Außendienstmitarbeiter (m/w/d)",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
   "bereich": "Sonstiges",
   "online_seit": "2026-10-07",
   "tage_offen": 51,
   "link": "https://sumup.com/careers/positions/8874444002?gh_jid=8874444002"
+ },
+ {
+  "firma": "SumUp",
+  "titel": "Erfahrener Außendienstmitarbeiter (m/w/d)",
+  "ort": "Vienna, Vienna, Austria",
+  "land": "Österreich",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-10-07",
+  "tage_offen": 51,
+  "link": "https://sumup.com/careers/positions/8874567002?gh_jid=8874567002"
  },
  {
   "firma": "Solaris",
@@ -8050,14 +8050,14 @@
   "link": "https://job-boards.greenhouse.io/grover/jobs/8015491003"
  },
  {
-  "firma": "Taktile",
-  "titel": "Software Engineer Intern",
-  "ort": "Berlin Office, Germany",
+  "firma": "Enpal",
+  "titel": "Business Development Manager (m/w/d)",
+  "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Technik",
+  "bereich": "Sales",
   "online_seit": "2026-10-07",
   "tage_offen": 51,
-  "link": "https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1"
+  "link": "https://jobs.ashbyhq.com/enpal/5d259ab3-92e5-4db7-afa8-7eb4162676f0"
  },
  {
   "firma": "Moss",
@@ -8070,24 +8070,14 @@
   "link": "https://jobs.ashbyhq.com/moss/caf97bc0-63bf-469a-a35c-00a229f9e745"
  },
  {
-  "firma": "Enpal",
-  "titel": "Business Development Manager (m/w/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
+  "firma": "Snowflake",
+  "titel": "Senior Software Engineer, Engineering Productivity",
+  "ort": "CH-Zurich-Observe, Switzerland",
+  "land": "Schweiz",
+  "bereich": "Technik",
   "online_seit": "2026-10-07",
   "tage_offen": 51,
-  "link": "https://jobs.ashbyhq.com/enpal/5d259ab3-92e5-4db7-afa8-7eb4162676f0"
- },
- {
-  "firma": "bunch",
-  "titel": "Senior Manager CEO Office - M&A",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-07",
-  "tage_offen": 51,
-  "link": "https://jobs.ashbyhq.com/bunch/f2193187-93f5-4534-99c7-b42e85d3f109"
+  "link": "https://jobs.ashbyhq.com/snowflake/1a751b80-26d5-4305-81ff-04ed9136f195"
  },
  {
   "firma": "ElevenLabs",
@@ -8100,14 +8090,24 @@
   "link": "https://jobs.ashbyhq.com/ElevenLabs/35813150-a851-4821-b732-a037b4e6c4fe"
  },
  {
-  "firma": "Snowflake",
-  "titel": "Senior Software Engineer, Engineering Productivity",
-  "ort": "CH-Zurich-Observe, Switzerland",
-  "land": "Schweiz",
+  "firma": "bunch",
+  "titel": "Senior Manager CEO Office - M&A",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-10-07",
+  "tage_offen": 51,
+  "link": "https://jobs.ashbyhq.com/bunch/f2193187-93f5-4534-99c7-b42e85d3f109"
+ },
+ {
+  "firma": "Taktile",
+  "titel": "Software Engineer Intern",
+  "ort": "Berlin Office, Germany",
+  "land": "Deutschland",
   "bereich": "Technik",
   "online_seit": "2026-10-07",
   "tage_offen": 51,
-  "link": "https://jobs.ashbyhq.com/snowflake/1a751b80-26d5-4305-81ff-04ed9136f195"
+  "link": "https://jobs.ashbyhq.com/taktile/bce11078-1da2-4826-a70e-7eccfd702dd1"
  },
  {
   "firma": "Sonar",
@@ -8250,16 +8250,6 @@
   "link": "https://jobs.ashbyhq.com/enpal/ff122601-f78f-4d4f-a66e-a2a5e9b9cd91"
  },
  {
-  "firma": "Forto",
-  "titel": "Sales Development Representative (f/m/d) - North",
-  "ort": "Hamburg, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-10-08",
-  "tage_offen": 50,
-  "link": "https://jobs.ashbyhq.com/forto/aba9aa66-3899-4f1f-aa4c-e9c0c9188e2b"
- },
- {
   "firma": "ElevenLabs",
   "titel": "Full-Stack Engineer (Backend Leaning)",
   "ort": "Germany",
@@ -8268,6 +8258,16 @@
   "online_seit": "2026-10-07",
   "tage_offen": 50,
   "link": "https://jobs.ashbyhq.com/ElevenLabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f"
+ },
+ {
+  "firma": "Forto",
+  "titel": "Sales Development Representative (f/m/d) - North",
+  "ort": "Hamburg, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-10-08",
+  "tage_offen": 50,
+  "link": "https://jobs.ashbyhq.com/forto/aba9aa66-3899-4f1f-aa4c-e9c0c9188e2b"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -8350,26 +8350,6 @@
   "link": "https://job-boards.greenhouse.io/gitlab/jobs/8860273002"
  },
  {
-  "firma": "n8n",
-  "titel": "Technical Account Manager (Remote Europe)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-10-09",
-  "tage_offen": 49,
-  "link": "https://jobs.ashbyhq.com/n8n/062fa075-dbda-4bbf-b264-ac339d5ab9de"
- },
- {
-  "firma": "Hawk",
-  "titel": "Implementation Specialist",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-09",
-  "tage_offen": 49,
-  "link": "https://jobs.ashbyhq.com/hawk/1ae2caf9-9015-4f32-9785-4c173a9ab25f"
- },
- {
   "firma": "Enpal",
   "titel": "Business Development Analyst (w/m/d)",
   "ort": "Berlin, Germany",
@@ -8400,6 +8380,16 @@
   "link": "https://jobs.ashbyhq.com/enpal/b524848e-3f38-463c-8c99-2335b12975f5"
  },
  {
+  "firma": "n8n",
+  "titel": "Technical Account Manager (Remote Europe)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-10-09",
+  "tage_offen": 49,
+  "link": "https://jobs.ashbyhq.com/n8n/062fa075-dbda-4bbf-b264-ac339d5ab9de"
+ },
+ {
   "firma": "bunch",
   "titel": "Customer Success Internship (f/m/d)",
   "ort": "Hamburg, Germany",
@@ -8408,6 +8398,16 @@
   "online_seit": "2026-10-09",
   "tage_offen": 49,
   "link": "https://jobs.ashbyhq.com/bunch/1aa588aa-e05a-42e0-91e7-5da8f4fa2d87"
+ },
+ {
+  "firma": "Qonto",
+  "titel": "Customer Success Manager 🇩🇪 (m/w/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Kundenservice",
+  "online_seit": "2026-10-09",
+  "tage_offen": 49,
+  "link": "https://jobs.ashbyhq.com/qonto/c2f12037-6f98-4156-8323-5c9734385061"
  },
  {
   "firma": "Harvey",
@@ -8420,14 +8420,14 @@
   "link": "https://jobs.ashbyhq.com/harvey/1b3f54bd-0681-4fe2-be79-830e7c001544"
  },
  {
-  "firma": "Qonto",
-  "titel": "Customer Success Manager 🇩🇪 (m/w/d)",
-  "ort": "Berlin, Germany",
+  "firma": "Hawk",
+  "titel": "Implementation Specialist",
+  "ort": "Munich, Germany",
   "land": "Deutschland",
-  "bereich": "Kundenservice",
+  "bereich": "Sonstiges",
   "online_seit": "2026-10-09",
   "tage_offen": 49,
-  "link": "https://jobs.ashbyhq.com/qonto/c2f12037-6f98-4156-8323-5c9734385061"
+  "link": "https://jobs.ashbyhq.com/hawk/1ae2caf9-9015-4f32-9785-4c173a9ab25f"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -8510,16 +8510,6 @@
   "link": "https://jobs.ashbyhq.com/parloa/e868715d-9486-4231-b2ce-d9f4d8c66afb"
  },
  {
-  "firma": "Ostrom",
-  "titel": "C&I Sales Lead (Commercial & Industrial Energy)",
-  "ort": "Berlin / Remote, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-10-12",
-  "tage_offen": 46,
-  "link": "https://jobs.ashbyhq.com/Ostrom/65e57b36-b584-4bfd-b7d3-5932df60992d"
- },
- {
   "firma": "ElevenLabs",
   "titel": "Research Engineer",
   "ort": "Germany",
@@ -8528,6 +8518,26 @@
   "online_seit": "2026-10-11",
   "tage_offen": 46,
   "link": "https://jobs.ashbyhq.com/ElevenLabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5"
+ },
+ {
+  "firma": "Cohere",
+  "titel": "Product & Technology Communications Manager",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
+  "online_seit": "2026-10-12",
+  "tage_offen": 46,
+  "link": "https://jobs.ashbyhq.com/cohere/1c011283-34f3-4461-bb65-455d65a3ec84"
+ },
+ {
+  "firma": "Ostrom",
+  "titel": "C&I Sales Lead (Commercial & Industrial Energy)",
+  "ort": "Berlin / Remote, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-10-12",
+  "tage_offen": 46,
+  "link": "https://jobs.ashbyhq.com/Ostrom/65e57b36-b584-4bfd-b7d3-5932df60992d"
  },
  {
   "firma": "HelloFresh",
@@ -8650,46 +8660,6 @@
   "link": "https://jobs.ashbyhq.com/sereact/f585585b-9161-4586-95a6-0b72f052d944"
  },
  {
-  "firma": "Flinn",
-  "titel": "Customer Solutions Manager (w/m/d)",
-  "ort": "Vienna, Austria",
-  "land": "Österreich",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-13",
-  "tage_offen": 45,
-  "link": "https://jobs.ashbyhq.com/flinn/c9512e6d-2ec2-47f7-a680-fa751f18c02f"
- },
- {
-  "firma": "Billie",
-  "titel": "Working Student Sales (m/f/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-10-13",
-  "tage_offen": 45,
-  "link": "https://jobs.ashbyhq.com/billie/02abea78-d78f-4a3f-b1d2-ce38f8714cb8"
- },
- {
-  "firma": "Cohere",
-  "titel": "Product & Technology Communications Manager",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-10-12",
-  "tage_offen": 45,
-  "link": "https://jobs.ashbyhq.com/cohere/1c011283-34f3-4461-bb65-455d65a3ec84"
- },
- {
-  "firma": "Harvey",
-  "titel": "Legal Engineer Manager, Product Specialist, Munich",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-13",
-  "tage_offen": 45,
-  "link": "https://jobs.ashbyhq.com/harvey/20716838-7013-42d7-b1d1-df8929dac347"
- },
- {
   "firma": "Snowflake",
   "titel": "Software Engineer, Enterprise Team",
   "ort": "CH-Zurich-Observe, Switzerland",
@@ -8708,6 +8678,36 @@
   "online_seit": "2026-10-13",
   "tage_offen": 45,
   "link": "https://jobs.ashbyhq.com/qonto/42594b68-6e91-49d2-a0e4-cedfb1b5f72c"
+ },
+ {
+  "firma": "Harvey",
+  "titel": "Legal Engineer Manager, Product Specialist, Munich",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-10-13",
+  "tage_offen": 45,
+  "link": "https://jobs.ashbyhq.com/harvey/20716838-7013-42d7-b1d1-df8929dac347"
+ },
+ {
+  "firma": "Flinn",
+  "titel": "Customer Solutions Manager (w/m/d)",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-10-13",
+  "tage_offen": 45,
+  "link": "https://jobs.ashbyhq.com/flinn/c9512e6d-2ec2-47f7-a680-fa751f18c02f"
+ },
+ {
+  "firma": "Billie",
+  "titel": "Working Student Sales (m/f/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-10-13",
+  "tage_offen": 45,
+  "link": "https://jobs.ashbyhq.com/billie/02abea78-d78f-4a3f-b1d2-ce38f8714cb8"
  },
  {
   "firma": "FINN",
@@ -8730,24 +8730,14 @@
   "link": "https://job-boards.greenhouse.io/grafanalabs/jobs/6222842004"
  },
  {
-  "firma": "Taktile",
-  "titel": "Software Engineer Internship for HPI Students",
-  "ort": "Berlin Office, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-14",
-  "tage_offen": 44,
-  "link": "https://jobs.ashbyhq.com/taktile/e8f17427-9dbf-49ae-9401-bcd0f3e13f4a"
- },
- {
-  "firma": "Aleph Alpha",
-  "titel": "Senior AI Researcher: LLM post-training for hallucination reduction (f/m/d)",
-  "ort": "Heidelberg, Germany",
+  "firma": "OpenAI",
+  "titel": "Applied AI Engineer, Digital Natives",
+  "ort": "Munich, Germany",
   "land": "Deutschland",
   "bereich": "Daten",
-  "online_seit": "2026-10-14",
+  "online_seit": "2026-10-13",
   "tage_offen": 44,
-  "link": "https://jobs.ashbyhq.com/AlephAlpha/fce0b58f-e95a-45bc-9ca5-b47b1c3cbabd"
+  "link": "https://jobs.ashbyhq.com/openai/d039c0ef-ab36-4d40-bc5e-5c70295b2eb7"
  },
  {
   "firma": "Peec AI",
@@ -8760,6 +8750,16 @@
   "link": "https://jobs.ashbyhq.com/peec/63323a09-4923-4f44-90c7-af9289621981"
  },
  {
+  "firma": "Taktile",
+  "titel": "Software Engineer Internship for HPI Students",
+  "ort": "Berlin Office, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-10-14",
+  "tage_offen": 44,
+  "link": "https://jobs.ashbyhq.com/taktile/e8f17427-9dbf-49ae-9401-bcd0f3e13f4a"
+ },
+ {
   "firma": "Orbem",
   "titel": "Head of Product Compliance (f/m/d)",
   "ort": "Munich, Germany",
@@ -8770,14 +8770,14 @@
   "link": "https://jobs.ashbyhq.com/orbem/8e7eeefc-3f50-44b7-a798-1c6add0c9588"
  },
  {
-  "firma": "OpenAI",
-  "titel": "Applied AI Engineer, Digital Natives",
-  "ort": "Munich, Germany",
+  "firma": "Aleph Alpha",
+  "titel": "Senior AI Researcher: LLM post-training for hallucination reduction (f/m/d)",
+  "ort": "Heidelberg, Germany",
   "land": "Deutschland",
   "bereich": "Daten",
-  "online_seit": "2026-10-13",
+  "online_seit": "2026-10-14",
   "tage_offen": 44,
-  "link": "https://jobs.ashbyhq.com/openai/d039c0ef-ab36-4d40-bc5e-5c70295b2eb7"
+  "link": "https://jobs.ashbyhq.com/AlephAlpha/fce0b58f-e95a-45bc-9ca5-b47b1c3cbabd"
  },
  {
   "firma": "Veeva",
@@ -8850,36 +8850,6 @@
   "link": "https://job-boards.eu.greenhouse.io/raisin/jobs/5006757101"
  },
  {
-  "firma": "Parloa",
-  "titel": "Principal Software Engineer - Real-Time Voice",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-14",
-  "tage_offen": 43,
-  "link": "https://jobs.ashbyhq.com/parloa/56ea8611-dc45-4780-a89d-421b7b91f87a"
- },
- {
-  "firma": "Aleph Alpha",
-  "titel": "Senior AI R&D Engineer - Performance - Pre-training (f/m/d)",
-  "ort": "Heidelberg, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-10-15",
-  "tage_offen": 43,
-  "link": "https://jobs.ashbyhq.com/AlephAlpha/2faca6ec-69bd-4e04-b055-05f24ddf0f4d"
- },
- {
-  "firma": "Hawk",
-  "titel": "Frontend Engineer - Agentic AI",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-10-14",
-  "tage_offen": 43,
-  "link": "https://jobs.ashbyhq.com/hawk/30efed4f-6fc7-496a-bac5-a82989c6485a"
- },
- {
   "firma": "Enpal",
   "titel": "Mobiler Ausbilder für Wärmepumpen (w/m/d)",
   "ort": "Berlin, Germany",
@@ -8898,6 +8868,36 @@
   "online_seit": "2026-10-15",
   "tage_offen": 43,
   "link": "https://jobs.ashbyhq.com/enpal/fc113f71-fa57-424d-9173-e9c157c26f60"
+ },
+ {
+  "firma": "Parloa",
+  "titel": "Principal Software Engineer - Real-Time Voice",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-10-14",
+  "tage_offen": 43,
+  "link": "https://jobs.ashbyhq.com/parloa/56ea8611-dc45-4780-a89d-421b7b91f87a"
+ },
+ {
+  "firma": "Hawk",
+  "titel": "Frontend Engineer - Agentic AI",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-10-14",
+  "tage_offen": 43,
+  "link": "https://jobs.ashbyhq.com/hawk/30efed4f-6fc7-496a-bac5-a82989c6485a"
+ },
+ {
+  "firma": "Aleph Alpha",
+  "titel": "Senior AI R&D Engineer - Performance - Pre-training (f/m/d)",
+  "ort": "Heidelberg, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-10-15",
+  "tage_offen": 43,
+  "link": "https://jobs.ashbyhq.com/AlephAlpha/2faca6ec-69bd-4e04-b055-05f24ddf0f4d"
  },
  {
   "firma": "Veeva",
@@ -8938,6 +8938,16 @@
   "online_seit": "2026-10-16",
   "tage_offen": 42,
   "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005466101"
+ },
+ {
+  "firma": "Isar Aerospace SE",
+  "titel": "Transport Security Specialist (f/m/d)",
+  "ort": "Parsdorf, Bavaria, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-10-16",
+  "tage_offen": 42,
+  "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005403101"
  },
  {
   "firma": "HelloFresh",
@@ -9030,46 +9040,6 @@
   "link": "https://job-boards.greenhouse.io/grover/jobs/8034382003"
  },
  {
-  "firma": "Langdock",
-  "titel": "Forward Deployed Engineer - m/f/d",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-16",
-  "tage_offen": 42,
-  "link": "https://jobs.ashbyhq.com/langdock/e27922a1-5484-410e-ada9-1d4f744b4ad6"
- },
- {
-  "firma": "Peec AI",
-  "titel": "Product Marketing Manager",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-10-15",
-  "tage_offen": 42,
-  "link": "https://jobs.ashbyhq.com/peec/ba101700-e2d6-4f4e-98c3-48f7104bd66b"
- },
- {
-  "firma": "Peec AI",
-  "titel": "GTM Enablement Specialist",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-15",
-  "tage_offen": 42,
-  "link": "https://jobs.ashbyhq.com/peec/d8287c3f-4b13-4d0c-84e0-67801857fc54"
- },
- {
-  "firma": "Flinn",
-  "titel": "(Senior) Legal Counsel (w/m/d)",
-  "ort": "Vienna, Austria",
-  "land": "Österreich",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-10-16",
-  "tage_offen": 42,
-  "link": "https://jobs.ashbyhq.com/flinn/adbcfeaa-8d35-4e7e-a0ca-7f17b68e666b"
- },
- {
   "firma": "Enpal",
   "titel": "Kundenbetreuer (w/m/d)",
   "ort": "Berlin, Germany",
@@ -9100,6 +9070,36 @@
   "link": "https://jobs.ashbyhq.com/enpal/3c17b1a2-bb97-4a3a-886e-02481c092f79"
  },
  {
+  "firma": "Peec AI",
+  "titel": "Product Marketing Manager",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
+  "online_seit": "2026-10-15",
+  "tage_offen": 42,
+  "link": "https://jobs.ashbyhq.com/peec/ba101700-e2d6-4f4e-98c3-48f7104bd66b"
+ },
+ {
+  "firma": "Peec AI",
+  "titel": "GTM Enablement Specialist",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-10-15",
+  "tage_offen": 42,
+  "link": "https://jobs.ashbyhq.com/peec/d8287c3f-4b13-4d0c-84e0-67801857fc54"
+ },
+ {
+  "firma": "Langdock",
+  "titel": "Forward Deployed Engineer - m/f/d",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-10-16",
+  "tage_offen": 42,
+  "link": "https://jobs.ashbyhq.com/langdock/e27922a1-5484-410e-ada9-1d4f744b4ad6"
+ },
+ {
   "firma": "Cohere",
   "titel": "Partner Development Manager - Berlin",
   "ort": "Berlin, Germany",
@@ -9110,6 +9110,16 @@
   "link": "https://jobs.ashbyhq.com/cohere/f74933db-e97f-41c9-97ab-daa57880a12b"
  },
  {
+  "firma": "Flinn",
+  "titel": "(Senior) Legal Counsel (w/m/d)",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-10-16",
+  "tage_offen": 42,
+  "link": "https://jobs.ashbyhq.com/flinn/adbcfeaa-8d35-4e7e-a0ca-7f17b68e666b"
+ },
+ {
   "firma": "Isar Aerospace SE",
   "titel": "Security Systems Specialist (f/m/d)",
   "ort": "Parsdorf, Bavaria, Germany",
@@ -9118,16 +9128,6 @@
   "online_seit": "2026-10-16",
   "tage_offen": 41,
   "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005435101"
- },
- {
-  "firma": "Isar Aerospace SE",
-  "titel": "Transport Security Specialist (f/m/d)",
-  "ort": "Parsdorf, Bavaria, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-16",
-  "tage_offen": 41,
-  "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5005403101"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -9360,24 +9360,24 @@
   "link": "https://job-boards.greenhouse.io/grafanalabs/jobs/6228511004"
  },
  {
-  "firma": "DeepL",
-  "titel": "Machine Learning Engineering Manager",
-  "ort": "Munich, Germany",
+  "firma": "Enpal",
+  "titel": "(Junior) Litigation Manager:in (w/m/d)",
+  "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Daten",
+  "bereich": "Sonstiges",
   "online_seit": "2026-10-20",
   "tage_offen": 38,
-  "link": "https://jobs.ashbyhq.com/DeepL/22c4e48d-09ed-446d-bf74-4a546db31e8c"
+  "link": "https://jobs.ashbyhq.com/enpal/d3eecfa2-e0c5-4637-a65d-60c18a7ff27e"
  },
  {
-  "firma": "Taktile",
-  "titel": "Senior Product Manager - Platform",
-  "ort": "Berlin Office, Germany",
+  "firma": "Enpal",
+  "titel": "(Junior) Project Operation Manager:in (w/m/d)",
+  "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-19",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-10-20",
   "tage_offen": 38,
-  "link": "https://jobs.ashbyhq.com/taktile/071b2936-1222-47e5-b050-400209ebd406"
+  "link": "https://jobs.ashbyhq.com/enpal/c6066019-4b71-4a75-9ccc-e0fb35ea42da"
  },
  {
   "firma": "Sereact",
@@ -9400,34 +9400,14 @@
   "link": "https://jobs.ashbyhq.com/peec/81c2cef1-6d8a-4fc6-aa32-e7be5803dd8e"
  },
  {
-  "firma": "Kertos",
-  "titel": "Unsolicited Application",
-  "ort": "Munich, Germany",
+  "firma": "Taktile",
+  "titel": "Senior Product Manager - Platform",
+  "ort": "Berlin Office, Germany",
   "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-20",
+  "bereich": "Technik",
+  "online_seit": "2026-10-19",
   "tage_offen": 38,
-  "link": "https://jobs.ashbyhq.com/kertos/c44cb66e-7756-4bb9-b434-1f0855876b0c"
- },
- {
-  "firma": "Enpal",
-  "titel": "(Junior) Litigation Manager:in (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-20",
-  "tage_offen": 38,
-  "link": "https://jobs.ashbyhq.com/enpal/d3eecfa2-e0c5-4637-a65d-60c18a7ff27e"
- },
- {
-  "firma": "Enpal",
-  "titel": "(Junior) Project Operation Manager:in (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-20",
-  "tage_offen": 38,
-  "link": "https://jobs.ashbyhq.com/enpal/c6066019-4b71-4a75-9ccc-e0fb35ea42da"
+  "link": "https://jobs.ashbyhq.com/taktile/071b2936-1222-47e5-b050-400209ebd406"
  },
  {
   "firma": "Cohere",
@@ -9438,6 +9418,26 @@
   "online_seit": "2026-10-20",
   "tage_offen": 38,
   "link": "https://jobs.ashbyhq.com/cohere/b04cf265-c4f7-48bf-88ec-d4d71f3bdfaa"
+ },
+ {
+  "firma": "Kertos",
+  "titel": "Unsolicited Application",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-10-20",
+  "tage_offen": 38,
+  "link": "https://jobs.ashbyhq.com/kertos/c44cb66e-7756-4bb9-b434-1f0855876b0c"
+ },
+ {
+  "firma": "DeepL",
+  "titel": "Machine Learning Engineering Manager",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-10-20",
+  "tage_offen": 38,
+  "link": "https://jobs.ashbyhq.com/DeepL/22c4e48d-09ed-446d-bf74-4a546db31e8c"
  },
  {
   "firma": "FINN",
@@ -9512,22 +9512,22 @@
  {
   "firma": "Celonis",
   "titel": "Account Executive - Public Sector Germany - Police (Polizei)",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-10-21",
-  "tage_offen": 37,
-  "link": "https://job-boards.greenhouse.io/celonis/jobs/8040049003?gh_jid=8040049003"
- },
- {
-  "firma": "Celonis",
-  "titel": "Account Executive - Public Sector Germany - Police (Polizei)",
   "ort": "Remote, Germany",
   "land": "Deutschland",
   "bereich": "Sales",
   "online_seit": "2026-10-21",
   "tage_offen": 37,
   "link": "https://job-boards.greenhouse.io/celonis/jobs/8015242003?gh_jid=8015242003"
+ },
+ {
+  "firma": "Celonis",
+  "titel": "Account Executive - Public Sector Germany - Police (Polizei)",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-10-21",
+  "tage_offen": 37,
+  "link": "https://job-boards.greenhouse.io/celonis/jobs/8040049003?gh_jid=8040049003"
  },
  {
   "firma": "Celonis",
@@ -9640,16 +9640,6 @@
   "link": "https://jobs.ashbyhq.com/n8n/2ac306a9-1d24-4b19-8261-32902b7dd423"
  },
  {
-  "firma": "Pliant",
-  "titel": "Partner Success Manager (m/f/d)",
-  "ort": "Berlin, Germany (Hybrid)",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-21",
-  "tage_offen": 37,
-  "link": "https://jobs.ashbyhq.com/pliant/72fd60b1-b748-4e20-9f03-1829308efcf7"
- },
- {
   "firma": "Sereact",
   "titel": "Director Technical Support & Field Service (m/f/d)",
   "ort": "Stuttgart Schockenriedstr. 17, Germany",
@@ -9670,14 +9660,14 @@
   "link": "https://jobs.ashbyhq.com/reonic/1c89673e-a0e0-4aed-831b-cdfe82afc39d"
  },
  {
-  "firma": "Jua",
-  "titel": "Chief of Staff",
-  "ort": "In office - Zürich, Switzerland",
-  "land": "Schweiz",
+  "firma": "Pliant",
+  "titel": "Partner Success Manager (m/f/d)",
+  "ort": "Berlin, Germany (Hybrid)",
+  "land": "Deutschland",
   "bereich": "Sonstiges",
   "online_seit": "2026-10-21",
   "tage_offen": 37,
-  "link": "https://jobs.ashbyhq.com/jua/5ef857cc-aa4e-45e0-a423-988c3add3b86"
+  "link": "https://jobs.ashbyhq.com/pliant/72fd60b1-b748-4e20-9f03-1829308efcf7"
  },
  {
   "firma": "Qonto",
@@ -9708,6 +9698,16 @@
   "online_seit": "2026-10-21",
   "tage_offen": 37,
   "link": "https://jobs.ashbyhq.com/qonto/58d4fb08-b9c6-43fb-9a0c-f12dfc04fdfa"
+ },
+ {
+  "firma": "Jua",
+  "titel": "Chief of Staff",
+  "ort": "In office - Zürich, Switzerland",
+  "land": "Schweiz",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-10-21",
+  "tage_offen": 37,
+  "link": "https://jobs.ashbyhq.com/jua/5ef857cc-aa4e-45e0-a423-988c3add3b86"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -9778,46 +9778,6 @@
   "online_seit": "2026-10-22",
   "tage_offen": 36,
   "link": "https://stripe.com/jobs/search?gh_jid=8299651"
- },
- {
-  "firma": "n8n",
-  "titel": "Senior Product Manager (Enterprise)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Produkt und Design",
-  "online_seit": "2026-10-22",
-  "tage_offen": 36,
-  "link": "https://jobs.ashbyhq.com/n8n/bcf96878-d41a-479d-b506-7753356077c4"
- },
- {
-  "firma": "n8n",
-  "titel": "Senior Product Manager - Core Platform (Engine, Scale & Reliability)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-22",
-  "tage_offen": 36,
-  "link": "https://jobs.ashbyhq.com/n8n/d418f8fb-b2f2-405e-8f22-db73dcf4e8b4"
- },
- {
-  "firma": "n8n",
-  "titel": "Senior Product Manager (Licensing & Billing)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Produkt und Design",
-  "online_seit": "2026-10-22",
-  "tage_offen": 36,
-  "link": "https://jobs.ashbyhq.com/n8n/163162f1-9873-45b4-932e-aff27beea78a"
- },
- {
-  "firma": "Sereact",
-  "titel": "Partner Manager (m/f/d)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-10-21",
-  "tage_offen": 36,
-  "link": "https://jobs.ashbyhq.com/sereact/2f81e531-942b-4ca1-be5e-b5f31ce50b41"
  },
  {
   "firma": "Enpal",
@@ -9900,14 +9860,44 @@
   "link": "https://jobs.ashbyhq.com/enpal/a6fa38e8-dc5f-4509-a57a-9b18144303ca"
  },
  {
-  "firma": "bunch",
-  "titel": "Senior Product Manager | Reporting (f/m/d)",
-  "ort": "Berlin, Germany",
+  "firma": "n8n",
+  "titel": "Senior Product Manager (Enterprise)",
+  "ort": "Germany",
   "land": "Deutschland",
   "bereich": "Produkt und Design",
+  "online_seit": "2026-10-22",
+  "tage_offen": 36,
+  "link": "https://jobs.ashbyhq.com/n8n/bcf96878-d41a-479d-b506-7753356077c4"
+ },
+ {
+  "firma": "n8n",
+  "titel": "Senior Product Manager - Core Platform (Engine, Scale & Reliability)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-10-22",
+  "tage_offen": 36,
+  "link": "https://jobs.ashbyhq.com/n8n/d418f8fb-b2f2-405e-8f22-db73dcf4e8b4"
+ },
+ {
+  "firma": "n8n",
+  "titel": "Senior Product Manager (Licensing & Billing)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Produkt und Design",
+  "online_seit": "2026-10-22",
+  "tage_offen": 36,
+  "link": "https://jobs.ashbyhq.com/n8n/163162f1-9873-45b4-932e-aff27beea78a"
+ },
+ {
+  "firma": "Sereact",
+  "titel": "Partner Manager (m/f/d)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
   "online_seit": "2026-10-21",
   "tage_offen": 36,
-  "link": "https://jobs.ashbyhq.com/bunch/f9202b01-37dd-4d4c-9263-6b66a3e93f56"
+  "link": "https://jobs.ashbyhq.com/sereact/2f81e531-942b-4ca1-be5e-b5f31ce50b41"
  },
  {
   "firma": "Snowflake",
@@ -9920,14 +9910,14 @@
   "link": "https://jobs.ashbyhq.com/snowflake/0f2d263b-37c1-4e5c-92b7-007818fbc0d5"
  },
  {
-  "firma": "Spotify",
-  "titel": "Artist & Label Partnerships Manager - GSA (15-month fixed-term)",
-  "ort": "Berlin",
+  "firma": "bunch",
+  "titel": "Senior Product Manager | Reporting (f/m/d)",
+  "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Sales",
+  "bereich": "Produkt und Design",
   "online_seit": "2026-10-21",
   "tage_offen": 36,
-  "link": "https://jobs.lever.co/spotify/93b9a474-0e4e-4214-9c9a-974496478068"
+  "link": "https://jobs.ashbyhq.com/bunch/f9202b01-37dd-4d4c-9263-6b66a3e93f56"
  },
  {
   "firma": "Veeva",
@@ -9938,6 +9928,16 @@
   "online_seit": "2026-10-22",
   "tage_offen": 36,
   "link": "https://jobs.lever.co/veeva/54a2639b-d62f-4c03-ba39-7b5ca811e59e"
+ },
+ {
+  "firma": "Spotify",
+  "titel": "Artist & Label Partnerships Manager - GSA (15-month fixed-term)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-10-21",
+  "tage_offen": 36,
+  "link": "https://jobs.lever.co/spotify/93b9a474-0e4e-4214-9c9a-974496478068"
  },
  {
   "firma": "Helsing",
@@ -10070,36 +10070,6 @@
   "link": "https://stripe.com/jobs/search?gh_jid=8299649"
  },
  {
-  "firma": "Sereact",
-  "titel": "Chief Science Officer (m/f/d)",
-  "ort": "Stuttgart Schockenriedstr. 17, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-22",
-  "tage_offen": 35,
-  "link": "https://jobs.ashbyhq.com/sereact/1c0d95eb-62a4-4b65-8047-b4ff36d0c13e"
- },
- {
-  "firma": "Moss",
-  "titel": "Talent Acquisition Partner - GTM (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Personal",
-  "online_seit": "2026-10-23",
-  "tage_offen": 35,
-  "link": "https://jobs.ashbyhq.com/moss/970fce34-4483-4f76-a8f1-145a9efb9584"
- },
- {
-  "firma": "Moss",
-  "titel": "(Senior) FP&A Manager (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-22",
-  "tage_offen": 35,
-  "link": "https://jobs.ashbyhq.com/moss/e247e582-d3c4-4cce-af0b-200c9276a062"
- },
- {
   "firma": "Enpal",
   "titel": "Accounting & Reporting Manager (f/m/x)",
   "ort": "Berlin, Germany",
@@ -10130,14 +10100,34 @@
   "link": "https://jobs.ashbyhq.com/enpal/8559f379-de35-4388-8bfc-c52653ddd93b"
  },
  {
-  "firma": "Pleo",
-  "titel": "Account Manager II (German Speaking)",
-  "ort": "Berlin",
+  "firma": "Sereact",
+  "titel": "Chief Science Officer (m/f/d)",
+  "ort": "Stuttgart Schockenriedstr. 17, Germany",
   "land": "Deutschland",
-  "bereich": "Sales",
+  "bereich": "Sonstiges",
   "online_seit": "2026-10-22",
   "tage_offen": 35,
-  "link": "https://jobs.ashbyhq.com/pleo/3501c4b5-c2d0-43cf-ad22-99a4c46d75ae"
+  "link": "https://jobs.ashbyhq.com/sereact/1c0d95eb-62a4-4b65-8047-b4ff36d0c13e"
+ },
+ {
+  "firma": "Moss",
+  "titel": "Talent Acquisition Partner - GTM (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Personal",
+  "online_seit": "2026-10-23",
+  "tage_offen": 35,
+  "link": "https://jobs.ashbyhq.com/moss/970fce34-4483-4f76-a8f1-145a9efb9584"
+ },
+ {
+  "firma": "Moss",
+  "titel": "(Senior) FP&A Manager (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-10-22",
+  "tage_offen": 35,
+  "link": "https://jobs.ashbyhq.com/moss/e247e582-d3c4-4cce-af0b-200c9276a062"
  },
  {
   "firma": "Wayve",
@@ -10158,6 +10148,16 @@
   "online_seit": "2026-10-22",
   "tage_offen": 35,
   "link": "https://jobs.ashbyhq.com/wayve/ef26c83f-4dc4-44ae-af5a-1de79f76744f"
+ },
+ {
+  "firma": "Pleo",
+  "titel": "Account Manager II (German Speaking)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-10-22",
+  "tage_offen": 35,
+  "link": "https://jobs.ashbyhq.com/pleo/3501c4b5-c2d0-43cf-ad22-99a4c46d75ae"
  },
  {
   "firma": "Sonar",
@@ -10300,16 +10300,6 @@
   "link": "https://jobs.ashbyhq.com/openai/c8eda1e9-10f9-4fc8-b88a-042ea6751d5b"
  },
  {
-  "firma": "ElevenLabs",
-  "titel": "Android Engineer - Creative App",
-  "ort": "Switzerland",
-  "land": "Schweiz",
-  "bereich": "Technik",
-  "online_seit": "2026-10-26",
-  "tage_offen": 32,
-  "link": "https://jobs.ashbyhq.com/ElevenLabs/b380fb97-bb18-46a5-91db-5132e6693e93"
- },
- {
   "firma": "Snowflake",
   "titel": "Software Engineering Manager, Data Processing",
   "ort": "CH-Zurich-Observe, Switzerland",
@@ -10318,6 +10308,16 @@
   "online_seit": "2026-10-26",
   "tage_offen": 32,
   "link": "https://jobs.ashbyhq.com/snowflake/499b0652-047b-48a9-a056-2083b8d53bab"
+ },
+ {
+  "firma": "ElevenLabs",
+  "titel": "Android Engineer - Creative App",
+  "ort": "Switzerland",
+  "land": "Schweiz",
+  "bereich": "Technik",
+  "online_seit": "2026-10-26",
+  "tage_offen": 32,
+  "link": "https://jobs.ashbyhq.com/ElevenLabs/b380fb97-bb18-46a5-91db-5132e6693e93"
  },
  {
   "firma": "Sonar",
@@ -10450,24 +10450,14 @@
   "link": "https://jobs.ashbyhq.com/moss/a4cd2807-aabc-4dfb-9256-0b3736582efe"
  },
  {
-  "firma": "Codesphere",
-  "titel": "Working Student CEO Office (m/f/d)",
-  "ort": "Karlsruhe, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-27",
-  "tage_offen": 31,
-  "link": "https://jobs.ashbyhq.com/codesphere/5ec12349-27ed-420e-97e4-e792743e2d9e"
- },
- {
-  "firma": "Orbem",
-  "titel": "Expert Site Reliability Engineer - Edge Infrastructure (f/m/d)",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
+  "firma": "Snowflake",
+  "titel": "Senior Software Engineer, Enterprise Team",
+  "ort": "CH-Zurich-Observe, Switzerland",
+  "land": "Schweiz",
   "bereich": "Technik",
-  "online_seit": "2026-10-27",
+  "online_seit": "2026-10-26",
   "tage_offen": 31,
-  "link": "https://jobs.ashbyhq.com/orbem/4c2e5878-0145-4c6e-a500-284f15a00fa4"
+  "link": "https://jobs.ashbyhq.com/snowflake/b29ce51b-a6b7-43af-81ce-3fe882913cc4"
  },
  {
   "firma": "bunch",
@@ -10490,6 +10480,16 @@
   "link": "https://jobs.ashbyhq.com/bunch/b92394d0-3505-45bf-999b-e97f2be6e2a9"
  },
  {
+  "firma": "Codesphere",
+  "titel": "Working Student CEO Office (m/f/d)",
+  "ort": "Karlsruhe, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-10-27",
+  "tage_offen": 31,
+  "link": "https://jobs.ashbyhq.com/codesphere/5ec12349-27ed-420e-97e4-e792743e2d9e"
+ },
+ {
   "firma": "Forto",
   "titel": "Team Lead Group Reporting & General Ledger (f/m/d)",
   "ort": "Berlin, Germany",
@@ -10500,14 +10500,14 @@
   "link": "https://jobs.ashbyhq.com/forto/5d01ec39-43a3-4fc9-8653-575f184acaba"
  },
  {
-  "firma": "Snowflake",
-  "titel": "Senior Software Engineer, Enterprise Team",
-  "ort": "CH-Zurich-Observe, Switzerland",
-  "land": "Schweiz",
+  "firma": "Orbem",
+  "titel": "Expert Site Reliability Engineer - Edge Infrastructure (f/m/d)",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
   "bereich": "Technik",
-  "online_seit": "2026-10-26",
+  "online_seit": "2026-10-27",
   "tage_offen": 31,
-  "link": "https://jobs.ashbyhq.com/snowflake/b29ce51b-a6b7-43af-81ce-3fe882913cc4"
+  "link": "https://jobs.ashbyhq.com/orbem/4c2e5878-0145-4c6e-a500-284f15a00fa4"
  },
  {
   "firma": "Veeva",
@@ -10640,6 +10640,26 @@
   "link": "https://job-boards.greenhouse.io/typeform/jobs/8330526"
  },
  {
+  "firma": "Enpal",
+  "titel": "Junior Partner Operations Specialist (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Betrieb und Logistik",
+  "online_seit": "2026-10-28",
+  "tage_offen": 30,
+  "link": "https://jobs.ashbyhq.com/enpal/0101cb99-239c-4714-967d-900c246bbdd9"
+ },
+ {
+  "firma": "Enpal",
+  "titel": "Junior Operations Specialist (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Betrieb und Logistik",
+  "online_seit": "2026-10-28",
+  "tage_offen": 30,
+  "link": "https://jobs.ashbyhq.com/enpal/376045d8-d08c-400a-a3ed-c942035eeda5"
+ },
+ {
   "firma": "n8n",
   "titel": "Senior Partner Marketing Manager - Agency",
   "ort": "Germany",
@@ -10648,26 +10668,6 @@
   "online_seit": "2026-10-28",
   "tage_offen": 30,
   "link": "https://jobs.ashbyhq.com/n8n/343e9c53-f22c-496b-a26e-46f9f6bb418d"
- },
- {
-  "firma": "Taktile",
-  "titel": "Senior Backend Engineer - Developer Experience & Productivity",
-  "ort": "Berlin Office, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-28",
-  "tage_offen": 30,
-  "link": "https://jobs.ashbyhq.com/taktile/09144540-136d-4e29-8c98-ff001be560f1"
- },
- {
-  "firma": "Pliant",
-  "titel": "Website Product Manager (m/f/d)",
-  "ort": "Berlin, Germany (Hybrid)",
-  "land": "Deutschland",
-  "bereich": "Produkt und Design",
-  "online_seit": "2026-10-28",
-  "tage_offen": 30,
-  "link": "https://jobs.ashbyhq.com/pliant/c1bd7960-0471-4a47-9dc8-18200a445490"
  },
  {
   "firma": "Sereact",
@@ -10690,24 +10690,24 @@
   "link": "https://jobs.ashbyhq.com/moss/285befa2-ad9e-4106-801a-593b73ef0cce"
  },
  {
-  "firma": "Enpal",
-  "titel": "Junior Partner Operations Specialist (w/m/d)",
-  "ort": "Berlin, Germany",
+  "firma": "Pliant",
+  "titel": "Website Product Manager (m/f/d)",
+  "ort": "Berlin, Germany (Hybrid)",
   "land": "Deutschland",
-  "bereich": "Betrieb und Logistik",
+  "bereich": "Produkt und Design",
   "online_seit": "2026-10-28",
   "tage_offen": 30,
-  "link": "https://jobs.ashbyhq.com/enpal/0101cb99-239c-4714-967d-900c246bbdd9"
+  "link": "https://jobs.ashbyhq.com/pliant/c1bd7960-0471-4a47-9dc8-18200a445490"
  },
  {
-  "firma": "Enpal",
-  "titel": "Junior Operations Specialist (w/m/d)",
-  "ort": "Berlin, Germany",
+  "firma": "Taktile",
+  "titel": "Senior Backend Engineer - Developer Experience & Productivity",
+  "ort": "Berlin Office, Germany",
   "land": "Deutschland",
-  "bereich": "Betrieb und Logistik",
+  "bereich": "Technik",
   "online_seit": "2026-10-28",
   "tage_offen": 30,
-  "link": "https://jobs.ashbyhq.com/enpal/376045d8-d08c-400a-a3ed-c942035eeda5"
+  "link": "https://jobs.ashbyhq.com/taktile/09144540-136d-4e29-8c98-ff001be560f1"
  },
  {
   "firma": "Docker",
@@ -10760,14 +10760,14 @@
   "link": "https://job-boards.eu.greenhouse.io/raisin/jobs/5017767101"
  },
  {
-  "firma": "Pliant",
-  "titel": "Credit Risk Manager - LMM (m/f/d)",
-  "ort": "Berlin, Germany (Hybrid)",
+  "firma": "Enpal",
+  "titel": "Go-to-Market Manager:in – Commercial Energy Solutions (w/m/d)",
+  "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
+  "bereich": "Sonstiges",
   "online_seit": "2026-10-29",
   "tage_offen": 29,
-  "link": "https://jobs.ashbyhq.com/pliant/b8e242b8-2466-44d1-ae19-f20cf964b246"
+  "link": "https://jobs.ashbyhq.com/enpal/17d79dfa-552e-4e0b-9843-184c540073e0"
  },
  {
   "firma": "Upvest",
@@ -10810,16 +10810,6 @@
   "link": "https://jobs.ashbyhq.com/upvest/5e759b8e-9fca-46c5-b394-fd3ceed229f1"
  },
  {
-  "firma": "Hawk",
-  "titel": "Solution Architect (German Speaking)",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-28",
-  "tage_offen": 29,
-  "link": "https://jobs.ashbyhq.com/hawk/11a4b2c1-1ae6-4d52-a66c-a0a4b7d5ddac"
- },
- {
   "firma": "Reonic",
   "titel": "AI Product Manager Intern - (AI x Greentech) (m/f/d)",
   "ort": "Augsburg, Germany",
@@ -10830,16 +10820,6 @@
   "link": "https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c"
  },
  {
-  "firma": "Enpal",
-  "titel": "Go-to-Market Manager:in – Commercial Energy Solutions (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-10-29",
-  "tage_offen": 29,
-  "link": "https://jobs.ashbyhq.com/enpal/17d79dfa-552e-4e0b-9843-184c540073e0"
- },
- {
   "firma": "ElevenLabs",
   "titel": "Full-Stack Engineer - ElevenCreative Enterprise",
   "ort": "Switzerland",
@@ -10848,6 +10828,26 @@
   "online_seit": "2026-10-29",
   "tage_offen": 29,
   "link": "https://jobs.ashbyhq.com/ElevenLabs/34dbe44c-9815-40b2-81f4-91c607fd84b2"
+ },
+ {
+  "firma": "Pliant",
+  "titel": "Credit Risk Manager - LMM (m/f/d)",
+  "ort": "Berlin, Germany (Hybrid)",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-10-29",
+  "tage_offen": 29,
+  "link": "https://jobs.ashbyhq.com/pliant/b8e242b8-2466-44d1-ae19-f20cf964b246"
+ },
+ {
+  "firma": "Hawk",
+  "titel": "Solution Architect (German Speaking)",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-10-28",
+  "tage_offen": 29,
+  "link": "https://jobs.ashbyhq.com/hawk/11a4b2c1-1ae6-4d52-a66c-a0a4b7d5ddac"
  },
  {
   "firma": "Helsing",
@@ -10930,36 +10930,6 @@
   "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8917711002"
  },
  {
-  "firma": "Pliant",
-  "titel": "Agentic Tooling Engineer EU/UK remote (m/f/d) remote",
-  "ort": "Remote (European Union), Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-10-29",
-  "tage_offen": 28,
-  "link": "https://jobs.ashbyhq.com/pliant/89ec000f-a3f4-46b1-bb31-8e5bdf1f63a4"
- },
- {
-  "firma": "Hawk",
-  "titel": "Data Scientist",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-10-30",
-  "tage_offen": 28,
-  "link": "https://jobs.ashbyhq.com/hawk/6192c093-d6df-411b-8f1b-0f411b3ffd2f"
- },
- {
-  "firma": "Kertos",
-  "titel": "Business Development Representative - German Speaking (all genders)",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-10-30",
-  "tage_offen": 28,
-  "link": "https://jobs.ashbyhq.com/kertos/b2353e10-ecfa-4b2c-b301-b57933760b60"
- },
- {
   "firma": "Enpal",
   "titel": "SEO & GEO Lead (w/m/d)",
   "ort": "Berlin, Germany",
@@ -11000,14 +10970,44 @@
   "link": "https://jobs.ashbyhq.com/enpal/3ff3820b-f049-4784-a855-a38f6928e48d"
  },
  {
-  "firma": "Orbem",
-  "titel": "Staff Technical Program Manager (f/m/d)",
-  "ort": "Munich, Germany",
+  "firma": "Snowflake",
+  "titel": "Sales Development Representative - German Speaker",
+  "ort": "DE-Munich-MSO, Germany",
   "land": "Deutschland",
-  "bereich": "Sonstiges",
+  "bereich": "Sales",
+  "online_seit": "2026-10-29",
+  "tage_offen": 28,
+  "link": "https://jobs.ashbyhq.com/snowflake/45535603-aa9b-4fce-b3ac-6babf38da22b"
+ },
+ {
+  "firma": "Pliant",
+  "titel": "Agentic Tooling Engineer EU/UK remote (m/f/d) remote",
+  "ort": "Remote (European Union), Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-10-29",
+  "tage_offen": 28,
+  "link": "https://jobs.ashbyhq.com/pliant/89ec000f-a3f4-46b1-bb31-8e5bdf1f63a4"
+ },
+ {
+  "firma": "Qonto",
+  "titel": "Marketing Manager (DE) - Company Creation (6 months, freelance)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
   "online_seit": "2026-10-30",
   "tage_offen": 28,
-  "link": "https://jobs.ashbyhq.com/orbem/4d8b273c-27f1-44d5-9072-0c003b7f2103"
+  "link": "https://jobs.ashbyhq.com/qonto/42829777-eda3-44aa-8737-918f2d0aeabf"
+ },
+ {
+  "firma": "Hawk",
+  "titel": "Data Scientist",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-10-30",
+  "tage_offen": 28,
+  "link": "https://jobs.ashbyhq.com/hawk/6192c093-d6df-411b-8f1b-0f411b3ffd2f"
  },
  {
   "firma": "Cohere",
@@ -11020,24 +11020,24 @@
   "link": "https://jobs.ashbyhq.com/cohere/481389bc-49c1-4cea-bc68-9e67c7ca4dd9"
  },
  {
-  "firma": "Snowflake",
-  "titel": "Sales Development Representative - German Speaker",
-  "ort": "DE-Munich-MSO, Germany",
+  "firma": "Orbem",
+  "titel": "Staff Technical Program Manager (f/m/d)",
+  "ort": "Munich, Germany",
   "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-10-29",
-  "tage_offen": 28,
-  "link": "https://jobs.ashbyhq.com/snowflake/45535603-aa9b-4fce-b3ac-6babf38da22b"
- },
- {
-  "firma": "Qonto",
-  "titel": "Marketing Manager (DE) - Company Creation (6 months, freelance)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
+  "bereich": "Sonstiges",
   "online_seit": "2026-10-30",
   "tage_offen": 28,
-  "link": "https://jobs.ashbyhq.com/qonto/42829777-eda3-44aa-8737-918f2d0aeabf"
+  "link": "https://jobs.ashbyhq.com/orbem/4d8b273c-27f1-44d5-9072-0c003b7f2103"
+ },
+ {
+  "firma": "Kertos",
+  "titel": "Business Development Representative - German Speaking (all genders)",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-10-30",
+  "tage_offen": 28,
+  "link": "https://jobs.ashbyhq.com/kertos/b2353e10-ecfa-4b2c-b301-b57933760b60"
  },
  {
   "firma": "HelloFresh",
@@ -11058,6 +11058,16 @@
   "online_seit": "2026-10-30",
   "tage_offen": 27,
   "link": "https://www.asana.com/jobs/apply/8337386?gh_jid=8337386"
+ },
+ {
+  "firma": "Enpal",
+  "titel": "Senior Growth Development Manager:in (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
+  "online_seit": "2026-10-30",
+  "tage_offen": 27,
+  "link": "https://jobs.ashbyhq.com/enpal/a76f6683-3718-4473-81f1-85efa0175fdb"
  },
  {
   "firma": "n8n",
@@ -11088,16 +11098,6 @@
   "online_seit": "2026-10-30",
   "tage_offen": 27,
   "link": "https://jobs.ashbyhq.com/taktile/b81b395d-c2f9-4285-ae47-ab055e4a353e"
- },
- {
-  "firma": "Enpal",
-  "titel": "Senior Growth Development Manager:in (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-10-30",
-  "tage_offen": 27,
-  "link": "https://jobs.ashbyhq.com/enpal/a76f6683-3718-4473-81f1-85efa0175fdb"
  },
  {
   "firma": "Sonar",
@@ -11210,16 +11210,6 @@
   "link": "https://jobs.ashbyhq.com/enpal/3ac89b12-b6d8-4c81-940a-90ae03cc8788"
  },
  {
-  "firma": "bunch",
-  "titel": "(Senior) Backend Engineer (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-02",
-  "tage_offen": 25,
-  "link": "https://jobs.ashbyhq.com/bunch/d86b5263-d8f7-408d-b16c-1aedd049a988"
- },
- {
   "firma": "ElevenLabs",
   "titel": "Full-Stack Engineer - Ads Engine",
   "ort": "Switzerland",
@@ -11238,6 +11228,16 @@
   "online_seit": "2026-11-02",
   "tage_offen": 25,
   "link": "https://jobs.ashbyhq.com/ElevenLabs/1b90a2b2-1352-458d-b2b7-3900f6e02df5"
+ },
+ {
+  "firma": "bunch",
+  "titel": "(Senior) Backend Engineer (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-02",
+  "tage_offen": 25,
+  "link": "https://jobs.ashbyhq.com/bunch/d86b5263-d8f7-408d-b16c-1aedd049a988"
  },
  {
   "firma": "Qonto",
@@ -11340,36 +11340,6 @@
   "link": "https://job-boards.greenhouse.io/adyen/jobs/8230089"
  },
  {
-  "firma": "Taktile",
-  "titel": "Strategic GTM Lead - Insurance DACH",
-  "ort": "Berlin Office, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-03",
-  "tage_offen": 24,
-  "link": "https://jobs.ashbyhq.com/taktile/61bc3c17-8144-4820-8d6a-80a224ed7f1b"
- },
- {
-  "firma": "Payrails",
-  "titel": "Content Strategist",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-11-02",
-  "tage_offen": 24,
-  "link": "https://jobs.ashbyhq.com/payrails/e92abbe8-6f51-4cdb-8227-20c54c0677c8"
- },
- {
-  "firma": "Ostrom",
-  "titel": "(Junior) Growth Associate",
-  "ort": "Berlin / Remote, Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-11-03",
-  "tage_offen": 24,
-  "link": "https://jobs.ashbyhq.com/Ostrom/c2073b43-69b3-41d2-b914-d8fbf17dc8eb"
- },
- {
   "firma": "Enpal",
   "titel": "Analyst / Associate Strategy & Growth (w/m/d)",
   "ort": "Berlin, Germany",
@@ -11420,6 +11390,36 @@
   "link": "https://jobs.ashbyhq.com/ElevenLabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d"
  },
  {
+  "firma": "Taktile",
+  "titel": "Strategic GTM Lead - Insurance DACH",
+  "ort": "Berlin Office, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-03",
+  "tage_offen": 24,
+  "link": "https://jobs.ashbyhq.com/taktile/61bc3c17-8144-4820-8d6a-80a224ed7f1b"
+ },
+ {
+  "firma": "Payrails",
+  "titel": "Content Strategist",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
+  "online_seit": "2026-11-02",
+  "tage_offen": 24,
+  "link": "https://jobs.ashbyhq.com/payrails/e92abbe8-6f51-4cdb-8227-20c54c0677c8"
+ },
+ {
+  "firma": "Ostrom",
+  "titel": "(Junior) Growth Associate",
+  "ort": "Berlin / Remote, Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
+  "online_seit": "2026-11-03",
+  "tage_offen": 24,
+  "link": "https://jobs.ashbyhq.com/Ostrom/c2073b43-69b3-41d2-b914-d8fbf17dc8eb"
+ },
+ {
   "firma": "Sonar",
   "titel": "Technical Account Manager (Technical Advisory)",
   "ort": "Remote DEU",
@@ -11457,7 +11457,7 @@
   "bereich": "Marketing",
   "online_seit": "2026-11-04",
   "tage_offen": 23,
-  "link": "https://flix.careers/job/8928205002?gh_jid=8928205002"
+  "link": "https://flix.careers/job/8929726002?gh_jid=8929726002"
  },
  {
   "firma": "Flix",
@@ -11477,7 +11477,7 @@
   "bereich": "Marketing",
   "online_seit": "2026-11-04",
   "tage_offen": 23,
-  "link": "https://flix.careers/job/8929726002?gh_jid=8929726002"
+  "link": "https://flix.careers/job/8928205002?gh_jid=8928205002"
  },
  {
   "firma": "Anthropic",
@@ -11520,34 +11520,34 @@
   "link": "https://jobs.elastic.co/jobs?gh_jid=8336443&gh_jid=8336443"
  },
  {
-  "firma": "Taktile",
-  "titel": "People Ops Intern",
-  "ort": "Berlin Office, Germany",
+  "firma": "Enpal",
+  "titel": "Legal Counsel - Commercial Law & Contracts (w/m/d)",
+  "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Personal",
+  "bereich": "Finanzen und Recht",
   "online_seit": "2026-11-04",
   "tage_offen": 23,
-  "link": "https://jobs.ashbyhq.com/taktile/a8a2eeb5-00e3-417b-bc4a-afff66b2d018"
+  "link": "https://jobs.ashbyhq.com/enpal/8d052056-d3c0-4f97-a6d4-a90c335761d9"
  },
  {
-  "firma": "Langdock",
-  "titel": "Build Your Own Role – m/f/d",
+  "firma": "Enpal",
+  "titel": "Teamleiter Sales - Klima (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-04",
+  "tage_offen": 23,
+  "link": "https://jobs.ashbyhq.com/enpal/4171bf01-44c5-4272-a209-7bfe6a966d52"
+ },
+ {
+  "firma": "Enpal",
+  "titel": "Projektleiter Klimaanlagen / Kältetechnik (w/m/d)",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
   "bereich": "Sonstiges",
   "online_seit": "2026-11-04",
   "tage_offen": 23,
-  "link": "https://jobs.ashbyhq.com/langdock/7d257221-4144-4e12-a174-38463ae8d2df"
- },
- {
-  "firma": "Langdock",
-  "titel": "Build Your Own Internship – m/f/d (min. 6 Months)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-04",
-  "tage_offen": 23,
-  "link": "https://jobs.ashbyhq.com/langdock/6e9e2672-851a-40e9-9c4e-0fb6cf351474"
+  "link": "https://jobs.ashbyhq.com/enpal/5e284def-06e3-4344-9e19-2e62247fcd4d"
  },
  {
   "firma": "Sereact",
@@ -11600,36 +11600,6 @@
   "link": "https://jobs.ashbyhq.com/tacto/3a4d3f3f-4d70-4307-bef3-315a71e688dc"
  },
  {
-  "firma": "Enpal",
-  "titel": "Legal Counsel - Commercial Law & Contracts (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-11-04",
-  "tage_offen": 23,
-  "link": "https://jobs.ashbyhq.com/enpal/8d052056-d3c0-4f97-a6d4-a90c335761d9"
- },
- {
-  "firma": "Enpal",
-  "titel": "Teamleiter Sales - Klima (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-04",
-  "tage_offen": 23,
-  "link": "https://jobs.ashbyhq.com/enpal/4171bf01-44c5-4272-a209-7bfe6a966d52"
- },
- {
-  "firma": "Enpal",
-  "titel": "Projektleiter Klimaanlagen / Kältetechnik (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-04",
-  "tage_offen": 23,
-  "link": "https://jobs.ashbyhq.com/enpal/5e284def-06e3-4344-9e19-2e62247fcd4d"
- },
- {
   "firma": "bunch",
   "titel": "Senior Product Manager | Integrations & AI Foundations (f/m/d)",
   "ort": "Berlin, Germany",
@@ -11638,6 +11608,36 @@
   "online_seit": "2026-11-04",
   "tage_offen": 23,
   "link": "https://jobs.ashbyhq.com/bunch/e8f7920c-332c-4363-a1ef-dedb8351b461"
+ },
+ {
+  "firma": "Taktile",
+  "titel": "People Ops Intern",
+  "ort": "Berlin Office, Germany",
+  "land": "Deutschland",
+  "bereich": "Personal",
+  "online_seit": "2026-11-04",
+  "tage_offen": 23,
+  "link": "https://jobs.ashbyhq.com/taktile/a8a2eeb5-00e3-417b-bc4a-afff66b2d018"
+ },
+ {
+  "firma": "Langdock",
+  "titel": "Build Your Own Role – m/f/d",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-04",
+  "tage_offen": 23,
+  "link": "https://jobs.ashbyhq.com/langdock/7d257221-4144-4e12-a174-38463ae8d2df"
+ },
+ {
+  "firma": "Langdock",
+  "titel": "Build Your Own Internship – m/f/d (min. 6 Months)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-04",
+  "tage_offen": 23,
+  "link": "https://jobs.ashbyhq.com/langdock/6e9e2672-851a-40e9-9c4e-0fb6cf351474"
  },
  {
   "firma": "Cohere",
@@ -11790,26 +11790,6 @@
   "link": "https://job-boards.greenhouse.io/grafanalabs/jobs/6250365004"
  },
  {
-  "firma": "Pliant",
-  "titel": "(Senior) Credit Risk Manager - LMM (m/f/d)",
-  "ort": "Berlin, Germany (Hybrid)",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-11-04",
-  "tage_offen": 22,
-  "link": "https://jobs.ashbyhq.com/pliant/902e04bd-5a65-41e1-aa9c-6f5c5705ffad"
- },
- {
-  "firma": "Pliant",
-  "titel": "Head of Product - Growth *EU/UK remote*(m/f/d)",
-  "ort": "Remote (European Union), Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-11-05",
-  "tage_offen": 22,
-  "link": "https://jobs.ashbyhq.com/pliant/9186d121-28f8-4487-aa98-af6f3a47a480"
- },
- {
   "firma": "Enpal",
   "titel": "Sales Support Manager (w/m/d)",
   "ort": "Remote, Germany",
@@ -11830,14 +11810,24 @@
   "link": "https://jobs.ashbyhq.com/enpal/f7030806-0532-44c9-9868-411100aede7d"
  },
  {
-  "firma": "Notion",
-  "titel": "Solutions Consultant, Mid-Market, DACH",
-  "ort": "Munich, Germany",
+  "firma": "Pliant",
+  "titel": "(Senior) Credit Risk Manager - LMM (m/f/d)",
+  "ort": "Berlin, Germany (Hybrid)",
   "land": "Deutschland",
-  "bereich": "Sonstiges",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-11-04",
+  "tage_offen": 22,
+  "link": "https://jobs.ashbyhq.com/pliant/902e04bd-5a65-41e1-aa9c-6f5c5705ffad"
+ },
+ {
+  "firma": "Pliant",
+  "titel": "Head of Product - Growth *EU/UK remote*(m/f/d)",
+  "ort": "Remote (European Union), Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
   "online_seit": "2026-11-05",
   "tage_offen": 22,
-  "link": "https://jobs.ashbyhq.com/notion/021f4891-c95f-41de-b8fc-66d285f57851"
+  "link": "https://jobs.ashbyhq.com/pliant/9186d121-28f8-4487-aa98-af6f3a47a480"
  },
  {
   "firma": "Harvey",
@@ -11878,6 +11868,16 @@
   "online_seit": "2026-11-05",
   "tage_offen": 22,
   "link": "https://jobs.ashbyhq.com/harvey/e8696182-927b-4a66-a058-be39ab583e7b"
+ },
+ {
+  "firma": "Notion",
+  "titel": "Solutions Consultant, Mid-Market, DACH",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-05",
+  "tage_offen": 22,
+  "link": "https://jobs.ashbyhq.com/notion/021f4891-c95f-41de-b8fc-66d285f57851"
  },
  {
   "firma": "Veeva",
@@ -12080,6 +12080,26 @@
   "link": "https://job-boards.greenhouse.io/freenow/jobs/8359109"
  },
  {
+  "firma": "Sereact",
+  "titel": "Finance & Accounting Manager (m/f/d)",
+  "ort": "Stuttgart Schockenriedstr. 17, Germany",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-11-06",
+  "tage_offen": 21,
+  "link": "https://jobs.ashbyhq.com/sereact/e3657c3e-1d11-4514-b838-28551f8e6bc0"
+ },
+ {
+  "firma": "Upvest",
+  "titel": "Head of Engineering, Platform (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-06",
+  "tage_offen": 21,
+  "link": "https://jobs.ashbyhq.com/upvest/01588154-db37-4a85-9cab-dcfe523045e1"
+ },
+ {
   "firma": "Parloa",
   "titel": "Senior Enterprise Engagement Manager - CEE",
   "ort": "Berlin, Germany",
@@ -12140,24 +12160,14 @@
   "link": "https://jobs.ashbyhq.com/parloa/f8615d20-6774-46ea-b822-98b0e3a190ca"
  },
  {
-  "firma": "Sereact",
-  "titel": "Finance & Accounting Manager (m/f/d)",
-  "ort": "Stuttgart Schockenriedstr. 17, Germany",
+  "firma": "OpenAI",
+  "titel": "Business Development Manager, Product Partnerships",
+  "ort": "Munich, Germany",
   "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
+  "bereich": "Sales",
   "online_seit": "2026-11-06",
   "tage_offen": 21,
-  "link": "https://jobs.ashbyhq.com/sereact/e3657c3e-1d11-4514-b838-28551f8e6bc0"
- },
- {
-  "firma": "Upvest",
-  "titel": "Head of Engineering, Platform (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-06",
-  "tage_offen": 21,
-  "link": "https://jobs.ashbyhq.com/upvest/01588154-db37-4a85-9cab-dcfe523045e1"
+  "link": "https://jobs.ashbyhq.com/openai/0cf4a8f4-a57a-494b-aad8-4df8ac096939"
  },
  {
   "firma": "Kertos",
@@ -12168,16 +12178,6 @@
   "online_seit": "2026-11-06",
   "tage_offen": 21,
   "link": "https://jobs.ashbyhq.com/kertos/a2904939-32f9-4ae8-9983-809019729468"
- },
- {
-  "firma": "OpenAI",
-  "titel": "Business Development Manager, Product Partnerships",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-06",
-  "tage_offen": 21,
-  "link": "https://jobs.ashbyhq.com/openai/0cf4a8f4-a57a-494b-aad8-4df8ac096939"
  },
  {
   "firma": "Synthesia",
@@ -12230,36 +12230,6 @@
   "link": "https://helsing.ai/jobs/5028718101?gh_jid=5028718101"
  },
  {
-  "firma": "Parloa",
-  "titel": "Partner Sales Manager - SAP",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-06",
-  "tage_offen": 20,
-  "link": "https://jobs.ashbyhq.com/parloa/cc034fa1-c474-49eb-8c96-01faca914618"
- },
- {
-  "firma": "Parloa",
-  "titel": "Senior Engineering Manager",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-06",
-  "tage_offen": 20,
-  "link": "https://jobs.ashbyhq.com/parloa/8e720dd0-5e40-44f8-b7f5-0423fc2e963a"
- },
- {
-  "firma": "Parloa",
-  "titel": "Strategic Engagement Manager",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-06",
-  "tage_offen": 20,
-  "link": "https://jobs.ashbyhq.com/parloa/658073b5-f4d6-4294-b552-e4eba3cc01b5"
- },
- {
   "firma": "Enpal",
   "titel": "Growth Development Manager (w/m/d)",
   "ort": "Berlin, Germany",
@@ -12300,14 +12270,34 @@
   "link": "https://jobs.ashbyhq.com/enpal/bbb30554-5b5d-49c3-8f03-63d3183e33a5"
  },
  {
-  "firma": "Cohere",
-  "titel": "Software Engineer, ML Ops",
+  "firma": "Parloa",
+  "titel": "Partner Sales Manager - SAP",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Daten",
+  "bereich": "Sales",
   "online_seit": "2026-11-06",
   "tage_offen": 20,
-  "link": "https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4"
+  "link": "https://jobs.ashbyhq.com/parloa/cc034fa1-c474-49eb-8c96-01faca914618"
+ },
+ {
+  "firma": "Parloa",
+  "titel": "Senior Engineering Manager",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-06",
+  "tage_offen": 20,
+  "link": "https://jobs.ashbyhq.com/parloa/8e720dd0-5e40-44f8-b7f5-0423fc2e963a"
+ },
+ {
+  "firma": "Parloa",
+  "titel": "Strategic Engagement Manager",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-06",
+  "tage_offen": 20,
+  "link": "https://jobs.ashbyhq.com/parloa/658073b5-f4d6-4294-b552-e4eba3cc01b5"
  },
  {
   "firma": "Harvey",
@@ -12318,6 +12308,16 @@
   "online_seit": "2026-11-06",
   "tage_offen": 20,
   "link": "https://jobs.ashbyhq.com/harvey/4e562e06-1903-4573-8c54-0ac6b0c60d34"
+ },
+ {
+  "firma": "Cohere",
+  "titel": "Software Engineer, ML Ops",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-11-06",
+  "tage_offen": 20,
+  "link": "https://jobs.ashbyhq.com/cohere/2a9a9b65-4f1b-4387-aa7f-d58c78e738c4"
  },
  {
   "firma": "Solaris",
@@ -12397,7 +12397,7 @@
   "bereich": "Betrieb und Logistik",
   "online_seit": "2026-11-08",
   "tage_offen": 18,
-  "link": "https://flix.careers/job/8934516002?gh_jid=8934516002"
+  "link": "https://flix.careers/job/8931531002?gh_jid=8931531002"
  },
  {
   "firma": "Flix",
@@ -12407,7 +12407,7 @@
   "bereich": "Betrieb und Logistik",
   "online_seit": "2026-11-08",
   "tage_offen": 18,
-  "link": "https://flix.careers/job/8931531002?gh_jid=8931531002"
+  "link": "https://flix.careers/job/8934516002?gh_jid=8934516002"
  },
  {
   "firma": "Solaris",
@@ -12450,6 +12450,16 @@
   "link": "https://www.mongodb.com/careers/job/?gh_jid=8355268"
  },
  {
+  "firma": "Enpal",
+  "titel": "Senior Accountant Banking Operations (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-11-09",
+  "tage_offen": 18,
+  "link": "https://jobs.ashbyhq.com/enpal/ebd75242-1de4-4338-94da-0d980325820e"
+ },
+ {
   "firma": "Sereact",
   "titel": "Operations Manager (m/f/d)",
   "ort": "Stuttgart Schockenriedstr. 17, Germany",
@@ -12470,26 +12480,6 @@
   "link": "https://jobs.ashbyhq.com/upvest/987b2b30-cab2-48e4-aa9f-ad4e928a7c31"
  },
  {
-  "firma": "Enpal",
-  "titel": "Senior Accountant Banking Operations (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-11-09",
-  "tage_offen": 18,
-  "link": "https://jobs.ashbyhq.com/enpal/ebd75242-1de4-4338-94da-0d980325820e"
- },
- {
-  "firma": "Nelly",
-  "titel": "Director Customer Growth (all gender)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-11-09",
-  "tage_offen": 18,
-  "link": "https://jobs.ashbyhq.com/nelly/11e51972-9af6-4f4c-9782-43c330d404c8"
- },
- {
   "firma": "OpenAI",
   "titel": "Manager, Forward Deployed Engineering - Munich",
   "ort": "Munich, Germany",
@@ -12508,6 +12498,16 @@
   "online_seit": "2026-11-09",
   "tage_offen": 18,
   "link": "https://jobs.ashbyhq.com/openai/0cbc002e-bd6e-4aa3-9dbc-ed7fe59511ea"
+ },
+ {
+  "firma": "Nelly",
+  "titel": "Director Customer Growth (all gender)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
+  "online_seit": "2026-11-09",
+  "tage_offen": 18,
+  "link": "https://jobs.ashbyhq.com/nelly/11e51972-9af6-4f4c-9782-43c330d404c8"
  },
  {
   "firma": "HelloFresh",
@@ -12590,26 +12590,6 @@
   "link": "https://jobs.ashbyhq.com/n8n/24ad7d68-fac9-476c-b9fa-3410d73a6d7d"
  },
  {
-  "firma": "Pliant",
-  "titel": "Customer Support Specialist *remote* (m/f/d)",
-  "ort": "Berlin, Germany (Hybrid)",
-  "land": "Deutschland",
-  "bereich": "Kundenservice",
-  "online_seit": "2026-11-10",
-  "tage_offen": 17,
-  "link": "https://jobs.ashbyhq.com/pliant/0fa68423-d0c1-4c27-bb3d-eaa6cb804f33"
- },
- {
-  "firma": "Pliant",
-  "titel": "Accountant (m/f/d)",
-  "ort": "Berlin, Germany (Hybrid)",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-11-10",
-  "tage_offen": 17,
-  "link": "https://jobs.ashbyhq.com/pliant/8ab451b9-acb0-43df-809d-6fee5ee3fe74"
- },
- {
   "firma": "Upvest",
   "titel": "Growth Strategy Intern (f/m/d)",
   "ort": "Berlin, Germany",
@@ -12628,16 +12608,6 @@
   "online_seit": "2026-11-10",
   "tage_offen": 17,
   "link": "https://jobs.ashbyhq.com/upvest/6c137794-36e9-4f09-bd54-8ad740dcf881"
- },
- {
-  "firma": "Peec AI",
-  "titel": "Customer Support Manager",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Kundenservice",
-  "online_seit": "2026-11-10",
-  "tage_offen": 17,
-  "link": "https://jobs.ashbyhq.com/peec/4f30b4f4-339e-49b9-87a8-40bcf7eb1fa1"
  },
  {
   "firma": "OpenAI",
@@ -12678,6 +12648,36 @@
   "online_seit": "2026-11-09",
   "tage_offen": 17,
   "link": "https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152"
+ },
+ {
+  "firma": "Pliant",
+  "titel": "Customer Support Specialist *remote* (m/f/d)",
+  "ort": "Berlin, Germany (Hybrid)",
+  "land": "Deutschland",
+  "bereich": "Kundenservice",
+  "online_seit": "2026-11-10",
+  "tage_offen": 17,
+  "link": "https://jobs.ashbyhq.com/pliant/0fa68423-d0c1-4c27-bb3d-eaa6cb804f33"
+ },
+ {
+  "firma": "Pliant",
+  "titel": "Accountant (m/f/d)",
+  "ort": "Berlin, Germany (Hybrid)",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-11-10",
+  "tage_offen": 17,
+  "link": "https://jobs.ashbyhq.com/pliant/8ab451b9-acb0-43df-809d-6fee5ee3fe74"
+ },
+ {
+  "firma": "Peec AI",
+  "titel": "Customer Support Manager",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Kundenservice",
+  "online_seit": "2026-11-10",
+  "tage_offen": 17,
+  "link": "https://jobs.ashbyhq.com/peec/4f30b4f4-339e-49b9-87a8-40bcf7eb1fa1"
  },
  {
   "firma": "FINN",
@@ -12790,6 +12790,16 @@
   "link": "https://www.moonfare.com/open-position/?gh_jid=8201246003"
  },
  {
+  "firma": "Enpal",
+  "titel": "Associate New Venture Strategy  (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-11",
+  "tage_offen": 16,
+  "link": "https://jobs.ashbyhq.com/enpal/ca730b9f-871c-4b68-95a0-bcf9ef737fbe"
+ },
+ {
   "firma": "n8n",
   "titel": "Head of Demand Generation",
   "ort": "Germany",
@@ -12820,14 +12830,14 @@
   "link": "https://jobs.ashbyhq.com/peec/8995b6e9-f164-4a97-810c-fbf07b8a0b78"
  },
  {
-  "firma": "Enpal",
-  "titel": "Associate New Venture Strategy  (w/m/d)",
-  "ort": "Berlin, Germany",
+  "firma": "Wayve",
+  "titel": "Fleet Operations Trainer",
+  "ort": "Leonberg, Germany",
   "land": "Deutschland",
-  "bereich": "Sonstiges",
+  "bereich": "Betrieb und Logistik",
   "online_seit": "2026-11-11",
   "tage_offen": 16,
-  "link": "https://jobs.ashbyhq.com/enpal/ca730b9f-871c-4b68-95a0-bcf9ef737fbe"
+  "link": "https://jobs.ashbyhq.com/wayve/5001dc43-5b1f-4fcd-a51f-60434075a5e6"
  },
  {
   "firma": "Forto",
@@ -12990,66 +13000,6 @@
   "link": "https://careers.airbnb.com/positions/8383026?gh_jid=8383026"
  },
  {
-  "firma": "n8n",
-  "titel": "Team Lead of Forward Deployment  - EMEA",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-11",
-  "tage_offen": 15,
-  "link": "https://jobs.ashbyhq.com/n8n/fb5e4f97-a769-4b87-95f4-bdc5e4c3b031"
- },
- {
-  "firma": "n8n",
-  "titel": "Lead Deployment Strategist - EMEA",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-11",
-  "tage_offen": 15,
-  "link": "https://jobs.ashbyhq.com/n8n/b3d7abe0-8766-4a75-9018-2f38cabe01c0"
- },
- {
-  "firma": "Sereact",
-  "titel": "Lagerist / Lagermitarbeiter (m/f/d)",
-  "ort": "Stuttgart Schockenriedstr. 17, Germany",
-  "land": "Deutschland",
-  "bereich": "Betrieb und Logistik",
-  "online_seit": "2026-11-12",
-  "tage_offen": 15,
-  "link": "https://jobs.ashbyhq.com/sereact/5fa4e1a3-9fc7-437a-b2c6-71dcba8801f7"
- },
- {
-  "firma": "Moss",
-  "titel": "Revenue Enablement Specialist",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-12",
-  "tage_offen": 15,
-  "link": "https://jobs.ashbyhq.com/moss/885fd357-d932-43b8-900d-49fabdbe4c59"
- },
- {
-  "firma": "Flinn",
-  "titel": "Business Intelligence & Automations Engineer (w/m/d)",
-  "ort": "Vienna, Austria",
-  "land": "Österreich",
-  "bereich": "Technik",
-  "online_seit": "2026-11-12",
-  "tage_offen": 15,
-  "link": "https://jobs.ashbyhq.com/flinn/a5fab448-63b1-4329-93ca-1c4d43a146da"
- },
- {
-  "firma": "Reonic",
-  "titel": "Marketing Manager UK (AI x Greentech) (m/f/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Marketing",
-  "online_seit": "2026-11-12",
-  "tage_offen": 15,
-  "link": "https://jobs.ashbyhq.com/reonic/419da50a-82a0-4cd6-9e86-8fca7bf27cee"
- },
- {
   "firma": "Enpal",
   "titel": "Praktikum KI-Lösungen & Automatisierung im Energiemarkt (m/w/d)",
   "ort": "Berlin, Germany",
@@ -13080,6 +13030,56 @@
   "link": "https://jobs.ashbyhq.com/enpal/92a4b0d6-3eeb-414d-b609-7aa2d796734c"
  },
  {
+  "firma": "n8n",
+  "titel": "Team Lead of Forward Deployment  - EMEA",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-11",
+  "tage_offen": 15,
+  "link": "https://jobs.ashbyhq.com/n8n/fb5e4f97-a769-4b87-95f4-bdc5e4c3b031"
+ },
+ {
+  "firma": "n8n",
+  "titel": "Lead Deployment Strategist - EMEA",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-11",
+  "tage_offen": 15,
+  "link": "https://jobs.ashbyhq.com/n8n/b3d7abe0-8766-4a75-9018-2f38cabe01c0"
+ },
+ {
+  "firma": "Sereact",
+  "titel": "Lagerist / Lagermitarbeiter (m/f/d)",
+  "ort": "Stuttgart Schockenriedstr. 17, Germany",
+  "land": "Deutschland",
+  "bereich": "Betrieb und Logistik",
+  "online_seit": "2026-11-12",
+  "tage_offen": 15,
+  "link": "https://jobs.ashbyhq.com/sereact/5fa4e1a3-9fc7-437a-b2c6-71dcba8801f7"
+ },
+ {
+  "firma": "Reonic",
+  "titel": "Marketing Manager UK (AI x Greentech) (m/f/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Marketing",
+  "online_seit": "2026-11-12",
+  "tage_offen": 15,
+  "link": "https://jobs.ashbyhq.com/reonic/419da50a-82a0-4cd6-9e86-8fca7bf27cee"
+ },
+ {
+  "firma": "Moss",
+  "titel": "Revenue Enablement Specialist",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-12",
+  "tage_offen": 15,
+  "link": "https://jobs.ashbyhq.com/moss/885fd357-d932-43b8-900d-49fabdbe4c59"
+ },
+ {
   "firma": "OpenAI",
   "titel": "B2B Comms Lead, EMEA",
   "ort": "Munich, Germany",
@@ -13100,14 +13100,14 @@
   "link": "https://jobs.ashbyhq.com/qonto/47e64e26-220b-4fd2-ac55-140734f93b2e"
  },
  {
-  "firma": "Wayve",
-  "titel": "Fleet Operations Trainer",
-  "ort": "Leonberg, Germany",
-  "land": "Deutschland",
-  "bereich": "Betrieb und Logistik",
-  "online_seit": "2026-11-11",
+  "firma": "Flinn",
+  "titel": "Business Intelligence & Automations Engineer (w/m/d)",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "bereich": "Technik",
+  "online_seit": "2026-11-12",
   "tage_offen": 15,
-  "link": "https://jobs.ashbyhq.com/wayve/5001dc43-5b1f-4fcd-a51f-60434075a5e6"
+  "link": "https://jobs.ashbyhq.com/flinn/a5fab448-63b1-4329-93ca-1c4d43a146da"
  },
  {
   "firma": "Veeva",
@@ -13280,76 +13280,6 @@
   "link": "https://job-boards.greenhouse.io/gitlab/jobs/8926653002"
  },
  {
-  "firma": "n8n",
-  "titel": "Support Systems & Programs Lead | Europe Remote",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-13",
-  "tage_offen": 14,
-  "link": "https://jobs.ashbyhq.com/n8n/382a3804-81de-46fb-ade3-87e3da72572d"
- },
- {
-  "firma": "Parloa",
-  "titel": "Business Development Representative - Poland & Eastern Europe",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-13",
-  "tage_offen": 14,
-  "link": "https://jobs.ashbyhq.com/parloa/3f2fbcf3-3f11-4226-9e61-778dba4d6c4d"
- },
- {
-  "firma": "Parloa",
-  "titel": "Product Trainer",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-13",
-  "tage_offen": 14,
-  "link": "https://jobs.ashbyhq.com/parloa/e1f19314-155e-49f5-893a-8d7fda5fc5db"
- },
- {
-  "firma": "Parloa",
-  "titel": "Senior Talent Acquisition Partner",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Personal",
-  "online_seit": "2026-11-13",
-  "tage_offen": 14,
-  "link": "https://jobs.ashbyhq.com/parloa/19a1da2b-a72d-422b-8042-425e9c234f4e"
- },
- {
-  "firma": "Pliant",
-  "titel": "Security Engineer *EU/UK remote* (m/f/d)",
-  "ort": "Remote (European Union), Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-13",
-  "tage_offen": 14,
-  "link": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
- },
- {
-  "firma": "Sereact",
-  "titel": "Robotics Project Manager (m/f/d)",
-  "ort": "Stuttgart Schockenriedstr. 17, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-13",
-  "tage_offen": 14,
-  "link": "https://jobs.ashbyhq.com/sereact/54bf11b9-e879-4ec6-ad9a-d0049ba8cccf"
- },
- {
-  "firma": "Upvest",
-  "titel": "Strategy Intern (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-13",
-  "tage_offen": 14,
-  "link": "https://jobs.ashbyhq.com/upvest/d93327d3-6dfe-423a-9cff-eeb487e0020c"
- },
- {
   "firma": "Enpal",
   "titel": "Partner Sales Manager (w/m/d)",
   "ort": "München, Germany",
@@ -13400,6 +13330,66 @@
   "link": "https://jobs.ashbyhq.com/enpal/b6f5d368-6332-4f21-83d4-fe22677d6936"
  },
  {
+  "firma": "n8n",
+  "titel": "Support Systems & Programs Lead | Europe Remote",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-13",
+  "tage_offen": 14,
+  "link": "https://jobs.ashbyhq.com/n8n/382a3804-81de-46fb-ade3-87e3da72572d"
+ },
+ {
+  "firma": "Sereact",
+  "titel": "Robotics Project Manager (m/f/d)",
+  "ort": "Stuttgart Schockenriedstr. 17, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-13",
+  "tage_offen": 14,
+  "link": "https://jobs.ashbyhq.com/sereact/54bf11b9-e879-4ec6-ad9a-d0049ba8cccf"
+ },
+ {
+  "firma": "Upvest",
+  "titel": "Strategy Intern (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-13",
+  "tage_offen": 14,
+  "link": "https://jobs.ashbyhq.com/upvest/d93327d3-6dfe-423a-9cff-eeb487e0020c"
+ },
+ {
+  "firma": "Parloa",
+  "titel": "Business Development Representative - Poland & Eastern Europe",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-13",
+  "tage_offen": 14,
+  "link": "https://jobs.ashbyhq.com/parloa/3f2fbcf3-3f11-4226-9e61-778dba4d6c4d"
+ },
+ {
+  "firma": "Parloa",
+  "titel": "Product Trainer",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-13",
+  "tage_offen": 14,
+  "link": "https://jobs.ashbyhq.com/parloa/e1f19314-155e-49f5-893a-8d7fda5fc5db"
+ },
+ {
+  "firma": "Parloa",
+  "titel": "Senior Talent Acquisition Partner",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Personal",
+  "online_seit": "2026-11-13",
+  "tage_offen": 14,
+  "link": "https://jobs.ashbyhq.com/parloa/19a1da2b-a72d-422b-8042-425e9c234f4e"
+ },
+ {
   "firma": "OpenAI",
   "titel": "Regional Client Partner, Ads Solutions",
   "ort": "Munich, Germany",
@@ -13428,6 +13418,16 @@
   "online_seit": "2026-11-13",
   "tage_offen": 14,
   "link": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b"
+ },
+ {
+  "firma": "Pliant",
+  "titel": "Security Engineer *EU/UK remote* (m/f/d)",
+  "ort": "Remote (European Union), Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-13",
+  "tage_offen": 14,
+  "link": "https://jobs.ashbyhq.com/pliant/a0b4660b-2bc6-4e40-addf-cf64072bf3ce"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -13460,6 +13460,16 @@
   "link": "https://flix.careers/job/8932958002?gh_jid=8932958002"
  },
  {
+  "firma": "Enpal",
+  "titel": "Sales Manager (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-13",
+  "tage_offen": 13,
+  "link": "https://jobs.ashbyhq.com/enpal/267b03bb-c20e-4066-b34a-95c66284fc5d"
+ },
+ {
   "firma": "Reonic",
   "titel": "Forward Deployed Engineer - (AI x Greentech) (m/f/d)",
   "ort": "Augsburg, Germany",
@@ -13478,16 +13488,6 @@
   "online_seit": "2026-11-14",
   "tage_offen": 13,
   "link": "https://jobs.ashbyhq.com/reonic/fdf93229-1283-4cfc-aa7f-fd3ea3970c33"
- },
- {
-  "firma": "Enpal",
-  "titel": "Sales Manager (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-13",
-  "tage_offen": 13,
-  "link": "https://jobs.ashbyhq.com/enpal/267b03bb-c20e-4066-b34a-95c66284fc5d"
  },
  {
   "firma": "Veeva",
@@ -13640,6 +13640,16 @@
   "link": "https://www.samsara.com/company/careers/roles/8359152?gh_jid=8359152"
  },
  {
+  "firma": "Enpal",
+  "titel": "Staff Platform Engineer (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "link": "https://jobs.ashbyhq.com/enpal/5f2bc677-edc1-48e5-9118-92d80a7ed352"
+ },
+ {
   "firma": "n8n",
   "titel": "Forward Deployed Engineer - EMEA",
   "ort": "Germany",
@@ -13680,26 +13690,6 @@
   "link": "https://jobs.ashbyhq.com/upvest/9bc0554e-72c5-4746-9c43-454fb8fd3ace"
  },
  {
-  "firma": "Ostrom",
-  "titel": "Analytics Engineer - Power Trading",
-  "ort": "Berlin / Remote, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-11-16",
-  "tage_offen": 11,
-  "link": "https://jobs.ashbyhq.com/Ostrom/0e1820f2-157a-41d4-a168-131f0388e088"
- },
- {
-  "firma": "Enpal",
-  "titel": "Staff Platform Engineer (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-16",
-  "tage_offen": 11,
-  "link": "https://jobs.ashbyhq.com/enpal/5f2bc677-edc1-48e5-9118-92d80a7ed352"
- },
- {
   "firma": "Snowflake",
   "titel": "Commercial Account Executive - Expansion",
   "ort": "DE-Munich-MSO, Germany",
@@ -13720,6 +13710,16 @@
   "link": "https://jobs.ashbyhq.com/qonto/9ac94177-40df-41f9-84cf-4380004f1bf6"
  },
  {
+  "firma": "Ostrom",
+  "titel": "Analytics Engineer - Power Trading",
+  "ort": "Berlin / Remote, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "link": "https://jobs.ashbyhq.com/Ostrom/0e1820f2-157a-41d4-a168-131f0388e088"
+ },
+ {
   "firma": "Sonar",
   "titel": "Senior Project Manager, Strategic Initiatives",
   "ort": "Geneva",
@@ -13738,6 +13738,26 @@
   "online_seit": "2026-11-16",
   "tage_offen": 11,
   "link": "https://jobs.lever.co/finn/29359507-9adf-4904-a148-81f18b916440"
+ },
+ {
+  "firma": "Helsing",
+  "titel": "Qualitätsprüfer - Wareneingang (m/w/d)",
+  "ort": "Munich",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-17",
+  "tage_offen": 10,
+  "link": "https://helsing.ai/jobs/5040299101?gh_jid=5040299101"
+ },
+ {
+  "firma": "Helsing",
+  "titel": "Qualitätstechniker - Produktion (m/w/d)",
+  "ort": "Munich",
+  "land": "Deutschland",
+  "bereich": "Betrieb und Logistik",
+  "online_seit": "2026-11-17",
+  "tage_offen": 10,
+  "link": "https://helsing.ai/jobs/5040418101?gh_jid=5040418101"
  },
  {
   "firma": "Helsing",
@@ -13860,76 +13880,6 @@
   "link": "https://www.okta.com/company/careers/opportunity/8176587?gh_jid=8176587"
  },
  {
-  "firma": "DeepL",
-  "titel": "Staff Site Reliability Engineer - Sovereign Cloud",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-16",
-  "tage_offen": 10,
-  "link": "https://jobs.ashbyhq.com/DeepL/7c913163-e90d-4ef7-bfaf-99e89af41dec"
- },
- {
-  "firma": "Sereact",
-  "titel": "Internship Teleoperation & Data Labeling - Switzerland",
-  "ort": "St. Gallen, Switzerland",
-  "land": "Schweiz",
-  "bereich": "Daten",
-  "online_seit": "2026-11-17",
-  "tage_offen": 10,
-  "link": "https://jobs.ashbyhq.com/sereact/6c550454-1365-4ac1-ab63-db2281806b61"
- },
- {
-  "firma": "Upvest",
-  "titel": "Expansion Lead (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-17",
-  "tage_offen": 10,
-  "link": "https://jobs.ashbyhq.com/upvest/e45a8b1d-de7c-4e9e-923f-b238f92ed9b0"
- },
- {
-  "firma": "Upvest",
-  "titel": "Treasury and Payments Associate (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-11-16",
-  "tage_offen": 10,
-  "link": "https://jobs.ashbyhq.com/upvest/e8fe1848-bb21-42dd-b678-c19afadc0f00"
- },
- {
-  "firma": "Moss",
-  "titel": "(Senior) Account Executive, DACH (f/m/d)",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-17",
-  "tage_offen": 10,
-  "link": "https://jobs.ashbyhq.com/moss/9af5e9e0-8d18-4a09-a987-31af87d3ca57"
- },
- {
-  "firma": "Moss",
-  "titel": "(Senior) Account Executive, DACH (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-17",
-  "tage_offen": 10,
-  "link": "https://jobs.ashbyhq.com/moss/890e27cb-8cc2-4c53-8e66-b189bbe15fc6"
- },
- {
-  "firma": "Peec AI",
-  "titel": "Senior Fullstack Engineer",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-17",
-  "tage_offen": 10,
-  "link": "https://jobs.ashbyhq.com/peec/aee622f9-4b02-4cd1-b8b1-39b2e5f6c3dc"
- },
- {
   "firma": "Enpal",
   "titel": "Head of SEO (w/m/d)",
   "ort": "Berlin, Germany",
@@ -14050,14 +14000,54 @@
   "link": "https://jobs.ashbyhq.com/enpal/daecb6d7-ce37-49ea-a509-89025413002d"
  },
  {
-  "firma": "bunch",
-  "titel": "Senior People Operations Manager (f/m/d)",
+  "firma": "Sereact",
+  "titel": "Internship Teleoperation & Data Labeling - Switzerland",
+  "ort": "St. Gallen, Switzerland",
+  "land": "Schweiz",
+  "bereich": "Daten",
+  "online_seit": "2026-11-17",
+  "tage_offen": 10,
+  "link": "https://jobs.ashbyhq.com/sereact/6c550454-1365-4ac1-ab63-db2281806b61"
+ },
+ {
+  "firma": "Upvest",
+  "titel": "Expansion Lead (f/m/d)",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Personal",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-17",
+  "tage_offen": 10,
+  "link": "https://jobs.ashbyhq.com/upvest/e45a8b1d-de7c-4e9e-923f-b238f92ed9b0"
+ },
+ {
+  "firma": "Upvest",
+  "titel": "Treasury and Payments Associate (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
   "online_seit": "2026-11-16",
   "tage_offen": 10,
-  "link": "https://jobs.ashbyhq.com/bunch/936c27a4-ecd7-4952-8e22-ab634676f58c"
+  "link": "https://jobs.ashbyhq.com/upvest/e8fe1848-bb21-42dd-b678-c19afadc0f00"
+ },
+ {
+  "firma": "Moss",
+  "titel": "(Senior) Account Executive, DACH (f/m/d)",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-17",
+  "tage_offen": 10,
+  "link": "https://jobs.ashbyhq.com/moss/9af5e9e0-8d18-4a09-a987-31af87d3ca57"
+ },
+ {
+  "firma": "Moss",
+  "titel": "(Senior) Account Executive, DACH (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-17",
+  "tage_offen": 10,
+  "link": "https://jobs.ashbyhq.com/moss/890e27cb-8cc2-4c53-8e66-b189bbe15fc6"
  },
  {
   "firma": "OpenAI",
@@ -14090,6 +14080,36 @@
   "link": "https://jobs.ashbyhq.com/snowflake/f86b9707-4718-43ed-99b8-29913a9118fd"
  },
  {
+  "firma": "Peec AI",
+  "titel": "Senior Fullstack Engineer",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-17",
+  "tage_offen": 10,
+  "link": "https://jobs.ashbyhq.com/peec/aee622f9-4b02-4cd1-b8b1-39b2e5f6c3dc"
+ },
+ {
+  "firma": "bunch",
+  "titel": "Senior People Operations Manager (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Personal",
+  "online_seit": "2026-11-16",
+  "tage_offen": 10,
+  "link": "https://jobs.ashbyhq.com/bunch/936c27a4-ecd7-4952-8e22-ab634676f58c"
+ },
+ {
+  "firma": "DeepL",
+  "titel": "Staff Site Reliability Engineer - Sovereign Cloud",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-16",
+  "tage_offen": 10,
+  "link": "https://jobs.ashbyhq.com/DeepL/7c913163-e90d-4ef7-bfaf-99e89af41dec"
+ },
+ {
   "firma": "FINN",
   "titel": "Senior Controller (m/f/x)",
   "ort": "Munich",
@@ -14108,26 +14128,6 @@
   "online_seit": "2026-11-18",
   "tage_offen": 9,
   "link": "https://helsing.ai/jobs/5039795101?gh_jid=5039795101"
- },
- {
-  "firma": "Helsing",
-  "titel": "Qualitätsprüfer - Wareneingang (m/w/d)",
-  "ort": "Munich",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-17",
-  "tage_offen": 9,
-  "link": "https://helsing.ai/jobs/5040299101?gh_jid=5040299101"
- },
- {
-  "firma": "Helsing",
-  "titel": "Qualitätstechniker - Produktion (m/w/d)",
-  "ort": "Munich",
-  "land": "Deutschland",
-  "bereich": "Betrieb und Logistik",
-  "online_seit": "2026-11-17",
-  "tage_offen": 9,
-  "link": "https://helsing.ai/jobs/5040418101?gh_jid=5040418101"
  },
  {
   "firma": "Helsing",
@@ -14162,22 +14162,22 @@
  {
   "firma": "Celonis",
   "titel": "Account Executive - Cross Industries",
-  "ort": "Remote, Switzerland",
-  "land": "Schweiz",
-  "bereich": "Sales",
-  "online_seit": "2026-11-18",
-  "tage_offen": 9,
-  "link": "https://job-boards.greenhouse.io/celonis/jobs/8208041003?gh_jid=8208041003"
- },
- {
-  "firma": "Celonis",
-  "titel": "Account Executive - Cross Industries",
   "ort": "Zürich, Switzerland",
   "land": "Schweiz",
   "bereich": "Sales",
   "online_seit": "2026-11-18",
   "tage_offen": 9,
   "link": "https://job-boards.greenhouse.io/celonis/jobs/8042632003?gh_jid=8042632003"
+ },
+ {
+  "firma": "Celonis",
+  "titel": "Account Executive - Cross Industries",
+  "ort": "Remote, Switzerland",
+  "land": "Schweiz",
+  "bereich": "Sales",
+  "online_seit": "2026-11-18",
+  "tage_offen": 9,
+  "link": "https://job-boards.greenhouse.io/celonis/jobs/8208041003?gh_jid=8208041003"
  },
  {
   "firma": "Flix",
@@ -14260,6 +14260,26 @@
   "link": "https://boards.greenhouse.io/figma/jobs/6263992004?gh_jid=6263992004"
  },
  {
+  "firma": "Enpal",
+  "titel": "Projektingenieur:in Energiespeicher (BESS) (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-17",
+  "tage_offen": 9,
+  "link": "https://jobs.ashbyhq.com/enpal/f19492f3-eb9a-418c-b67c-fd73a8340759"
+ },
+ {
+  "firma": "Enpal",
+  "titel": "Venture Development | AI Engineering - Internship",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-11-18",
+  "tage_offen": 9,
+  "link": "https://jobs.ashbyhq.com/enpal/f0cdd84d-bbd8-4841-8e4a-2755181a1bf1"
+ },
+ {
   "firma": "n8n",
   "titel": "Sales Leader, Large Enterprise (ROR)",
   "ort": "Germany",
@@ -14268,16 +14288,6 @@
   "online_seit": "2026-11-18",
   "tage_offen": 9,
   "link": "https://jobs.ashbyhq.com/n8n/01e97911-afbc-4d4b-bdc7-ea6cd5e51662"
- },
- {
-  "firma": "Langdock",
-  "titel": "(Senior) Security Engineer - m/f/d",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-18",
-  "tage_offen": 9,
-  "link": "https://jobs.ashbyhq.com/langdock/8662e63f-63fe-47f1-92c3-a402d3d24486"
  },
  {
   "firma": "Sereact",
@@ -14310,16 +14320,6 @@
   "link": "https://jobs.ashbyhq.com/upvest/6ee81c6b-2717-4090-bd6d-d9e5e32c2c95"
  },
  {
-  "firma": "Payrails",
-  "titel": "Senior Data Engineer",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-11-18",
-  "tage_offen": 9,
-  "link": "https://jobs.ashbyhq.com/payrails/6e50c035-87ed-4b42-aadf-093dde733d5a"
- },
- {
   "firma": "Tacto",
   "titel": "Venture Development",
   "ort": "Munich, Germany",
@@ -14330,24 +14330,24 @@
   "link": "https://jobs.ashbyhq.com/tacto/71de8a86-3115-4186-a5ba-a9f549d378de"
  },
  {
-  "firma": "Enpal",
-  "titel": "Projektingenieur:in Energiespeicher (BESS) (w/m/d)",
-  "ort": "Berlin, Germany",
+  "firma": "Snowflake",
+  "titel": "Software Engineer - Dynamic Tables",
+  "ort": "DE-Berlin-Trion Building, Germany",
   "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-17",
-  "tage_offen": 9,
-  "link": "https://jobs.ashbyhq.com/enpal/f19492f3-eb9a-418c-b67c-fd73a8340759"
- },
- {
-  "firma": "Enpal",
-  "titel": "Venture Development | AI Engineering - Internship",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
+  "bereich": "Technik",
   "online_seit": "2026-11-18",
   "tage_offen": 9,
-  "link": "https://jobs.ashbyhq.com/enpal/f0cdd84d-bbd8-4841-8e4a-2755181a1bf1"
+  "link": "https://jobs.ashbyhq.com/snowflake/99dfc810-9487-4ac1-91a8-50acefd05bae"
+ },
+ {
+  "firma": "Langdock",
+  "titel": "(Senior) Security Engineer - m/f/d",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-18",
+  "tage_offen": 9,
+  "link": "https://jobs.ashbyhq.com/langdock/8662e63f-63fe-47f1-92c3-a402d3d24486"
  },
  {
   "firma": "Forto",
@@ -14360,14 +14360,14 @@
   "link": "https://jobs.ashbyhq.com/forto/ca16863f-32da-4119-93d2-03632caf2b41"
  },
  {
-  "firma": "Snowflake",
-  "titel": "Software Engineer - Dynamic Tables",
-  "ort": "DE-Berlin-Trion Building, Germany",
+  "firma": "Payrails",
+  "titel": "Senior Data Engineer",
+  "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Technik",
+  "bereich": "Daten",
   "online_seit": "2026-11-18",
   "tage_offen": 9,
-  "link": "https://jobs.ashbyhq.com/snowflake/99dfc810-9487-4ac1-91a8-50acefd05bae"
+  "link": "https://jobs.ashbyhq.com/payrails/6e50c035-87ed-4b42-aadf-093dde733d5a"
  },
  {
   "firma": "Sonar",
@@ -14492,22 +14492,22 @@
  {
   "firma": "SumUp",
   "titel": "Senior Backend Engineer - Identity",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-19",
-  "tage_offen": 8,
-  "link": "https://sumup.com/careers/positions/8821323002?gh_jid=8821323002"
- },
- {
-  "firma": "SumUp",
-  "titel": "Senior Backend Engineer - Identity",
   "ort": "Cologne, Germany",
   "land": "Deutschland",
   "bereich": "Technik",
   "online_seit": "2026-11-19",
   "tage_offen": 8,
   "link": "https://sumup.com/careers/positions/8951363002?gh_jid=8951363002"
+ },
+ {
+  "firma": "SumUp",
+  "titel": "Senior Backend Engineer - Identity",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-19",
+  "tage_offen": 8,
+  "link": "https://sumup.com/careers/positions/8821323002?gh_jid=8821323002"
  },
  {
   "firma": "Databricks",
@@ -14560,26 +14560,6 @@
   "link": "https://job-boards.greenhouse.io/commercetools/jobs/8208426003"
  },
  {
-  "firma": "n8n",
-  "titel": "Senior Product Manager - Core Experience",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Produkt und Design",
-  "online_seit": "2026-11-19",
-  "tage_offen": 8,
-  "link": "https://jobs.ashbyhq.com/n8n/98d8bc2f-ee58-4732-8977-61a761aac8b0"
- },
- {
-  "firma": "n8n",
-  "titel": "Solutions Engineering Manager (Based out of EMEA)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-18",
-  "tage_offen": 8,
-  "link": "https://jobs.ashbyhq.com/n8n/79e4f4d1-41fa-45fd-acd7-7f305f018754"
- },
- {
   "firma": "Enpal",
   "titel": "Quality Control Manager:in (w/m/d)",
   "ort": "Berlin, Germany",
@@ -14610,24 +14590,24 @@
   "link": "https://jobs.ashbyhq.com/enpal/764926a9-5f71-4e37-a5b7-fcfc09041aba"
  },
  {
-  "firma": "bunch",
-  "titel": "Operations Manager - Tax & Accounting (f/m/d)",
-  "ort": "Berlin, Germany",
+  "firma": "n8n",
+  "titel": "Senior Product Manager - Core Experience",
+  "ort": "Germany",
   "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
+  "bereich": "Produkt und Design",
   "online_seit": "2026-11-19",
   "tage_offen": 8,
-  "link": "https://jobs.ashbyhq.com/bunch/f9f56d11-76fd-4b99-8ab3-e72ae0074bb6"
+  "link": "https://jobs.ashbyhq.com/n8n/98d8bc2f-ee58-4732-8977-61a761aac8b0"
  },
  {
-  "firma": "Forto",
-  "titel": "(Senior) Sales Manager (f/m/d) - West",
-  "ort": "Remote Germany",
+  "firma": "n8n",
+  "titel": "Solutions Engineering Manager (Based out of EMEA)",
+  "ort": "Germany",
   "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-19",
+  "bereich": "Technik",
+  "online_seit": "2026-11-18",
   "tage_offen": 8,
-  "link": "https://jobs.ashbyhq.com/forto/780ba3bf-2bc2-40a0-a118-d89ab23f71f4"
+  "link": "https://jobs.ashbyhq.com/n8n/79e4f4d1-41fa-45fd-acd7-7f305f018754"
  },
  {
   "firma": "ElevenLabs",
@@ -14638,6 +14618,16 @@
   "online_seit": "2026-11-19",
   "tage_offen": 8,
   "link": "https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c"
+ },
+ {
+  "firma": "bunch",
+  "titel": "Operations Manager - Tax & Accounting (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-11-19",
+  "tage_offen": 8,
+  "link": "https://jobs.ashbyhq.com/bunch/f9f56d11-76fd-4b99-8ab3-e72ae0074bb6"
  },
  {
   "firma": "Harvey",
@@ -14658,6 +14648,16 @@
   "online_seit": "2026-11-19",
   "tage_offen": 8,
   "link": "https://jobs.ashbyhq.com/wayve/ff288acd-fbf2-415d-ae03-d5d17ab366e9"
+ },
+ {
+  "firma": "Forto",
+  "titel": "(Senior) Sales Manager (f/m/d) - West",
+  "ort": "Remote Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-19",
+  "tage_offen": 8,
+  "link": "https://jobs.ashbyhq.com/forto/780ba3bf-2bc2-40a0-a118-d89ab23f71f4"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -14750,6 +14750,36 @@
   "link": "https://www.samsara.com/company/careers/roles/8392903?gh_jid=8392903"
  },
  {
+  "firma": "Enpal",
+  "titel": "Disponent:in Service Wärmepumpen (w/m/d) | Quereinsteiger:innen willkommen",
+  "ort": "Remote, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-20",
+  "tage_offen": 7,
+  "link": "https://jobs.ashbyhq.com/enpal/d72b0fc6-429f-4986-bf84-43b26547e311"
+ },
+ {
+  "firma": "Enpal",
+  "titel": "Partner Sales Manager (w/m/d)",
+  "ort": "Nürnberg, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-20",
+  "tage_offen": 7,
+  "link": "https://jobs.ashbyhq.com/enpal/73e3f27f-94be-4061-ac5b-b14b2fe89f08"
+ },
+ {
+  "firma": "Enpal",
+  "titel": "Partner Sales Manager (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-20",
+  "tage_offen": 7,
+  "link": "https://jobs.ashbyhq.com/enpal/cf91fb6d-6684-4e38-ac0e-b17233d97347"
+ },
+ {
   "firma": "n8n",
   "titel": "Senior/Staff Product Designer",
   "ort": "Germany",
@@ -14790,16 +14820,6 @@
   "link": "https://jobs.ashbyhq.com/n8n/3d7b16dc-f9c2-4d3e-bac5-83abc21d8b48"
  },
  {
-  "firma": "Pliant",
-  "titel": "Business Development Manager- DACH (m/f/d)",
-  "ort": "Berlin, Germany (Hybrid)",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-20",
-  "tage_offen": 7,
-  "link": "https://jobs.ashbyhq.com/pliant/b49feaf4-bbb2-4501-925b-964c2538649e"
- },
- {
   "firma": "Upvest",
   "titel": "Associate Operations Manager für das Altersvorsorgedepot (f/m/d)",
   "ort": "Berlin, Germany",
@@ -14810,34 +14830,14 @@
   "link": "https://jobs.ashbyhq.com/upvest/02628db1-5ad2-4483-bb44-abab75155c34"
  },
  {
-  "firma": "Moss",
-  "titel": "Pricing & Deal Desk Manager (m/f/d)",
+  "firma": "Reonic",
+  "titel": "Go-to-Market AI & Data Intern (AI x Greentech) (m/f/d)",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-19",
+  "bereich": "Daten",
+  "online_seit": "2026-11-20",
   "tage_offen": 7,
-  "link": "https://jobs.ashbyhq.com/moss/f50ad776-97f3-4e7d-820a-3172881556d5"
- },
- {
-  "firma": "Peec AI",
-  "titel": "Senior Frontend Engineer",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-19",
-  "tage_offen": 7,
-  "link": "https://jobs.ashbyhq.com/peec/6b91aeeb-f051-4f48-8d16-44d3f0a6f186"
- },
- {
-  "firma": "Peec AI",
-  "titel": "Senior Design Engineer",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-19",
-  "tage_offen": 7,
-  "link": "https://jobs.ashbyhq.com/peec/f3889600-365d-4053-8d1c-56eae41b20fa"
+  "link": "https://jobs.ashbyhq.com/reonic/79d56c30-6b6f-4f1d-9370-2873e2db8b9b"
  },
  {
   "firma": "Tacto",
@@ -14890,6 +14890,56 @@
   "link": "https://jobs.ashbyhq.com/tacto/85c62c79-8eda-47dd-8b45-2b2eaa1276ce"
  },
  {
+  "firma": "Moss",
+  "titel": "Pricing & Deal Desk Manager (m/f/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-19",
+  "tage_offen": 7,
+  "link": "https://jobs.ashbyhq.com/moss/f50ad776-97f3-4e7d-820a-3172881556d5"
+ },
+ {
+  "firma": "ElevenLabs",
+  "titel": "Commercial Counsel - Germany",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-11-19",
+  "tage_offen": 7,
+  "link": "https://jobs.ashbyhq.com/ElevenLabs/71fe2339-de89-41f6-afd3-e1daa05e7fa1"
+ },
+ {
+  "firma": "Pliant",
+  "titel": "Business Development Manager- DACH (m/f/d)",
+  "ort": "Berlin, Germany (Hybrid)",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-20",
+  "tage_offen": 7,
+  "link": "https://jobs.ashbyhq.com/pliant/b49feaf4-bbb2-4501-925b-964c2538649e"
+ },
+ {
+  "firma": "Peec AI",
+  "titel": "Senior Frontend Engineer",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-19",
+  "tage_offen": 7,
+  "link": "https://jobs.ashbyhq.com/peec/6b91aeeb-f051-4f48-8d16-44d3f0a6f186"
+ },
+ {
+  "firma": "Peec AI",
+  "titel": "Senior Design Engineer",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-19",
+  "tage_offen": 7,
+  "link": "https://jobs.ashbyhq.com/peec/f3889600-365d-4053-8d1c-56eae41b20fa"
+ },
+ {
   "firma": "Flinn",
   "titel": "AI Transformation Manager (w/m/d)",
   "ort": "Vienna, Austria",
@@ -14908,56 +14958,6 @@
   "online_seit": "2026-11-20",
   "tage_offen": 7,
   "link": "https://jobs.ashbyhq.com/flinn/15aa456a-4d91-490d-9a8e-ce15ec9d6d4b"
- },
- {
-  "firma": "Reonic",
-  "titel": "Go-to-Market AI & Data Intern (AI x Greentech) (m/f/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-11-20",
-  "tage_offen": 7,
-  "link": "https://jobs.ashbyhq.com/reonic/79d56c30-6b6f-4f1d-9370-2873e2db8b9b"
- },
- {
-  "firma": "Enpal",
-  "titel": "Disponent:in Service Wärmepumpen (w/m/d) | Quereinsteiger:innen willkommen",
-  "ort": "Remote, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-20",
-  "tage_offen": 7,
-  "link": "https://jobs.ashbyhq.com/enpal/d72b0fc6-429f-4986-bf84-43b26547e311"
- },
- {
-  "firma": "Enpal",
-  "titel": "Partner Sales Manager (w/m/d)",
-  "ort": "Nürnberg, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-20",
-  "tage_offen": 7,
-  "link": "https://jobs.ashbyhq.com/enpal/73e3f27f-94be-4061-ac5b-b14b2fe89f08"
- },
- {
-  "firma": "Enpal",
-  "titel": "Partner Sales Manager (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-20",
-  "tage_offen": 7,
-  "link": "https://jobs.ashbyhq.com/enpal/cf91fb6d-6684-4e38-ac0e-b17233d97347"
- },
- {
-  "firma": "ElevenLabs",
-  "titel": "Commercial Counsel - Germany",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-11-19",
-  "tage_offen": 7,
-  "link": "https://jobs.ashbyhq.com/ElevenLabs/71fe2339-de89-41f6-afd3-e1daa05e7fa1"
  },
  {
   "firma": "Docker",
@@ -15040,14 +15040,14 @@
   "link": "https://www.fivetran.com/careers/job?gh_jid=8209310003"
  },
  {
-  "firma": "Parloa",
-  "titel": "CEO Office Associate",
-  "ort": "Berlin HQ",
+  "firma": "Enpal",
+  "titel": "Venture Development – AI & Process Automation (w/m/d)",
+  "ort": "Berlin, Germany",
   "land": "Deutschland",
-  "bereich": "Sonstiges",
+  "bereich": "Daten",
   "online_seit": "2026-11-20",
   "tage_offen": 6,
-  "link": "https://jobs.ashbyhq.com/parloa/5f429a0d-b81d-4b7a-a245-60fc8d2dcb00"
+  "link": "https://jobs.ashbyhq.com/enpal/15f0a0f7-e08e-4d43-9717-fd33d58c4199"
  },
  {
   "firma": "Sereact",
@@ -15060,6 +15060,16 @@
   "link": "https://jobs.ashbyhq.com/sereact/0382e877-5999-47a3-a942-8c710a6d09da"
  },
  {
+  "firma": "Parloa",
+  "titel": "CEO Office Associate",
+  "ort": "Berlin HQ",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-20",
+  "tage_offen": 6,
+  "link": "https://jobs.ashbyhq.com/parloa/5f429a0d-b81d-4b7a-a245-60fc8d2dcb00"
+ },
+ {
   "firma": "Moss",
   "titel": "People Operations Specialist (f/m/d)",
   "ort": "Berlin, Germany",
@@ -15068,16 +15078,6 @@
   "online_seit": "2026-11-20",
   "tage_offen": 6,
   "link": "https://jobs.ashbyhq.com/moss/6903e731-b1a5-4dca-ac51-000fbeb125ff"
- },
- {
-  "firma": "Enpal",
-  "titel": "Venture Development – AI & Process Automation (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-11-20",
-  "tage_offen": 6,
-  "link": "https://jobs.ashbyhq.com/enpal/15f0a0f7-e08e-4d43-9717-fd33d58c4199"
  },
  {
   "firma": "bunch",
@@ -15170,46 +15170,6 @@
   "link": "https://job-boards.greenhouse.io/reddit/jobs/8398820"
  },
  {
-  "firma": "n8n",
-  "titel": "Head of Partnerships - EMEA & APAC",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-23",
-  "tage_offen": 4,
-  "link": "https://jobs.ashbyhq.com/n8n/1049e2ca-c40d-472e-99f7-c51211a10796"
- },
- {
-  "firma": "n8n",
-  "titel": "Senior Customer Success Manager - German Speaking (Remote)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Kundenservice",
-  "online_seit": "2026-11-23",
-  "tage_offen": 4,
-  "link": "https://jobs.ashbyhq.com/n8n/42792a93-7090-40b1-a2fe-632ad230c08c"
- },
- {
-  "firma": "Peec AI",
-  "titel": "Customer Education",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-23",
-  "tage_offen": 4,
-  "link": "https://jobs.ashbyhq.com/peec/aa93d3f7-4a60-42fe-b041-7a97b24450a4"
- },
- {
-  "firma": "Flinn",
-  "titel": "Medical Writer (w/m/d)",
-  "ort": "Vienna, Austria",
-  "land": "Österreich",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-23",
-  "tage_offen": 4,
-  "link": "https://jobs.ashbyhq.com/flinn/2ec69e86-910e-45e8-b956-44a48f976060"
- },
- {
   "firma": "Enpal",
   "titel": "Business Operations Associate (m/f/d)",
   "ort": "Berlin, Germany",
@@ -15230,6 +15190,26 @@
   "link": "https://jobs.ashbyhq.com/enpal/0e9c6e0c-7313-4cdf-b007-d139285f176c"
  },
  {
+  "firma": "n8n",
+  "titel": "Head of Partnerships - EMEA & APAC",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-23",
+  "tage_offen": 4,
+  "link": "https://jobs.ashbyhq.com/n8n/1049e2ca-c40d-472e-99f7-c51211a10796"
+ },
+ {
+  "firma": "n8n",
+  "titel": "Senior Customer Success Manager - German Speaking (Remote)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Kundenservice",
+  "online_seit": "2026-11-23",
+  "tage_offen": 4,
+  "link": "https://jobs.ashbyhq.com/n8n/42792a93-7090-40b1-a2fe-632ad230c08c"
+ },
+ {
   "firma": "Snowflake",
   "titel": "Account Engineer",
   "ort": "FutureSite-DE-Berlin, Germany",
@@ -15238,6 +15218,26 @@
   "online_seit": "2026-11-23",
   "tage_offen": 4,
   "link": "https://jobs.ashbyhq.com/snowflake/079ef88d-700e-431a-a0fd-aabd26aa3e41"
+ },
+ {
+  "firma": "Peec AI",
+  "titel": "Customer Education",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-23",
+  "tage_offen": 4,
+  "link": "https://jobs.ashbyhq.com/peec/aa93d3f7-4a60-42fe-b041-7a97b24450a4"
+ },
+ {
+  "firma": "Flinn",
+  "titel": "Medical Writer (w/m/d)",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-23",
+  "tage_offen": 4,
+  "link": "https://jobs.ashbyhq.com/flinn/2ec69e86-910e-45e8-b956-44a48f976060"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -15350,76 +15350,6 @@
   "link": "https://www.samsara.com/company/careers/roles/8395114?gh_jid=8395114"
  },
  {
-  "firma": "Taktile",
-  "titel": "Senior Executive Assistant",
-  "ort": "Berlin Office, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/taktile/12dd25bb-cc25-44ef-bdde-f20663202111"
- },
- {
-  "firma": "Upvest",
-  "titel": "Senior Fullstack Engineer (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/upvest/bc9437fe-dd30-4ed1-be0c-eed956360476"
- },
- {
-  "firma": "Moss",
-  "titel": "(Associate) Finance Manager (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/moss/da76d3d3-55ed-4ef1-b004-225686107ae1"
- },
- {
-  "firma": "Payrails",
-  "titel": "Accountant (Full-time / Part-time)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/payrails/61109b51-f640-40f4-8894-bc8b61e570f7"
- },
- {
-  "firma": "Tacto",
-  "titel": "Founding Account Executive – Italy",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/tacto/3e557041-0202-42f3-8769-a62d2e328156"
- },
- {
-  "firma": "Flinn",
-  "titel": "Product Operations Specialist (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Betrieb und Logistik",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/flinn/6a4482fa-92a4-430d-9033-9865fa62472e"
- },
- {
-  "firma": "Reonic",
-  "titel": "Product Engineer - Full-Stack (AI x Greentech) (m/d/f)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/reonic/35432c0c-036d-4ae7-a550-91d1832981cd"
- },
- {
   "firma": "Enpal",
   "titel": "Venture Development Manager – Heat Pump Sales (w/m/d)",
   "ort": "Berlin, Germany",
@@ -15480,6 +15410,46 @@
   "link": "https://jobs.ashbyhq.com/enpal/f196e18a-8577-4472-8dbd-74e2f9ef4190"
  },
  {
+  "firma": "Upvest",
+  "titel": "Senior Fullstack Engineer (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/upvest/bc9437fe-dd30-4ed1-be0c-eed956360476"
+ },
+ {
+  "firma": "Reonic",
+  "titel": "Product Engineer - Full-Stack (AI x Greentech) (m/d/f)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/reonic/35432c0c-036d-4ae7-a550-91d1832981cd"
+ },
+ {
+  "firma": "Tacto",
+  "titel": "Founding Account Executive – Italy",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/tacto/3e557041-0202-42f3-8769-a62d2e328156"
+ },
+ {
+  "firma": "Moss",
+  "titel": "(Associate) Finance Manager (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/moss/da76d3d3-55ed-4ef1-b004-225686107ae1"
+ },
+ {
   "firma": "bunch",
   "titel": "Investor Onboarding Manager (f/m/d)",
   "ort": "Berlin, Germany",
@@ -15488,56 +15458,6 @@
   "online_seit": "2026-11-23",
   "tage_offen": 3,
   "link": "https://jobs.ashbyhq.com/bunch/74f6c1f1-a32c-43a0-8152-06d9ccd4ccf2"
- },
- {
-  "firma": "Forto",
-  "titel": "(Senior) Sales Manager (f/m/d) - North Germany",
-  "ort": "Remote Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/forto/7286924c-5d23-4cb6-abcb-3fb55984d07c"
- },
- {
-  "firma": "Harvey",
-  "titel": "Customer Success Manager, Enterprise, Frankfurt",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Kundenservice",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/harvey/9f52cc35-17a3-4ec2-9ff6-f8e28e0e1cf5"
- },
- {
-  "firma": "Harvey",
-  "titel": "Customer Success Manager, Enterprise, Dusseldorf",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Kundenservice",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/harvey/6eac1a4e-6143-4b38-ad7e-b3f2d8c0a629"
- },
- {
-  "firma": "Docker",
-  "titel": "Business Development Representative (EMEA)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-24",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/docker/221dff90-2b30-4977-958a-8838f43c6d38"
- },
- {
-  "firma": "Pleo",
-  "titel": "Staff Software Engineer",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-23",
-  "tage_offen": 3,
-  "link": "https://jobs.ashbyhq.com/pleo/8a9edc9a-32f1-4bf0-b017-d12f691850fe"
  },
  {
   "firma": "Qonto",
@@ -15560,6 +15480,36 @@
   "link": "https://jobs.ashbyhq.com/qonto/29117e59-4b3c-489a-8a28-c6c4d631b090"
  },
  {
+  "firma": "Taktile",
+  "titel": "Senior Executive Assistant",
+  "ort": "Berlin Office, Germany",
+  "land": "Deutschland",
+  "bereich": "Sonstiges",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/taktile/12dd25bb-cc25-44ef-bdde-f20663202111"
+ },
+ {
+  "firma": "Harvey",
+  "titel": "Customer Success Manager, Enterprise, Frankfurt",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Kundenservice",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/harvey/9f52cc35-17a3-4ec2-9ff6-f8e28e0e1cf5"
+ },
+ {
+  "firma": "Harvey",
+  "titel": "Customer Success Manager, Enterprise, Dusseldorf",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Kundenservice",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/harvey/6eac1a4e-6143-4b38-ad7e-b3f2d8c0a629"
+ },
+ {
   "firma": "Wayve",
   "titel": "Robotaxi Technical Operations Manager",
   "ort": "Leonberg, Germany",
@@ -15568,6 +15518,56 @@
   "online_seit": "2026-11-24",
   "tage_offen": 3,
   "link": "https://jobs.ashbyhq.com/wayve/66a851aa-5ebb-428f-9382-45f690ffb0f1"
+ },
+ {
+  "firma": "Forto",
+  "titel": "(Senior) Sales Manager (f/m/d) - North Germany",
+  "ort": "Remote Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/forto/7286924c-5d23-4cb6-abcb-3fb55984d07c"
+ },
+ {
+  "firma": "Flinn",
+  "titel": "Product Operations Specialist (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Betrieb und Logistik",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/flinn/6a4482fa-92a4-430d-9033-9865fa62472e"
+ },
+ {
+  "firma": "Docker",
+  "titel": "Business Development Representative (EMEA)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/docker/221dff90-2b30-4977-958a-8838f43c6d38"
+ },
+ {
+  "firma": "Pleo",
+  "titel": "Staff Software Engineer",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-23",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/pleo/8a9edc9a-32f1-4bf0-b017-d12f691850fe"
+ },
+ {
+  "firma": "Payrails",
+  "titel": "Accountant (Full-time / Part-time)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "link": "https://jobs.ashbyhq.com/payrails/61109b51-f640-40f4-8894-bc8b61e570f7"
  },
  {
   "firma": "FINN",
@@ -15730,26 +15730,6 @@
   "link": "https://jobs.ashbyhq.com/upvest/ea8c4081-1913-482f-88fc-4a8cdbee6c89"
  },
  {
-  "firma": "Forto",
-  "titel": "Air Freight Operations Specialist (f/m/d)",
-  "ort": "Hamburg, Germany",
-  "land": "Deutschland",
-  "bereich": "Betrieb und Logistik",
-  "online_seit": "2026-11-24",
-  "tage_offen": 2,
-  "link": "https://jobs.ashbyhq.com/forto/ae2ca3c5-3f12-4b27-98be-8bbfe22aa575"
- },
- {
-  "firma": "Forto",
-  "titel": "Senior Product Manager - Shipment",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Produkt und Design",
-  "online_seit": "2026-11-25",
-  "tage_offen": 2,
-  "link": "https://jobs.ashbyhq.com/forto/81ac909b-38cd-4bae-b629-a88a7005f3a7"
- },
- {
   "firma": "OpenAI",
   "titel": "Senior Commercial Counsel, EMEA",
   "ort": "Munich, Germany",
@@ -15758,16 +15738,6 @@
   "online_seit": "2026-11-24",
   "tage_offen": 2,
   "link": "https://jobs.ashbyhq.com/openai/30e110bf-c2d8-4458-a7de-9a26b0968bd1"
- },
- {
-  "firma": "Docker",
-  "titel": "Senior Principal Forward Deployed Engineer",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-25",
-  "tage_offen": 2,
-  "link": "https://jobs.ashbyhq.com/docker/370dbdf5-79f3-4885-beb4-dc3b16cfcd5b"
  },
  {
   "firma": "Qonto",
@@ -15798,6 +15768,36 @@
   "online_seit": "2026-11-25",
   "tage_offen": 2,
   "link": "https://jobs.ashbyhq.com/qonto/f2a6ea35-bab1-477c-96f1-8e05b22c9635"
+ },
+ {
+  "firma": "Forto",
+  "titel": "Air Freight Operations Specialist (f/m/d)",
+  "ort": "Hamburg, Germany",
+  "land": "Deutschland",
+  "bereich": "Betrieb und Logistik",
+  "online_seit": "2026-11-24",
+  "tage_offen": 2,
+  "link": "https://jobs.ashbyhq.com/forto/ae2ca3c5-3f12-4b27-98be-8bbfe22aa575"
+ },
+ {
+  "firma": "Forto",
+  "titel": "Senior Product Manager - Shipment",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Produkt und Design",
+  "online_seit": "2026-11-25",
+  "tage_offen": 2,
+  "link": "https://jobs.ashbyhq.com/forto/81ac909b-38cd-4bae-b629-a88a7005f3a7"
+ },
+ {
+  "firma": "Docker",
+  "titel": "Senior Principal Forward Deployed Engineer",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-25",
+  "tage_offen": 2,
+  "link": "https://jobs.ashbyhq.com/docker/370dbdf5-79f3-4885-beb4-dc3b16cfcd5b"
  },
  {
   "firma": "Veeva",
@@ -15880,6 +15880,16 @@
   "link": "https://sumup.com/careers/positions/8842348002?gh_jid=8842348002"
  },
  {
+  "firma": "Wolt - English",
+  "titel": "Sales Manager, DashOS",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-26",
+  "tage_offen": 1,
+  "link": "https://job-boards.greenhouse.io/wolt/jobs/8416870"
+ },
+ {
   "firma": "Scout24",
   "titel": "Mitarbeiter Partner- und Auftragsmanagement (d/w/m)",
   "ort": "Berlin, Bonn",
@@ -15910,6 +15920,16 @@
   "link": "https://careers.datadoghq.com/detail/8414434/?gh_jid=8414434"
  },
  {
+  "firma": "Enpal",
+  "titel": "Lead Expert Corporate Tax (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
+  "online_seit": "2026-11-26",
+  "tage_offen": 1,
+  "link": "https://jobs.ashbyhq.com/enpal/72c76e3e-d792-4a26-ab8d-a0040a604375"
+ },
+ {
   "firma": "n8n",
   "titel": "Strategic Account Executive DACH",
   "ort": "Germany",
@@ -15930,16 +15950,6 @@
   "link": "https://jobs.ashbyhq.com/n8n/5daace5d-cc5c-49f0-92cf-bd3bbe5dc4e6"
  },
  {
-  "firma": "Parloa",
-  "titel": "FP&A Analyst",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Daten",
-  "online_seit": "2026-11-25",
-  "tage_offen": 1,
-  "link": "https://jobs.ashbyhq.com/parloa/b5a51663-505b-410d-ab4e-e0531e7cc962"
- },
- {
   "firma": "Upvest",
   "titel": "Expansion Strategy Lead (f/m/d)",
   "ort": "Berlin, Germany",
@@ -15948,6 +15958,16 @@
   "online_seit": "2026-11-26",
   "tage_offen": 1,
   "link": "https://jobs.ashbyhq.com/upvest/74d32a52-c100-4a86-87e7-61374ecb77bf"
+ },
+ {
+  "firma": "Parloa",
+  "titel": "FP&A Analyst",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Daten",
+  "online_seit": "2026-11-25",
+  "tage_offen": 1,
+  "link": "https://jobs.ashbyhq.com/parloa/b5a51663-505b-410d-ab4e-e0531e7cc962"
  },
  {
   "firma": "Moss",
@@ -15960,6 +15980,16 @@
   "link": "https://jobs.ashbyhq.com/moss/6744af3b-29cd-4007-be8f-93456d2f23ac"
  },
  {
+  "firma": "Snowflake",
+  "titel": "Senior Solution Engineer - Acquisition",
+  "ort": "DE-Germany-Remote",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-26",
+  "tage_offen": 1,
+  "link": "https://jobs.ashbyhq.com/snowflake/357d22a5-666d-476d-9f39-a5d5c120dbab"
+ },
+ {
   "firma": "Peec AI",
   "titel": "Visiting Analytics Engineer",
   "ort": "Berlin, Germany",
@@ -15968,26 +15998,6 @@
   "online_seit": "2026-11-25",
   "tage_offen": 1,
   "link": "https://jobs.ashbyhq.com/peec/69de4fe6-b416-4a78-9310-252d1adbe141"
- },
- {
-  "firma": "Enpal",
-  "titel": "Lead Expert Corporate Tax (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-11-26",
-  "tage_offen": 1,
-  "link": "https://jobs.ashbyhq.com/enpal/72c76e3e-d792-4a26-ab8d-a0040a604375"
- },
- {
-  "firma": "Orbem",
-  "titel": "Occupational Health & Safety Expert , Fachkraft für Arbeitssicherheit (f/m/d)",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Sonstiges",
-  "online_seit": "2026-11-26",
-  "tage_offen": 1,
-  "link": "https://jobs.ashbyhq.com/orbem/b47ddf65-1c85-437a-aa54-0c66bd6bc64c"
  },
  {
   "firma": "bunch",
@@ -16000,14 +16010,14 @@
   "link": "https://jobs.ashbyhq.com/bunch/392a2cff-1f47-4568-88de-642adfcdbca7"
  },
  {
-  "firma": "Snowflake",
-  "titel": "Senior Solution Engineer - Acquisition",
-  "ort": "DE-Germany-Remote",
+  "firma": "Orbem",
+  "titel": "Occupational Health & Safety Expert , Fachkraft für Arbeitssicherheit (f/m/d)",
+  "ort": "Munich, Germany",
   "land": "Deutschland",
-  "bereich": "Technik",
+  "bereich": "Sonstiges",
   "online_seit": "2026-11-26",
   "tage_offen": 1,
-  "link": "https://jobs.ashbyhq.com/snowflake/357d22a5-666d-476d-9f39-a5d5c120dbab"
+  "link": "https://jobs.ashbyhq.com/orbem/b47ddf65-1c85-437a-aa54-0c66bd6bc64c"
  },
  {
   "firma": "Sonar",
@@ -16070,16 +16080,6 @@
   "link": "https://job-boards.greenhouse.io/wolt/jobs/8414241"
  },
  {
-  "firma": "Wolt - English",
-  "titel": "Sales Manager, DashOS",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-26",
-  "tage_offen": 0,
-  "link": "https://job-boards.greenhouse.io/wolt/jobs/8416870"
- },
- {
   "firma": "Scout24",
   "titel": "Senior Marketing Analytics Engineer (d/m/f)",
   "ort": "Berlin",
@@ -16118,46 +16118,6 @@
   "online_seit": "2026-11-27",
   "tage_offen": 0,
   "link": "https://www.mongodb.com/careers/job/?gh_jid=8419307"
- },
- {
-  "firma": "n8n",
-  "titel": "Senior Solutions Engineer (Remote Europe)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-26",
-  "tage_offen": 0,
-  "link": "https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725"
- },
- {
-  "firma": "n8n",
-  "titel": "Partner Manager MEA & APAC",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "bereich": "Sales",
-  "online_seit": "2026-11-26",
-  "tage_offen": 0,
-  "link": "https://jobs.ashbyhq.com/n8n/b3472914-32af-40d7-8775-251c06a6d794"
- },
- {
-  "firma": "Moss",
-  "titel": "Working Student Finance (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "bereich": "Finanzen und Recht",
-  "online_seit": "2026-11-27",
-  "tage_offen": 0,
-  "link": "https://jobs.ashbyhq.com/moss/3b7889f0-3dba-4abd-a339-c4b8496da899"
- },
- {
-  "firma": "Kertos",
-  "titel": "IT Working Student",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "bereich": "Technik",
-  "online_seit": "2026-11-27",
-  "tage_offen": 0,
-  "link": "https://jobs.ashbyhq.com/kertos/1af05e14-d21f-4238-906e-94130440c509"
  },
  {
   "firma": "Enpal",
@@ -16200,14 +16160,34 @@
   "link": "https://jobs.ashbyhq.com/enpal/183b8d4a-58d6-49dd-bb3a-782f82a6f279"
  },
  {
-  "firma": "Harvey",
-  "titel": "Strategic Account Executive, DACH",
-  "ort": "Munich, Germany",
+  "firma": "n8n",
+  "titel": "Senior Solutions Engineer (Remote Europe)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-26",
+  "tage_offen": 0,
+  "link": "https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725"
+ },
+ {
+  "firma": "n8n",
+  "titel": "Partner Manager MEA & APAC",
+  "ort": "Germany",
   "land": "Deutschland",
   "bereich": "Sales",
+  "online_seit": "2026-11-26",
+  "tage_offen": 0,
+  "link": "https://jobs.ashbyhq.com/n8n/b3472914-32af-40d7-8775-251c06a6d794"
+ },
+ {
+  "firma": "Moss",
+  "titel": "Working Student Finance (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "bereich": "Finanzen und Recht",
   "online_seit": "2026-11-27",
   "tage_offen": 0,
-  "link": "https://jobs.ashbyhq.com/harvey/c34ee114-fd2d-4507-9888-711397e037bd"
+  "link": "https://jobs.ashbyhq.com/moss/3b7889f0-3dba-4abd-a339-c4b8496da899"
  },
  {
   "firma": "Qonto",
@@ -16238,6 +16218,26 @@
   "online_seit": "2026-11-26",
   "tage_offen": 0,
   "link": "https://jobs.ashbyhq.com/qonto/b822acb0-0283-408b-9d45-6ea6e4a2d666"
+ },
+ {
+  "firma": "Harvey",
+  "titel": "Strategic Account Executive, DACH",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Sales",
+  "online_seit": "2026-11-27",
+  "tage_offen": 0,
+  "link": "https://jobs.ashbyhq.com/harvey/c34ee114-fd2d-4507-9888-711397e037bd"
+ },
+ {
+  "firma": "Kertos",
+  "titel": "IT Working Student",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "bereich": "Technik",
+  "online_seit": "2026-11-27",
+  "tage_offen": 0,
+  "link": "https://jobs.ashbyhq.com/kertos/1af05e14-d21f-4238-906e-94130440c509"
  },
  {
   "firma": "FINN",
