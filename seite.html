@@ -5,19 +5,22 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Hiring-Radar</title>
 <style>
-:root{--bg:#f4f7f6;--karte:#ffffff;--linie:#d6dfdc;--text:#12242a;--leise:#5a6f72;--akzent:#0f6e63;--akzent-hell:#e2f1ee;--warn:#b4541a}
+:root{--bg:#f4f7f6;--karte:#ffffff;--linie:#d6dfdc;--text:#12242a;--leise:#5a6f72;--akzent:#0f6e63;--akzent-hell:#e2f1ee;--gold:#b7791f;--gold-hell:#fbf1dd}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-size:16px;line-height:1.45}
-.rahmen{max-width:1120px;margin:0 auto;padding:24px 16px 48px}
+.rahmen{max-width:1180px;margin:0 auto;padding:24px 16px 48px}
 h1{margin:0;font-size:28px;letter-spacing:-.01em}
 h1 span{color:var(--akzent)}
 .unter{margin:4px 0 20px;color:var(--leise)}
-.filter{display:grid;grid-template-columns:2fr 1fr 1fr 1.2fr;gap:10px;background:var(--karte);border:1px solid var(--linie);border-radius:10px;padding:14px}
+.filter{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;background:var(--karte);border:1px solid var(--linie);border-radius:10px;padding:14px}
 .feld{display:flex;flex-direction:column;gap:4px;min-width:0}
+.feld.breit{grid-column:span 2}
 .feld label{font-size:12px;font-weight:600;color:var(--leise);text-transform:uppercase;letter-spacing:.06em}
 input,select,button{font:inherit;color:inherit}
 input[type=search],select{width:100%;padding:9px 10px;border:1px solid var(--linie);border-radius:7px;background:#fff}
 input[type=search]:focus,select:focus,button:focus-visible,a:focus-visible{outline:2px solid var(--akzent);outline-offset:1px}
+.zurueck{align-self:end;border:1px solid var(--linie);background:#fff;padding:9px 10px;border-radius:7px;cursor:pointer;color:var(--leise)}
+.zurueck:hover{color:var(--text);border-color:var(--leise)}
 .leiste{display:flex;flex-wrap:wrap;align-items:center;gap:10px 16px;margin:16px 0 10px}
 .zahl{font-weight:600}
 .zahl small{font-weight:400;color:var(--leise)}
@@ -30,16 +33,28 @@ input[type=search]:focus,select:focus,button:focus-visible,a:focus-visible{outli
 table{border-collapse:collapse;width:100%}
 th,td{text-align:left;padding:9px 12px;border-bottom:1px solid var(--linie);vertical-align:top}
 th{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--leise);background:#f9fbfa;white-space:nowrap}
+th button{all:unset;cursor:pointer;font:inherit;letter-spacing:inherit;text-transform:inherit;color:inherit}
+th button:hover,th button[aria-pressed=true]{color:var(--akzent)}
+th button:focus-visible{outline:2px solid var(--akzent);outline-offset:2px}
 tr:last-child td{border-bottom:0}
 td.z,th.z{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
 td a{color:var(--akzent);font-weight:500}
+.marken{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}
 .marke{display:inline-block;font-size:12px;padding:1px 8px;border-radius:999px;background:var(--akzent-hell);color:var(--akzent);white-space:nowrap}
+.marke.grau{background:#eef1f0;color:var(--leise)}
+.marke.gold{background:var(--gold-hell);color:var(--gold)}
+.druck{display:inline-flex;align-items:center;gap:8px;justify-content:flex-end}
+.druck i{display:block;width:54px;height:6px;border-radius:3px;background:#e6ecea;overflow:hidden}
+.druck i b{display:block;height:100%;background:var(--gold)}
 .firma-knopf{border:0;background:none;padding:0;color:var(--akzent);font-weight:600;cursor:pointer;text-align:left}
+.warum{color:var(--leise);font-size:14.5px}
 .leer{padding:28px 16px;text-align:center;color:var(--leise)}
 .mehr{display:block;margin:14px auto 0;border:1px solid var(--linie);background:#fff;padding:9px 18px;border-radius:7px;cursor:pointer}
-.fuss{margin-top:22px;font-size:13px;color:var(--leise)}
+.fuss{margin-top:22px;font-size:13px;color:var(--leise);max-width:80ch}
+.fuss p{margin:0 0 6px}
 [hidden]{display:none !important}
-@media (max-width:760px){.filter{grid-template-columns:1fr 1fr}.filter .feld:first-child{grid-column:1 / -1}.knopf{margin-left:0}}
+@media (max-width:860px){.filter{grid-template-columns:1fr 1fr}.knopf{margin-left:0}}
+@media (max-width:480px){.filter{grid-template-columns:1fr}.feld.breit{grid-column:auto}}
 </style>
 </head>
 <body>
@@ -48,15 +63,19 @@ td a{color:var(--akzent);font-weight:500}
   <p class="unter" id="unter"></p>
 
   <div class="filter">
-    <div class="feld"><label for="suche">Suche</label><input type="search" id="suche" placeholder="Job oder Firma, zum Beispiel: account executive"></div>
+    <div class="feld breit"><label for="suche">Suche</label><input type="search" id="suche" placeholder="Job oder Firma, zum Beispiel: account executive"></div>
     <div class="feld"><label for="bereich">Bereich</label><select id="bereich"></select></div>
-    <div class="feld"><label for="land">Land</label>
-      <select id="land">
-        <option value="dach">DACH gesamt</option>
-        <option value="Deutschland">Nur Deutschland</option>
-        <option value="Österreich">Nur Österreich</option>
-        <option value="Schweiz">Nur Schweiz</option>
+    <div class="feld"><label for="stufe">Seniorität</label><select id="stufe"></select></div>
+    <div class="feld"><label for="art">Anstellung</label>
+      <select id="art">
+        <option value="fest">Feste Stellen</option>
+        <option value="Teilzeit">Nur Teilzeit</option>
+        <option value="Werkstudent">Werkstudent</option>
+        <option value="lern">Praktikum und Ausbildung</option>
+        <option value="Freelance">Freelance und befristet</option>
+        <option value="">Alle Arten</option>
       </select></div>
+    <div class="feld"><label for="ort">Ort</label><select id="ort"></select></div>
     <div class="feld"><label for="dauer">Offen seit</label>
       <select id="dauer">
         <option value="30-180">30 bis 180 Tagen</option>
@@ -65,6 +84,7 @@ td a{color:var(--akzent);font-weight:500}
         <option value="181-">über 180 Tagen (Dauer-Anzeigen)</option>
         <option value="0-">egal wie lange</option>
       </select></div>
+    <button type="button" class="zurueck" id="zurueck">Filter zurücksetzen</button>
   </div>
 
   <div class="leiste">
@@ -81,36 +101,55 @@ td a{color:var(--akzent);font-weight:500}
       <thead id="kopf"></thead>
       <tbody id="liste"></tbody>
     </table>
-    <div class="leer" id="leer" hidden>Keine Treffer. Ändere die Suche oder wähle bei „Offen seit“ eine andere Spanne.</div>
+    <div class="leer" id="leer" hidden>Keine Treffer. Ändere die Suche oder setze die Filter zurück.</div>
   </div>
   <button type="button" class="mehr" id="mehr" hidden>Mehr anzeigen</button>
 
-  <p class="fuss">„Tage offen“ zählt ab dem Tag, an dem die Firma die Anzeige zuerst veröffentlicht hat. Quelle sind die öffentlichen Stellenlisten der Firmen. Jeder Eintrag führt zur Original-Anzeige.</p>
+  <div class="fuss">
+    <p><strong>Druck</strong> ist ein Wert von 0 bis 100. Er steigt mit der Höhe der Rolle und mit den Tagen, die sie offen ist. Stellen über 180 Tage gelten als Dauer-Anzeigen und zählen kaum.</p>
+    <p>„Tage offen“ zählt ab dem Tag der ersten Veröffentlichung. Seniorität, Bereich und Anstellung werden aus der Anzeige abgeleitet und können im Einzelfall danebenliegen. Jeder Eintrag führt zur Original-Anzeige der Firma.</p>
+  </div>
 </div>
 
 <script id="daten" type="application/json">__DATEN__</script>
 <script>
 "use strict";
 const D = JSON.parse(document.getElementById("daten").textContent);
-const S = D.stellen;   // [firma, titel, ort, land, bereich, tage, link]
+const S = D.stellen;   // 0 firma, 1 titel, 2 ort, 3 land, 4 bereich, 5 tage, 6 link, 7 stufe, 8 art, 9 stadt, 10 modus, 11 druck
+const STUFEN = D.stufen;
+const LERN = ["Praktikum", "Ausbildung"], NICHT_FEST = ["Werkstudent", "Praktikum", "Ausbildung", "Freelance"];
 const $ = id => document.getElementById(id);
 const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text !== undefined) e.textContent = text; return e; };
-let ansicht = "stellen", grenze = 200, treffer = [];
+const zahl = n => n.toLocaleString("de-DE");
+let ansicht = "stellen", grenze = 200, treffer = [], sortierung = "druck";
 
-$("unter").textContent = S.length.toLocaleString("de-DE") + " offene Stellen im deutschsprachigen Raum bei " +
-  new Set(S.map(s => s[0])).size + " Firmen. Stand: " + D.stand + ".";
+$("unter").textContent = zahl(S.length) + " offene Stellen im deutschsprachigen Raum bei " + new Set(S.map(s => s[0])).size + " Firmen. Stand: " + D.stand + ".";
 
+/* Auswahllisten füllen */
 const bereiche = [...new Set(S.map(s => s[4]))].sort((a, b) => (a === "Sonstiges") - (b === "Sonstiges") || a.localeCompare(b, "de"));
 $("bereich").append(new Option("Alle Bereiche", ""));
 for (const b of bereiche) $("bereich").append(new Option(b, b));
 
+$("stufe").append(new Option("Alle Stufen", ""), new Option("Ab Senior aufwärts", "ab3"), new Option("Ab Lead aufwärts", "ab4"), new Option("Ab Head aufwärts", "ab5"));
+const genau = document.createElement("optgroup"); genau.label = "Genau eine Stufe";
+STUFEN.forEach((name, i) => genau.append(new Option(name, "nur" + i)));
+$("stufe").append(genau);
+
+$("ort").append(new Option("DACH gesamt", ""), new Option("Deutschland", "land:Deutschland"), new Option("Österreich", "land:Österreich"), new Option("Schweiz", "land:Schweiz"), new Option("Remote möglich", "remote"));
+const staedte = new Map(); for (const s of S) if (s[9]) staedte.set(s[9], (staedte.get(s[9]) || 0) + 1);
+const gruppe = document.createElement("optgroup"); gruppe.label = "Städte";
+for (const [name, n] of [...staedte.entries()].sort((a, b) => b[1] - a[1])) if (n >= 3) gruppe.append(new Option(name + " (" + n + ")", "stadt:" + name));
+$("ort").append(gruppe);
+
 function filtern() {
   const worte = $("suche").value.toLowerCase().split(/\s+/).filter(Boolean);
-  const bereich = $("bereich").value, land = $("land").value;
+  const bereich = $("bereich").value, stufe = $("stufe").value, art = $("art").value, ort = $("ort").value;
   const [von, bis] = $("dauer").value.split("-").map(x => x === "" ? Infinity : Number(x));
   treffer = S.filter(s => {
-    if (land !== "dach" && s[3] !== land) return false;
     if (bereich && s[4] !== bereich) return false;
+    if (stufe && (stufe.startsWith("ab") ? s[7] < Number(stufe.slice(2)) : s[7] !== Number(stufe.slice(3)))) return false;
+    if (art === "fest" ? NICHT_FEST.includes(s[8]) : art === "lern" ? !LERN.includes(s[8]) : art && s[8] !== art) return false;
+    if (ort === "remote" ? s[10] !== "Remote" : ort.startsWith("land:") ? s[3] !== ort.slice(5) : ort.startsWith("stadt:") && s[9] !== ort.slice(6)) return false;
     const t = s[5];
     if (!(von === 0 && bis === Infinity) && (t === null || t < von || t > bis)) return false;
     if (worte.length) { const text = (s[0] + " " + s[1] + " " + s[2]).toLowerCase(); if (!worte.every(w => text.includes(w))) return false; }
@@ -122,39 +161,59 @@ function filtern() {
 function firmenListe() {
   const m = new Map();
   for (const s of treffer) {
-    const f = m.get(s[0]) || {name: s[0], n: 0, max: 0, bereiche: new Map()};
-    f.n++; f.max = Math.max(f.max, s[5] || 0); f.bereiche.set(s[4], (f.bereiche.get(s[4]) || 0) + 1); m.set(s[0], f);
+    const f = m.get(s[0]) || {name: s[0], n: 0, max: 0, druck: 0, hoch: 0, bereiche: new Map()};
+    f.n++; f.max = Math.max(f.max, s[5] || 0); f.druck += s[11]; if (s[7] >= 3) f.hoch++;
+    f.bereiche.set(s[4], (f.bereiche.get(s[4]) || 0) + 1); m.set(s[0], f);
   }
-  return [...m.values()].sort((a, b) => b.n - a.n || a.name.localeCompare(b.name, "de"));
+  return [...m.values()].sort((a, b) => b.druck - a.druck || b.n - a.n);
+}
+
+function druckZelle(wert, max) {
+  const td = el("td", "z"), w = el("span", "druck"), i = el("i"), b = el("b");
+  b.style.width = Math.min(100, Math.round(100 * wert / max)) + "%"; i.append(b); w.append(i, document.createTextNode(String(wert))); td.append(w); return td;
+}
+
+function kopfKnopf(text, schluessel) {
+  const th = el("th", "z"), k = el("button", "", text + (sortierung === schluessel ? " ↓" : "")); k.type = "button";
+  k.setAttribute("aria-pressed", String(sortierung === schluessel)); k.title = "Nach " + text + " sortieren";
+  k.addEventListener("click", () => { sortierung = schluessel; zeigen(); }); th.append(k); return th;
 }
 
 function zeigen() {
   const kopf = $("kopf"), liste = $("liste"); kopf.textContent = ""; liste.textContent = "";
   const tr = el("tr"); let rest = 0;
   if (ansicht === "stellen") {
-    for (const [t, z] of [["Firma"], ["Stelle"], ["Bereich"], ["Ort"], ["Tage offen", 1]]) tr.append(el("th", z ? "z" : "", t));
-    for (const s of treffer.slice(0, grenze)) {
+    for (const t of ["Firma", "Stelle", "Bereich", "Ort"]) tr.append(el("th", "", t));
+    tr.append(kopfKnopf("Tage offen", "tage"), kopfKnopf("Druck", "druck"));
+    const sortiert = [...treffer].sort(sortierung === "tage" ? (a, b) => (b[5] || 0) - (a[5] || 0) : (a, b) => b[11] - a[11] || (b[5] || 0) - (a[5] || 0));
+    for (const s of sortiert.slice(0, grenze)) {
       const r = el("tr"), stelle = el("td");
       if (s[6]) { const a = el("a", "", s[1]); a.href = s[6]; a.target = "_blank"; a.rel = "noopener"; stelle.append(a); } else stelle.textContent = s[1];
+      const marken = el("div", "marken"); marken.append(el("span", "marke" + (s[7] >= 3 ? " gold" : " grau"), STUFEN[s[7]]));
+      if (s[8]) marken.append(el("span", "marke grau", s[8]));
+      if (s[10]) marken.append(el("span", "marke grau", s[10]));
+      stelle.append(marken);
       const b = el("td"); b.append(el("span", "marke", s[4]));
-      r.append(el("td", "", s[0]), stelle, b, el("td", "", s[2]), el("td", "z", s[5] === null ? "" : String(s[5]))); liste.append(r);
+      r.append(el("td", "", s[0]), stelle, b, el("td", "", s[2]), el("td", "z", s[5] === null ? "" : String(s[5])), druckZelle(s[11], 100)); liste.append(r);
     }
     rest = treffer.length - grenze;
   } else {
-    for (const [t, z] of [["Firma"], ["Am meisten gesucht"], ["Passende Stellen", 1], ["Längste Suche in Tagen", 1]]) tr.append(el("th", z ? "z" : "", t));
-    const firmen = firmenListe();
+    for (const [t, z] of [["Firma"], ["Warum jetzt"], ["Stellen", 1], ["Druck gesamt", 1]]) tr.append(el("th", z ? "z" : "", t));
+    const firmen = firmenListe(), spitze = firmen.length ? firmen[0].druck || 1 : 1;
     for (const f of firmen.slice(0, grenze)) {
       const r = el("tr"), name = el("td"), k = el("button", "firma-knopf", f.name); k.type = "button";
-      k.addEventListener("click", () => { $("suche").value = f.name; setzeAnsicht("stellen"); filtern(); });
+      k.addEventListener("click", () => { $("suche").value = f.name; setzeAnsicht("stellen"); filtern(); window.scrollTo({top: 0}); });
       name.append(k);
-      const top = [...f.bereiche.entries()].sort((a, b) => b[1] - a[1]).slice(0, 2).map(x => x[0] + " (" + x[1] + ")").join(", ");
-      r.append(name, el("td", "", top), el("td", "z", String(f.n)), el("td", "z", String(f.max))); liste.append(r);
+      const top = [...f.bereiche.entries()].sort((a, b) => b[1] - a[1])[0];
+      const text = (f.n === 1 ? "1 Stelle" : f.n + " Stellen") + (f.hoch ? ", davon " + f.hoch + " ab Senior" : "") +
+        ". Am längsten offen: " + f.max + " Tage. Schwerpunkt: " + top[0] + ".";
+      r.append(name, el("td", "warum", text), el("td", "z", String(f.n)), druckZelle(f.druck, spitze)); liste.append(r);
     }
     rest = firmen.length - grenze;
   }
   kopf.append(tr);
   const firmenZahl = new Set(treffer.map(s => s[0])).size;
-  const z = $("zahl"); z.textContent = treffer.length.toLocaleString("de-DE") + " Stellen ";
+  const z = $("zahl"); z.textContent = zahl(treffer.length) + (treffer.length === 1 ? " Stelle " : " Stellen ");
   z.append(el("small", "", "bei " + firmenZahl + (firmenZahl === 1 ? " Firma" : " Firmen")));
   $("leer").hidden = treffer.length > 0;
   $("mehr").hidden = rest <= 0;
@@ -168,7 +227,8 @@ function setzeAnsicht(a) {
 
 function herunterladen() {
   const zelle = v => '"' + String(v === null ? "" : v).replace(/"/g, '""') + '"';
-  const zeilen = [["Firma", "Stelle", "Ort", "Land", "Bereich", "Tage offen", "Link"]].concat(treffer).map(r => r.map(zelle).join(";"));
+  const kopf = ["Firma", "Stelle", "Ort", "Land", "Bereich", "Seniorität", "Anstellung", "Arbeitsort", "Tage offen", "Druck", "Link"];
+  const zeilen = [kopf].concat(treffer.map(s => [s[0], s[1], s[2], s[3], s[4], STUFEN[s[7]], s[8], s[10], s[5], s[11], s[6]])).map(r => r.map(zelle).join(";"));
   const blob = new Blob(["﻿" + zeilen.join("\r\n")], {type: "text/csv;charset=utf-8"});
   const a = document.createElement("a"); a.href = URL.createObjectURL(blob);
   a.download = "hiring-radar-" + D.stand.split(".").reverse().join("-") + ".csv";
@@ -177,7 +237,10 @@ function herunterladen() {
 
 let warte = 0;
 $("suche").addEventListener("input", () => { clearTimeout(warte); warte = setTimeout(filtern, 120); });
-for (const id of ["bereich", "land", "dauer"]) $(id).addEventListener("change", filtern);
+for (const id of ["bereich", "stufe", "art", "ort", "dauer"]) $(id).addEventListener("change", filtern);
+$("zurueck").addEventListener("click", () => {
+  $("suche").value = ""; for (const id of ["bereich", "stufe", "art", "ort", "dauer"]) $(id).selectedIndex = 0; filtern();
+});
 $("ansStellen").addEventListener("click", () => { setzeAnsicht("stellen"); zeigen(); });
 $("ansFirmen").addEventListener("click", () => { setzeAnsicht("firmen"); zeigen(); });
 $("mehr").addEventListener("click", () => { grenze += 200; zeigen(); });
