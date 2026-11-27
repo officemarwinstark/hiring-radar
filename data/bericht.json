@@ -1,0 +1,863 @@
+{
+ "stand": "2026-11-27 15:15",
+ "firmen": [
+  {
+   "kuerzel": "n26",
+   "name": "N26",
+   "stellen": 27,
+   "dach": 17
+  },
+  {
+   "kuerzel": "raisin",
+   "name": "Raisin",
+   "stellen": 35,
+   "dach": 26
+  },
+  {
+   "kuerzel": "contentful",
+   "name": "Contentful",
+   "stellen": 49,
+   "dach": 4
+  },
+  {
+   "kuerzel": "sumup",
+   "name": "SumUp",
+   "stellen": 337,
+   "dach": 47
+  },
+  {
+   "kuerzel": "hellofresh",
+   "name": "HelloFresh",
+   "stellen": 357,
+   "dach": 79
+  },
+  {
+   "kuerzel": "celonis",
+   "name": "Celonis",
+   "stellen": 257,
+   "dach": 68
+  },
+  {
+   "kuerzel": "getyourguide",
+   "name": "",
+   "stellen": 0,
+   "dach": 0
+  },
+  {
+   "kuerzel": "adjust",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "adyen",
+   "name": "Adyen",
+   "stellen": 234,
+   "dach": 7
+  },
+  {
+   "kuerzel": "airbnb",
+   "name": "Airbnb",
+   "stellen": 201,
+   "dach": 4
+  },
+  {
+   "kuerzel": "algolia",
+   "name": "Algolia",
+   "stellen": 25,
+   "dach": 1
+  },
+  {
+   "kuerzel": "anthropic",
+   "name": "Anthropic",
+   "stellen": 634,
+   "dach": 20
+  },
+  {
+   "kuerzel": "asana",
+   "name": "Asana",
+   "stellen": 107,
+   "dach": 2
+  },
+  {
+   "kuerzel": "aleph-alpha",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "alephalpha",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "auto1",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "babbel",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "billie",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "blinkist",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "bolt",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "boltv2",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "brex",
+   "name": "Brex",
+   "stellen": 266,
+   "dach": 0
+  },
+  {
+   "kuerzel": "bunq",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "candis",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "checkoutcom",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "choco",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "circula",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "clark",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "cloudflare",
+   "name": "Cloudflare",
+   "stellen": 533,
+   "dach": 0
+  },
+  {
+   "kuerzel": "coinbase",
+   "name": "Coinbase",
+   "stellen": 256,
+   "dach": 0
+  },
+  {
+   "kuerzel": "commercetools",
+   "name": "commercetools",
+   "stellen": 24,
+   "dach": 8
+  },
+  {
+   "kuerzel": "confluent",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "datadog",
+   "name": "Datadog",
+   "stellen": 390,
+   "dach": 3
+  },
+  {
+   "kuerzel": "databricks",
+   "name": "Databricks",
+   "stellen": 882,
+   "dach": 44
+  },
+  {
+   "kuerzel": "deepl",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "deliveryhero",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "demodesk",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "discord",
+   "name": "Discord",
+   "stellen": 30,
+   "dach": 0
+  },
+  {
+   "kuerzel": "doctolib",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "dropbox",
+   "name": "Dropbox",
+   "stellen": 51,
+   "dach": 0
+  },
+  {
+   "kuerzel": "duolingo",
+   "name": "Duolingo",
+   "stellen": 54,
+   "dach": 0
+  },
+  {
+   "kuerzel": "ecosia",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "elastic",
+   "name": "Elastic",
+   "stellen": 369,
+   "dach": 15
+  },
+  {
+   "kuerzel": "enpal",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "figma",
+   "name": "Figma",
+   "stellen": 141,
+   "dach": 8
+  },
+  {
+   "kuerzel": "finn",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "fivetran",
+   "name": "Fivetran",
+   "stellen": 200,
+   "dach": 4
+  },
+  {
+   "kuerzel": "flink",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "flix",
+   "name": "Flix",
+   "stellen": 179,
+   "dach": 62
+  },
+  {
+   "kuerzel": "flixbus",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "forto",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "freenow",
+   "name": "Freenow by Lyft",
+   "stellen": 12,
+   "dach": 4
+  },
+  {
+   "kuerzel": "getir",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "getsafe",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "gitlab",
+   "name": "GitLab",
+   "stellen": 243,
+   "dach": 12
+  },
+  {
+   "kuerzel": "glovo",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "gorillas",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "grafanalabs",
+   "name": "Grafana Labs",
+   "stellen": 137,
+   "dach": 14
+  },
+  {
+   "kuerzel": "grammarly",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "grover",
+   "name": "Grover",
+   "stellen": 7,
+   "dach": 7
+  },
+  {
+   "kuerzel": "gusto",
+   "name": "Gusto, Inc.",
+   "stellen": 86,
+   "dach": 0
+  },
+  {
+   "kuerzel": "hashicorp",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "helsing",
+   "name": "Helsing",
+   "stellen": 176,
+   "dach": 127
+  },
+  {
+   "kuerzel": "hometogo",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "hubspot",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "idealo",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "instacart",
+   "name": "Instacart",
+   "stellen": 97,
+   "dach": 0
+  },
+  {
+   "kuerzel": "isaraerospace",
+   "name": "Isar Aerospace SE",
+   "stellen": 144,
+   "dach": 118
+  },
+  {
+   "kuerzel": "jimdo",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "kayak",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "klarna",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "komoot",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "kontist",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "leapsome",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "lilium",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "lime",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "lyft",
+   "name": "Lyft",
+   "stellen": 144,
+   "dach": 0
+  },
+  {
+   "kuerzel": "mambu",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "marleyspoon",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "miro",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "mollie",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "mongodb",
+   "name": "MongoDB",
+   "stellen": 424,
+   "dach": 14
+  },
+  {
+   "kuerzel": "monzo",
+   "name": "Monzo",
+   "stellen": 58,
+   "dach": 0
+  },
+  {
+   "kuerzel": "moonfare",
+   "name": "Moonfare",
+   "stellen": 18,
+   "dach": 11
+  },
+  {
+   "kuerzel": "moss",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "getmoss",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "neo4j",
+   "name": "Neo4j",
+   "stellen": 59,
+   "dach": 0
+  },
+  {
+   "kuerzel": "newrelic",
+   "name": "New Relic",
+   "stellen": 42,
+   "dach": 1
+  },
+  {
+   "kuerzel": "notion",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "okta",
+   "name": "Okta",
+   "stellen": 360,
+   "dach": 2
+  },
+  {
+   "kuerzel": "omio",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "onefootball",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "openai",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "pagerduty",
+   "name": "PagerDuty",
+   "stellen": 49,
+   "dach": 0
+  },
+  {
+   "kuerzel": "parloa",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "payhawk",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "personio",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "pinterest",
+   "name": "Pinterest",
+   "stellen": 165,
+   "dach": 2
+  },
+  {
+   "kuerzel": "pitch",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "pleo",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "qonto",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "quantumsystems",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "reddit",
+   "name": "Reddit",
+   "stellen": 149,
+   "dach": 1
+  },
+  {
+   "kuerzel": "remote",
+   "name": "General Assembly Remote Jobs",
+   "stellen": 2,
+   "dach": 0
+  },
+  {
+   "kuerzel": "researchgate",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "revolut",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "robinhood",
+   "name": "Robinhood",
+   "stellen": 161,
+   "dach": 0
+  },
+  {
+   "kuerzel": "samsara",
+   "name": "Samsara",
+   "stellen": 292,
+   "dach": 7
+  },
+  {
+   "kuerzel": "scalablecapital",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "scout24",
+   "name": "Scout24",
+   "stellen": 17,
+   "dach": 17
+  },
+  {
+   "kuerzel": "sennder",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "sharenow",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "shopify",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "snyk",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "solarisbank",
+   "name": "Solaris",
+   "stellen": 18,
+   "dach": 18
+  },
+  {
+   "kuerzel": "soundcloud",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "spendesk",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "squarespace",
+   "name": "Squarespace",
+   "stellen": 20,
+   "dach": 0
+  },
+  {
+   "kuerzel": "staffbase",
+   "name": "Staffbase",
+   "stellen": 30,
+   "dach": 18
+  },
+  {
+   "kuerzel": "stripe",
+   "name": "Stripe",
+   "stellen": 765,
+   "dach": 11
+  },
+  {
+   "kuerzel": "tado",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "taxfix",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "thermondo",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "tiermobility",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "tourlane",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "traderepublic",
+   "name": "",
+   "stellen": 0,
+   "dach": 0
+  },
+  {
+   "kuerzel": "traderepublicbank",
+   "name": "Trade Republic",
+   "stellen": 44,
+   "dach": 7
+  },
+  {
+   "kuerzel": "trivago",
+   "name": "trivago",
+   "stellen": 17,
+   "dach": 17
+  },
+  {
+   "kuerzel": "twilio",
+   "name": "Twilio",
+   "stellen": 114,
+   "dach": 0
+  },
+  {
+   "kuerzel": "typeform",
+   "name": "Typeform",
+   "stellen": 6,
+   "dach": 3
+  },
+  {
+   "kuerzel": "userlane",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "usercentrics",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "vinted",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "volocopter",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "wayfair",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "wefox",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "wolt",
+   "name": "Wolt - English",
+   "stellen": 184,
+   "dach": 25
+  },
+  {
+   "kuerzel": "wooga",
+   "name": "Wooga",
+   "stellen": 3,
+   "dach": 3
+  },
+  {
+   "kuerzel": "workmotion",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "zalando",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "zendesk",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "zolar",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  },
+  {
+   "kuerzel": "1komma5grad",
+   "stellen": 0,
+   "dach": 0,
+   "fehler": "HTTP Error 404: Not Found"
+  }
+ ]
+}
