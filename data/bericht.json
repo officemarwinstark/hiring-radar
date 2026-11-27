@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27 15:54",
+ "stand": "2026-11-27 16:17",
  "firmen": [
   {
    "quelle": "greenhouse",
@@ -26,7 +26,7 @@
    "quelle": "greenhouse",
    "kuerzel": "celonis",
    "name": "Celonis",
-   "stellen": 257,
+   "stellen": 255,
    "dach": 68
   },
   {
@@ -124,7 +124,7 @@
    "quelle": "greenhouse",
    "kuerzel": "mongodb",
    "name": "MongoDB",
-   "stellen": 424,
+   "stellen": 423,
    "dach": 14
   },
   {
@@ -138,7 +138,7 @@
    "quelle": "greenhouse",
    "kuerzel": "stripe",
    "name": "Stripe",
-   "stellen": 765,
+   "stellen": 764,
    "dach": 11
   },
   {
@@ -159,8 +159,8 @@
    "quelle": "greenhouse",
    "kuerzel": "figma",
    "name": "Figma",
-   "stellen": 141,
-   "dach": 8
+   "stellen": 140,
+   "dach": 7
   },
   {
    "quelle": "greenhouse",
@@ -201,7 +201,7 @@
    "quelle": "greenhouse",
    "kuerzel": "airbnb",
    "name": "Airbnb",
-   "stellen": 201,
+   "stellen": 200,
    "dach": 4
   },
   {
@@ -348,8 +348,8 @@
    "quelle": "ashby",
    "kuerzel": "snowflake",
    "name": "Snowflake",
-   "stellen": 379,
-   "dach": 19
+   "stellen": 380,
+   "dach": 20
   },
   {
    "quelle": "ashby",
@@ -383,7 +383,7 @@
    "quelle": "ashby",
    "kuerzel": "qonto",
    "name": "Qonto",
-   "stellen": 66,
+   "stellen": 67,
    "dach": 17
   },
   {
@@ -411,7 +411,7 @@
    "quelle": "ashby",
    "kuerzel": "wayve",
    "name": "Wayve",
-   "stellen": 150,
+   "stellen": 151,
    "dach": 12
   },
   {
@@ -572,8 +572,8 @@
    "quelle": "lever",
    "kuerzel": "finn",
    "name": "FINN",
-   "stellen": 31,
-   "dach": 31
+   "stellen": 32,
+   "dach": 32
   },
   {
    "quelle": "lever",

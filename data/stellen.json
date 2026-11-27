@@ -360,6 +360,21 @@
   "link": "https://jobs.lever.co/finn/71c93ab7-c168-43b1-97f9-f1c029576dbf"
  },
  {
+  "firma": "Celonis",
+  "titel": "Lead Deployment Engineer",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Software und IT",
+  "stufe": 4,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-07-16",
+  "tage_offen": 134,
+  "druck": 50,
+  "link": "https://job-boards.greenhouse.io/celonis/jobs/7683435003?gh_jid=7683435003"
+ },
+ {
   "firma": "Sonar",
   "titel": "Lead Sales Solutions Engineer - EMEA",
   "ort": "Geneva",
@@ -418,21 +433,6 @@
   "tage_offen": 133,
   "druck": 49,
   "link": "https://job-boards.greenhouse.io/celonis/jobs/7802410003?gh_jid=7802410003"
- },
- {
-  "firma": "Celonis",
-  "titel": "Lead Deployment Engineer",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Software und IT",
-  "stufe": 4,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-07-16",
-  "tage_offen": 133,
-  "druck": 49,
-  "link": "https://job-boards.greenhouse.io/celonis/jobs/7683435003?gh_jid=7683435003"
  },
  {
   "firma": "Moonfare",
@@ -540,6 +540,21 @@
   "link": "https://jobs.ashbyhq.com/codesphere/9e100207-3659-43b4-9cd1-3d44f303e57b"
  },
  {
+  "firma": "Figma",
+  "titel": "Director, Strategic Sales (Berlin, Germany)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-08-17",
+  "tage_offen": 102,
+  "druck": 47,
+  "link": "https://boards.greenhouse.io/figma/jobs/6143018004?gh_jid=6143018004"
+ },
+ {
   "firma": "Databricks",
   "titel": "Lakebase Sales Specialist, Associate Director (Switzerland, Austria, Eastern Europe)",
   "ort": "Zürich, Switzerland",
@@ -553,21 +568,6 @@
   "tage_offen": 101,
   "druck": 47,
   "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569514002"
- },
- {
-  "firma": "Figma",
-  "titel": "Director, Strategic Sales (Berlin, Germany)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 5,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-08-17",
-  "tage_offen": 101,
-  "druck": 47,
-  "link": "https://boards.greenhouse.io/figma/jobs/6143018004?gh_jid=6143018004"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -1305,6 +1305,21 @@
   "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4940613101"
  },
  {
+  "firma": "Celonis",
+  "titel": "Senior Value Engineer - Growth & Scale Accounts",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Marketing",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-07-31",
+  "tage_offen": 119,
+  "druck": 33,
+  "link": "https://job-boards.greenhouse.io/celonis/jobs/7817387003?gh_jid=7817387003"
+ },
+ {
   "firma": "Elastic",
   "titel": "Senior Value Engineer",
   "ort": "Germany",
@@ -1333,21 +1348,6 @@
   "tage_offen": 119,
   "druck": 33,
   "link": "https://jobs.ashbyhq.com/pliant/290eb365-43bb-48f8-8a8c-83e597ae0229"
- },
- {
-  "firma": "Celonis",
-  "titel": "Senior Value Engineer - Growth & Scale Accounts",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Marketing",
-  "stufe": 3,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-07-31",
-  "tage_offen": 118,
-  "druck": 33,
-  "link": "https://job-boards.greenhouse.io/celonis/jobs/7817387003?gh_jid=7817387003"
  },
  {
   "firma": "FINN",
@@ -3542,21 +3542,6 @@
  {
   "firma": "Flix",
   "titel": "Senior SAP FICO Consultant (m/f/d)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Strategie und Projekte",
-  "stufe": 3,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-09-11",
-  "tage_offen": 77,
-  "druck": 21,
-  "link": "https://flix.careers/job/8798857002?gh_jid=8798857002"
- },
- {
-  "firma": "Flix",
-  "titel": "Senior SAP FICO Consultant (m/f/d)",
   "ort": "Munich",
   "land": "Deutschland",
   "stadt": "München",
@@ -3568,6 +3553,21 @@
   "tage_offen": 77,
   "druck": 21,
   "link": "https://flix.careers/job/8798858002?gh_jid=8798858002"
+ },
+ {
+  "firma": "Flix",
+  "titel": "Senior SAP FICO Consultant (m/f/d)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Strategie und Projekte",
+  "stufe": 3,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-09-11",
+  "tage_offen": 77,
+  "druck": 21,
+  "link": "https://flix.careers/job/8798857002?gh_jid=8798857002"
  },
  {
   "firma": "SumUp",
@@ -5132,9 +5132,9 @@
  {
   "firma": "HelloFresh",
   "titel": "Fachkraft für Arbeitssicherheit (all genders)",
-  "ort": "München, Bavaria, Germany",
+  "ort": "Frankfurt am Main, Hesse, Germany",
   "land": "Deutschland",
-  "stadt": "München",
+  "stadt": "Frankfurt",
   "bereich": "Betrieb und Logistik",
   "stufe": 2,
   "art": "",
@@ -5142,7 +5142,7 @@
   "online_seit": "2026-09-03",
   "tage_offen": 85,
   "druck": 16,
-  "link": "https://careers.hellofresh.com/global/en/job/8176721?gh_jid=8176721"
+  "link": "https://careers.hellofresh.com/global/en/job/8176722?gh_jid=8176722"
  },
  {
   "firma": "HelloFresh",
@@ -5162,9 +5162,9 @@
  {
   "firma": "HelloFresh",
   "titel": "Fachkraft für Arbeitssicherheit (all genders)",
-  "ort": "Frankfurt am Main, Hesse, Germany",
+  "ort": "München, Bavaria, Germany",
   "land": "Deutschland",
-  "stadt": "Frankfurt",
+  "stadt": "München",
   "bereich": "Betrieb und Logistik",
   "stufe": 2,
   "art": "",
@@ -5172,7 +5172,7 @@
   "online_seit": "2026-09-03",
   "tage_offen": 85,
   "druck": 16,
-  "link": "https://careers.hellofresh.com/global/en/job/8176722?gh_jid=8176722"
+  "link": "https://careers.hellofresh.com/global/en/job/8176721?gh_jid=8176721"
  },
  {
   "firma": "N26",
@@ -6015,6 +6015,21 @@
   "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4976420101"
  },
  {
+  "firma": "Wolt - English",
+  "titel": "Enterprise Key Account Manager (m/f/x)",
+  "ort": "Berlin, Germany; Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-09-15",
+  "tage_offen": 73,
+  "druck": 14,
+  "link": "https://job-boards.greenhouse.io/wolt/jobs/8203915"
+ },
+ {
   "firma": "Contentful",
   "titel": "Mid Market Account Executive - DACH (f/m/d)",
   "ort": "Munich, Germany",
@@ -6135,6 +6150,21 @@
   "link": "https://careers.hellofresh.com/global/en/job/8258609?gh_jid=8258609"
  },
  {
+  "firma": "Raisin",
+  "titel": "Senior Motion Designer (m/f/d)",
+  "ort": "Berlin, Berlin, Germany; Hamburg",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Produkt und Design",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-07",
+  "tage_offen": 51,
+  "druck": 14,
+  "link": "https://job-boards.eu.greenhouse.io/raisin/jobs/4999592101"
+ },
+ {
   "firma": "GitLab",
   "titel": "Senior Account Executive",
   "ort": "Remote, Austria",
@@ -6253,21 +6283,6 @@
   "tage_offen": 50,
   "druck": 14,
   "link": "https://job-boards.greenhouse.io/celonis/jobs/8016659003?gh_jid=8016659003"
- },
- {
-  "firma": "Raisin",
-  "titel": "Senior Motion Designer (m/f/d)",
-  "ort": "Berlin, Berlin, Germany; Hamburg",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Produkt und Design",
-  "stufe": 3,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-10-07",
-  "tage_offen": 50,
-  "druck": 14,
-  "link": "https://job-boards.eu.greenhouse.io/raisin/jobs/4999592101"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -6478,21 +6493,6 @@
   "tage_offen": 30,
   "druck": 14,
   "link": "https://www.fivetran.com/careers/job?gh_jid=8034540003"
- },
- {
-  "firma": "Wolt - English",
-  "titel": "Enterprise Key Account Manager (m/f/x)",
-  "ort": "Berlin, Germany; Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-09-15",
-  "tage_offen": 72,
-  "druck": 13,
-  "link": "https://job-boards.greenhouse.io/wolt/jobs/8203915"
  },
  {
   "firma": "Enpal",
@@ -6883,6 +6883,21 @@
   "tage_offen": 29,
   "druck": 13,
   "link": "https://jobs.ashbyhq.com/upvest/5e759b8e-9fca-46c5-b394-fd3ceed229f1"
+ },
+ {
+  "firma": "HelloFresh",
+  "titel": "Associate Director, Corporate Strategy & Development (all genders)",
+  "ort": "Berlin, Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Strategie und Projekte",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-30",
+  "tage_offen": 28,
+  "druck": 13,
+  "link": "https://careers.hellofresh.com/global/en/job/8334134?gh_jid=8334134"
  },
  {
   "firma": "Staffbase",
@@ -7455,21 +7470,6 @@
   "link": "https://jobs.ashbyhq.com/snowflake/499b0652-047b-48a9-a056-2083b8d53bab"
  },
  {
-  "firma": "HelloFresh",
-  "titel": "Associate Director, Corporate Strategy & Development (all genders)",
-  "ort": "Berlin, Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Strategie und Projekte",
-  "stufe": 5,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-10-30",
-  "tage_offen": 27,
-  "druck": 12,
-  "link": "https://careers.hellofresh.com/global/en/job/8334134?gh_jid=8334134"
- },
- {
   "firma": "Isar Aerospace SE",
   "titel": "Vice President Sales & Strategic Funding (m/f/d)",
   "ort": "Parsdorf, Bavaria, Germany",
@@ -7480,7 +7480,7 @@
   "art": "",
   "modus": "",
   "online_seit": "2026-11-05",
-  "tage_offen": 21,
+  "tage_offen": 22,
   "druck": 12,
   "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5015056101"
  },
@@ -7530,6 +7530,21 @@
   "link": "https://sumup.com/careers/positions/8852097002?gh_jid=8852097002"
  },
  {
+  "firma": "Sereact",
+  "titel": "Mechaniker / Mechatroniker (m/w/d) – Robotersysteme",
+  "ort": "Stuttgart Schockenriedstr. 17, Germany",
+  "land": "Deutschland",
+  "stadt": "Stuttgart",
+  "bereich": "Handwerk und Montage",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-09-28",
+  "tage_offen": 60,
+  "druck": 11,
+  "link": "https://jobs.ashbyhq.com/sereact/24f2048a-4342-49d1-97ec-dcfe7ce9f92e"
+ },
+ {
   "firma": "Wolt - English",
   "titel": "Manager, Tax Technology — VAT (Wolt &amp; Deliveroo Tax Platform &amp; Business Projects)",
   "ort": "Berlin, Germany",
@@ -7543,21 +7558,6 @@
   "tage_offen": 59,
   "druck": 11,
   "link": "https://job-boards.greenhouse.io/wolt/jobs/8419486"
- },
- {
-  "firma": "Sereact",
-  "titel": "Mechaniker / Mechatroniker (m/w/d) – Robotersysteme",
-  "ort": "Stuttgart Schockenriedstr. 17, Germany",
-  "land": "Deutschland",
-  "stadt": "Stuttgart",
-  "bereich": "Handwerk und Montage",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-09-28",
-  "tage_offen": 59,
-  "druck": 11,
-  "link": "https://jobs.ashbyhq.com/sereact/24f2048a-4342-49d1-97ec-dcfe7ce9f92e"
  },
  {
   "firma": "Kertos",
@@ -7845,6 +7845,21 @@
   "link": "https://jobs.ashbyhq.com/1password/17daeab3-9eb2-439c-88d3-91afd8dd2c63"
  },
  {
+  "firma": "Sonar",
+  "titel": "Cloud Platform Automation Engineer (f/m/d)",
+  "ort": "Bochum",
+  "land": "Deutschland",
+  "stadt": "Bochum",
+  "bereich": "Software und IT",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-09-30",
+  "tage_offen": 58,
+  "druck": 11,
+  "link": "https://jobs.lever.co/sonarsource/7a76fc2f-d21a-4e99-a31b-79b5431b610a"
+ },
+ {
   "firma": "Helsing",
   "titel": "Flight Dynamics Modelling Engineer",
   "ort": "Munich",
@@ -7950,21 +7965,6 @@
   "link": "https://www.scout24.com/en/career/jobs/8245574?gh_jid=8245574"
  },
  {
-  "firma": "Sonar",
-  "titel": "Cloud Platform Automation Engineer (f/m/d)",
-  "ort": "Bochum",
-  "land": "Deutschland",
-  "stadt": "Bochum",
-  "bereich": "Software und IT",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-09-30",
-  "tage_offen": 57,
-  "druck": 11,
-  "link": "https://jobs.lever.co/sonarsource/7a76fc2f-d21a-4e99-a31b-79b5431b610a"
- },
- {
   "firma": "Staffbase",
   "titel": "Senior Product Manager - Parental Leave Cover (Fixed-Term, 12 Months)",
   "ort": "Berlin, Germany; Chemnitz, Sachsen, Germany; Dresden, Sachsen, Germany",
@@ -7978,6 +7978,21 @@
   "tage_offen": 39,
   "druck": 11,
   "link": "https://job-boards.greenhouse.io/staffbase/jobs/8899837002"
+ },
+ {
+  "firma": "Taktile",
+  "titel": "Senior Product Manager - Platform",
+  "ort": "Berlin Office, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Software und IT",
+  "stufe": 3,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-10-19",
+  "tage_offen": 39,
+  "druck": 11,
+  "link": "https://jobs.ashbyhq.com/taktile/071b2936-1222-47e5-b050-400209ebd406"
  },
  {
   "firma": "Helsing",
@@ -8038,21 +8053,6 @@
   "tage_offen": 38,
   "druck": 11,
   "link": "https://job-boards.greenhouse.io/grafanalabs/jobs/6228511004"
- },
- {
-  "firma": "Taktile",
-  "titel": "Senior Product Manager - Platform",
-  "ort": "Berlin Office, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Software und IT",
-  "stufe": 3,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-10-19",
-  "tage_offen": 38,
-  "druck": 11,
-  "link": "https://jobs.ashbyhq.com/taktile/071b2936-1222-47e5-b050-400209ebd406"
  },
  {
   "firma": "Stripe",
@@ -8715,6 +8715,21 @@
   "link": "https://sumup.com/careers/positions/8909054002?gh_jid=8909054002"
  },
  {
+  "firma": "N26",
+  "titel": "Senior Site Reliability Engineer - Connectivity",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Software und IT",
+  "stufe": 3,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-10-23",
+  "tage_offen": 35,
+  "druck": 10,
+  "link": "https://n26.com/en-eu/careers/positions/8219953?gh_jid=8219953"
+ },
+ {
   "firma": "Elastic",
   "titel": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
   "ort": "Switzerland",
@@ -8927,21 +8942,6 @@
  {
   "firma": "SumUp",
   "titel": "Erfahrener Außendienstmitarbeiter (m/w/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-10-07",
-  "tage_offen": 51,
-  "druck": 9,
-  "link": "https://sumup.com/careers/positions/8874444002?gh_jid=8874444002"
- },
- {
-  "firma": "SumUp",
-  "titel": "Erfahrener Außendienstmitarbeiter (m/w/d)",
   "ort": "Vienna, Vienna, Austria",
   "land": "Österreich",
   "stadt": "Wien",
@@ -8953,6 +8953,21 @@
   "tage_offen": 51,
   "druck": 9,
   "link": "https://sumup.com/careers/positions/8874567002?gh_jid=8874567002"
+ },
+ {
+  "firma": "SumUp",
+  "titel": "Erfahrener Außendienstmitarbeiter (m/w/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-07",
+  "tage_offen": 51,
+  "druck": 9,
+  "link": "https://sumup.com/careers/positions/8874444002?gh_jid=8874444002"
  },
  {
   "firma": "Grover",
@@ -9360,21 +9375,6 @@
   "link": "https://jobs.ashbyhq.com/cohere/1c011283-34f3-4461-bb65-455d65a3ec84"
  },
  {
-  "firma": "N26",
-  "titel": "Senior Site Reliability Engineer - Connectivity",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Software und IT",
-  "stufe": 3,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-10-23",
-  "tage_offen": 34,
-  "druck": 9,
-  "link": "https://n26.com/en-eu/careers/positions/8219953?gh_jid=8219953"
- },
- {
   "firma": "Grafana Labs",
   "titel": "Senior Product Marketing Manager  | Germany | Remote",
   "ort": "Germany (Remote)",
@@ -9463,6 +9463,21 @@
   "tage_offen": 31,
   "druck": 9,
   "link": "https://job-boards.greenhouse.io/staffbase/jobs/8919395002"
+ },
+ {
+  "firma": "Contentful",
+  "titel": "DACH Senior Solution Engineer (f/m/d)",
+  "ort": "Munich, Bavaria, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Sales",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-27",
+  "tage_offen": 31,
+  "druck": 9,
+  "link": "https://job-boards.greenhouse.io/contentful/jobs/8327853"
  },
  {
   "firma": "Snowflake",
@@ -9810,6 +9825,21 @@
   "link": "https://jobs.ashbyhq.com/flinn/c9512e6d-2ec2-47f7-a680-fa751f18c02f"
  },
  {
+  "firma": "Veeva",
+  "titel": "Product Manager (Link Key Accounts)",
+  "ort": "Germany - Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-10-13",
+  "tage_offen": 45,
+  "druck": 8,
+  "link": "https://jobs.lever.co/veeva/4d0d2e4b-8283-4a9a-b413-0c438f68712e"
+ },
+ {
   "firma": "Grafana Labs",
   "titel": "Major Account Executive | Remote | Germany",
   "ort": "Germany (Remote)",
@@ -9838,21 +9868,6 @@
   "tage_offen": 44,
   "druck": 8,
   "link": "https://jobs.ashbyhq.com/openai/d039c0ef-ab36-4d40-bc5e-5c70295b2eb7"
- },
- {
-  "firma": "Veeva",
-  "titel": "Product Manager (Link Key Accounts)",
-  "ort": "Germany - Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-10-13",
-  "tage_offen": 44,
-  "druck": 8,
-  "link": "https://jobs.lever.co/veeva/4d0d2e4b-8283-4a9a-b413-0c438f68712e"
  },
  {
   "firma": "Isar Aerospace SE",
@@ -10213,21 +10228,6 @@
   "tage_offen": 30,
   "druck": 8,
   "link": "https://sumup.com/careers/positions/8907454002?gh_jid=8907454002"
- },
- {
-  "firma": "Contentful",
-  "titel": "DACH Senior Solution Engineer (f/m/d)",
-  "ort": "Munich, Bavaria, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Sales",
-  "stufe": 3,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-10-27",
-  "tage_offen": 30,
-  "druck": 8,
-  "link": "https://job-boards.greenhouse.io/contentful/jobs/8327853"
  },
  {
   "firma": "Typeform",
@@ -10720,7 +10720,7 @@
   "art": "Vollzeit",
   "modus": "Remote",
   "online_seit": "2026-03-07",
-  "tage_offen": 264,
+  "tage_offen": 265,
   "druck": 7,
   "link": "https://jobs.lever.co/veeva/b20e401b-8622-40e4-8da5-6094f7164a33"
  },
@@ -11057,21 +11057,6 @@
  {
   "firma": "Celonis",
   "titel": "Strategic Account Executive - Transportation & Logistics",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-10-20",
-  "tage_offen": 38,
-  "druck": 7,
-  "link": "https://job-boards.greenhouse.io/celonis/jobs/8009490003?gh_jid=8009490003"
- },
- {
-  "firma": "Celonis",
-  "titel": "Strategic Account Executive - Transportation & Logistics",
   "ort": "Remote, Germany",
   "land": "Deutschland",
   "stadt": "",
@@ -11083,6 +11068,21 @@
   "tage_offen": 38,
   "druck": 7,
   "link": "https://job-boards.greenhouse.io/celonis/jobs/8038816003?gh_jid=8038816003"
+ },
+ {
+  "firma": "Celonis",
+  "titel": "Strategic Account Executive - Transportation & Logistics",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-20",
+  "tage_offen": 38,
+  "druck": 7,
+  "link": "https://job-boards.greenhouse.io/celonis/jobs/8009490003?gh_jid=8009490003"
  },
  {
   "firma": "Databricks",
@@ -11565,6 +11565,21 @@
   "link": "https://jobs.ashbyhq.com/sereact/2f81e531-942b-4ca1-be5e-b5f31ce50b41"
  },
  {
+  "firma": "Pleo",
+  "titel": "Account Manager II (German Speaking)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-10-22",
+  "tage_offen": 36,
+  "druck": 7,
+  "link": "https://jobs.ashbyhq.com/pleo/3501c4b5-c2d0-43cf-ad22-99a4c46d75ae"
+ },
+ {
   "firma": "Veeva",
   "titel": "Content Writer",
   "ort": "Germany - Berlin",
@@ -11686,7 +11701,7 @@
  },
  {
   "firma": "Parloa",
-  "titel": "Senior Engineering Manager",
+  "titel": "Senior Engineering Manager, Marketplace",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
   "stadt": "Berlin",
@@ -11740,7 +11755,7 @@
   "art": "Vollzeit",
   "modus": "Remote",
   "online_seit": "2026-11-14",
-  "tage_offen": 12,
+  "tage_offen": 13,
   "druck": 7,
   "link": "https://jobs.ashbyhq.com/langchain/ebfd7cd4-c9cd-46bd-b406-3fadaffcecef"
  },
@@ -12316,11 +12331,11 @@
  },
  {
   "firma": "Isar Aerospace SE",
-  "titel": "Senior Safety & Compliance Specialist (f/m/d)",
+  "titel": "Senior Safety & Compliance Engineer (f/m/d)",
   "ort": "Parsdorf, Bavaria, Germany",
   "land": "Deutschland",
   "stadt": "München",
-  "bereich": "Finanzen und Recht",
+  "bereich": "Software und IT",
   "stufe": 3,
   "art": "",
   "modus": "",
@@ -12355,7 +12370,7 @@
   "art": "",
   "modus": "Remote",
   "online_seit": "2026-05-27",
-  "tage_offen": 183,
+  "tage_offen": 184,
   "druck": 6,
   "link": "https://www.fivetran.com/careers/job?gh_jid=7742243003"
  },
@@ -12628,21 +12643,6 @@
   "tage_offen": 35,
   "druck": 6,
   "link": "https://jobs.ashbyhq.com/wayve/ef26c83f-4dc4-44ae-af5a-1de79f76744f"
- },
- {
-  "firma": "Pleo",
-  "titel": "Account Manager II (German Speaking)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-10-22",
-  "tage_offen": 35,
-  "druck": 6,
-  "link": "https://jobs.ashbyhq.com/pleo/3501c4b5-c2d0-43cf-ad22-99a4c46d75ae"
  },
  {
   "firma": "Sonar",
@@ -13245,6 +13245,21 @@
   "link": "https://careers.hellofresh.com/global/en/job/8378461?gh_jid=8378461"
  },
  {
+  "firma": "n8n",
+  "titel": "Team Lead of Forward Deployment  - EMEA",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sonstiges",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-11-11",
+  "tage_offen": 16,
+  "druck": 6,
+  "link": "https://jobs.ashbyhq.com/n8n/fb5e4f97-a769-4b87-95f4-bdc5e4c3b031"
+ },
+ {
   "firma": "Peec AI",
   "titel": "Communications Lead",
   "ort": "Berlin, Germany",
@@ -13348,21 +13363,6 @@
   "tage_offen": 15,
   "druck": 6,
   "link": "https://job-boards.greenhouse.io/gitlab/jobs/8936153002"
- },
- {
-  "firma": "n8n",
-  "titel": "Team Lead of Forward Deployment  - EMEA",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Sonstiges",
-  "stufe": 4,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-11-11",
-  "tage_offen": 15,
-  "druck": 6,
-  "link": "https://jobs.ashbyhq.com/n8n/fb5e4f97-a769-4b87-95f4-bdc5e4c3b031"
  },
  {
   "firma": "n8n",
@@ -14455,7 +14455,7 @@
   "art": "Vollzeit",
   "modus": "Vor Ort",
   "online_seit": "2024-11-13",
-  "tage_offen": 743,
+  "tage_offen": 744,
   "druck": 4,
   "link": "https://jobs.ashbyhq.com/reonic/91419553-80a9-4c3e-9f72-00887df8ebdb"
  },
@@ -14687,21 +14687,6 @@
  {
   "firma": "SumUp",
   "titel": "Field Sales Manager (m/w/d)",
-  "ort": "Düsseldorf, North Rhine-Westphalia, Germany",
-  "land": "Deutschland",
-  "stadt": "Düsseldorf",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2025-07-31",
-  "tage_offen": 484,
-  "druck": 4,
-  "link": "https://sumup.com/careers/positions/8082062002?gh_jid=8082062002"
- },
- {
-  "firma": "SumUp",
-  "titel": "Field Sales Manager (m/w/d)",
   "ort": "Cologne, Germany",
   "land": "Deutschland",
   "stadt": "Köln",
@@ -14713,6 +14698,21 @@
   "tage_offen": 484,
   "druck": 4,
   "link": "https://sumup.com/careers/positions/8082105002?gh_jid=8082105002"
+ },
+ {
+  "firma": "SumUp",
+  "titel": "Field Sales Manager (m/w/d)",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany",
+  "land": "Deutschland",
+  "stadt": "Düsseldorf",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2025-07-31",
+  "tage_offen": 484,
+  "druck": 4,
+  "link": "https://sumup.com/careers/positions/8082062002?gh_jid=8082062002"
  },
  {
   "firma": "Flix",
@@ -15240,21 +15240,6 @@
   "link": "https://helsing.ai/jobs/4737931101?gh_jid=4737931101"
  },
  {
-  "firma": "Figma",
-  "titel": "Solutions Consultant (Berlin, Germany)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2025-12-16",
-  "tage_offen": 346,
-  "druck": 4,
-  "link": "https://boards.greenhouse.io/figma/jobs/5735853004?gh_jid=5735853004"
- },
- {
   "firma": "Helsing",
   "titel": "Software Engineer - Autonomous Air System V&V",
   "ort": "Berlin; Munich",
@@ -15745,7 +15730,7 @@
   "art": "",
   "modus": "",
   "online_seit": "2026-03-18",
-  "tage_offen": 253,
+  "tage_offen": 254,
   "druck": 4,
   "link": "https://sumup.com/careers/positions/8468108002?gh_jid=8468108002"
  },
@@ -15760,7 +15745,7 @@
   "art": "",
   "modus": "",
   "online_seit": "2026-03-18",
-  "tage_offen": 253,
+  "tage_offen": 254,
   "druck": 4,
   "link": "https://sumup.com/careers/positions/8468066002?gh_jid=8468066002"
  },
@@ -16030,7 +16015,7 @@
   "art": "",
   "modus": "",
   "online_seit": "2026-04-15",
-  "tage_offen": 225,
+  "tage_offen": 226,
   "druck": 4,
   "link": "https://www.moonfare.com/open-position/?gh_jid=7701620003"
  },
@@ -16510,7 +16495,7 @@
   "art": "",
   "modus": "",
   "online_seit": "2026-04-30",
-  "tage_offen": 210,
+  "tage_offen": 211,
   "druck": 4,
   "link": "https://boards.greenhouse.io/figma/jobs/5985397004?gh_jid=5985397004"
  },
@@ -17307,22 +17292,7 @@
   "online_seit": "2026-11-04",
   "tage_offen": 23,
   "druck": 4,
-  "link": "https://flix.careers/job/8928206002?gh_jid=8928206002"
- },
- {
-  "firma": "Flix",
-  "titel": "CRM Manager m/f/d",
-  "ort": "Munich",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Marketing",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-04",
-  "tage_offen": 23,
-  "druck": 4,
-  "link": "https://flix.careers/job/8929726002?gh_jid=8929726002"
+  "link": "https://flix.careers/job/8929727002?gh_jid=8929727002"
  },
  {
   "firma": "Flix",
@@ -17342,6 +17312,21 @@
  {
   "firma": "Flix",
   "titel": "CRM Manager m/f/d",
+  "ort": "Munich",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Marketing",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-04",
+  "tage_offen": 23,
+  "druck": 4,
+  "link": "https://flix.careers/job/8929726002?gh_jid=8929726002"
+ },
+ {
+  "firma": "Flix",
+  "titel": "CRM Manager m/f/d",
   "ort": "Berlin",
   "land": "Deutschland",
   "stadt": "Berlin",
@@ -17352,7 +17337,7 @@
   "online_seit": "2026-11-04",
   "tage_offen": 23,
   "druck": 4,
-  "link": "https://flix.careers/job/8929727002?gh_jid=8929727002"
+  "link": "https://flix.careers/job/8928206002?gh_jid=8928206002"
  },
  {
   "firma": "Anthropic",
@@ -17398,6 +17383,21 @@
   "tage_offen": 23,
   "druck": 4,
   "link": "https://jobs.elastic.co/jobs?gh_jid=8336443&gh_jid=8336443"
+ },
+ {
+  "firma": "Enpal",
+  "titel": "Sales Support Manager (w/m/d)",
+  "ort": "Remote, Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-11-04",
+  "tage_offen": 23,
+  "druck": 4,
+  "link": "https://jobs.ashbyhq.com/enpal/637edfc6-ad6c-4569-b492-e58103ab1db4"
  },
  {
   "firma": "Enpal",
@@ -17595,6 +17595,51 @@
   "link": "https://job-boards.greenhouse.io/celonis/jobs/8005086003?gh_jid=8005086003"
  },
  {
+  "firma": "Flix",
+  "titel": "Dienstleistungsmanager (m/w/d)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-05",
+  "tage_offen": 22,
+  "druck": 4,
+  "link": "https://flix.careers/job/8932059002?gh_jid=8932059002"
+ },
+ {
+  "firma": "Flix",
+  "titel": "Service Koordinator (m/w/d)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Betrieb und Logistik",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-05",
+  "tage_offen": 22,
+  "druck": 4,
+  "link": "https://flix.careers/job/8932057002?gh_jid=8932057002"
+ },
+ {
+  "firma": "Flix",
+  "titel": "Service Manager (m/w/d)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-05",
+  "tage_offen": 22,
+  "druck": 4,
+  "link": "https://flix.careers/job/8929715002?gh_jid=8929715002"
+ },
+ {
   "firma": "Databricks",
   "titel": "AI Forward Deployed Engineer - Germany",
   "ort": "Munich, Germany",
@@ -17623,21 +17668,6 @@
   "tage_offen": 22,
   "druck": 4,
   "link": "https://job-boards.greenhouse.io/wolt/jobs/8355611"
- },
- {
-  "firma": "Enpal",
-  "titel": "Sales Support Manager (w/m/d)",
-  "ort": "Remote, Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-11-04",
-  "tage_offen": 22,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/enpal/637edfc6-ad6c-4569-b492-e58103ab1db4"
  },
  {
   "firma": "Enpal",
@@ -17731,21 +17761,6 @@
  },
  {
   "firma": "Flix",
-  "titel": "Dienstleistungsmanager (m/w/d)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sonstiges",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-05",
-  "tage_offen": 21,
-  "druck": 4,
-  "link": "https://flix.careers/job/8932059002?gh_jid=8932059002"
- },
- {
-  "firma": "Flix",
   "titel": "Koordinator Fahrgastinformation - FlixTrain (m/w/d)",
   "ort": "Berlin",
   "land": "Deutschland",
@@ -17788,36 +17803,6 @@
   "tage_offen": 21,
   "druck": 4,
   "link": "https://flix.careers/job/8927061002?gh_jid=8927061002"
- },
- {
-  "firma": "Flix",
-  "titel": "Service Koordinator (m/w/d)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Betrieb und Logistik",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-05",
-  "tage_offen": 21,
-  "druck": 4,
-  "link": "https://flix.careers/job/8932057002?gh_jid=8932057002"
- },
- {
-  "firma": "Flix",
-  "titel": "Service Manager (m/w/d)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sonstiges",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-05",
-  "tage_offen": 21,
-  "druck": 4,
-  "link": "https://flix.careers/job/8929715002?gh_jid=8929715002"
  },
  {
   "firma": "Databricks",
@@ -17893,6 +17878,21 @@
   "tage_offen": 21,
   "druck": 4,
   "link": "https://jobs.ashbyhq.com/parloa/2daa7ed8-4528-41c6-85d0-d5b7f539ced7"
+ },
+ {
+  "firma": "Parloa",
+  "titel": "Strategic Engagement Manager",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-11-06",
+  "tage_offen": 21,
+  "druck": 4,
+  "link": "https://jobs.ashbyhq.com/parloa/658073b5-f4d6-4294-b552-e4eba3cc01b5"
  },
  {
   "firma": "OpenAI",
@@ -18043,21 +18043,6 @@
   "tage_offen": 20,
   "druck": 4,
   "link": "https://jobs.ashbyhq.com/parloa/cc034fa1-c474-49eb-8c96-01faca914618"
- },
- {
-  "firma": "Parloa",
-  "titel": "Strategic Engagement Manager",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sonstiges",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-11-06",
-  "tage_offen": 20,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/parloa/658073b5-f4d6-4294-b552-e4eba3cc01b5"
  },
  {
   "firma": "Harvey",
@@ -18315,6 +18300,21 @@
   "link": "https://job-boards.greenhouse.io/celonis/jobs/8173377003?gh_jid=8173377003"
  },
  {
+  "firma": "Celonis",
+  "titel": "Principal Enterprise Architect",
+  "ort": "Zürich, Switzerland",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Software und IT",
+  "stufe": 4,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "druck": 4,
+  "link": "https://job-boards.greenhouse.io/celonis/jobs/8205462003?gh_jid=8205462003"
+ },
+ {
   "firma": "Enpal",
   "titel": "Staff Platform Engineer (f/m/d)",
   "ort": "Berlin, Germany",
@@ -18343,21 +18343,6 @@
   "tage_offen": 11,
   "druck": 4,
   "link": "https://jobs.ashbyhq.com/DeepL/7c913163-e90d-4ef7-bfaf-99e89af41dec"
- },
- {
-  "firma": "Celonis",
-  "titel": "Principal Enterprise Architect",
-  "ort": "Zürich, Switzerland",
-  "land": "Schweiz",
-  "stadt": "Zürich",
-  "bereich": "Software und IT",
-  "stufe": 4,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-16",
-  "tage_offen": 10,
-  "druck": 4,
-  "link": "https://job-boards.greenhouse.io/celonis/jobs/8205462003?gh_jid=8205462003"
  },
  {
   "firma": "Enpal",
@@ -18705,6 +18690,21 @@
   "link": "https://jobs.ashbyhq.com/enpal/376045d8-d08c-400a-a3ed-c942035eeda5"
  },
  {
+  "firma": "HelloFresh",
+  "titel": "FSQA Supervisor (all genders)",
+  "ort": "Verden, Niedersachsen, Germany",
+  "land": "Deutschland",
+  "stadt": "Verden",
+  "bereich": "Betrieb und Logistik",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-09",
+  "tage_offen": 18,
+  "druck": 3,
+  "link": "https://careers.hellofresh.com/global/en/job/8366259?gh_jid=8366259"
+ },
+ {
   "firma": "N26",
   "titel": "Manager für Beschwerdeaudits",
   "ort": "Berlin",
@@ -18763,21 +18763,6 @@
   "tage_offen": 18,
   "druck": 3,
   "link": "https://jobs.ashbyhq.com/openai/0cbc002e-bd6e-4aa3-9dbc-ed7fe59511ea"
- },
- {
-  "firma": "HelloFresh",
-  "titel": "FSQA Supervisor (all genders)",
-  "ort": "Verden, Niedersachsen, Germany",
-  "land": "Deutschland",
-  "stadt": "Verden",
-  "bereich": "Betrieb und Logistik",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-09",
-  "tage_offen": 17,
-  "druck": 3,
-  "link": "https://careers.hellofresh.com/global/en/job/8366259?gh_jid=8366259"
  },
  {
   "firma": "Celonis",
@@ -19365,6 +19350,21 @@
   "link": "https://jobs.ashbyhq.com/enpal/d817f610-6801-44b4-aa51-5851a46162c6"
  },
  {
+  "firma": "Enpal",
+  "titel": "Sales Manager (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-11-13",
+  "tage_offen": 14,
+  "druck": 3,
+  "link": "https://jobs.ashbyhq.com/enpal/267b03bb-c20e-4066-b34a-95c66284fc5d"
+ },
+ {
   "firma": "Sereact",
   "titel": "Robotics Project Manager (m/f/d)",
   "ort": "Stuttgart Schockenriedstr. 17, Germany",
@@ -19603,6 +19603,21 @@
   "tage_offen": 11,
   "druck": 3,
   "link": "https://jobs.lever.co/sonarsource/8289e922-415a-4725-9c1b-e69cf1f15589"
+ },
+ {
+  "firma": "Helsing",
+  "titel": "Senior Warhead Engineer – Lethality Centre of Excellence",
+  "ort": "Munich",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Software und IT",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-17",
+  "tage_offen": 10,
+  "druck": 3,
+  "link": "https://helsing.ai/jobs/5040443101?gh_jid=5040443101"
  },
  {
   "firma": "Raisin",
@@ -20235,6 +20250,21 @@
   "link": "https://job-boards.greenhouse.io/celonis/jobs/8199112003?gh_jid=8199112003"
  },
  {
+  "firma": "Raisin",
+  "titel": "(Junior) Customer Service Complaints Agent - German Speaking (m/f/d)",
+  "ort": "Berlin, Berlin, Germany; Hamburg",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Kundenservice",
+  "stufe": 1,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-10",
+  "tage_offen": 17,
+  "druck": 2,
+  "link": "https://job-boards.eu.greenhouse.io/raisin/jobs/5009694101"
+ },
+ {
   "firma": "Isar Aerospace SE",
   "titel": "Umweltmanagement Spezialist (m/w/d)",
   "ort": "Parsdorf, Bavaria, Germany",
@@ -20248,21 +20278,6 @@
   "tage_offen": 13,
   "druck": 2,
   "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5036121101"
- },
- {
-  "firma": "Enpal",
-  "titel": "Sales Manager (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-11-13",
-  "tage_offen": 13,
-  "druck": 2,
-  "link": "https://jobs.ashbyhq.com/enpal/267b03bb-c20e-4066-b34a-95c66284fc5d"
  },
  {
   "firma": "Reonic",
@@ -20325,6 +20340,21 @@
   "link": "https://careers.trivago.com/apply/8944384002.?gh_jid=8944384002"
  },
  {
+  "firma": "Stripe",
+  "titel": "Technical Account Manager, German Speaking",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "druck": 2,
+  "link": "https://stripe.com/jobs/search?gh_jid=8368645"
+ },
+ {
   "firma": "n8n",
   "titel": "Forward Deployed Engineer - EMEA",
   "ort": "Germany",
@@ -20368,6 +20398,21 @@
   "tage_offen": 11,
   "druck": 2,
   "link": "https://jobs.ashbyhq.com/n8n/f16af9d9-2c3e-4eed-98cc-4b25277e44e8"
+ },
+ {
+  "firma": "OpenAI",
+  "titel": "Applied AI Engineer - Startups",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Daten und KI",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "druck": 2,
+  "link": "https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f"
  },
  {
   "firma": "Snowflake",
@@ -20490,21 +20535,6 @@
   "link": "https://stripe.com/jobs/search?gh_jid=8319481"
  },
  {
-  "firma": "Stripe",
-  "titel": "Technical Account Manager, German Speaking",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-16",
-  "tage_offen": 10,
-  "druck": 2,
-  "link": "https://stripe.com/jobs/search?gh_jid=8368645"
- },
- {
   "firma": "commercetools",
   "titel": "Workplace Engineer (m/f/x)",
   "ort": "München, Bayern, Germany (Hybrid)",
@@ -20625,21 +20655,6 @@
   "link": "https://jobs.ashbyhq.com/enpal/daecb6d7-ce37-49ea-a509-89025413002d"
  },
  {
-  "firma": "OpenAI",
-  "titel": "Applied AI Engineer - Startups",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Daten und KI",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-16",
-  "tage_offen": 10,
-  "druck": 2,
-  "link": "https://jobs.ashbyhq.com/openai/980bc2ea-2c35-4546-bb48-5496a4e6847f"
- },
- {
   "firma": "Snowflake",
   "titel": "Software Engineer - Database Search",
   "ort": "DE-Berlin-Trion Building, Germany",
@@ -20683,21 +20698,6 @@
   "tage_offen": 9,
   "druck": 2,
   "link": "https://helsing.ai/jobs/5039795101?gh_jid=5039795101"
- },
- {
-  "firma": "Helsing",
-  "titel": "Senior Warhead Engineer – Lethality Centre of Excellence",
-  "ort": "Munich",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Software und IT",
-  "stufe": 3,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-17",
-  "tage_offen": 9,
-  "druck": 2,
-  "link": "https://helsing.ai/jobs/5040443101?gh_jid=5040443101"
  },
  {
   "firma": "HelloFresh",
@@ -21077,21 +21077,6 @@
  {
   "firma": "SumUp",
   "titel": "Senior Backend Engineer - Identity",
-  "ort": "Cologne, Germany",
-  "land": "Deutschland",
-  "stadt": "Köln",
-  "bereich": "Software und IT",
-  "stufe": 3,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-19",
-  "tage_offen": 8,
-  "druck": 2,
-  "link": "https://sumup.com/careers/positions/8951363002?gh_jid=8951363002"
- },
- {
-  "firma": "SumUp",
-  "titel": "Senior Backend Engineer - Identity",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
   "stadt": "Berlin",
@@ -21103,6 +21088,21 @@
   "tage_offen": 8,
   "druck": 2,
   "link": "https://sumup.com/careers/positions/8821323002?gh_jid=8821323002"
+ },
+ {
+  "firma": "SumUp",
+  "titel": "Senior Backend Engineer - Identity",
+  "ort": "Cologne, Germany",
+  "land": "Deutschland",
+  "stadt": "Köln",
+  "bereich": "Software und IT",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-19",
+  "tage_offen": 8,
+  "druck": 2,
+  "link": "https://sumup.com/careers/positions/8951363002?gh_jid=8951363002"
  },
  {
   "firma": "Databricks",
@@ -21780,21 +21780,6 @@
   "link": "https://jobs.lever.co/finn/a6c46ab1-01cd-4cff-b9b6-15673e143e14"
  },
  {
-  "firma": "Raisin",
-  "titel": "(Junior) Customer Service Complaints Agent - German Speaking (m/f/d)",
-  "ort": "Berlin, Berlin, Germany; Hamburg",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Kundenservice",
-  "stufe": 1,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-10",
-  "tage_offen": 16,
-  "druck": 1,
-  "link": "https://job-boards.eu.greenhouse.io/raisin/jobs/5009694101"
- },
- {
   "firma": "Enpal",
   "titel": "Praktikum Tech Venture Development (w/m/d)",
   "ort": "Berlin, Germany",
@@ -22110,6 +22095,21 @@
   "link": "https://jobs.ashbyhq.com/ElevenLabs/41b892ba-b530-44cb-9ae1-178908fc324c"
  },
  {
+  "firma": "ElevenLabs",
+  "titel": "Commercial Counsel - Germany",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-11-19",
+  "tage_offen": 8,
+  "druck": 1,
+  "link": "https://jobs.ashbyhq.com/ElevenLabs/71fe2339-de89-41f6-afd3-e1daa05e7fa1"
+ },
+ {
   "firma": "bunch",
   "titel": "Operations Manager - Tax & Accounting (f/m/d)",
   "ort": "Berlin, Germany",
@@ -22168,6 +22168,21 @@
   "tage_offen": 7,
   "druck": 1,
   "link": "https://careers.hellofresh.com/global/en/job/8314133?gh_jid=8314133"
+ },
+ {
+  "firma": "Raisin",
+  "titel": "(Junior) CS Operations Manager - Legal and Complaints (m/f/d)",
+  "ort": "Berlin, Berlin, Germany; Hamburg",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Finanzen und Recht",
+  "stufe": 1,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-20",
+  "tage_offen": 7,
+  "druck": 1,
+  "link": "https://job-boards.eu.greenhouse.io/raisin/jobs/5043710101"
  },
  {
   "firma": "Raisin",
@@ -22380,21 +22395,6 @@
   "link": "https://jobs.ashbyhq.com/moss/f50ad776-97f3-4e7d-820a-3172881556d5"
  },
  {
-  "firma": "ElevenLabs",
-  "titel": "Commercial Counsel - Germany",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-11-19",
-  "tage_offen": 7,
-  "druck": 1,
-  "link": "https://jobs.ashbyhq.com/ElevenLabs/71fe2339-de89-41f6-afd3-e1daa05e7fa1"
- },
- {
   "firma": "Pliant",
   "titel": "Business Development Manager- DACH (m/f/d)",
   "ort": "Berlin, Germany (Hybrid)",
@@ -22468,21 +22468,6 @@
   "tage_offen": 6,
   "druck": 1,
   "link": "https://careers.hellofresh.com/global/en/job/8401896?gh_jid=8401896"
- },
- {
-  "firma": "Raisin",
-  "titel": "(Junior) CS Operations Manager - Legal and Complaints (m/f/d)",
-  "ort": "Berlin, Berlin, Germany; Hamburg",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Finanzen und Recht",
-  "stufe": 1,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-20",
-  "tage_offen": 6,
-  "druck": 1,
-  "link": "https://job-boards.eu.greenhouse.io/raisin/jobs/5043710101"
  },
  {
   "firma": "Fivetran",
@@ -22725,6 +22710,21 @@
   "link": "https://jobs.ashbyhq.com/flinn/2ec69e86-910e-45e8-b956-44a48f976060"
  },
  {
+  "firma": "Pleo",
+  "titel": "Staff Software Engineer",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Software und IT",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-11-23",
+  "tage_offen": 4,
+  "druck": 1,
+  "link": "https://jobs.ashbyhq.com/pleo/8a9edc9a-32f1-4bf0-b017-d12f691850fe"
+ },
+ {
   "firma": "Celonis",
   "titel": "Senior Software Engineer - AI Agent Platform",
   "ort": "Munich, Germany",
@@ -22738,6 +22738,21 @@
   "tage_offen": 3,
   "druck": 1,
   "link": "https://job-boards.greenhouse.io/celonis/jobs/7978346003?gh_jid=7978346003"
+ },
+ {
+  "firma": "Flix",
+  "titel": "(Mid-Senior) Project Manager - Workday Optimization & HR Transformation (m/f/d)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Personal",
+  "stufe": 3,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "druck": 1,
+  "link": "https://flix.careers/job/8952243002?gh_jid=8952243002"
  },
  {
   "firma": "Flix",
@@ -23086,6 +23101,21 @@
  },
  {
   "firma": "Forto",
+  "titel": "Air Freight Operations Specialist (f/m/d)",
+  "ort": "Hamburg, Germany",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Betrieb und Logistik",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "druck": 1,
+  "link": "https://jobs.ashbyhq.com/forto/ae2ca3c5-3f12-4b27-98be-8bbfe22aa575"
+ },
+ {
+  "firma": "Forto",
   "titel": "(Senior) Sales Manager (f/m/d) - North Germany",
   "ort": "Remote Germany",
   "land": "Deutschland",
@@ -23130,21 +23160,6 @@
   "link": "https://jobs.ashbyhq.com/docker/221dff90-2b30-4977-958a-8838f43c6d38"
  },
  {
-  "firma": "Pleo",
-  "titel": "Staff Software Engineer",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Software und IT",
-  "stufe": 4,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-11-23",
-  "tage_offen": 3,
-  "druck": 1,
-  "link": "https://jobs.ashbyhq.com/pleo/8a9edc9a-32f1-4bf0-b017-d12f691850fe"
- },
- {
   "firma": "Payrails",
   "titel": "Accountant (Full-time / Part-time)",
   "ort": "Berlin, Germany",
@@ -23175,6 +23190,21 @@
   "link": "https://helsing.ai/jobs/5047963101?gh_jid=5047963101"
  },
  {
+  "firma": "Isar Aerospace SE",
+  "titel": "Senior DevOps Engineer - Flight Software & Simulation",
+  "ort": "Parsdorf, Bavaria, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Hardware und Ingenieurwesen",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-25",
+  "tage_offen": 2,
+  "druck": 1,
+  "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5048680101"
+ },
+ {
   "firma": "HelloFresh",
   "titel": "Senior Director, HR - Field Operations (Europe)",
   "ort": "Amsterdam, North Holland, Netherlands; Berlin, Berlin, Germany; London, England, United Kingdom; Paris, Paris, France",
@@ -23188,21 +23218,6 @@
   "tage_offen": 2,
   "druck": 1,
   "link": "https://careers.hellofresh.com/global/en/job/8411264?gh_jid=8411264"
- },
- {
-  "firma": "Flix",
-  "titel": "(Mid-Senior) Project Manager - Workday Optimization & HR Transformation (m/f/d)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Personal",
-  "stufe": 3,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-24",
-  "tage_offen": 2,
-  "druck": 1,
-  "link": "https://flix.careers/job/8952243002?gh_jid=8952243002"
  },
  {
   "firma": "SumUp",
@@ -23715,21 +23730,6 @@
   "link": "https://jobs.ashbyhq.com/qonto/f2a6ea35-bab1-477c-96f1-8e05b22c9635"
  },
  {
-  "firma": "Forto",
-  "titel": "Air Freight Operations Specialist (f/m/d)",
-  "ort": "Hamburg, Germany",
-  "land": "Deutschland",
-  "stadt": "Hamburg",
-  "bereich": "Betrieb und Logistik",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-24",
-  "tage_offen": 2,
-  "druck": 0,
-  "link": "https://jobs.ashbyhq.com/forto/ae2ca3c5-3f12-4b27-98be-8bbfe22aa575"
- },
- {
   "firma": "FINN",
   "titel": "Asset Efficiency Manager (m/w/d)",
   "ort": "Munich",
@@ -23773,21 +23773,6 @@
   "tage_offen": 1,
   "druck": 0,
   "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5048699101"
- },
- {
-  "firma": "Isar Aerospace SE",
-  "titel": "Senior DevOps Engineer - Flight Software & Simulation",
-  "ort": "Parsdorf, Bavaria, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Hardware und Ingenieurwesen",
-  "stufe": 3,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-25",
-  "tage_offen": 1,
-  "druck": 0,
-  "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/5048680101"
  },
  {
   "firma": "HelloFresh",
@@ -23896,6 +23881,21 @@
  },
  {
   "firma": "Enpal",
+  "titel": "Junior Bauleiter:in (w/m/d)",
+  "ort": "Erfurt, Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Handwerk und Montage",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-11-26",
+  "tage_offen": 1,
+  "druck": 0,
+  "link": "https://jobs.ashbyhq.com/enpal/b4b69e34-15eb-47a0-b08d-bc50f0c0d3f2"
+ },
+ {
+  "firma": "Enpal",
   "titel": "Lead Expert Corporate Tax (w/m/d)",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
@@ -23908,6 +23908,21 @@
   "tage_offen": 1,
   "druck": 0,
   "link": "https://jobs.ashbyhq.com/enpal/72c76e3e-d792-4a26-ab8d-a0040a604375"
+ },
+ {
+  "firma": "n8n",
+  "titel": "Senior Solutions Engineer (Remote Europe)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 3,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-11-26",
+  "tage_offen": 1,
+  "druck": 0,
+  "link": "https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725"
  },
  {
   "firma": "n8n",
@@ -24181,21 +24196,6 @@
  },
  {
   "firma": "Enpal",
-  "titel": "Junior Bauleiter:in (w/m/d)",
-  "ort": "Erfurt, Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Handwerk und Montage",
-  "stufe": 4,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-11-26",
-  "tage_offen": 0,
-  "druck": 0,
-  "link": "https://jobs.ashbyhq.com/enpal/b4b69e34-15eb-47a0-b08d-bc50f0c0d3f2"
- },
- {
-  "firma": "Enpal",
   "titel": "Founders Associate (w/m/d) - New Venture",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
@@ -24241,21 +24241,6 @@
  },
  {
   "firma": "n8n",
-  "titel": "Senior Solutions Engineer (Remote Europe)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 3,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-11-26",
-  "tage_offen": 0,
-  "druck": 0,
-  "link": "https://jobs.ashbyhq.com/n8n/92208273-951b-4388-935b-037624fe1725"
- },
- {
-  "firma": "n8n",
   "titel": "Partner Manager MEA & APAC",
   "ort": "Germany",
   "land": "Deutschland",
@@ -24283,6 +24268,21 @@
   "tage_offen": 0,
   "druck": 0,
   "link": "https://jobs.ashbyhq.com/moss/3b7889f0-3dba-4abd-a339-c4b8496da899"
+ },
+ {
+  "firma": "Snowflake",
+  "titel": "Solution Engineering Manager (Expansion)",
+  "ort": "DE-Germany-Remote",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-11-27",
+  "tage_offen": 0,
+  "druck": 0,
+  "link": "https://jobs.ashbyhq.com/snowflake/cdab7f79-0a7b-4183-bffc-a0ac0ad59c90"
  },
  {
   "firma": "Qonto",
@@ -24358,6 +24358,21 @@
   "tage_offen": 0,
   "druck": 0,
   "link": "https://jobs.ashbyhq.com/kertos/1af05e14-d21f-4238-906e-94130440c509"
+ },
+ {
+  "firma": "FINN",
+  "titel": "(Junior) Operations Planning Manager (m/w/d)",
+  "ort": "Munich",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Betrieb und Logistik",
+  "stufe": 1,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-11-27",
+  "tage_offen": 0,
+  "druck": 0,
+  "link": "https://jobs.lever.co/finn/8280c675-49fd-40ab-9e62-c1f6a6c2c837"
  },
  {
   "firma": "FINN",
