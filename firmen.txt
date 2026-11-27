@@ -1,7 +1,8 @@
 # Eine Firma pro Zeile: [quelle:]kuerzel | Anzeigename
 # Quellen: greenhouse (ohne Angabe), ashby, lever.
+# Alle Einträge am 27.11.2026 vom Sammler geprüft: erreichbar und mit Stellen im deutschsprachigen Raum.
 
-# Greenhouse, vom Sammler am 27.11.2026 geprüft:
+# Greenhouse: 40 Firmen
 helsing
 isaraerospace
 hellofresh
@@ -21,8 +22,8 @@ elastic
 grafanalabs
 mongodb
 gitlab
-moonfare
 stripe
+moonfare
 commercetools
 figma
 adyen
@@ -43,201 +44,50 @@ algolia
 newrelic
 reddit
 
-# Ashby: n8n geprüft, der Rest sind Kandidaten. Falsche Kürzel werden übersprungen.
-ashby:n8n | n8n
-ashby:DeepL | DeepL
-ashby:parloa | Parloa
-ashby:langfuse | Langfuse
-ashby:blackforestlabs | Black Forest Labs
-ashby:lakera | Lakera
-ashby:lakera.ai | Lakera
-ashby:taktile | Taktile
-ashby:langdock | Langdock
-ashby:pliant | Pliant
-ashby:finn | FINN
-ashby:AlephAlpha | Aleph Alpha
-ashby:proximafusion | Proxima Fusion
-ashby:sereact | Sereact
-ashby:quantum-systems | Quantum Systems
-ashby:neura-robotics | NEURA Robotics
-ashby:deepset | deepset
-ashby:qdrant | Qdrant
-ashby:upvest | Upvest
-ashby:mondu | Mondu
-ashby:moss | Moss
-ashby:topi | topi
-ashby:payrails | Payrails
-ashby:hawk | Hawk
-ashby:taxdoo | Taxdoo
-ashby:kittl | Kittl
-ashby:peec | Peec AI
-ashby:superchat | Superchat
-ashby:codesphere | Codesphere
-ashby:dash0 | Dash0
-ashby:tacto | Tacto
-ashby:kertos | Kertos
-ashby:flinn | Flinn
-ashby:cloover | Cloover
-ashby:reonic | Reonic
-ashby:ostrom | Ostrom
-ashby:1komma5grad | 1KOMMA5°
+# Ashby: 39 Firmen
 ashby:enpal | Enpal
-ashby:theexplorationcompany | The Exploration Company
-ashby:marvelfusion | Marvel Fusion
-ashby:planqc | planqc
-ashby:orbem | Orbem
-ashby:jua | Jua
-ashby:cradle | Cradle
-ashby:cognigy | Cognigy
-ashby:personio | Personio
-ashby:traderepublic | Trade Republic
-ashby:sumup | SumUp
-ashby:pitch | Pitch
-ashby:bunch | bunch
-ashby:avimedical | Avi Medical
-ashby:nelly | Nelly
-ashby:everphone | Everphone
-ashby:forto | Forto
-ashby:sennder | sennder
-ashby:choco | Choco
-ashby:getquin | getquin
-ashby:scalable | Scalable Capital
-ashby:raisin | Raisin
-ashby:billie | Billie
-ashby:vivid | Vivid Money
-ashby:tomorrow | Tomorrow
+ashby:n8n | n8n
+ashby:sereact | Sereact
+ashby:upvest | Upvest
+ashby:reonic | Reonic
+ashby:tacto | Tacto
+ashby:parloa | Parloa
+ashby:moss | Moss
 ashby:openai | OpenAI
-ashby:notion | Notion
-ashby:linear | Linear
-ashby:ramp | Ramp
-ashby:deel | Deel
-ashby:elevenlabs | ElevenLabs
-ashby:lovable | Lovable
-ashby:synthesia | Synthesia
-ashby:supabase | Supabase
-ashby:posthog | PostHog
-ashby:vanta | Vanta
-ashby:cohere | Cohere
-ashby:harvey | Harvey
-ashby:docker | Docker
-ashby:1password | 1Password
-ashby:mistral | Mistral AI
-ashby:perplexity | Perplexity
-ashby:cursor | Cursor
-ashby:replit | Replit
-ashby:clay | Clay
-ashby:retool | Retool
-ashby:zapier | Zapier
 ashby:snowflake | Snowflake
-ashby:pleo | Pleo
+ashby:elevenlabs | ElevenLabs
+ashby:pliant | Pliant
+ashby:peec | Peec AI
+ashby:bunch | bunch
 ashby:qonto | Qonto
-ashby:alan | Alan
-ashby:pigment | Pigment
-ashby:dust | Dust
-ashby:photoroom | Photoroom
-ashby:poolside | poolside
-ashby:langchain | LangChain
-ashby:modal | Modal
+ashby:taktile | Taktile
+ashby:harvey | Harvey
+ashby:langdock | Langdock
 ashby:wayve | Wayve
-ashby:isomorphiclabs | Isomorphic Labs
+ashby:codesphere | Codesphere
+ashby:hawk | Hawk
+ashby:forto | Forto
+ashby:cohere | Cohere
+ashby:flinn | Flinn
+ashby:orbem | Orbem
+ashby:docker | Docker
+ashby:kertos | Kertos
+ashby:jua | Jua
+ashby:notion | Notion
+ashby:synthesia | Synthesia
+ashby:pleo | Pleo
+ashby:payrails | Payrails
+ashby:ostrom | Ostrom
+ashby:DeepL | DeepL
+ashby:AlephAlpha | Aleph Alpha
+ashby:langchain | LangChain
+ashby:nelly | Nelly
+ashby:billie | Billie
+ashby:1password | 1Password
 
-# Lever: Spotify geprüft, der Rest sind Kandidaten.
-lever:spotify | Spotify
-lever:palantir | Palantir
-lever:mistral | Mistral AI
-lever:qonto | Qonto
+# Lever: 5 Firmen
 lever:veeva | Veeva
 lever:sonarsource | Sonar
-lever:zenjob | Zenjob
-lever:medwing | MEDWING
-lever:heyjobs | HeyJobs
-lever:choco | Choco
-lever:wefox | wefox
-lever:clark | CLARK
-lever:omio | Omio
 lever:finn | FINN
-lever:billie | Billie
-lever:kontist | Kontist
-lever:sennder | sennder
-lever:tier | TIER
-lever:blinkist | Blinkist
-lever:pitch | Pitch
-lever:ecosia | Ecosia
-lever:taxfix | Taxfix
-lever:forto | Forto
-lever:bitpanda | Bitpanda
-lever:tourradar | TourRadar
-lever:gostudent | GoStudent
-lever:refurbed | refurbed
-lever:adverity | Adverity
-lever:storyblok | Storyblok
-lever:scandit | Scandit
-lever:smallpdf | Smallpdf
-lever:frontify | Frontify
-lever:beekeeper | Beekeeper
-lever:nexthink | Nexthink
-lever:yokoy | Yokoy
-lever:volocopter | Volocopter
-lever:mobimeo | Mobimeo
-lever:lilium | Lilium
-lever:contentsquare | Contentsquare
-lever:ledger | Ledger
-lever:payfit | PayFit
-lever:backmarket | Back Market
-lever:pennylane | Pennylane
-lever:swile | Swile
-lever:mollie | Mollie
-lever:bird | Bird
-lever:messagebird | MessageBird
-lever:picnic | Picnic
-lever:plaid | Plaid
-lever:eventbrite | Eventbrite
-lever:outreach | Outreach
-lever:netflix | Netflix
-lever:kayak | KAYAK
-lever:getaround | Getaround
-lever:voi | Voi
-lever:einride | Einride
-lever:kry | Kry
-lever:truecaller | Truecaller
-lever:tide | Tide
-lever:productboard | Productboard
-lever:mews | Mews
-lever:kiwicom | Kiwi.com
-lever:jobandtalent | Jobandtalent
-lever:cabify | Cabify
-lever:wallapop | Wallapop
-lever:factorial | Factorial
-lever:travelperk | TravelPerk
-lever:glovo | Glovo
-lever:babbel | Babbel
-lever:soundcloud | SoundCloud
-lever:mambu | Mambu
-lever:getyourguide | GetYourGuide
-lever:personio | Personio
-lever:flink | Flink
-lever:gorillas | Gorillas
-lever:grover | Grover
-lever:auto1 | AUTO1
-lever:zalando | Zalando
-lever:deliveryhero | Delivery Hero
-lever:doctolib | Doctolib
-lever:komoot | komoot
+lever:spotify | Spotify
 lever:researchgate | ResearchGate
-lever:jimdo | Jimdo
-lever:onefootball | OneFootball
-lever:idealo | idealo
-lever:hometogo | HomeToGo
-lever:tado | tado
-lever:thermondo | thermondo
-lever:zolar | zolar
-lever:enpal | Enpal
-lever:moss | Moss
-lever:candis | Candis
-lever:circula | Circula
-lever:leapsome | Leapsome
-lever:workmotion | WorkMotion
-lever:userlane | Userlane
-lever:usercentrics | Usercentrics
-lever:demodesk | Demodesk
-lever:getsafe | Getsafe
