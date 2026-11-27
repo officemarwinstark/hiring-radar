@@ -116,7 +116,7 @@ td a{color:var(--akzent);font-weight:500}
 <script>
 "use strict";
 const D = JSON.parse(document.getElementById("daten").textContent);
-const S = D.stellen;   // 0 firma, 1 titel, 2 ort, 3 land, 4 bereich, 5 tage, 6 link, 7 stufe, 8 art, 9 stadt, 10 modus, 11 druck
+const S = D.stellen;   // 0 firma, 1 titel, 2 ort, 3 land, 4 bereich, 5 tage, 6 link, 7 stufe, 8 art, 9 staedte[], 10 modus, 11 druck, 12 laender[]
 const STUFEN = D.stufen;
 const LERN = ["Praktikum", "Ausbildung"], NICHT_FEST = ["Werkstudent", "Praktikum", "Ausbildung", "Freelance"];
 const $ = id => document.getElementById(id);
@@ -137,9 +137,9 @@ STUFEN.forEach((name, i) => genau.append(new Option(name, "nur" + i)));
 $("stufe").append(genau);
 
 $("ort").append(new Option("DACH gesamt", ""), new Option("Deutschland", "land:Deutschland"), new Option("Österreich", "land:Österreich"), new Option("Schweiz", "land:Schweiz"), new Option("Remote möglich", "remote"));
-const staedte = new Map(); for (const s of S) if (s[9]) staedte.set(s[9], (staedte.get(s[9]) || 0) + 1);
+const staedte = new Map(); for (const s of S) for (const st of s[9]) staedte.set(st, (staedte.get(st) || 0) + 1);
 const gruppe = document.createElement("optgroup"); gruppe.label = "Städte";
-for (const [name, n] of [...staedte.entries()].sort((a, b) => b[1] - a[1])) if (n >= 3) gruppe.append(new Option(name + " (" + n + ")", "stadt:" + name));
+for (const [name, n] of [...staedte.entries()].sort((a, b) => b[1] - a[1])) if (n >= 5) gruppe.append(new Option(name + " (" + n + ")", "stadt:" + name));
 $("ort").append(gruppe);
 
 function filtern() {
@@ -150,7 +150,7 @@ function filtern() {
     if (bereich && s[4] !== bereich) return false;
     if (stufe && (stufe.startsWith("ab") ? s[7] < Number(stufe.slice(2)) : s[7] !== Number(stufe.slice(3)))) return false;
     if (art === "fest" ? NICHT_FEST.includes(s[8]) : art === "lern" ? !LERN.includes(s[8]) : art && s[8] !== art) return false;
-    if (ort === "remote" ? s[10] !== "Remote" : ort.startsWith("land:") ? s[3] !== ort.slice(5) : ort.startsWith("stadt:") && s[9] !== ort.slice(6)) return false;
+    if (ort === "remote" ? s[10] !== "Remote" : ort.startsWith("land:") ? !s[12].includes(ort.slice(5)) : ort.startsWith("stadt:") && !s[9].includes(ort.slice(6))) return false;
     const t = s[5];
     if (!(von === 0 && bis === Infinity) && (t === null || t < von || t > bis)) return false;
     if (worte.length) { const text = (s[0] + " " + s[1] + " " + s[2]).toLowerCase(); if (!worte.every(w => text.includes(w))) return false; }

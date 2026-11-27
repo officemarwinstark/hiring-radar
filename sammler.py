@@ -48,7 +48,7 @@ STADT_WORTE = {
     ],
 }
 BEREICHE = [
-    ("Sales", r"sales|account executive|account manager|account director|account partner|business development|vertrieb|\bsdr\b|\bbdr\b|key account|partner manager|partnerships|pre.?sales|solutions? engineer|solutions? consultant|außendienst|aussendienst|innendienst|verkäufer|verkauf|revenue|customer advisor|kundenberater|kundenmanager|partner development|account management|commercial|\bgtm\b|go.to.market|enablement"),
+    ("Sales", r"sales|account executive|account manager|account director|account partner|strategic accounts?|alliances?|country manager|business development|vertrieb|\bsdr\b|\bbdr\b|key account|partner manager|partnerships|pre.?sales|solutions? engineer|solutions? consultant|außendienst|aussendienst|innendienst|verkäufer|verkauf|revenue|customer advisor|kundenberater|kundenmanager|partner development|account management|commercial|\bgtm\b|go.to.market|enablement"),
     ("Kundenservice", r"customer success|customer support|customer service|customer care|customer experience|kundenservice|kundenbetreuung|support specialist|support agent|support engineer|technical support|onboarding|implementation|kundenbetreu|customer education|client experience|\bcustomer\b"),
     ("Marketing", r"marketing|brand|content|\bseo\b|\bcrm\b|growth|communications|kommunikation|\bpr\b|social media|campaign|creator|community|events?\b|copywriter|redakt|media buyer|\bpaid\b|\bsea\b|acquisit|performance"),
     ("Handwerk und Montage", r"monteur|elektriker|elektroniker|elektrofach|installateur|handwerk|dachdecker|mechatroniker|montage|bauleiter|techniker|technician|anlagenmechaniker|servicetechniker|obermonteur|gerüst|zimmer(er|mann)|solarteur"),
@@ -174,9 +174,22 @@ def druck_von(stufe, tage):
     return round(100 * STUFEN_GEWICHT[stufe] * wirksam / (STUFEN_GEWICHT[-1] * 180))
 
 
+def lade_ausschluss():
+    """Liest ausschluss.txt: Stellenlisten, die uebersprungen werden."""
+    gesperrt = set()
+    if os.path.exists("ausschluss.txt"):
+        with open("ausschluss.txt", encoding="utf-8") as datei:
+            for zeile in datei:
+                eintrag = zeile.partition("|")[0].strip()
+                if eintrag and not eintrag.startswith("#") and ":" in eintrag:
+                    quelle, _, kuerzel = eintrag.rpartition(":")
+                    gesperrt.add((quelle.strip().lower(), kuerzel.strip().lower()))
+    return gesperrt
+
+
 def lade_firmen():
     """Zeilenformat: [quelle:]kuerzel [| Anzeigename]. Ohne Quelle gilt greenhouse."""
-    firmen, gesehen = [], set()
+    firmen, gesehen = [], lade_ausschluss()
     with open("firmen.txt", encoding="utf-8") as datei:
         for zeile in datei:
             zeile = zeile.strip()
@@ -316,8 +329,32 @@ def pruefe_firma(firma, heute):
             "tage_offen": tage, "druck": druck_von(stufe, tage),
             "link": link if link.startswith("https://") else "",
         })
+    eigene = fasse_zusammen(eigene)
     eintrag.update(name=(jobs[0]["firma"] if jobs else firma["name"]), stellen=len(jobs), dach=len(eigene))
     return eintrag, eigene
+
+
+def fasse_zusammen(stellen):
+    """Dieselbe Stelle in mehreren Staedten zaehlt nur einmal. Behalten wird die aelteste Anzeige."""
+    gruppen = {}
+    for s in stellen:
+        gruppen.setdefault(s["titel"].lower(), []).append(s)
+    ergebnis = []
+    for gruppe in gruppen.values():
+        gruppe.sort(key=lambda s: -(s["tage_offen"] if s["tage_offen"] is not None else -1))
+        erste = dict(gruppe[0])
+        orte = []
+        for s in gruppe:
+            if s["ort"] and s["ort"] not in orte:
+                orte.append(s["ort"])
+        if len(orte) > 1:
+            erste["ort"] = "; ".join(orte[:3]) + (f" und {len(orte) - 3} weitere" if len(orte) > 3 else "")
+        erste["staedte"] = sorted({s["stadt"] for s in gruppe if s["stadt"]})
+        erste["laender"] = sorted({s["land"] for s in gruppe})
+        if any(s["modus"] == "Remote" for s in gruppe):
+            erste["modus"] = "Remote"
+        ergebnis.append(erste)
+    return ergebnis
 
 
 def pruefe_alle(firmen, heute, gleichzeitig=8):
@@ -342,7 +379,7 @@ def baue_seite(stellen, heute):
         "stand": f"{heute:%d.%m.%Y}",
         "stufen": STUFEN,
         "stellen": [[s["firma"], s["titel"], s["ort"], s["land"], s["bereich"], s["tage_offen"], s["link"],
-                     s["stufe"], s["art"], s["stadt"], s["modus"], s["druck"]] for s in stellen],
+                     s["stufe"], s["art"], s["staedte"], s["modus"], s["druck"], s["laender"]] for s in stellen],
     }
     text = json.dumps(daten, ensure_ascii=False, separators=(",", ":")).replace("<", "\\u003c")
     if "__DATEN__" not in vorlage:

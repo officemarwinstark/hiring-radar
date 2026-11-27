@@ -13,7 +13,7 @@ VERZEICHNIS = "kandidaten/ats-verzeichnis.csv"
 
 
 def lade_kandidaten():
-    bekannt = {(f["quelle"], f["kuerzel"].lower()) for f in sammler.lade_firmen()}
+    bekannt = {(f["quelle"], f["kuerzel"].lower()) for f in sammler.lade_firmen()} | sammler.lade_ausschluss()
     kandidaten = []
     with open(VERZEICHNIS, encoding="utf-8", newline="") as datei:
         for zeile in csv.DictReader(datei):

@@ -39,10 +39,18 @@ jobs:
           git config user.email "hiring-radar-bot@users.noreply.github.com"
           git add data docs
           git diff --cached --quiet || git commit -m "Stellen aktualisiert"
+          git pull --rebase origin main
           git push
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs
       - id: deployment
+        uses: actions/deploy-pages@v5
+        continue-on-error: true
+      - name: Kurz warten vor dem zweiten Versuch
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 45
+      - name: Zweiter Versuch der Veröffentlichung
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v5

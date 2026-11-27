@@ -1,0 +1,8 @@
+# Stellenlisten, die der Sammler und der Entdecker überspringen.
+# Format: quelle:kuerzel | Grund
+lever:jobgether | Vermittlungs-Plattform, schreibt Stellen für andere Firmen aus
+lever:tsmg | Massen-Ausschreibung derselben Aushilfs-Jobs in sehr vielen Städten
+greenhouse:cfoinsights | Ehrenamtliche Konferenz-Helfer, dreifach unter verschiedenen Namen
+greenhouse:privateequityinsights | Ehrenamtliche Konferenz-Helfer, dreifach unter verschiedenen Namen
+greenhouse:unitedmedia | Ehrenamtliche Konferenz-Helfer, dreifach unter verschiedenen Namen
+greenhouse:thequalitygroupgmbh2 | Doppelt, gleiche Firma wie thequalitygroupgmbh1
