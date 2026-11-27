@@ -56,7 +56,6 @@ td a{color:var(--akzent);font-weight:500}
         <option value="Deutschland">Nur Deutschland</option>
         <option value="Österreich">Nur Österreich</option>
         <option value="Schweiz">Nur Schweiz</option>
-        <option value="alle">Alle Länder</option>
       </select></div>
     <div class="feld"><label for="dauer">Offen seit</label>
       <select id="dauer">
@@ -98,9 +97,8 @@ const $ = id => document.getElementById(id);
 const el = (tag, cls, text) => { const e = document.createElement(tag); if (cls) e.className = cls; if (text !== undefined) e.textContent = text; return e; };
 let ansicht = "stellen", grenze = 200, treffer = [];
 
-const dach = S.filter(s => s[3] !== "Ausland");
-$("unter").textContent = dach.length.toLocaleString("de-DE") + " offene Stellen im deutschsprachigen Raum bei " +
-  new Set(dach.map(s => s[0])).size + " Firmen. Stand: " + D.stand + ".";
+$("unter").textContent = S.length.toLocaleString("de-DE") + " offene Stellen im deutschsprachigen Raum bei " +
+  new Set(S.map(s => s[0])).size + " Firmen. Stand: " + D.stand + ".";
 
 const bereiche = [...new Set(S.map(s => s[4]))].sort((a, b) => (a === "Sonstiges") - (b === "Sonstiges") || a.localeCompare(b, "de"));
 $("bereich").append(new Option("Alle Bereiche", ""));
@@ -111,7 +109,7 @@ function filtern() {
   const bereich = $("bereich").value, land = $("land").value;
   const [von, bis] = $("dauer").value.split("-").map(x => x === "" ? Infinity : Number(x));
   treffer = S.filter(s => {
-    if (land === "dach" ? s[3] === "Ausland" : land !== "alle" && s[3] !== land) return false;
+    if (land !== "dach" && s[3] !== land) return false;
     if (bereich && s[4] !== bereich) return false;
     const t = s[5];
     if (!(von === 0 && bis === Infinity) && (t === null || t < von || t > bis)) return false;
