@@ -1,0 +1,49 @@
+name: Entdecker
+
+on:
+  schedule:
+    - cron: "0 7 * * 1"
+  push:
+    branches: [main]
+    paths:
+      - "entdecker.py"
+      - "kandidaten/**"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  entdecken:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Neue Firmen suchen
+        run: python3 entdecker.py
+      - name: Stellen einsammeln
+        run: python3 sammler.py
+      - name: Daten im Projekt speichern
+        run: |
+          git config user.name "hiring-radar-bot"
+          git config user.email "hiring-radar-bot@users.noreply.github.com"
+          git add data docs firmen.txt
+          git diff --cached --quiet || git commit -m "Entdecker: Firmenliste und Stellen aktualisiert"
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deployment
+        uses: actions/deploy-pages@v5
