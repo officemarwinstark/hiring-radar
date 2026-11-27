@@ -1,12 +1,14 @@
 name: Hiring-Radar
 
 on:
+  schedule:
+    - cron: "17 5 * * *"
   push:
     branches: [main]
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -15,13 +17,22 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  veroeffentlichen:
+  sammeln:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Stellen einsammeln
+        run: python3 sammler.py
+      - name: Daten im Projekt speichern
+        run: |
+          git config user.name "hiring-radar-bot"
+          git config user.email "hiring-radar-bot@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "Stellen aktualisiert"
+          git push
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
