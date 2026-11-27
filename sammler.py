@@ -1,11 +1,14 @@
-"""Hiring-Radar, Sammler (Fassung 4).
+"""Hiring-Radar, Sammler (Fassung 5).
 Liest offene Stellen aus den oeffentlichen Stellenlisten von Greenhouse, Ashby und Lever,
 behaelt die Stellen im deutschsprachigen Raum, ordnet Land und Bereich zu
 und baut daraus data/stellen.json, data/bericht.json und die Seite docs/index.html."""
 import json
 import os
 import re
+import time
+import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timezone
 
 ADRESSEN = {
@@ -190,10 +193,17 @@ def lade_firmen():
     return firmen
 
 
-def hole_json(adresse):
-    anfrage = urllib.request.Request(adresse, headers={"User-Agent": "hiring-radar"})
-    with urllib.request.urlopen(anfrage, timeout=40) as antwort:
-        return json.load(antwort)
+def hole_json(adresse, versuche=3):
+    """Holt eine Adresse. Bei Ueberlastung (429, 5xx) wartet es kurz und probiert es noch einmal."""
+    for versuch in range(versuche):
+        anfrage = urllib.request.Request(adresse, headers={"User-Agent": "hiring-radar"})
+        try:
+            with urllib.request.urlopen(anfrage, timeout=40) as antwort:
+                return json.load(antwort)
+        except urllib.error.HTTPError as grund:
+            if grund.code not in (429, 500, 502, 503, 504) or versuch == versuche - 1:
+                raise
+            time.sleep(4 * (versuch + 1))
 
 
 def hole_roh(quelle, kuerzel):
@@ -280,35 +290,45 @@ def lese_lever(roh, firma):
 LESER = {"greenhouse": lese_greenhouse, "ashby": lese_ashby, "lever": lese_lever}
 
 
+def pruefe_firma(firma, heute):
+    """Holt die Stellen einer Firma. Gibt den Bericht-Eintrag und die Stellen im deutschsprachigen Raum zurueck."""
+    eintrag = {"quelle": firma["quelle"], "kuerzel": firma["kuerzel"]}
+    try:
+        roh = hole_roh(firma["quelle"], firma["kuerzel"])
+        jobs = list(LESER[firma["quelle"]](roh, firma))
+    except Exception as grund:  # eine kaputte Firma stoppt nicht den Rest
+        eintrag.update(stellen=0, dach=0, fehler=str(grund)[:80])
+        return eintrag, []
+    eigene = []
+    for job in jobs:
+        ort, land = dach_ort(job["orte"], job["laender"])
+        if land == "Ausland":
+            continue
+        titel = (job["titel"] or "").strip()
+        link = job["link"] or ""
+        tage = max((heute - job["erstmals"]).days, 0) if job["erstmals"] else None
+        stufe = stufe_von(titel)
+        eigene.append({
+            "firma": job["firma"], "titel": titel, "ort": ort, "land": land, "stadt": stadt_von(ort),
+            "bereich": bereich_von(titel), "stufe": stufe, "art": art_von(titel, job["art"]),
+            "modus": modus_von(job["modus"], " ".join(job["orte"]), job["remote"]),
+            "online_seit": f"{job['erstmals']:%Y-%m-%d}" if job["erstmals"] else "",
+            "tage_offen": tage, "druck": druck_von(stufe, tage),
+            "link": link if link.startswith("https://") else "",
+        })
+    eintrag.update(name=(jobs[0]["firma"] if jobs else firma["name"]), stellen=len(jobs), dach=len(eigene))
+    return eintrag, eigene
+
+
+def pruefe_alle(firmen, heute, gleichzeitig=8):
+    """Prueft viele Firmen nebeneinander. Die Reihenfolge der Ergebnisse bleibt wie in der Liste."""
+    with ThreadPoolExecutor(max_workers=gleichzeitig) as helfer:
+        return list(helfer.map(lambda firma: pruefe_firma(firma, heute), firmen))
+
+
 def sammle(heute):
     stellen, bericht = [], []
-    for firma in lade_firmen():
-        eintrag = {"quelle": firma["quelle"], "kuerzel": firma["kuerzel"]}
-        try:
-            roh = hole_roh(firma["quelle"], firma["kuerzel"])
-            jobs = list(LESER[firma["quelle"]](roh, firma))
-        except Exception as grund:  # eine kaputte Firma stoppt nicht den Rest
-            eintrag.update(stellen=0, dach=0, fehler=str(grund)[:80])
-            bericht.append(eintrag)
-            continue
-        eigene = []
-        for job in jobs:
-            ort, land = dach_ort(job["orte"], job["laender"])
-            if land == "Ausland":
-                continue
-            titel = (job["titel"] or "").strip()
-            link = job["link"] or ""
-            tage = max((heute - job["erstmals"]).days, 0) if job["erstmals"] else None
-            stufe = stufe_von(titel)
-            eigene.append({
-                "firma": job["firma"], "titel": titel, "ort": ort, "land": land, "stadt": stadt_von(ort),
-                "bereich": bereich_von(titel), "stufe": stufe, "art": art_von(titel, job["art"]),
-                "modus": modus_von(job["modus"], " ".join(job["orte"]), job["remote"]),
-                "online_seit": f"{job['erstmals']:%Y-%m-%d}" if job["erstmals"] else "",
-                "tage_offen": tage, "druck": druck_von(stufe, tage),
-                "link": link if link.startswith("https://") else "",
-            })
-        eintrag.update(name=(jobs[0]["firma"] if jobs else firma["name"]), stellen=len(jobs), dach=len(eigene))
+    for eintrag, eigene in pruefe_alle(lade_firmen(), heute):
         bericht.append(eintrag)
         stellen.extend(eigene)
     stellen.sort(key=lambda s: (-s["druck"], -(s["tage_offen"] or 0)))

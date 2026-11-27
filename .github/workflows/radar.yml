@@ -5,6 +5,11 @@ on:
     - cron: "17 5 * * *"
   push:
     branches: [main]
+    paths-ignore:
+      - "entdecker.py"
+      - "kandidaten/**"
+      - ".github/workflows/entdecker.yml"
+      - "README.md"
   workflow_dispatch:
 
 permissions:
@@ -24,6 +29,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
       - name: Stellen einsammeln
         run: python3 sammler.py
       - name: Daten im Projekt speichern
