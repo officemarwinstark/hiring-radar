@@ -90,7 +90,7 @@
   "art": "",
   "modus": "",
   "online_seit": "2026-06-05",
-  "tage_offen": 174,
+  "tage_offen": 175,
   "druck": 81,
   "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8569510002",
   "staedte": [],
@@ -307,9 +307,9 @@
  {
   "firma": "Valtech",
   "titel": "New Business Director - DACH - (all genders)",
-  "ort": "Munich; Dusseldorf",
+  "ort": "Dusseldorf; Munich",
   "land": "Deutschland",
-  "stadt": "München",
+  "stadt": "Düsseldorf",
   "bereich": "Sonstiges",
   "stufe": 5,
   "art": "",
@@ -317,7 +317,7 @@
   "online_seit": "2026-06-25",
   "tage_offen": 155,
   "druck": 72,
-  "link": "https://job-boards.eu.greenhouse.io/valtech/jobs/4907453101",
+  "link": "https://job-boards.eu.greenhouse.io/valtech/jobs/4908209101",
   "staedte": [
    "Düsseldorf",
    "München"
@@ -1032,7 +1032,7 @@
  {
   "firma": "Valtech",
   "titel": "Senior Director Technology – Web Technologies & AI  (all genders)",
-  "ort": "Dusseldorf; Cologne; Munich",
+  "ort": "Dusseldorf; Munich; Cologne",
   "land": "Deutschland",
   "stadt": "Düsseldorf",
   "bereich": "Daten und KI",
@@ -1403,6 +1403,27 @@
   ]
  },
  {
+  "firma": "On",
+  "titel": "Senior Lead - Footwear Design, Performance Running",
+  "ort": "Zurich",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Marketing",
+  "stufe": 4,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-07-10",
+  "tage_offen": 140,
+  "druck": 52,
+  "link": "https://boards.greenhouse.io/onrunning/jobs/8054998?gh_jid=8054998",
+  "staedte": [
+   "Zürich"
+  ],
+  "laender": [
+   "Schweiz"
+  ]
+ },
+ {
   "firma": "Isar Aerospace SE",
   "titel": "Program Director (m/f/d)",
   "ort": "Parsdorf, Bavaria, Germany",
@@ -1729,7 +1750,7 @@
  {
   "firma": "Capco",
   "titel": "(Senior) Consultant* - SEPA-Payments",
-  "ort": "Germany - Frankfurt am Main; Germany - Munich; Germany - Dusseldorf und 1 weitere",
+  "ort": "Germany - Frankfurt am Main; Germany - Munich; Germany - Berlin und 1 weitere",
   "land": "Deutschland",
   "stadt": "Frankfurt",
   "bereich": "Strategie und Projekte",
@@ -1932,6 +1953,27 @@
   ],
   "laender": [
    "Deutschland"
+  ]
+ },
+ {
+  "firma": "StubHub",
+  "titel": "Head of Communications - DACH",
+  "ort": "Genève, Geneva, Switzerland",
+  "land": "Schweiz",
+  "stadt": "Genf",
+  "bereich": "Marketing",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-08-13",
+  "tage_offen": 106,
+  "druck": 49,
+  "link": "https://job-boards.eu.greenhouse.io/stubhubinc/jobs/4951061101",
+  "staedte": [
+   "Genf"
+  ],
+  "laender": [
+   "Schweiz"
   ]
  },
  {
@@ -3128,9 +3170,9 @@
  {
   "firma": "CarOnSale",
   "titel": "Regional Sales Director (m/w/d) – Vertriebsleitung Region Süd",
-  "ort": "Augsburg, Germany; Ulm, Germany; München, Germany",
+  "ort": "München, Germany; Augsburg, Germany; Ulm, Germany",
   "land": "Deutschland",
-  "stadt": "Augsburg",
+  "stadt": "München",
   "bereich": "Sales",
   "stufe": 5,
   "art": "",
@@ -3138,7 +3180,7 @@
   "online_seit": "2026-08-24",
   "tage_offen": 95,
   "druck": 44,
-  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/4959249101",
+  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/4959027101",
   "staedte": [
    "Augsburg",
    "München"
@@ -4263,6 +4305,25 @@
   ]
  },
  {
+  "firma": "Verve",
+  "titel": "Senior Sales Manager - Media (m/w/d)",
+  "ort": "Germany - Remote",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 3,
+  "art": "",
+  "modus": "Remote",
+  "online_seit": "2026-07-07",
+  "tage_offen": 143,
+  "druck": 40,
+  "link": "https://job-boards.greenhouse.io/verve/jobs/8622747002",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Secfix",
   "titel": "Information Security Lead",
   "ort": "Remote - Europe, Germany",
@@ -4427,6 +4488,27 @@
   ]
  },
  {
+  "firma": "Munich Electrification",
+  "titel": "Engineering Manager - Software and System Testing (f/m/d)",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Software und IT",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-08-12",
+  "tage_offen": 107,
+  "druck": 40,
+  "link": "https://jobs.ashbyhq.com/munich-electrification/4472cec3-8839-4e87-b9ee-7abe91421589",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Veeva",
   "titel": "Director - LIMS Strategy - CPG & F&B",
   "ort": "Germany - Berlin",
@@ -4532,30 +4614,11 @@
   ]
  },
  {
-  "firma": "Verve",
-  "titel": "Senior Sales Manager - Media (m/w/d)",
-  "ort": "Germany - Remote",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Sales",
-  "stufe": 3,
-  "art": "",
-  "modus": "Remote",
-  "online_seit": "2026-07-07",
-  "tage_offen": 142,
-  "druck": 39,
-  "link": "https://job-boards.greenhouse.io/verve/jobs/8622747002",
-  "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Capco",
   "titel": "Senior Business Analyst* – Wealth Management & Advisory Platforms",
-  "ort": "Germany - Frankfurt am Main; Germany - Munich; Germany - Berlin und 1 weitere",
+  "ort": "Germany - Munich; Germany - Frankfurt am Main; Germany - Berlin und 1 weitere",
   "land": "Deutschland",
-  "stadt": "Frankfurt",
+  "stadt": "München",
   "bereich": "Daten und KI",
   "stufe": 3,
   "art": "",
@@ -4563,7 +4626,7 @@
   "online_seit": "2026-07-09",
   "tage_offen": 141,
   "druck": 39,
-  "link": "https://job-boards.greenhouse.io/capco/jobs/8052982",
+  "link": "https://job-boards.greenhouse.io/capco/jobs/8052983",
   "staedte": [
    "Berlin",
    "Düsseldorf",
@@ -4577,9 +4640,9 @@
  {
   "firma": "Capco",
   "titel": "(Senior) Consultant* - Meldewesen / Regulatory Reporting",
-  "ort": "Germany - Munich; Germany - Berlin; Germany - Frankfurt am Main",
+  "ort": "Germany - Berlin; Germany - Munich; Germany - Frankfurt am Main",
   "land": "Deutschland",
-  "stadt": "München",
+  "stadt": "Berlin",
   "bereich": "Finanzen und Recht",
   "stufe": 3,
   "art": "",
@@ -4587,7 +4650,7 @@
   "online_seit": "2026-07-09",
   "tage_offen": 141,
   "druck": 39,
-  "link": "https://job-boards.greenhouse.io/capco/jobs/8053089",
+  "link": "https://job-boards.greenhouse.io/capco/jobs/8053090",
   "staedte": [
    "Berlin",
    "Frankfurt",
@@ -4740,27 +4803,6 @@
   "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8127533",
   "staedte": [
    "Hamburg"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Munich Electrification",
-  "titel": "Engineering Manager - Software and System Testing (f/m/d)",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Software und IT",
-  "stufe": 4,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-08-12",
-  "tage_offen": 106,
-  "druck": 39,
-  "link": "https://jobs.ashbyhq.com/munich-electrification/4472cec3-8839-4e87-b9ee-7abe91421589",
-  "staedte": [
-   "München"
   ],
   "laender": [
    "Deutschland"
@@ -6476,6 +6518,28 @@
   ]
  },
  {
+  "firma": "Suitsupply",
+  "titel": "Sales Supervisor m/w/d",
+  "ort": "Berlin, Berlin, Germany; Hannover, Lower Saxony, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-06-02",
+  "tage_offen": 178,
+  "druck": 33,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/7975937?gh_jid=7975937",
+  "staedte": [
+   "Berlin",
+   "Hannover"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Helsing",
   "titel": "Graphic Designer",
   "ort": "Berlin",
@@ -6594,6 +6658,52 @@
   "staedte": [],
   "laender": [
    "Deutschland"
+  ]
+ },
+ {
+  "firma": "Suitsupply",
+  "titel": "Sales Support",
+  "ort": "Zürich, Zürich, Switzerland; Vienna, Austria",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-06-03",
+  "tage_offen": 177,
+  "druck": 33,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/7978773?gh_jid=7978773",
+  "staedte": [
+   "Wien",
+   "Zürich"
+  ],
+  "laender": [
+   "Schweiz",
+   "Österreich"
+  ]
+ },
+ {
+  "firma": "Suitsupply",
+  "titel": "Style Advisor",
+  "ort": "Zürich, Zürich, Switzerland; Vienna, Austria",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-06-03",
+  "tage_offen": 177,
+  "druck": 33,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/7978771?gh_jid=7978771",
+  "staedte": [
+   "Wien",
+   "Zürich"
+  ],
+  "laender": [
+   "Schweiz",
+   "Österreich"
   ]
  },
  {
@@ -7422,9 +7532,9 @@
  {
   "firma": "Qualtrics",
   "titel": "Enterprise Account Executive - DACH",
-  "ort": "Munich, Germany; Germany (Remote)",
+  "ort": "Germany (Remote); Munich, Germany",
   "land": "Deutschland",
-  "stadt": "München",
+  "stadt": "",
   "bereich": "Sales",
   "stufe": 2,
   "art": "",
@@ -7432,7 +7542,7 @@
   "online_seit": "2026-06-09",
   "tage_offen": 171,
   "druck": 32,
-  "link": "https://www.qualtrics.com/careers/us/en/job/7992401?gh_jid=7992401",
+  "link": "https://www.qualtrics.com/careers/us/en/job/7985713?gh_jid=7985713",
   "staedte": [
    "München"
   ],
@@ -8349,7 +8459,7 @@
  {
   "firma": "Picnic",
   "titel": "Schichtleiter*in automatisierte Logistik (m/w/d)",
-  "ort": "Falkensee, Brandenburg, Germany; Berlin, Berlin, Germany; Potsdam, Brandenburg, Germany und 3 weitere",
+  "ort": "Potsdam, Brandenburg, Germany; Falkensee, Brandenburg, Germany; Berlin, Berlin, Germany und 3 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Betrieb und Logistik",
@@ -8359,7 +8469,7 @@
   "online_seit": "2026-09-04",
   "tage_offen": 84,
   "druck": 31,
-  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8179561",
+  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8179585",
   "staedte": [
    "Berlin"
   ],
@@ -8899,6 +9009,27 @@
   "druck": 30,
   "link": "https://jobs.ashbyhq.com/spearbio/198b2527-704d-449c-bcfc-470d6f83f0a5",
   "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "STRATO DE",
+  "titel": "Product Owner (w/m/d) - Office & Cloud Storage",
+  "ort": "Otto-Ostrowski-Straße 7, 10249 Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Software und IT",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-06-18",
+  "tage_offen": 162,
+  "druck": 30,
+  "link": "https://job-boards.eu.greenhouse.io/strato/jobs/4896226101",
+  "staedte": [
+   "Berlin"
+  ],
   "laender": [
    "Deutschland"
   ]
@@ -9820,6 +9951,27 @@
   ],
   "laender": [
    "Deutschland"
+  ]
+ },
+ {
+  "firma": "On",
+  "titel": "Fit Model (Flexible, Part-Time Opportunity)",
+  "ort": "Zurich",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Teilzeit",
+  "modus": "",
+  "online_seit": "2026-06-26",
+  "tage_offen": 154,
+  "druck": 29,
+  "link": "https://boards.greenhouse.io/onrunning/jobs/8030127?gh_jid=8030127",
+  "staedte": [
+   "Zürich"
+  ],
+  "laender": [
+   "Schweiz"
   ]
  },
  {
@@ -11212,6 +11364,27 @@
   "tage_offen": 148,
   "druck": 27,
   "link": "https://jobs.lever.co/ajax/3cfc9632-9571-4194-87c9-cfd8357a61c8",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Business Development Representative - DACH",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-07-02",
+  "tage_offen": 148,
+  "druck": 27,
+  "link": "https://www.hubspot.com/careers/jobs/8035828?gh_jid=8035828",
   "staedte": [
    "Berlin"
   ],
@@ -12867,6 +13040,25 @@
   ]
  },
  {
+  "firma": "HubSpot",
+  "titel": "Senior Account Executive , Expansion -  DACH (Germany Based)",
+  "ort": "Remote - Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 3,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-08-27",
+  "tage_offen": 92,
+  "druck": 26,
+  "link": "https://www.hubspot.com/careers/jobs/8161436?gh_jid=8161436",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "flaconi",
   "titel": "Teamleiter:in Logistik Warenausgang",
   "ort": "Halle, Saxony-Anhalt, Germany",
@@ -13068,6 +13260,27 @@
   ]
  },
  {
+  "firma": "CoreWeave Europe",
+  "titel": "Senior Director, Central & Eastern Europe",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Sonstiges",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-01",
+  "tage_offen": 57,
+  "druck": 26,
+  "link": "https://coreweave.com/careers/job?4717415006&board=coreweaveu&gh_jid=4717415006",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Grover",
   "titel": "Director of Category Management (m/w/x)",
   "ort": "Berlin HQ",
@@ -13190,9 +13403,9 @@
  {
   "firma": "Wellhub",
   "titel": "Partner Sales Executive  (m/f/d)",
-  "ort": "Germany (Munich - Hybrid); Germany (Berlin - Hybrid); Germany (Cologne - Hybrid)",
+  "ort": "Germany (Berlin - Hybrid); Germany (Munich - Hybrid); Germany (Cologne - Hybrid)",
   "land": "Deutschland",
-  "stadt": "München",
+  "stadt": "Berlin",
   "bereich": "Sales",
   "stufe": 2,
   "art": "",
@@ -13200,7 +13413,7 @@
   "online_seit": "2026-07-13",
   "tage_offen": 137,
   "druck": 25,
-  "link": "https://job-boards.greenhouse.io/gympass/jobs/8596965002",
+  "link": "https://job-boards.greenhouse.io/gympass/jobs/8630781002",
   "staedte": [
    "Berlin",
    "Köln",
@@ -13377,9 +13590,9 @@
  {
   "firma": "MongoDB",
   "titel": "Solutions Architect",
-  "ort": "Berlin; Cologne; Frankfurt; Hamburg; Munich; Stuttgart; Germany",
+  "ort": "Germany; Berlin; Cologne; Frankfurt; Hamburg; Munich; Stuttgart",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "",
   "bereich": "Software und IT",
   "stufe": 2,
   "art": "Vollzeit",
@@ -13387,7 +13600,7 @@
   "online_seit": "2026-07-15",
   "tage_offen": 135,
   "druck": 25,
-  "link": "https://www.mongodb.com/careers/job/?gh_jid=8066544",
+  "link": "https://www.mongodb.com/careers/job/?gh_jid=8066560",
   "staedte": [
    "Berlin"
   ],
@@ -14027,6 +14240,27 @@
   ]
  },
  {
+  "firma": "Databricks",
+  "titel": "Sr. Solutions Architect - FSI",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Software und IT",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-08-28",
+  "tage_offen": 91,
+  "druck": 25,
+  "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720999002",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Elastic",
   "titel": "Senior Regional Services Partner - EMEA Central",
   "ort": "Germany",
@@ -14101,27 +14335,6 @@
   "link": "https://jobs.ashbyhq.com/voyfai/c2b2f949-5895-4e97-b2bb-812b9d4787c5",
   "staedte": [
    "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Databricks",
-  "titel": "Sr. Solutions Architect - FSI",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Software und IT",
-  "stufe": 3,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-08-28",
-  "tage_offen": 90,
-  "druck": 25,
-  "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8720999002",
-  "staedte": [
-   "München"
   ],
   "laender": [
    "Deutschland"
@@ -14412,6 +14625,27 @@
   ]
  },
  {
+  "firma": "Figma",
+  "titel": "Manager, Mid-Market Sales (Berlin, Germany)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-07-20",
+  "tage_offen": 130,
+  "druck": 24,
+  "link": "https://boards.greenhouse.io/figma/jobs/6110744004?gh_jid=6110744004",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Taktile",
   "titel": "Forward Deployed Engineer",
   "ort": "Berlin Office, Germany",
@@ -14456,9 +14690,9 @@
  {
   "firma": "FeverUp",
   "titel": "Business Growth Analyst (Madrid based)",
-  "ort": "Berlin; Munich",
+  "ort": "Munich; Berlin",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "München",
   "bereich": "Marketing",
   "stufe": 2,
   "art": "",
@@ -14466,7 +14700,7 @@
   "online_seit": "2026-07-20",
   "tage_offen": 130,
   "druck": 24,
-  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/4931956101",
+  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/4931958101",
   "staedte": [
    "Berlin",
    "München"
@@ -14640,27 +14874,6 @@
   ]
  },
  {
-  "firma": "Figma",
-  "titel": "Manager, Mid-Market Sales (Berlin, Germany)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-07-20",
-  "tage_offen": 129,
-  "druck": 24,
-  "link": "https://boards.greenhouse.io/figma/jobs/6110744004?gh_jid=6110744004",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Qualysoft",
   "titel": "Python Developer – Generative AI / RAG (m/f/d)",
   "ort": "Wien",
@@ -14756,6 +14969,27 @@
   "tage_offen": 129,
   "druck": 24,
   "link": "https://jobs.ashbyhq.com/sensmore/9c0a3ec1-6e79-4b8d-bcec-f685dd4e2090",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Mendix",
+  "titel": "Field Marketing Manager M/F/D - DACH",
+  "ort": "Berlin | Cologne | Frankfurt | Hamburg | Hannover | Leipzig | Munich | Nuremberg | Stuttgart",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Marketing",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-07-21",
+  "tage_offen": 129,
+  "druck": 24,
+  "link": "https://jobs.lever.co/mendix/64bab875-202c-4d7c-b7af-d01483fb3a49",
   "staedte": [
    "Berlin"
   ],
@@ -14903,27 +15137,6 @@
   "link": "https://jobs.ashbyhq.com/tandem-health/3d6c01f3-ff93-4b76-808a-bb267dc07bcc",
   "staedte": [
    "München"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Mendix",
-  "titel": "Field Marketing Manager M/F/D - DACH",
-  "ort": "Berlin | Cologne | Frankfurt | Hamburg | Hannover | Leipzig | Munich | Nuremberg | Stuttgart",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Marketing",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-07-21",
-  "tage_offen": 128,
-  "druck": 24,
-  "link": "https://jobs.lever.co/mendix/64bab875-202c-4d7c-b7af-d01483fb3a49",
-  "staedte": [
-   "Berlin"
   ],
   "laender": [
    "Deutschland"
@@ -15121,9 +15334,9 @@
  {
   "firma": "CarOnSale",
   "titel": "Senior Salesforce Developer (m/w/d)",
-  "ort": "Munich, Germany; Berlin, Germany",
+  "ort": "Berlin, Germany; Munich, Germany",
   "land": "Deutschland",
-  "stadt": "München",
+  "stadt": "Berlin",
   "bereich": "Sales",
   "stufe": 3,
   "art": "",
@@ -15131,7 +15344,7 @@
   "online_seit": "2026-08-31",
   "tage_offen": 88,
   "druck": 24,
-  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/4961977101",
+  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/4961976101",
   "staedte": [
    "Berlin",
    "München"
@@ -15490,7 +15703,7 @@
  {
   "firma": "Picnic",
   "titel": "Teamleiter Logistik (m/w/d)",
-  "ort": "Erlangen, Bavaria, Germany; Fürth, Bavaria, Germany; Nürnberg, Bavaria, Germany und 9 weitere",
+  "ort": "Erlangen, Bavaria, Germany; Bergkamen, North Rhine-Westphalia, Germany; Nürnberg, Bavaria, Germany und 9 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Betrieb und Logistik",
@@ -15792,6 +16005,27 @@
   "tage_offen": 51,
   "druck": 24,
   "link": "https://job-boards.greenhouse.io/agencywithin/jobs/5248740007",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Reonic",
+  "titel": "Talent Acquisition Specialist - GTM Focus (AI x Greentech) (m/f/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-07-24",
+  "tage_offen": 126,
+  "druck": 23,
+  "link": "https://jobs.ashbyhq.com/reonic/08ce92eb-b0d3-4e95-aeb3-d9482f51c845",
   "staedte": [
    "Berlin"
   ],
@@ -16172,27 +16406,6 @@
   "link": "https://jobs.ashbyhq.com/percona/99ee2a07-7925-4b8e-9b3c-fb5e43cacc50",
   "staedte": [
    "Frankfurt"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Reonic",
-  "titel": "Talent Acquisition Specialist - GTM Focus (AI x Greentech) (m/f/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-07-24",
-  "tage_offen": 125,
-  "druck": 23,
-  "link": "https://jobs.ashbyhq.com/reonic/08ce92eb-b0d3-4e95-aeb3-d9482f51c845",
-  "staedte": [
-   "Berlin"
   ],
   "laender": [
    "Deutschland"
@@ -18192,6 +18405,27 @@
   ]
  },
  {
+  "firma": "Notion",
+  "titel": "Manager, Solutions Consultants, DACH",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-08-05",
+  "tage_offen": 114,
+  "druck": 21,
+  "link": "https://jobs.ashbyhq.com/notion/6140e48c-949d-48a8-a3f0-c826199040fe",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Harmattan AI",
   "titel": "Data Engineer (Detect & Track Distillation)",
   "ort": "Lausanne, Switzerland",
@@ -18510,27 +18744,6 @@
   ]
  },
  {
-  "firma": "Notion",
-  "titel": "Manager, Solutions Consultants, DACH",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-08-05",
-  "tage_offen": 113,
-  "druck": 21,
-  "link": "https://jobs.ashbyhq.com/notion/6140e48c-949d-48a8-a3f0-c826199040fe",
-  "staedte": [
-   "München"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Secfix",
   "titel": "Product Support Specialist",
   "ort": "Remote - Germany, Austria, Poland, the UK or Turkey",
@@ -18608,6 +18821,27 @@
   "link": "https://job-boards.greenhouse.io/barbaricum/jobs/5381724008",
   "staedte": [
    "Stuttgart"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Omnicom Media",
+  "titel": "Presentations Designer (all gender)",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Frankfurt am Main, Hesse, Germany; Germany; Hamburg, Hamburg, Germany; München, Bavaria, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Produkt und Design",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-08-06",
+  "tage_offen": 113,
+  "druck": 21,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/4973454007",
+  "staedte": [
+   "München"
   ],
   "laender": [
    "Deutschland"
@@ -18911,9 +19145,9 @@
  {
   "firma": "Flix",
   "titel": "Senior SAP FICO Consultant (m/f/d)",
-  "ort": "Berlin; Munich",
+  "ort": "Munich; Berlin",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "München",
   "bereich": "Strategie und Projekte",
   "stufe": 3,
   "art": "Vollzeit",
@@ -18921,7 +19155,7 @@
   "online_seit": "2026-09-11",
   "tage_offen": 77,
   "druck": 21,
-  "link": "https://flix.careers/job/8798857002?gh_jid=8798857002",
+  "link": "https://flix.careers/job/8798858002?gh_jid=8798858002",
   "staedte": [
    "Berlin",
    "München"
@@ -19008,6 +19242,25 @@
   "staedte": [
    "Berlin"
   ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "CoreWeave Europe",
+  "titel": "Senior Counsel, Privacy & AI Compliance (EU)",
+  "ort": "London, England, Germany, Spain",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Daten und KI",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-09-11",
+  "tage_offen": 77,
+  "druck": 21,
+  "link": "https://coreweave.com/careers/job?4712680006&board=coreweaveu&gh_jid=4712680006",
+  "staedte": [],
   "laender": [
    "Deutschland"
   ]
@@ -19381,9 +19634,9 @@
  {
   "firma": "IONOS DE",
   "titel": "Staff Information Security Professional (w/m/d)",
-  "ort": "Otto-Ostrowski-Straße 7, 10249 Berlin; Hinterm Hauptbahnhof 3-5, 76137 Karlsruhe",
+  "ort": "Hinterm Hauptbahnhof 3-5, 76137 Karlsruhe; Otto-Ostrowski-Straße 7, 10249 Berlin",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "Karlsruhe",
   "bereich": "Software und IT",
   "stufe": 4,
   "art": "Vollzeit",
@@ -19391,7 +19644,7 @@
   "online_seit": "2026-10-02",
   "tage_offen": 56,
   "druck": 21,
-  "link": "https://job-boards.eu.greenhouse.io/ionos/jobs/4974060101",
+  "link": "https://job-boards.eu.greenhouse.io/ionos/jobs/4990836101",
   "staedte": [
    "Berlin",
    "Karlsruhe"
@@ -19731,6 +19984,27 @@
   ]
  },
  {
+  "firma": "The Quality Group GmbH",
+  "titel": "Laborant (gn) ESN",
+  "ort": "Hamburg",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-08-09",
+  "tage_offen": 110,
+  "druck": 20,
+  "link": "https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4949191101",
+  "staedte": [
+   "Hamburg"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Mercura",
   "titel": "Technical Product Designer",
   "ort": "Munich, Germany",
@@ -19767,27 +20041,6 @@
   "link": "https://job-boards.eu.greenhouse.io/raisin/jobs/4949391101",
   "staedte": [
    "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "The Quality Group GmbH",
-  "titel": "Laborant (gn) ESN",
-  "ort": "Hamburg",
-  "land": "Deutschland",
-  "stadt": "Hamburg",
-  "bereich": "Sonstiges",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-08-09",
-  "tage_offen": 109,
-  "druck": 20,
-  "link": "https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/4949191101",
-  "staedte": [
-   "Hamburg"
   ],
   "laender": [
    "Deutschland"
@@ -20792,6 +21045,46 @@
   ]
  },
  {
+  "firma": "On",
+  "titel": "Store Advisor, Düsseldorf",
+  "ort": "Düsseldorf",
+  "land": "Deutschland",
+  "stadt": "Düsseldorf",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-08-13",
+  "tage_offen": 106,
+  "druck": 20,
+  "link": "https://boards.greenhouse.io/onrunning/jobs/8127676?gh_jid=8127676",
+  "staedte": [
+   "Düsseldorf"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Hunter Douglas",
+  "titel": "Account Manager - South Germany",
+  "ort": "South Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-08-13",
+  "tage_offen": 106,
+  "druck": 20,
+  "link": "https://jobs.hunterdouglas.com/division/hunterdouglas/job/7863285003?gh_jid=7863285003",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Helsing",
   "titel": "Senior Accountant Accounts Payable",
   "ort": "Munich",
@@ -21268,6 +21561,27 @@
   ]
  },
  {
+  "firma": "Omnicom Media",
+  "titel": "Senior Campaign Manager SEA (all gender)",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Frankfurt am Main, Hesse, Germany; Hamburg, Hamburg, Germany",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Marketing",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-09-17",
+  "tage_offen": 71,
+  "druck": 20,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/5189586007",
+  "staedte": [
+   "Hamburg"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Cohere",
   "titel": "Staff Technical Program Manager, Machine Learning",
   "ort": "Berlin, Germany",
@@ -21495,6 +21809,27 @@
   ]
  },
  {
+  "firma": "The Exploration Company",
+  "titel": "Future Projects Thermal Engineer",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Hardware und Ingenieurwesen",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-08-14",
+  "tage_offen": 105,
+  "druck": 19,
+  "link": "https://jobs.ashbyhq.com/the-exploration-company/3c87ef04-f1ba-4755-b84d-d9612984de8a",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "The Quality Group GmbH",
   "titel": "Category Planner MORE Nutrition (gn)",
   "ort": "Hamburg (hybrid)",
@@ -21635,27 +21970,6 @@
   "druck": 19,
   "link": "https://jobs.ashbyhq.com/astronomer/ca6675b5-0649-4496-905c-7b9b89370af3",
   "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "The Exploration Company",
-  "titel": "Future Projects Thermal Engineer",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Hardware und Ingenieurwesen",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-08-14",
-  "tage_offen": 104,
-  "druck": 19,
-  "link": "https://jobs.ashbyhq.com/the-exploration-company/3c87ef04-f1ba-4755-b84d-d9612984de8a",
-  "staedte": [
-   "München"
-  ],
   "laender": [
    "Deutschland"
   ]
@@ -22780,9 +23094,9 @@
  {
   "firma": "Capco",
   "titel": "(Senior) Consultant* – Securities & Custody Operations",
-  "ort": "Germany - Munich; Germany - Frankfurt am Main",
+  "ort": "Germany - Frankfurt am Main; Germany - Munich",
   "land": "Deutschland",
-  "stadt": "München",
+  "stadt": "Frankfurt",
   "bereich": "Strategie und Projekte",
   "stufe": 3,
   "art": "",
@@ -22790,7 +23104,7 @@
   "online_seit": "2026-09-21",
   "tage_offen": 67,
   "druck": 19,
-  "link": "https://job-boards.greenhouse.io/capco/jobs/8220514",
+  "link": "https://job-boards.greenhouse.io/capco/jobs/8220511",
   "staedte": [
    "Frankfurt",
    "München"
@@ -23516,7 +23830,7 @@
  {
   "firma": "CarOnSale",
   "titel": "Regional Sales Director (m/w/d) – Vertriebsleitung Region West",
-  "ort": "Köln, Germany; Frankfurt am Main, Germany; Düsseldorf, Germany und 6 weitere",
+  "ort": "Köln, Germany; Frankfurt am Main, Germany; Bonn, Germany und 6 weitere",
   "land": "Deutschland",
   "stadt": "Köln",
   "bereich": "Sales",
@@ -24278,7 +24592,7 @@
  {
   "firma": "CarOnSale",
   "titel": "Sales Manager Großraum Magdeburg (m/w/d)",
-  "ort": "Dessau, Germany; Magdeburg, Germany; Erfurt, Germany und 2 weitere",
+  "ort": "Dessau, Germany; Leipzig, Germany; Halle, Germany und 2 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Sales",
@@ -24818,7 +25132,7 @@
  {
   "firma": "Picnic",
   "titel": "Senior Technischer Facility Manager (m/w/d)",
-  "ort": "Oberhausen, North Rhine-Westphalia, Germany; Essen, North Rhine-Westphalia, Germany; Dinslaken, North Rhine-Westphalia, Germany",
+  "ort": "Dinslaken, North Rhine-Westphalia, Germany; Oberhausen, North Rhine-Westphalia, Germany; Essen, North Rhine-Westphalia, Germany",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Betrieb und Logistik",
@@ -24828,7 +25142,7 @@
   "online_seit": "2026-09-24",
   "tage_offen": 64,
   "druck": 18,
-  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8230057",
+  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8230061",
   "staedte": [],
   "laender": [
    "Deutschland"
@@ -24898,9 +25212,9 @@
  {
   "firma": "Nebius",
   "titel": "Senior Machine Learning Engineer, LLM Inference Optimization",
-  "ort": "Amsterdam, Netherlands; Berlin, Germany; Israel; Remote - Europe; Zurich, Switzerland",
-  "land": "Deutschland",
-  "stadt": "Berlin",
+  "ort": "Zurich, Switzerland; Amsterdam, Netherlands; Berlin, Germany; Israel; Remote - Europe",
+  "land": "Schweiz",
+  "stadt": "Zürich",
   "bereich": "Daten und KI",
   "stufe": 3,
   "art": "",
@@ -24908,7 +25222,7 @@
   "online_seit": "2026-09-24",
   "tage_offen": 64,
   "druck": 18,
-  "link": "https://careers.nebius.com/?gh_jid=4986448101",
+  "link": "https://careers.nebius.com/?gh_jid=4986451101",
   "staedte": [
    "Berlin",
    "Zürich"
@@ -25317,6 +25631,27 @@
   "link": "https://flix.careers/job/8901795002?gh_jid=8901795002",
   "staedte": [
    "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Sereact",
+  "titel": "Director Technical Support & Field Service (m/f/d)",
+  "ort": "Stuttgart Schockenriedstr. 17, Germany",
+  "land": "Deutschland",
+  "stadt": "Stuttgart",
+  "bereich": "Kundenservice",
+  "stufe": 5,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-10-20",
+  "tage_offen": 38,
+  "druck": 18,
+  "link": "https://jobs.ashbyhq.com/sereact/124f5b05-7e94-495c-b168-ca3e9463c7a5",
+  "staedte": [
+   "Stuttgart"
   ],
   "laender": [
    "Deutschland"
@@ -26344,9 +26679,9 @@
  {
   "firma": "FeverUp",
   "titel": "Senior Partner Project Manager (Fluent Polish)",
-  "ort": "Vienna; Berlin; Cologne und 1 weitere",
-  "land": "Österreich",
-  "stadt": "Wien",
+  "ort": "Berlin; Vienna; Munich und 1 weitere",
+  "land": "Deutschland",
+  "stadt": "Berlin",
   "bereich": "Strategie und Projekte",
   "stufe": 3,
   "art": "",
@@ -26354,7 +26689,7 @@
   "online_seit": "2026-09-28",
   "tage_offen": 60,
   "druck": 17,
-  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/4988731101",
+  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/4988721101",
   "staedte": [
    "Berlin",
    "Köln",
@@ -26672,27 +27007,6 @@
   "link": "https://www.moonfare.com/open-position/?gh_jid=8040024003",
   "staedte": [
    "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Sereact",
-  "titel": "Director Technical Support & Field Service (m/f/d)",
-  "ort": "Stuttgart Schockenriedstr. 17, Germany",
-  "land": "Deutschland",
-  "stadt": "Stuttgart",
-  "bereich": "Kundenservice",
-  "stufe": 5,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-10-20",
-  "tage_offen": 37,
-  "druck": 17,
-  "link": "https://jobs.ashbyhq.com/sereact/124f5b05-7e94-495c-b168-ca3e9463c7a5",
-  "staedte": [
-   "Stuttgart"
   ],
   "laender": [
    "Deutschland"
@@ -27794,6 +28108,27 @@
   ]
  },
  {
+  "firma": "Databricks",
+  "titel": "Solutions Architect - CPG and Manufacturing",
+  "ort": "Zürich, Switzerland",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Hardware und Ingenieurwesen",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-09-03",
+  "tage_offen": 85,
+  "druck": 16,
+  "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755662002",
+  "staedte": [
+   "Zürich"
+  ],
+  "laender": [
+   "Schweiz"
+  ]
+ },
+ {
   "firma": "N26",
   "titel": "ICT GRC – Risk & Compliance Manager",
   "ort": "Berlin",
@@ -28043,27 +28378,6 @@
   ],
   "laender": [
    "Deutschland"
-  ]
- },
- {
-  "firma": "Databricks",
-  "titel": "Solutions Architect - CPG and Manufacturing",
-  "ort": "Zürich, Switzerland",
-  "land": "Schweiz",
-  "stadt": "Zürich",
-  "bereich": "Hardware und Ingenieurwesen",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-09-03",
-  "tage_offen": 84,
-  "druck": 16,
-  "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755662002",
-  "staedte": [
-   "Zürich"
-  ],
-  "laender": [
-   "Schweiz"
   ]
  },
  {
@@ -28421,9 +28735,9 @@
  {
   "firma": "Capco",
   "titel": "(Senior) Consultant* – Operational & Cyber Resilience",
-  "ort": "Germany - Berlin; Germany - Munich; Germany - Dusseldorf und 1 weitere",
+  "ort": "Germany - Dusseldorf; Germany - Berlin; Germany - Munich und 1 weitere",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "Düsseldorf",
   "bereich": "Strategie und Projekte",
   "stufe": 3,
   "art": "",
@@ -28431,7 +28745,7 @@
   "online_seit": "2026-09-30",
   "tage_offen": 58,
   "druck": 16,
-  "link": "https://job-boards.greenhouse.io/capco/jobs/8242368",
+  "link": "https://job-boards.greenhouse.io/capco/jobs/8242369",
   "staedte": [
    "Berlin",
    "Düsseldorf",
@@ -28464,7 +28778,7 @@
  {
   "firma": "Nebius",
   "titel": "Senior Applied Scientist, Efficient LLM Inference & Model Optimization",
-  "ort": "Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Poland; Prague, Czech Republic; Tel Aviv, Israel; Zurich, Switzerland; Zurich, Switzerland; Berlin, Germany",
+  "ort": "Amsterdam, Netherlands; Berlin, Germany; London, United Kingdom; Poland; Prague, Czech Republic; Tel Aviv, Israel; Zurich, Switzerland; Berlin, Germany; Zurich, Switzerland",
   "land": "Deutschland",
   "stadt": "Berlin",
   "bereich": "Daten und KI",
@@ -28590,6 +28904,25 @@
   ]
  },
  {
+  "firma": "Bloom & Wild Group",
+  "titel": "Senior Trading & Demand Planning Executive",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Betrieb und Logistik",
+  "stufe": 3,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-09-30",
+  "tage_offen": 58,
+  "druck": 16,
+  "link": "https://jobs.lever.co/bloomon/0d19d707-cd2a-4abc-88f5-8ee4c2005768",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "HelloFresh",
   "titel": "Senior Lifecycle Marketing Manager (all genders)",
   "ort": "Berlin, Berlin, Germany",
@@ -28690,25 +29023,6 @@
   "staedte": [
    "Hamburg"
   ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Bloom & Wild Group",
-  "titel": "Senior Trading & Demand Planning Executive",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Betrieb und Logistik",
-  "stufe": 3,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-09-30",
-  "tage_offen": 57,
-  "druck": 16,
-  "link": "https://jobs.lever.co/bloomon/0d19d707-cd2a-4abc-88f5-8ee4c2005768",
-  "staedte": [],
   "laender": [
    "Deutschland"
   ]
@@ -29759,6 +30073,25 @@
   ]
  },
  {
+  "firma": "Verve",
+  "titel": "Sales Development Representative (m/w/d)",
+  "ort": "Essen, Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-09-07",
+  "tage_offen": 81,
+  "druck": 15,
+  "link": "https://job-boards.greenhouse.io/verve/jobs/8785406002",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Butternut Box",
   "titel": "Direct Sales Manager – West (all genders)",
   "ort": "Dortmund, Essen",
@@ -30094,25 +30427,6 @@
   "tage_offen": 80,
   "druck": 15,
   "link": "https://job-boards.greenhouse.io/chainguard/jobs/4710284006",
-  "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Verve",
-  "titel": "Sales Development Representative (m/w/d)",
-  "ort": "Essen, Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-09-07",
-  "tage_offen": 80,
-  "druck": 15,
-  "link": "https://job-boards.greenhouse.io/verve/jobs/8785406002",
   "staedte": [],
   "laender": [
    "Deutschland"
@@ -31764,7 +32078,7 @@
  {
   "firma": "Picnic",
   "titel": "Maintenance Supervisor (m/f/d)",
-  "ort": "Potsdam, Brandenburg, Germany; Falkensee, Brandenburg, Germany; Berlin, Berlin, Germany",
+  "ort": "Falkensee, Brandenburg, Germany; Berlin, Berlin, Germany; Potsdam, Brandenburg, Germany",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Betrieb und Logistik",
@@ -31774,7 +32088,7 @@
   "online_seit": "2026-09-14",
   "tage_offen": 74,
   "druck": 14,
-  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8201021",
+  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8201015",
   "staedte": [
    "Berlin"
   ],
@@ -32525,6 +32839,27 @@
   ]
  },
  {
+  "firma": "Bliro GmbH",
+  "titel": "Senior AI Engineer, Agents (Python) (f/m/d)",
+  "ort": "Munich Office, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Daten und KI",
+  "stufe": 3,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-10-06",
+  "tage_offen": 52,
+  "druck": 14,
+  "link": "https://jobs.ashbyhq.com/bliro/55aaadd2-e1f7-4411-93a5-e7888af31864",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "ecosio",
   "titel": "Senior Account Manager DACH (f/m/d)",
   "ort": "Vienna, Vienna, Austria, Croatia, Paris, Paris, France, München, Bavaria, Germany, Budapest, Budapest, Hungary, Milano, Milan, Italy, Lisbon, Lisbon, Portugal, València, Valencia, Spain, London, England, United Kingdom",
@@ -32770,27 +33105,6 @@
   ],
   "laender": [
    "Schweiz"
-  ]
- },
- {
-  "firma": "Bliro GmbH",
-  "titel": "Senior AI Engineer, Agents (Python) (f/m/d)",
-  "ort": "Munich Office, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Daten und KI",
-  "stufe": 3,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-10-06",
-  "tage_offen": 51,
-  "druck": 14,
-  "link": "https://jobs.ashbyhq.com/bliro/55aaadd2-e1f7-4411-93a5-e7888af31864",
-  "staedte": [
-   "München"
-  ],
-  "laender": [
-   "Deutschland"
   ]
  },
  {
@@ -33249,6 +33563,25 @@
   ]
  },
  {
+  "firma": "n8n",
+  "titel": "Engineering Manager | Remote | Europe",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Software und IT",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-10-20",
+  "tage_offen": 38,
+  "druck": 14,
+  "link": "https://jobs.ashbyhq.com/n8n/2ac306a9-1d24-4b19-8261-32902b7dd423",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "DeepL",
   "titel": "Machine Learning Engineering Manager",
   "ort": "Munich, Germany",
@@ -33305,25 +33638,6 @@
   "staedte": [
    "Berlin"
   ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "n8n",
-  "titel": "Engineering Manager | Remote | Europe",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Software und IT",
-  "stufe": 4,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-10-20",
-  "tage_offen": 37,
-  "druck": 14,
-  "link": "https://jobs.ashbyhq.com/n8n/2ac306a9-1d24-4b19-8261-32902b7dd423",
-  "staedte": [],
   "laender": [
    "Deutschland"
   ]
@@ -33535,6 +33849,27 @@
   ]
  },
  {
+  "firma": "HelloFresh",
+  "titel": "Director, Paid Search (all genders)- maternity leave cover",
+  "ort": "Berlin, Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Marketing",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-27",
+  "tage_offen": 31,
+  "druck": 14,
+  "link": "https://careers.hellofresh.com/global/en/job/8324281?gh_jid=8324281",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Moss",
   "titel": "Head of Engineering (f/m/d)",
   "ort": "Berlin, Germany",
@@ -33591,27 +33926,6 @@
   "druck": 14,
   "link": "https://jobs.lever.co/zimperium/e54c8e95-94ad-45fa-b0b7-6ee4638c020d",
   "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "HelloFresh",
-  "titel": "Director, Paid Search (all genders)- maternity leave cover",
-  "ort": "Berlin, Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Marketing",
-  "stufe": 5,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-10-27",
-  "tage_offen": 30,
-  "druck": 14,
-  "link": "https://careers.hellofresh.com/global/en/job/8324281?gh_jid=8324281",
-  "staedte": [
-   "Berlin"
-  ],
   "laender": [
    "Deutschland"
   ]
@@ -34125,6 +34439,25 @@
   "staedte": [
    "Wien"
   ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
+  "firma": "‎ConnectWise",
+  "titel": "Sales Development Representative - DACH",
+  "ort": "Austria",
+  "land": "Österreich",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-09-16",
+  "tage_offen": 72,
+  "druck": 13,
+  "link": "https://job-boards.greenhouse.io/connectwise/jobs/4734557005",
+  "staedte": [],
   "laender": [
    "Österreich"
   ]
@@ -35350,9 +35683,9 @@
  {
   "firma": "FeverUp",
   "titel": "Lead Partner Project Manager",
-  "ort": "Munich; Cologne; Berlin",
+  "ort": "Berlin; Cologne; Munich",
   "land": "Deutschland",
-  "stadt": "München",
+  "stadt": "Berlin",
   "bereich": "Strategie und Projekte",
   "stufe": 4,
   "art": "",
@@ -35360,7 +35693,7 @@
   "online_seit": "2026-10-22",
   "tage_offen": 36,
   "druck": 13,
-  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/5013272101",
+  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/5013283101",
   "staedte": [
    "Berlin",
    "Köln",
@@ -36266,9 +36599,9 @@
  {
   "firma": "Celonis",
   "titel": "Strategic Account Executive - Manufacturing",
-  "ort": "Remote, Switzerland; Zürich, Switzerland",
+  "ort": "Zürich, Switzerland; Remote, Switzerland",
   "land": "Schweiz",
-  "stadt": "",
+  "stadt": "Zürich",
   "bereich": "Sales",
   "stufe": 2,
   "art": "",
@@ -36276,7 +36609,7 @@
   "online_seit": "2026-09-22",
   "tage_offen": 66,
   "druck": 12,
-  "link": "https://job-boards.greenhouse.io/celonis/jobs/8002500003?gh_jid=8002500003",
+  "link": "https://job-boards.greenhouse.io/celonis/jobs/7988891003?gh_jid=7988891003",
   "staedte": [
    "Zürich"
   ],
@@ -37091,6 +37424,27 @@
   ]
  },
  {
+  "firma": "General Atlantic",
+  "titel": "Analyst, Munich",
+  "ort": "Munich",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Daten und KI",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-09-23",
+  "tage_offen": 65,
+  "druck": 12,
+  "link": "https://job-boards.greenhouse.io/generalatlantic/jobs/6205669004",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Stripe",
   "titel": "Sales Manager, Enterprise, DACH",
   "ort": "Germany",
@@ -37154,7 +37508,7 @@
  {
   "firma": "Picnic",
   "titel": "HR Business Partner (m/w/d)",
-  "ort": "Berlin, Berlin, Germany; Ludwigsfelde, Brandenburg, Germany; Viernheim, Hesse, Germany und 6 weitere",
+  "ort": "Berlin, Berlin, Germany; Viernheim, Hesse, Germany; Ludwigsfelde, Brandenburg, Germany und 6 weitere",
   "land": "Deutschland",
   "stadt": "Berlin",
   "bereich": "Personal",
@@ -37196,9 +37550,9 @@
  {
   "firma": "Picnic",
   "titel": "Instandhaltungsingenieur (m/w/d)",
-  "ort": "Berlin, Berlin, Germany; Falkensee, Brandenburg, Germany; Potsdam, Brandenburg, Germany",
+  "ort": "Potsdam, Brandenburg, Germany; Falkensee, Brandenburg, Germany; Berlin, Berlin, Germany",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "",
   "bereich": "Hardware und Ingenieurwesen",
   "stufe": 2,
   "art": "",
@@ -37206,7 +37560,7 @@
   "online_seit": "2026-09-24",
   "tage_offen": 64,
   "druck": 12,
-  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8230067",
+  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8230069",
   "staedte": [
    "Berlin"
   ],
@@ -37217,7 +37571,7 @@
  {
   "firma": "Picnic",
   "titel": "Maintenance Engineer (m/w/d) - Automation & Instandhaltung",
-  "ort": "Berlin, Berlin, Germany; Potsdam, Brandenburg, Germany; Falkensee, Brandenburg, Germany",
+  "ort": "Berlin, Berlin, Germany; Falkensee, Brandenburg, Germany; Potsdam, Brandenburg, Germany",
   "land": "Deutschland",
   "stadt": "Berlin",
   "bereich": "Software und IT",
@@ -37257,7 +37611,7 @@
  {
   "firma": "Picnic",
   "titel": "Technischer Facility Manager (m/w/d)",
-  "ort": "Dinslaken, North Rhine-Westphalia, Germany; Essen, North Rhine-Westphalia, Germany; Oberhausen, North Rhine-Westphalia, Germany und 3 weitere",
+  "ort": "Oberhausen, North Rhine-Westphalia, Germany; Essen, North Rhine-Westphalia, Germany; Dinslaken, North Rhine-Westphalia, Germany und 3 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Betrieb und Logistik",
@@ -37267,7 +37621,7 @@
   "online_seit": "2026-09-24",
   "tage_offen": 64,
   "druck": 12,
-  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8230065",
+  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8230063",
   "staedte": [
    "Berlin"
   ],
@@ -37410,27 +37764,6 @@
   "druck": 12,
   "link": "https://jobs.ashbyhq.com/infisical/8423f7da-e0f6-49d5-add9-94bc3c43ca8e",
   "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "General Atlantic",
-  "titel": "Analyst, Munich",
-  "ort": "Munich",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Daten und KI",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-09-23",
-  "tage_offen": 64,
-  "druck": 12,
-  "link": "https://job-boards.greenhouse.io/generalatlantic/jobs/6205669004",
-  "staedte": [
-   "München"
-  ],
   "laender": [
    "Deutschland"
   ]
@@ -37923,6 +38256,27 @@
   "druck": 12,
   "link": "https://jobs.ashbyhq.com/eye-security/21a8c845-7f1b-48d9-8f8f-e8e59a2dcfcc",
   "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Omnicom Media",
+  "titel": "Senior Campaign Management (all gender)",
+  "ort": "Frankfurt am Main, Hesse, Germany; Hamburg, Hamburg, Germany; München, Bavaria, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Marketing",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-14",
+  "tage_offen": 44,
+  "druck": 12,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/5227098007",
+  "staedte": [
+   "München"
+  ],
   "laender": [
    "Deutschland"
   ]
@@ -44163,6 +44517,25 @@
   ]
  },
  {
+  "firma": "‎ConnectWise",
+  "titel": "Channel Account Manager - DACH",
+  "ort": "Austria",
+  "land": "Österreich",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-06",
+  "tage_offen": 52,
+  "druck": 10,
+  "link": "https://job-boards.greenhouse.io/connectwise/jobs/4739593005",
+  "staedte": [],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
   "firma": "Isar Aerospace SE",
   "titel": "Senior Propulsion Engineer - Combustion Devices (m/f/d)",
   "ort": "Parsdorf, Bavaria, Germany",
@@ -45145,6 +45518,27 @@
   ]
  },
  {
+  "firma": "SteerBridge",
+  "titel": "Principal Data Architect & Technical Product Owner",
+  "ort": "Vienna, VA",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Daten und KI",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-10-30",
+  "tage_offen": 28,
+  "druck": 10,
+  "link": "https://jobs.lever.co/steerbridge/b6a005ee-8af1-4fd7-8500-afbe01ef3759",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
   "firma": "DataGuard",
   "titel": "AI Engineering Manager (m/f/d)",
   "ort": "Munich, Germany",
@@ -45203,27 +45597,6 @@
   "staedte": [],
   "laender": [
    "Deutschland"
-  ]
- },
- {
-  "firma": "SteerBridge",
-  "titel": "Principal Data Architect & Technical Product Owner",
-  "ort": "Vienna, VA",
-  "land": "Österreich",
-  "stadt": "Wien",
-  "bereich": "Daten und KI",
-  "stufe": 4,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-10-30",
-  "tage_offen": 27,
-  "druck": 10,
-  "link": "https://jobs.lever.co/steerbridge/b6a005ee-8af1-4fd7-8500-afbe01ef3759",
-  "staedte": [
-   "Wien"
-  ],
-  "laender": [
-   "Österreich"
   ]
  },
  {
@@ -45800,6 +46173,27 @@
   ]
  },
  {
+  "firma": "Omnicom Media",
+  "titel": "Group Head Media Consulting (all gender)",
+  "ort": "Germany; Hamburg, Hamburg, Germany",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Sonstiges",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2025-12-03",
+  "tage_offen": 359,
+  "druck": 9,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/4927879007",
+  "staedte": [
+   "Hamburg"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Andercore",
   "titel": "Director of Sales - DACH",
   "ort": "Berlin, Germany",
@@ -45818,6 +46212,27 @@
   ],
   "laender": [
    "Deutschland"
+  ]
+ },
+ {
+  "firma": "On",
+  "titel": "Head of - Apparel Materials Development (Performance)",
+  "ort": "Zurich",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Marketing",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2025-12-05",
+  "tage_offen": 357,
+  "druck": 9,
+  "link": "https://boards.greenhouse.io/onrunning/jobs/7384378?gh_jid=7384378",
+  "staedte": [
+   "Zürich"
+  ],
+  "laender": [
+   "Schweiz"
   ]
  },
  {
@@ -46021,6 +46436,27 @@
   ]
  },
  {
+  "firma": "On",
+  "titel": "Global Senior Director of Brand Apparel Marketing",
+  "ort": "Zurich",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Marketing",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-04-08",
+  "tage_offen": 233,
+  "druck": 9,
+  "link": "https://boards.greenhouse.io/onrunning/jobs/7402412?gh_jid=7402412",
+  "staedte": [
+   "Zürich"
+  ],
+  "laender": [
+   "Schweiz"
+  ]
+ },
+ {
   "firma": "Veeam Software",
   "titel": "Director, Sales - Data & AI Security",
   "ort": "Munich, Germany",
@@ -46086,8 +46522,8 @@
  {
   "firma": "Netskope",
   "titel": "Director, Regional Sales",
-  "ort": "Austria; Switzerland",
-  "land": "Österreich",
+  "ort": "Switzerland; Austria",
+  "land": "Schweiz",
   "stadt": "",
   "bereich": "Sales",
   "stufe": 5,
@@ -46096,7 +46532,7 @@
   "online_seit": "2026-04-29",
   "tage_offen": 212,
   "druck": 9,
-  "link": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7866370",
+  "link": "https://www.netskope.com/company/careers/open-positions/?gh_jid=7865634",
   "staedte": [],
   "laender": [
    "Schweiz",
@@ -47563,7 +47999,7 @@
  {
   "firma": "CarOnSale",
   "titel": "Sales Manager Großraum Heilbronn (m/w/d)",
-  "ort": "Stuttgart, Germany; Heilbronn, Germany; Ludwigsburg, Germany und 3 weitere",
+  "ort": "Stuttgart, Germany; Heilbronn, Germany; Pforzheim, Germany und 3 weitere",
   "land": "Deutschland",
   "stadt": "Stuttgart",
   "bereich": "Sales",
@@ -48485,9 +48921,9 @@
  {
   "firma": "Welcome to the Jungle",
   "titel": "AI Strategist",
-  "ort": "Zürich, Switzerland; Lausanne, Vaud, Switzerland",
+  "ort": "Lausanne, Vaud, Switzerland; Zürich, Switzerland",
   "land": "Schweiz",
-  "stadt": "Zürich",
+  "stadt": "",
   "bereich": "Daten und KI",
   "stufe": 2,
   "art": "Vollzeit",
@@ -48495,7 +48931,7 @@
   "online_seit": "2026-10-12",
   "tage_offen": 46,
   "druck": 9,
-  "link": "https://job-boards.greenhouse.io/artefactjobs/jobs/8883360002",
+  "link": "https://job-boards.greenhouse.io/artefactjobs/jobs/8883373002",
   "staedte": [
    "Zürich"
   ],
@@ -48870,6 +49306,27 @@
   "link": "https://job-boards.greenhouse.io/apaleo/jobs/8045896003",
   "staedte": [
    "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "DiliTrust",
+  "titel": "Legal Expert - Freelance (Arabic speaker)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Finanzen und Recht",
+  "stufe": 3,
+  "art": "Freelance",
+  "modus": "Remote",
+  "online_seit": "2026-10-27",
+  "tage_offen": 31,
+  "druck": 9,
+  "link": "https://jobs.lever.co/dilitrust/c1b4e2b4-b4a8-44c6-bb8b-666f4e1eb2e8",
+  "staedte": [
+   "Berlin"
   ],
   "laender": [
    "Deutschland"
@@ -50344,7 +50801,7 @@
  {
   "firma": "Rubrik Job Board",
   "titel": "Account Executive, Named - Germany",
-  "ort": "Frankfurt, Hesse, Germany; Dusseldorf, North Rhine-Westphalia, Germany; Munich, Bavaria, Germany und 4 weitere",
+  "ort": "Frankfurt, Hesse, Germany; Leipzig, Saxony, Germany; Hamburg, Germany und 4 weitere",
   "land": "Deutschland",
   "stadt": "Frankfurt",
   "bereich": "Sales",
@@ -50628,6 +51085,44 @@
   "tage_offen": 45,
   "druck": 8,
   "link": "https://job-boards.greenhouse.io/endorlabs/jobs/4742160005",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "‎ConnectWise",
+  "titel": "Channel Account Executive - Benelux",
+  "ort": "Austria",
+  "land": "Österreich",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-13",
+  "tage_offen": 45,
+  "druck": 8,
+  "link": "https://job-boards.greenhouse.io/connectwise/jobs/4743203005",
+  "staedte": [],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
+  "firma": "CoreWeave Europe",
+  "titel": "Account Solutions Architect - Greenfield - DACH",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Software und IT",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-13",
+  "tage_offen": 45,
+  "druck": 8,
+  "link": "https://coreweave.com/careers/job?4721057006&board=coreweaveu&gh_jid=4721057006",
   "staedte": [],
   "laender": [
    "Deutschland"
@@ -50941,7 +51436,7 @@
  {
   "firma": "Rubrik Job Board",
   "titel": "Territory Account Executive",
-  "ort": "Munich, Bavaria, Germany; Dusseldorf, North Rhine-Westphalia, Germany; Berlin, Germany und 4 weitere",
+  "ort": "Munich, Bavaria, Germany; Frankfurt, Hesse, Germany; Dusseldorf, North Rhine-Westphalia, Germany und 4 weitere",
   "land": "Deutschland",
   "stadt": "München",
   "bereich": "Sales",
@@ -52412,6 +52907,69 @@
   ]
  },
  {
+  "firma": "Suitsupply",
+  "titel": "Assistant Store Manager",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Betrieb und Logistik",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-10-16",
+  "tage_offen": 42,
+  "druck": 8,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/8285059?gh_jid=8285059",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
+  "firma": "Suitsupply",
+  "titel": "Sales Supervisor",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-10-16",
+  "tage_offen": 42,
+  "druck": 8,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/8284951?gh_jid=8284951",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
+  "firma": "Suitsupply",
+  "titel": "Store Manager",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-10-15",
+  "tage_offen": 42,
+  "druck": 8,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/8285382?gh_jid=8285382",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
   "firma": "Stripe",
   "titel": "Account Executive, Funded Startups DACH",
   "ort": "Berlin",
@@ -52612,27 +53170,6 @@
   "link": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4714470006",
   "staedte": [
    "Frankfurt"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "DiliTrust",
-  "titel": "Legal Expert - Freelance (Arabic speaker)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Finanzen und Recht",
-  "stufe": 3,
-  "art": "Freelance",
-  "modus": "Remote",
-  "online_seit": "2026-10-27",
-  "tage_offen": 30,
-  "druck": 8,
-  "link": "https://jobs.lever.co/dilitrust/c1b4e2b4-b4a8-44c6-bb8b-666f4e1eb2e8",
-  "staedte": [
-   "Berlin"
   ],
   "laender": [
    "Deutschland"
@@ -53647,6 +54184,27 @@
   ]
  },
  {
+  "firma": "HubSpot",
+  "titel": "Lead Solutions Engineer - German Speaking",
+  "ort": "Flex - Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-06",
+  "tage_offen": 21,
+  "druck": 8,
+  "link": "https://www.hubspot.com/careers/jobs/8222830?gh_jid=8222830",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Nelly",
   "titel": "Director Customer Growth (all gender)",
   "ort": "Berlin, Germany",
@@ -53720,6 +54278,27 @@
   "druck": 8,
   "link": "https://job-boards.greenhouse.io/torq/jobs/6242190004",
   "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Omnicom Media",
+  "titel": "Head of Digital Client Consulting & Planning(all gender)",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Hamburg, Hamburg, Germany",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Betrieb und Logistik",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-10",
+  "tage_offen": 17,
+  "druck": 8,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/5250257007",
+  "staedte": [
+   "Hamburg"
+  ],
   "laender": [
    "Deutschland"
   ]
@@ -54198,6 +54777,27 @@
   "tage_offen": 570,
   "druck": 7,
   "link": "https://databricks.com/company/careers/open-positions/job?gh_jid=7984907002",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Lead PreSales Engineer - German Speaking",
+  "ort": "Remote - Germany; Flex - Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2025-05-19",
+  "tage_offen": 557,
+  "druck": 7,
+  "link": "https://www.hubspot.com/careers/jobs/6887348?gh_jid=6887348",
   "staedte": [
    "Berlin"
   ],
@@ -54807,7 +55407,7 @@
  {
   "firma": "Picnic",
   "titel": "Schichtleiter*in Logistik (m/w/d)",
-  "ort": "Hamburg, Hamburg, Germany; Kabelsketal, Saxony-Anhalt, Germany; Leipzig, Saxony, Germany und 6 weitere",
+  "ort": "Hamburg, Hamburg, Germany; Leipzig, Saxony, Germany; Halle, Saxony-Anhalt, Germany und 6 weitere",
   "land": "Deutschland",
   "stadt": "Hamburg",
   "bereich": "Betrieb und Logistik",
@@ -55098,7 +55698,7 @@
  {
   "firma": "Capco",
   "titel": "Principal Consultant* - Business Analyst Core Banking",
-  "ort": "Germany - Frankfurt am Main; Germany - Dusseldorf; Germany - Munich",
+  "ort": "Germany - Frankfurt am Main; Germany - Munich; Germany - Dusseldorf",
   "land": "Deutschland",
   "stadt": "Frankfurt",
   "bereich": "Daten und KI",
@@ -55407,6 +56007,27 @@
   ],
   "laender": [
    "Deutschland"
+  ]
+ },
+ {
+  "firma": "On",
+  "titel": "Lead - Footwear Material Designer",
+  "ort": "Zurich",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Produkt und Design",
+  "stufe": 4,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-05-20",
+  "tage_offen": 191,
+  "druck": 7,
+  "link": "https://boards.greenhouse.io/onrunning/jobs/7742550?gh_jid=7742550",
+  "staedte": [
+   "Zürich"
+  ],
+  "laender": [
+   "Schweiz"
   ]
  },
  {
@@ -55951,7 +56572,7 @@
  {
   "firma": "CarOnSale",
   "titel": "Sales Manager – Großraum Kaiserslautern (m/w/d)",
-  "ort": "Wiesbaden, Germany; Kaiserslautern, Germany; Saarbrücken, Germany und 5 weitere",
+  "ort": "Kaiserslautern, Germany; Wiesbaden, Germany; Trier, Germany und 5 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Sales",
@@ -55961,7 +56582,7 @@
   "online_seit": "2026-10-19",
   "tage_offen": 39,
   "druck": 7,
-  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/5010104101",
+  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/5010103101",
   "staedte": [
    "Mannheim"
   ],
@@ -55972,7 +56593,7 @@
  {
   "firma": "CarOnSale",
   "titel": "Sales Manager – Großraum Münster (m/w/d)",
-  "ort": "Münster, Germany; Gelsenkirchen, Germany; Recklinghausen, Germany und 3 weitere",
+  "ort": "Münster, Germany; Dortmund, Germany; Bochum, Germany und 3 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Sales",
@@ -56396,6 +57017,27 @@
   ]
  },
  {
+  "firma": "Prime Intellect",
+  "titel": "Applied Researcher - Scientific AI",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Daten und KI",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-10-19",
+  "tage_offen": 39,
+  "druck": 7,
+  "link": "https://jobs.ashbyhq.com/PrimeIntellect/7f41cc90-9bf1-49a8-9285-3838033e627d",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Zello",
   "titel": "Sales & Customer Support Specialist EMEA (m/w/d)",
   "ort": "Munich, Germany",
@@ -56627,7 +57269,7 @@
  {
   "firma": "CarOnSale",
   "titel": "Sales Manager Großraum Osnabrück (m/w/d)",
-  "ort": "Osnabrück, Germany; Oldenburg, Germany; Bremen, Germany und 2 weitere",
+  "ort": "Osnabrück, Germany; Oldenburg, Germany; Lingen, Germany und 2 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Sales",
@@ -57039,27 +57681,6 @@
   ]
  },
  {
-  "firma": "Prime Intellect",
-  "titel": "Applied Researcher - Scientific AI",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Daten und KI",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-10-19",
-  "tage_offen": 38,
-  "druck": 7,
-  "link": "https://jobs.ashbyhq.com/PrimeIntellect/7f41cc90-9bf1-49a8-9285-3838033e627d",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Isar Aerospace SE",
   "titel": "Fluid Systems Engineer, Propulsion (m/f/d)",
   "ort": "Parsdorf, Bavaria, Germany",
@@ -57125,9 +57746,9 @@
  {
   "firma": "Celonis",
   "titel": "Account Executive - Public Sector Germany - Police (Polizei)",
-  "ort": "Remote, Germany; Munich, Germany",
+  "ort": "Munich, Germany; Remote, Germany",
   "land": "Deutschland",
-  "stadt": "",
+  "stadt": "München",
   "bereich": "Sales",
   "stufe": 2,
   "art": "",
@@ -57135,7 +57756,7 @@
   "online_seit": "2026-10-21",
   "tage_offen": 37,
   "druck": 7,
-  "link": "https://job-boards.greenhouse.io/celonis/jobs/8015242003?gh_jid=8015242003",
+  "link": "https://job-boards.greenhouse.io/celonis/jobs/8040049003?gh_jid=8040049003",
   "staedte": [
    "München"
   ],
@@ -57355,9 +57976,9 @@
  {
   "firma": "FeverUp",
   "titel": "Technical Sales Enablement Specialist (Madrid Based)",
-  "ort": "Berlin; Munich",
+  "ort": "Munich; Berlin",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "München",
   "bereich": "Sales",
   "stufe": 2,
   "art": "",
@@ -57365,7 +57986,7 @@
   "online_seit": "2026-10-21",
   "tage_offen": 37,
   "druck": 7,
-  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/5012732101",
+  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/5012733101",
   "staedte": [
    "Berlin",
    "München"
@@ -58634,6 +59255,44 @@
   ]
  },
  {
+  "firma": "HubSpot",
+  "titel": "Vertriebsmitarbeiter/in | Sales Manager - SMB, DACH (Remote)",
+  "ort": "Remote - Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-10-22",
+  "tage_offen": 36,
+  "druck": 7,
+  "link": "https://www.hubspot.com/careers/jobs/5986983?gh_jid=5986983",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Onapsis",
+  "titel": "DACH Enterprise Account Executive – SAP Ecosystem & Digital Transformation (m/f/d)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-10-22",
+  "tage_offen": 36,
+  "druck": 7,
+  "link": "https://job-boards.greenhouse.io/onapsis/jobs/8908598002",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Isar Aerospace SE",
   "titel": "Senior Learning & Development Specialist (m/f/d)",
   "ort": "Parsdorf, Bavaria, Germany",
@@ -58888,9 +59547,9 @@
  {
   "firma": "FeverUp",
   "titel": "Growth Strategy Senior Analyst (Madrid based)",
-  "ort": "Berlin; Munich",
+  "ort": "Munich; Berlin",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "München",
   "bereich": "Marketing",
   "stufe": 3,
   "art": "",
@@ -58898,7 +59557,7 @@
   "online_seit": "2026-11-03",
   "tage_offen": 24,
   "druck": 7,
-  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/5026121101",
+  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/5026122101",
   "staedte": [
    "Berlin",
    "München"
@@ -59446,7 +60105,7 @@
   "art": "",
   "modus": "",
   "online_seit": "2019-01-30",
-  "tage_offen": 2857,
+  "tage_offen": 2858,
   "druck": 6,
   "link": "https://job-boards.greenhouse.io/3redpartners/jobs/4201091002",
   "staedte": [
@@ -59467,7 +60126,7 @@
   "art": "",
   "modus": "",
   "online_seit": "2019-01-30",
-  "tage_offen": 2857,
+  "tage_offen": 2858,
   "druck": 6,
   "link": "https://job-boards.greenhouse.io/3redpartners/jobs/4201088002",
   "staedte": [
@@ -59625,6 +60284,48 @@
   ]
  },
  {
+  "firma": "OMP Careers",
+  "titel": "(Sr.) Integration Consultant",
+  "ort": "BE-Antwerp; BE-Ghent; BE-Wavre; DE-Cologne; DE-Mannheim; FR-Paris",
+  "land": "Deutschland",
+  "stadt": "Köln",
+  "bereich": "Strategie und Projekte",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2022-10-27",
+  "tage_offen": 1492,
+  "druck": 6,
+  "link": "https://careers.omp.com/job/navigate/4093145101?gh_jid=4093145101",
+  "staedte": [
+   "Köln"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "OMP Careers",
+  "titel": "Senior Supply Chain Implementation Consultant",
+  "ort": "DE-Cologne",
+  "land": "Deutschland",
+  "stadt": "Köln",
+  "bereich": "Kundenservice",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2022-10-28",
+  "tage_offen": 1491,
+  "druck": 6,
+  "link": "https://careers.omp.com/job/navigate/4093490101?gh_jid=4093490101",
+  "staedte": [
+   "Köln"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "FeverUp",
   "titel": "Senior Market Strategy and Partnerships Manager",
   "ort": "Hamburg; Zurich; Munich",
@@ -59771,6 +60472,27 @@
   ]
  },
  {
+  "firma": "Omnicom Media",
+  "titel": "Senior Media Consultant (all gender)",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Frankfurt am Main, Hesse, Germany; Hamburg, Hamburg, Germany",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Strategie und Projekte",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2024-02-02",
+  "tage_offen": 1029,
+  "druck": 6,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/4233790007",
+  "staedte": [
+   "Hamburg"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Capco",
   "titel": "(Senior) Consultant für BSI Projekte (m/w/d)",
   "ort": "Switzerland - Zurich",
@@ -59789,6 +60511,25 @@
   ],
   "laender": [
    "Schweiz"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Senior Account Executive - Central & East Europe",
+  "ort": "Remote - Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 3,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2024-06-07",
+  "tage_offen": 903,
+  "druck": 6,
+  "link": "https://www.hubspot.com/careers/jobs/5986418?gh_jid=5986418",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
   ]
  },
  {
@@ -59952,6 +60693,27 @@
   "link": "https://helsing.ai/jobs/4468911101?gh_jid=4468911101",
   "staedte": [
    "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "OMP",
+  "titel": "Senior Supply Chain Implementation Consultant",
+  "ort": "Cologne",
+  "land": "Deutschland",
+  "stadt": "Köln",
+  "bereich": "Kundenservice",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2025-01-27",
+  "tage_offen": 669,
+  "druck": 6,
+  "link": "https://job-boards.eu.greenhouse.io/ompexternaljobboards/jobs/4525341101",
+  "staedte": [
+   "Köln"
   ],
   "laender": [
    "Deutschland"
@@ -60476,6 +61238,27 @@
   ]
  },
  {
+  "firma": "Omnicom Media",
+  "titel": "(Senior) Programmatic Advertising Manager (all gender)",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Frankfurt am Main, Hesse, Germany; Hamburg, Hamburg, Germany",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Sonstiges",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2025-08-27",
+  "tage_offen": 457,
+  "druck": 6,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/4739604007",
+  "staedte": [
+   "Hamburg"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "FeverUp",
   "titel": "Senior Partner Project Manager",
   "ort": "Munich; Cologne; Berlin und 1 weitere",
@@ -60942,7 +61725,7 @@
  {
   "firma": "FeverUp",
   "titel": "Senior Manager, Museum Partnerships - DACH",
-  "ort": "Vienna; Hamburg; Berlin und 1 weitere",
+  "ort": "Vienna; Munich; Hamburg und 1 weitere",
   "land": "Österreich",
   "stadt": "Wien",
   "bereich": "Sales",
@@ -62741,9 +63524,9 @@
  {
   "firma": "Workato",
   "titel": "Senior Rust Developer",
-  "ort": "Munich, Germany; Frankfurt, Germany; Berlin, Germany",
+  "ort": "Berlin, Germany; Munich, Germany; Frankfurt, Germany",
   "land": "Deutschland",
-  "stadt": "München",
+  "stadt": "Berlin",
   "bereich": "Software und IT",
   "stufe": 3,
   "art": "",
@@ -62751,11 +63534,32 @@
   "online_seit": "2026-04-15",
   "tage_offen": 225,
   "druck": 6,
-  "link": "https://www.workato.com/careers?gh_jid=8509060002#open-roles",
+  "link": "https://www.workato.com/careers?gh_jid=8509058002#open-roles",
   "staedte": [
    "Berlin",
    "Frankfurt",
    "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Omnicom Media",
+  "titel": "(Senior) Strategist (all gender)",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Frankfurt am Main, Hesse, Germany; Germany; Hamburg, Hamburg, Germany",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Sonstiges",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-04-16",
+  "tage_offen": 225,
+  "druck": 6,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/5036030007",
+  "staedte": [
+   "Hamburg"
   ],
   "laender": [
    "Deutschland"
@@ -63151,6 +63955,27 @@
   "druck": 6,
   "link": "https://job-boards.greenhouse.io/chainguard/jobs/4675043006",
   "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Omnicom Media",
+  "titel": "Senior SEO / GEO Manager (all gender)",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Frankfurt am Main, Hesse, Germany; Germany; Hamburg, Hamburg, Germany",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Marketing",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-04-29",
+  "tage_offen": 212,
+  "druck": 6,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/5092780007",
+  "staedte": [
+   "Hamburg"
+  ],
   "laender": [
    "Deutschland"
   ]
@@ -65929,6 +66754,27 @@
   ]
  },
  {
+  "firma": "Suitsupply",
+  "titel": "Stockroom Supervisor",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-10-26",
+  "tage_offen": 32,
+  "druck": 6,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/8324157?gh_jid=8324157",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
   "firma": "Isar Aerospace SE",
   "titel": "Manager Structures Design, LV Structures (m/f/d)",
   "ort": "Parsdorf, Bavaria, Germany",
@@ -66574,6 +67420,25 @@
   ]
  },
  {
+  "firma": "LiveKit",
+  "titel": "Account Executive",
+  "ort": "Germany (Remote)",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-10-27",
+  "tage_offen": 31,
+  "druck": 6,
+  "link": "https://jobs.ashbyhq.com/livekit/21069453-3b87-4d45-8ba6-d92eac69bf17",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Wolt - English",
   "titel": "Tax Technology Manager",
   "ort": "Berlin, Germany",
@@ -66761,7 +67626,7 @@
  {
   "firma": "CarOnSale",
   "titel": "Sales Manager – Großraum Düsseldorf (m/w/d)",
-  "ort": "Neuss, Germany; Düsseldorf, Germany; Mönchengladbach, Germany und 3 weitere",
+  "ort": "Mönchengladbach, Germany; Krefeld, Germany; Neuss, Germany und 3 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Sales",
@@ -66771,7 +67636,7 @@
   "online_seit": "2026-10-27",
   "tage_offen": 30,
   "druck": 6,
-  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/5018230101",
+  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/5018228101",
   "staedte": [
    "Düsseldorf"
   ],
@@ -67166,25 +68031,6 @@
   "staedte": [],
   "laender": [
    "Österreich"
-  ]
- },
- {
-  "firma": "LiveKit",
-  "titel": "Account Executive",
-  "ort": "Germany (Remote)",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-10-27",
-  "tage_offen": 30,
-  "druck": 6,
-  "link": "https://jobs.ashbyhq.com/livekit/21069453-3b87-4d45-8ba6-d92eac69bf17",
-  "staedte": [],
-  "laender": [
-   "Deutschland"
   ]
  },
  {
@@ -68995,7 +69841,7 @@
   "online_seit": "2026-09-29",
   "tage_offen": 59,
   "druck": 5,
-  "link": "https://job-boards.greenhouse.io/pfm/jobs/6210487004",
+  "link": "https://job-boards.greenhouse.io/pfm/jobs/6210392004",
   "staedte": [
    "Berlin"
   ],
@@ -69504,7 +70350,7 @@
  {
   "firma": "Capco",
   "titel": "Product Manager* – Artificial Intelligence",
-  "ort": "Germany - Berlin; Germany - Munich; Germany - Frankfurt am Main und 1 weitere",
+  "ort": "Germany - Berlin; Germany - Munich; Germany - Dusseldorf und 1 weitere",
   "land": "Deutschland",
   "stadt": "Berlin",
   "bereich": "Produkt und Design",
@@ -69645,6 +70491,27 @@
   "druck": 5,
   "link": "https://jobs.ashbyhq.com/focused/a62b7e44-6778-4e7b-86f9-0ee2223d0a5c",
   "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Emma – The Sleep Company",
+  "titel": "Internal Controls & Risk Manager",
+  "ort": "Frankfurt",
+  "land": "Deutschland",
+  "stadt": "Frankfurt",
+  "bereich": "Finanzen und Recht",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-10-29",
+  "tage_offen": 29,
+  "druck": 5,
+  "link": "https://jobs.lever.co/emma-sleep/2379fdec-231c-416f-bd66-f2bf4222693f",
+  "staedte": [
+   "Frankfurt"
+  ],
   "laender": [
    "Deutschland"
   ]
@@ -69843,7 +70710,7 @@
   "online_seit": "2026-10-29",
   "tage_offen": 29,
   "druck": 5,
-  "link": "https://job-boards.greenhouse.io/boxinc/jobs/8331076",
+  "link": "https://job-boards.greenhouse.io/boxinc/jobs/8333989",
   "staedte": [],
   "laender": [
    "Deutschland"
@@ -70272,27 +71139,6 @@
   "druck": 5,
   "link": "https://jobs.ashbyhq.com/pennylane/e37bd073-8d2f-4159-a7d3-c8e6090f49ce",
   "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Emma – The Sleep Company",
-  "titel": "Internal Controls & Risk Manager",
-  "ort": "Frankfurt",
-  "land": "Deutschland",
-  "stadt": "Frankfurt",
-  "bereich": "Finanzen und Recht",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-10-29",
-  "tage_offen": 28,
-  "druck": 5,
-  "link": "https://jobs.lever.co/emma-sleep/2379fdec-231c-416f-bd66-f2bf4222693f",
-  "staedte": [
-   "Frankfurt"
-  ],
   "laender": [
    "Deutschland"
   ]
@@ -71474,6 +72320,27 @@
   ]
  },
  {
+  "firma": "Voyfai",
+  "titel": "Marketing Manager (m/f/d) - Berlin",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Marketing",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-11-02",
+  "tage_offen": 25,
+  "druck": 5,
+  "link": "https://jobs.ashbyhq.com/voyfai/55b776fa-d920-4aea-8e73-5f5f1576301c",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "ecosio",
   "titel": "Business Development Representative - DACH (f/m/d)",
   "ort": "Austria, Germany, UK, Italy, Hungary, Portugal, Croatia - Remote",
@@ -72605,6 +73472,25 @@
   ]
  },
  {
+  "firma": "Kong",
+  "titel": "Regional Sales Director - Germany",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 5,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "druck": 5,
+  "link": "https://jobs.ashbyhq.com/kong/1265d285-088c-4d62-a537-729d1769893e",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Whalar Group",
   "titel": "Associate Director, Client Services",
   "ort": "Berlin, DE",
@@ -72620,6 +73506,28 @@
   "link": "https://job-boards.greenhouse.io/whalarinc/jobs/6256188004",
   "staedte": [
    "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Omnicom Media",
+  "titel": "Group Head Client Consulting (all gender)",
+  "ort": "Germany; Hamburg, Hamburg, Germany; Düsseldorf, North Rhine-Westphalia, Germany; Frankfurt am Main, Hesse, Germany",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Sonstiges",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "druck": 5,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/5231982007",
+  "staedte": [
+   "Frankfurt",
+   "Hamburg"
   ],
   "laender": [
    "Deutschland"
@@ -72805,25 +73713,6 @@
   "tage_offen": 10,
   "druck": 5,
   "link": "https://jobs.ashbyhq.com/glow25/63fc7311-8a2f-4d51-921a-a722412ea9f6",
-  "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Kong",
-  "titel": "Regional Sales Director - Germany",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Sales",
-  "stufe": 5,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-11-16",
-  "tage_offen": 10,
-  "druck": 5,
-  "link": "https://jobs.ashbyhq.com/kong/1265d285-088c-4d62-a537-729d1769893e",
   "staedte": [],
   "laender": [
    "Deutschland"
@@ -73980,6 +74869,27 @@
   ]
  },
  {
+  "firma": "On",
+  "titel": "Store Advisor (Part time)",
+  "ort": "Zurich",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Teilzeit",
+  "modus": "",
+  "online_seit": "2022-09-16",
+  "tage_offen": 1533,
+  "druck": 4,
+  "link": "https://boards.greenhouse.io/onrunning/jobs/4565069?gh_jid=4565069",
+  "staedte": [
+   "Zürich"
+  ],
+  "laender": [
+   "Schweiz"
+  ]
+ },
+ {
   "firma": "FFG FINANZCHECK Finanzportale GmbH",
   "titel": "Initiativbewerbung / Talent Pool",
   "ort": "Germany",
@@ -74073,6 +74983,34 @@
   "link": "https://jobs.lever.co/unisoninfra/91080087-05dc-462a-b139-0a3c7114b57b",
   "staedte": [
    "Frankfurt"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Suitsupply",
+  "titel": "Style Advisor m/w/d",
+  "ort": "Hamburg, Hamburg, Germany; Munich, Bavaria, Germany; Frankfurt, Hesse, Germany und 5 weitere",
+  "land": "Deutschland",
+  "stadt": "Hamburg",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2023-01-05",
+  "tage_offen": 1422,
+  "druck": 4,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/4786045?gh_jid=4786045",
+  "staedte": [
+   "Berlin",
+   "Düsseldorf",
+   "Frankfurt",
+   "Hamburg",
+   "Hannover",
+   "Leipzig",
+   "München",
+   "Stuttgart"
   ],
   "laender": [
    "Deutschland"
@@ -74234,9 +75172,30 @@
   "art": "",
   "modus": "",
   "online_seit": "2023-04-11",
-  "tage_offen": 1325,
+  "tage_offen": 1326,
   "druck": 4,
   "link": "https://job-boards.eu.greenhouse.io/sohohouseco/jobs/4042722101",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "German Customer Success Manager",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Kundenservice",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2023-04-14",
+  "tage_offen": 1323,
+  "druck": 4,
+  "link": "https://www.hubspot.com/careers/jobs/4991221?gh_jid=4991221",
   "staedte": [
    "Berlin"
   ],
@@ -74565,7 +75524,7 @@
   "art": "",
   "modus": "",
   "online_seit": "2023-09-13",
-  "tage_offen": 1170,
+  "tage_offen": 1171,
   "druck": 4,
   "link": "https://job-boards.greenhouse.io/capco/jobs/5365840",
   "staedte": [
@@ -74759,6 +75718,27 @@
   ]
  },
  {
+  "firma": "Omnicom Media",
+  "titel": "Initiativbewerbung / Initiative Application - Mediabrands",
+  "ort": "Vienna, Vienna, Austria",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Marketing",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2023-10-23",
+  "tage_offen": 1131,
+  "druck": 4,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/4119415007",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
   "firma": "Alpha Financial Markets Consulting",
   "titel": "Manager",
   "ort": "Frankfurt, Munich",
@@ -74843,9 +75823,9 @@
  {
   "firma": "Svetness Personal Training",
   "titel": "Personal Trainer",
-  "ort": "Vienna, VA; Berlin, CT; East Berlin, CT und 8 weitere",
-  "land": "Österreich",
-  "stadt": "Wien",
+  "ort": "East Berlin, CT; Vienna, VA; Berlin, CT und 8 weitere",
+  "land": "Deutschland",
+  "stadt": "Berlin",
   "bereich": "Personal",
   "stufe": 2,
   "art": "",
@@ -74853,7 +75833,7 @@
   "online_seit": "2023-11-23",
   "tage_offen": 1100,
   "druck": 4,
-  "link": "https://job-boards.greenhouse.io/svetness/jobs/4150631007",
+  "link": "https://job-boards.greenhouse.io/svetness/jobs/4152053007",
   "staedte": [
    "Berlin",
    "Genf",
@@ -75466,6 +76446,166 @@
   ]
  },
  {
+  "firma": "HubSpot",
+  "titel": "Account Executive - Mid Market, DACH",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2024-06-07",
+  "tage_offen": 903,
+  "druck": 4,
+  "link": "https://www.hubspot.com/careers/jobs/5986425?gh_jid=5986425",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Account Executive - Mid Market, DACH (Remote)",
+  "ort": "Remote - Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2024-06-07",
+  "tage_offen": 903,
+  "druck": 4,
+  "link": "https://www.hubspot.com/careers/jobs/5986426?gh_jid=5986426",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Account Executive, Small Business - Central & East Europe",
+  "ort": "Remote - Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2024-06-07",
+  "tage_offen": 903,
+  "druck": 4,
+  "link": "https://www.hubspot.com/careers/jobs/5986173?gh_jid=5986173",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Small Business Account Executive - DACH, Remote",
+  "ort": "Remote - Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2024-06-07",
+  "tage_offen": 903,
+  "druck": 4,
+  "link": "https://www.hubspot.com/careers/jobs/5986981?gh_jid=5986981",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Small Business Growth Specialist - DACH",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Marketing",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2024-06-07",
+  "tage_offen": 903,
+  "druck": 4,
+  "link": "https://www.hubspot.com/careers/jobs/5986980?gh_jid=5986980",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Vertriebsmitarbeiter/in | Sales Manager - Mittelstand, DACH",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2024-06-07",
+  "tage_offen": 903,
+  "druck": 4,
+  "link": "https://www.hubspot.com/careers/jobs/5986427?gh_jid=5986427",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Vertriebsmitarbeiter/in | Sales Manager - Mittelstand, DACH (Remote)",
+  "ort": "Remote - Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2024-06-07",
+  "tage_offen": 903,
+  "druck": 4,
+  "link": "https://www.hubspot.com/careers/jobs/5986428?gh_jid=5986428",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Vertriebsmitarbeiter/in | Sales Manager - SMB, DACH",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2024-06-07",
+  "tage_offen": 903,
+  "druck": 4,
+  "link": "https://www.hubspot.com/careers/jobs/5986982?gh_jid=5986982",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Helsing",
   "titel": "Site Reliability Engineer",
   "ort": "Berlin; London; Munich; Paris",
@@ -76072,6 +77212,29 @@
   ]
  },
  {
+  "firma": "Suitsupply",
+  "titel": "Customer Experience Coordinator m/w/d",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Stuttgart, Baden-Württemberg, Germany; Berlin, Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Düsseldorf",
+  "bereich": "Kundenservice",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2024-12-12",
+  "tage_offen": 715,
+  "druck": 4,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/5751029?gh_jid=5751029",
+  "staedte": [
+   "Berlin",
+   "Düsseldorf",
+   "Stuttgart"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "PLS",
   "titel": "Assistant Store Manager",
   "ort": "508 Geneva Avenue, Dorchester, MA",
@@ -76111,6 +77274,27 @@
   ],
   "laender": [
    "Schweiz"
+  ]
+ },
+ {
+  "firma": "Suitsupply",
+  "titel": "Customer Experience Coordinator m/w/d (In-Store)",
+  "ort": "Frankfurt, Hesse, Germany",
+  "land": "Deutschland",
+  "stadt": "Frankfurt",
+  "bereich": "Kundenservice",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2024-12-16",
+  "tage_offen": 711,
+  "druck": 4,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/6476304?gh_jid=6476304",
+  "staedte": [
+   "Frankfurt"
+  ],
+  "laender": [
+   "Deutschland"
   ]
  },
  {
@@ -76259,9 +77443,9 @@
  {
   "firma": "Avi Medical",
   "titel": "Weiterbildungsassistent / Assistenzarzt (m/w/d) Allgemeinmedizin",
-  "ort": "Munich; Hamburg; Berlin",
+  "ort": "Berlin; Hamburg; Munich",
   "land": "Deutschland",
-  "stadt": "München",
+  "stadt": "Berlin",
   "bereich": "Betrieb und Logistik",
   "stufe": 2,
   "art": "",
@@ -76269,7 +77453,7 @@
   "online_seit": "2025-01-21",
   "tage_offen": 675,
   "druck": 4,
-  "link": "https://job-boards.eu.greenhouse.io/avimedical/jobs/4522729101",
+  "link": "https://job-boards.eu.greenhouse.io/avimedical/jobs/4522721101",
   "staedte": [
    "Berlin",
    "Hamburg",
@@ -77425,6 +78609,27 @@
   ]
  },
  {
+  "firma": "Uncountable Inc.",
+  "titel": "Scientific Implementation Manager",
+  "ort": "New York, San Francisco, Munich, London, Cleveland or Pittsburgh",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Kundenservice",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2025-07-14",
+  "tage_offen": 501,
+  "druck": 4,
+  "link": "https://jobs.ashbyhq.com/uncountable/a49b9b48-6adc-4d9d-a5fd-d7c056cea3a9",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Global Commissioning",
   "titel": "Commissioning Manager - Electrical",
   "ort": "Zurich",
@@ -77443,27 +78648,6 @@
   ],
   "laender": [
    "Schweiz"
-  ]
- },
- {
-  "firma": "Uncountable Inc.",
-  "titel": "Scientific Implementation Manager",
-  "ort": "New York, San Francisco, Munich, London, Cleveland or Pittsburgh",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Kundenservice",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2025-07-14",
-  "tage_offen": 500,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/uncountable/a49b9b48-6adc-4d9d-a5fd-d7c056cea3a9",
-  "staedte": [
-   "München"
-  ],
-  "laender": [
-   "Deutschland"
   ]
  },
  {
@@ -77684,9 +78868,9 @@
  {
   "firma": "SumUp",
   "titel": "Field Sales Manager (m/w/d)",
-  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Cologne, Germany; Dortmund, North Rhine-Westphalia, Germany und 4 weitere",
+  "ort": "Cologne, Germany; Düsseldorf, North Rhine-Westphalia, Germany; Dortmund, North Rhine-Westphalia, Germany und 4 weitere",
   "land": "Deutschland",
-  "stadt": "Düsseldorf",
+  "stadt": "Köln",
   "bereich": "Sales",
   "stufe": 2,
   "art": "",
@@ -77694,7 +78878,7 @@
   "online_seit": "2025-07-31",
   "tage_offen": 484,
   "druck": 4,
-  "link": "https://sumup.com/careers/positions/8082062002?gh_jid=8082062002",
+  "link": "https://sumup.com/careers/positions/8082105002?gh_jid=8082105002",
   "staedte": [
    "Bonn",
    "Dortmund",
@@ -78783,8 +79967,8 @@
  {
   "firma": "Meridial",
   "titel": "German Language Specialist - Freelance AI Trainer Project",
-  "ort": "Austria; Switzerland",
-  "land": "Österreich",
+  "ort": "Switzerland; Austria",
+  "land": "Schweiz",
   "stadt": "",
   "bereich": "Daten und KI",
   "stufe": 2,
@@ -78793,7 +79977,7 @@
   "online_seit": "2025-10-29",
   "tage_offen": 394,
   "druck": 4,
-  "link": "https://job-boards.eu.greenhouse.io/agency/jobs/4702065101",
+  "link": "https://job-boards.eu.greenhouse.io/agency/jobs/4702067101",
   "staedte": [],
   "laender": [
    "Schweiz",
@@ -80595,9 +81779,9 @@
  {
   "firma": "FFG FINANZCHECK Finanzportale GmbH",
   "titel": "Bankkaufmann/-frau - als Kreditspezialist (w/m/d)",
-  "ort": "Hamburg; Berlin",
+  "ort": "Berlin; Hamburg",
   "land": "Deutschland",
-  "stadt": "Hamburg",
+  "stadt": "Berlin",
   "bereich": "Sonstiges",
   "stufe": 2,
   "art": "Vollzeit",
@@ -80605,7 +81789,7 @@
   "online_seit": "2026-01-08",
   "tage_offen": 323,
   "druck": 4,
-  "link": "https://www.finanzcheck.de/jobs/?gh_jid=7581970003",
+  "link": "https://www.finanzcheck.de/jobs/?gh_jid=7581971003",
   "staedte": [
    "Berlin",
    "Hamburg"
@@ -80617,9 +81801,9 @@
  {
   "firma": "FFG FINANZCHECK Finanzportale GmbH",
   "titel": "Sales Manager (m/w/d)",
-  "ort": "Berlin; Hamburg",
+  "ort": "Hamburg; Berlin",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "Hamburg",
   "bereich": "Sales",
   "stufe": 2,
   "art": "Vollzeit",
@@ -80627,7 +81811,7 @@
   "online_seit": "2026-01-08",
   "tage_offen": 323,
   "druck": 4,
-  "link": "https://www.finanzcheck.de/jobs/?gh_jid=7581983003",
+  "link": "https://www.finanzcheck.de/jobs/?gh_jid=7581984003",
   "staedte": [
    "Berlin",
    "Hamburg"
@@ -80745,9 +81929,9 @@
  {
   "firma": "smava GmbH",
   "titel": "Sales Manager (m/w/d) - Kreditvermittlung",
-  "ort": "Berlin; Hamburg",
+  "ort": "Hamburg; Berlin",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "Hamburg",
   "bereich": "Sales",
   "stufe": 2,
   "art": "Vollzeit",
@@ -80755,7 +81939,7 @@
   "online_seit": "2026-01-08",
   "tage_offen": 323,
   "druck": 4,
-  "link": "https://job-boards.greenhouse.io/smavagmbh/jobs/7581997003",
+  "link": "https://job-boards.greenhouse.io/smavagmbh/jobs/7581998003",
   "staedte": [
    "Berlin",
    "Hamburg"
@@ -80809,9 +81993,9 @@
  {
   "firma": "smava GmbH",
   "titel": "Vertriebsprofi - Kreditberatung (w/m/d)",
-  "ort": "Hamburg; Berlin",
+  "ort": "Berlin; Hamburg",
   "land": "Deutschland",
-  "stadt": "Hamburg",
+  "stadt": "Berlin",
   "bereich": "Sales",
   "stufe": 2,
   "art": "Vollzeit",
@@ -80819,7 +82003,7 @@
   "online_seit": "2026-01-08",
   "tage_offen": 323,
   "druck": 4,
-  "link": "https://job-boards.greenhouse.io/smavagmbh/jobs/7582003003",
+  "link": "https://job-boards.greenhouse.io/smavagmbh/jobs/7581992003",
   "staedte": [
    "Berlin",
    "Hamburg"
@@ -80957,9 +82141,9 @@
  {
   "firma": "Picnic",
   "titel": "Facility Manager (m/w/d)",
-  "ort": "Neumünster, Schleswig-Holstein, Germany; Lübeck, Schleswig-Holstein, Germany; Hamburg, Hamburg, Germany und 3 weitere",
+  "ort": "Hamburg, Hamburg, Germany; Lübeck, Schleswig-Holstein, Germany; Neumünster, Schleswig-Holstein, Germany und 3 weitere",
   "land": "Deutschland",
-  "stadt": "",
+  "stadt": "Hamburg",
   "bereich": "Betrieb und Logistik",
   "stufe": 2,
   "art": "",
@@ -80967,7 +82151,7 @@
   "online_seit": "2026-01-09",
   "tage_offen": 321,
   "druck": 4,
-  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=7527385",
+  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=7527349",
   "staedte": [
    "Hamburg"
   ],
@@ -81184,8 +82368,8 @@
  {
   "firma": "AlixPartners",
   "titel": "Management Berater:in | Investigations, Compliance & Privacy (m/w/d)",
-  "ort": "Germany; Switzerland",
-  "land": "Deutschland",
+  "ort": "Switzerland; Germany",
+  "land": "Schweiz",
   "stadt": "",
   "bereich": "Finanzen und Recht",
   "stufe": 2,
@@ -81194,7 +82378,7 @@
   "online_seit": "2026-01-21",
   "tage_offen": 310,
   "druck": 4,
-  "link": "https://www.alixpartners.com/careers/7599124003?gh_jid=7599124003",
+  "link": "https://www.alixpartners.com/careers/7599174003?gh_jid=7599174003",
   "staedte": [],
   "laender": [
    "Deutschland",
@@ -81223,6 +82407,49 @@
   ]
  },
  {
+  "firma": "Vercel",
+  "titel": "Forward-Deployed Engineer",
+  "ort": "Hybrid - London, Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Software und IT",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-01-22",
+  "tage_offen": 309,
+  "druck": 4,
+  "link": "https://job-boards.greenhouse.io/vercel/jobs/5778418004",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Suitsupply",
+  "titel": "Sales Support m/w/d",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Frankfurt, Hesse, Germany",
+  "land": "Deutschland",
+  "stadt": "Düsseldorf",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-01-21",
+  "tage_offen": 309,
+  "druck": 4,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/7554192?gh_jid=7554192",
+  "staedte": [
+   "Düsseldorf",
+   "Frankfurt"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "OpenAI",
   "titel": "Applied AI Architect, Large Enterprise",
   "ort": "Munich, Germany",
@@ -81238,27 +82465,6 @@
   "link": "https://jobs.ashbyhq.com/openai/c00094f9-e071-4870-afec-104beb3ce499",
   "staedte": [
    "München"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Vercel",
-  "titel": "Forward-Deployed Engineer",
-  "ort": "Hybrid - London, Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Software und IT",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-01-22",
-  "tage_offen": 308,
-  "druck": 4,
-  "link": "https://job-boards.greenhouse.io/vercel/jobs/5778418004",
-  "staedte": [
-   "Berlin"
   ],
   "laender": [
    "Deutschland"
@@ -81288,7 +82494,7 @@
  {
   "firma": "Indie Campers",
   "titel": "Spontaneous Application - Campervan Technician",
-  "ort": "Geneva, Geneva, Switzerland; Stuttgart, Baden-Württemberg, Germany; Düsseldorf, Nordrhein-Westfalen, Germany",
+  "ort": "Geneva, Geneva, Switzerland; Düsseldorf, Nordrhein-Westfalen, Germany; Stuttgart, Baden-Württemberg, Germany",
   "land": "Schweiz",
   "stadt": "Genf",
   "bereich": "Handwerk und Montage",
@@ -81747,6 +82953,27 @@
   ]
  },
  {
+  "firma": "Massar Capital",
+  "titel": "Accountant",
+  "ort": "Vienna, Vienna, Austria",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Finanzen und Recht",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-01-30",
+  "tage_offen": 301,
+  "druck": 4,
+  "link": "https://job-boards.greenhouse.io/massarcapital/jobs/5099359008",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
   "firma": "The Exploration Company",
   "titel": "Turbopump Rotordynamics Engineer",
   "ort": "Munich, Germany",
@@ -81765,27 +82992,6 @@
   ],
   "laender": [
    "Deutschland"
-  ]
- },
- {
-  "firma": "Massar Capital",
-  "titel": "Accountant",
-  "ort": "Vienna, Vienna, Austria",
-  "land": "Österreich",
-  "stadt": "Wien",
-  "bereich": "Finanzen und Recht",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-01-30",
-  "tage_offen": 300,
-  "druck": 4,
-  "link": "https://job-boards.greenhouse.io/massarcapital/jobs/5099359008",
-  "staedte": [
-   "Wien"
-  ],
-  "laender": [
-   "Österreich"
   ]
  },
  {
@@ -82757,6 +83963,27 @@
   ]
  },
  {
+  "firma": "OMP Careers",
+  "titel": "Business Development Manager (OMP Software - Paper, Plastic, Packaging Industry)",
+  "ort": "BE-Antwerp; BE-Ghent; BE-Wavre; DE-Cologne; DE-Mannheim; NL-Rotterdam",
+  "land": "Deutschland",
+  "stadt": "Köln",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-02-17",
+  "tage_offen": 283,
+  "druck": 4,
+  "link": "https://careers.omp.com/job/navigate/4778782101?gh_jid=4778782101",
+  "staedte": [
+   "Köln"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Indie Campers",
   "titel": "Campervan Mechanic",
   "ort": "München, Bayern, Germany",
@@ -83258,6 +84485,48 @@
   ]
  },
  {
+  "firma": "Esri",
+  "titel": "Product Engineer II - 3D Reality Mapping (m/f/d)",
+  "ort": "Stuttgart, DE",
+  "land": "Deutschland",
+  "stadt": "Stuttgart",
+  "bereich": "Software und IT",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-02-26",
+  "tage_offen": 274,
+  "druck": 4,
+  "link": "https://www.esri.com/careers/5063291007?gh_jid=5063291007",
+  "staedte": [
+   "Stuttgart"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Esri",
+  "titel": "Software Development Engineer II C++ (m/f/d)",
+  "ort": "Stuttgart, DE",
+  "land": "Deutschland",
+  "stadt": "Stuttgart",
+  "bereich": "Software und IT",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-02-26",
+  "tage_offen": 274,
+  "druck": 4,
+  "link": "https://www.esri.com/careers/5063307007?gh_jid=5063307007",
+  "staedte": [
+   "Stuttgart"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Anteris Technologies",
   "titel": "Join Our Talent Pipeline!",
   "ort": "Brooklyn Park, MN; Eagan, Minnesota, United States; Geneva, Switzerland; Malaga, Western Australia, Australia; Maple Grove, Minnesota, United States; Remote - CA; Remote - EU; Remote - US",
@@ -83294,48 +84563,6 @@
   "link": "https://jobs.ashbyhq.com/robco/f5a182f9-30c6-4567-89b2-f30983c1d090",
   "staedte": [
    "München"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Esri",
-  "titel": "Product Engineer II - 3D Reality Mapping (m/f/d)",
-  "ort": "Stuttgart, DE",
-  "land": "Deutschland",
-  "stadt": "Stuttgart",
-  "bereich": "Software und IT",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-02-26",
-  "tage_offen": 273,
-  "druck": 4,
-  "link": "https://www.esri.com/careers/5063291007?gh_jid=5063291007",
-  "staedte": [
-   "Stuttgart"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Esri",
-  "titel": "Software Development Engineer II C++ (m/f/d)",
-  "ort": "Stuttgart, DE",
-  "land": "Deutschland",
-  "stadt": "Stuttgart",
-  "bereich": "Software und IT",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-02-26",
-  "tage_offen": 273,
-  "druck": 4,
-  "link": "https://www.esri.com/careers/5063307007?gh_jid=5063307007",
-  "staedte": [
-   "Stuttgart"
   ],
   "laender": [
    "Deutschland"
@@ -83827,6 +85054,27 @@
   ]
  },
  {
+  "firma": "On",
+  "titel": "Store Advisor (Mini job)",
+  "ort": "Vienna",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-03-10",
+  "tage_offen": 262,
+  "druck": 4,
+  "link": "https://boards.greenhouse.io/onrunning/jobs/7694120?gh_jid=7694120",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
   "firma": "Indie Campers",
   "titel": "Initiativbewerbung - Campervan-Techniker",
   "ort": "Stuttgart, Baden-Württemberg, Germany; Düsseldorf, Nordrhein-Westfalen, Germany",
@@ -83851,9 +85099,9 @@
  {
   "firma": "Indie Campers",
   "titel": "Initiativbewerbung - Fahrzeugtechniker für Camper",
-  "ort": "Düsseldorf, Nordrhein-Westfalen, Germany; Stuttgart, Baden-Württemberg, Germany",
+  "ort": "Stuttgart, Baden-Württemberg, Germany; Düsseldorf, Nordrhein-Westfalen, Germany",
   "land": "Deutschland",
-  "stadt": "Düsseldorf",
+  "stadt": "Stuttgart",
   "bereich": "Handwerk und Montage",
   "stufe": 2,
   "art": "",
@@ -83861,7 +85109,7 @@
   "online_seit": "2026-03-11",
   "tage_offen": 261,
   "druck": 4,
-  "link": "https://job-boards.greenhouse.io/indiecampers/jobs/8458371002",
+  "link": "https://job-boards.greenhouse.io/indiecampers/jobs/8458308002",
   "staedte": [
    "Düsseldorf",
    "Stuttgart"
@@ -83873,9 +85121,9 @@
  {
   "firma": "Indie Campers",
   "titel": "Initiativbewerbung - Mechaniker (m/w/d)",
-  "ort": "Stuttgart, Baden-Württemberg, Germany; Düsseldorf, Nordrhein-Westfalen, Germany",
+  "ort": "Düsseldorf, Nordrhein-Westfalen, Germany; Stuttgart, Baden-Württemberg, Germany",
   "land": "Deutschland",
-  "stadt": "Stuttgart",
+  "stadt": "Düsseldorf",
   "bereich": "Sonstiges",
   "stufe": 2,
   "art": "",
@@ -83883,7 +85131,7 @@
   "online_seit": "2026-03-11",
   "tage_offen": 261,
   "druck": 4,
-  "link": "https://job-boards.greenhouse.io/indiecampers/jobs/8458309002",
+  "link": "https://job-boards.greenhouse.io/indiecampers/jobs/8458372002",
   "staedte": [
    "Düsseldorf",
    "Stuttgart"
@@ -83895,9 +85143,9 @@
  {
   "firma": "Indie Campers",
   "titel": "Initiativbewerbung - Mechatroniker (m/w/d)",
-  "ort": "Düsseldorf, Nordrhein-Westfalen, Germany; Stuttgart, Baden-Württemberg, Germany",
+  "ort": "Stuttgart, Baden-Württemberg, Germany; Düsseldorf, Nordrhein-Westfalen, Germany",
   "land": "Deutschland",
-  "stadt": "Düsseldorf",
+  "stadt": "Stuttgart",
   "bereich": "Handwerk und Montage",
   "stufe": 2,
   "art": "",
@@ -83905,7 +85153,7 @@
   "online_seit": "2026-03-11",
   "tage_offen": 261,
   "druck": 4,
-  "link": "https://job-boards.greenhouse.io/indiecampers/jobs/8458373002",
+  "link": "https://job-boards.greenhouse.io/indiecampers/jobs/8458310002",
   "staedte": [
    "Düsseldorf",
    "Stuttgart"
@@ -85147,7 +86395,7 @@
   "art": "Vollzeit",
   "modus": "",
   "online_seit": "2026-04-13",
-  "tage_offen": 227,
+  "tage_offen": 228,
   "druck": 4,
   "link": "https://jobs.ashbyhq.com/the-exploration-company/6996c817-35f1-43ce-b3ce-030677d5e614",
   "staedte": [
@@ -85202,9 +86450,9 @@
  {
   "firma": "smava GmbH",
   "titel": "Baufinanzierungsberater (w/m/d)",
-  "ort": "Hamburg; Berlin",
+  "ort": "Berlin; Hamburg",
   "land": "Deutschland",
-  "stadt": "Hamburg",
+  "stadt": "Berlin",
   "bereich": "Finanzen und Recht",
   "stufe": 2,
   "art": "Vollzeit",
@@ -85212,7 +86460,7 @@
   "online_seit": "2026-04-14",
   "tage_offen": 227,
   "druck": 4,
-  "link": "https://job-boards.greenhouse.io/smavagmbh/jobs/7693214003",
+  "link": "https://job-boards.greenhouse.io/smavagmbh/jobs/7693215003",
   "staedte": [
    "Berlin",
    "Hamburg"
@@ -85452,6 +86700,27 @@
  },
  {
   "firma": "Air Apps",
+  "titel": "Product Designer",
+  "ort": "Berlin Metropolitain Area, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Produkt und Design",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-04-16",
+  "tage_offen": 225,
+  "druck": 4,
+  "link": "https://jobs.ashbyhq.com/airapps/56baa502-2bad-4ea3-bdb9-c3f2aa0cef4d",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Air Apps",
   "titel": "AI/ML Engineer, Berlin",
   "ort": "Berlin Metropolitain Area, Germany",
   "land": "Deutschland",
@@ -85622,6 +86891,29 @@
   ],
   "laender": [
    "Deutschland"
+  ]
+ },
+ {
+  "firma": "Air Apps",
+  "titel": "QA Automation Engineer",
+  "ort": "Berlin Metropolitain Area, Germany; Zurich, Switzerland",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Software und IT",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-04-16",
+  "tage_offen": 225,
+  "druck": 4,
+  "link": "https://jobs.ashbyhq.com/airapps/c8dec4fd-2e26-4dd8-b6b5-d00f9397c7fe",
+  "staedte": [
+   "Berlin",
+   "Zürich"
+  ],
+  "laender": [
+   "Deutschland",
+   "Schweiz"
   ]
  },
  {
@@ -85839,27 +87131,6 @@
  },
  {
   "firma": "Air Apps",
-  "titel": "Product Designer",
-  "ort": "Berlin Metropolitain Area, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Produkt und Design",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-04-16",
-  "tage_offen": 224,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/airapps/56baa502-2bad-4ea3-bdb9-c3f2aa0cef4d",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Air Apps",
   "titel": "Community Manager, Berlin",
   "ort": "Berlin Metropolitain Area, Germany",
   "land": "Deutschland",
@@ -85943,29 +87214,6 @@
   ],
   "laender": [
    "Deutschland"
-  ]
- },
- {
-  "firma": "Air Apps",
-  "titel": "QA Automation Engineer",
-  "ort": "Berlin Metropolitain Area, Germany; Zurich, Switzerland",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Software und IT",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-04-16",
-  "tage_offen": 224,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/airapps/c8dec4fd-2e26-4dd8-b6b5-d00f9397c7fe",
-  "staedte": [
-   "Berlin",
-   "Zürich"
-  ],
-  "laender": [
-   "Deutschland",
-   "Schweiz"
   ]
  },
  {
@@ -86313,6 +87561,27 @@
  },
  {
   "firma": "VREY",
+  "titel": "Strategic Partnerships Manager (m/w/d)",
+  "ort": "Berlin HQ, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-04-19",
+  "tage_offen": 222,
+  "druck": 4,
+  "link": "https://jobs.ashbyhq.com/VREY/1b44c2bd-22da-4fc3-b083-18f0651a1e7e",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "VREY",
   "titel": "Projektmanager - Dezentrale Energieversorgung (w/m/d)",
   "ort": "Berlin HQ, Germany",
   "land": "Deutschland",
@@ -86396,27 +87665,6 @@
   "tage_offen": 221,
   "druck": 4,
   "link": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8514562002",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "VREY",
-  "titel": "Strategic Partnerships Manager (m/w/d)",
-  "ort": "Berlin HQ, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-04-19",
-  "tage_offen": 221,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/VREY/1b44c2bd-22da-4fc3-b083-18f0651a1e7e",
   "staedte": [
    "Berlin"
   ],
@@ -86582,6 +87830,27 @@
   "staedte": [],
   "laender": [
    "Deutschland"
+  ]
+ },
+ {
+  "firma": "‎ConnectWise",
+  "titel": "Channel Account Manager (Swedish Speaking)",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-04-21",
+  "tage_offen": 220,
+  "druck": 4,
+  "link": "https://job-boards.greenhouse.io/connectwise/jobs/4687209005",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
   ]
  },
  {
@@ -88457,6 +89726,27 @@
  },
  {
   "firma": "CarOnSale",
+  "titel": "Business Development Manager Innendienst - Gebrauchtwagenhandel (m/w/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-05-08",
+  "tage_offen": 203,
+  "druck": 4,
+  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/4862761101",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "CarOnSale",
   "titel": "Content & Thought Leadership Manager (m/w/d)",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
@@ -88513,27 +89803,6 @@
   "link": "https://job-boards.eu.greenhouse.io/isaraerospace/jobs/4857035101",
   "staedte": [
    "München"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "CarOnSale",
-  "titel": "Business Development Manager Innendienst - Gebrauchtwagenhandel (m/w/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-05-08",
-  "tage_offen": 202,
-  "druck": 4,
-  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/4862761101",
-  "staedte": [
-   "Berlin"
   ],
   "laender": [
    "Deutschland"
@@ -88773,6 +90042,27 @@
   ]
  },
  {
+  "firma": "Pigment",
+  "titel": "Enterprise Account Executive Alps",
+  "ort": "Zurich",
+  "land": "Schweiz",
+  "stadt": "Zürich",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-05-12",
+  "tage_offen": 199,
+  "druck": 4,
+  "link": "https://jobs.lever.co/pigment/baaabf0f-edc4-4ad7-8b99-13b808665e41",
+  "staedte": [
+   "Zürich"
+  ],
+  "laender": [
+   "Schweiz"
+  ]
+ },
+ {
   "firma": "Agicap",
   "titel": "Account Executive DACH - SMB (m/f/d)",
   "ort": "Berlin 🇩🇪; Düsseldorf 🇩🇪",
@@ -88898,6 +90188,30 @@
   ]
  },
  {
+  "firma": "Capco",
+  "titel": "Solution Architect (m/w/d) – Financial Services",
+  "ort": "Germany; Germany - Frankfurt am Main; Germany - Munich und 2 weitere",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Software und IT",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-05-13",
+  "tage_offen": 198,
+  "druck": 4,
+  "link": "https://job-boards.greenhouse.io/capco/jobs/7921626",
+  "staedte": [
+   "Berlin",
+   "Düsseldorf",
+   "Frankfurt",
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Hypersonica",
   "titel": "Office Manager",
   "ort": "Munich",
@@ -88940,27 +90254,6 @@
   ]
  },
  {
-  "firma": "Pigment",
-  "titel": "Enterprise Account Executive Alps",
-  "ort": "Zurich",
-  "land": "Schweiz",
-  "stadt": "Zürich",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-05-12",
-  "tage_offen": 198,
-  "druck": 4,
-  "link": "https://jobs.lever.co/pigment/baaabf0f-edc4-4ad7-8b99-13b808665e41",
-  "staedte": [
-   "Zürich"
-  ],
-  "laender": [
-   "Schweiz"
-  ]
- },
- {
   "firma": "Seyond",
   "titel": "Sales Representative – Industrial, Security & Robotics Applications",
   "ort": "Eschborn, Hesse, Germany",
@@ -88975,30 +90268,6 @@
   "druck": 4,
   "link": "https://job-boards.greenhouse.io/seyond/jobs/5995087004",
   "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Capco",
-  "titel": "Solution Architect (m/w/d) – Financial Services",
-  "ort": "Germany; Germany - Dusseldorf; Germany - Frankfurt am Main und 2 weitere",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Software und IT",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-05-13",
-  "tage_offen": 197,
-  "druck": 4,
-  "link": "https://job-boards.greenhouse.io/capco/jobs/7921626",
-  "staedte": [
-   "Berlin",
-   "Düsseldorf",
-   "Frankfurt",
-   "München"
-  ],
   "laender": [
    "Deutschland"
   ]
@@ -89444,7 +90713,7 @@
  {
   "firma": "HelloFresh",
   "titel": "Fachkraft für Arbeitssicherheit (all genders)",
-  "ort": "Berlin, Berlin, Germany; Magdeburg, Saxony-Anhalt, Germany; Hamburg, Hamburg, Germany und 3 weitere",
+  "ort": "Berlin, Berlin, Germany; Magdeburg, Saxony-Anhalt, Germany; Hannover, Lower Saxony, Germany und 3 weitere",
   "land": "Deutschland",
   "stadt": "Berlin",
   "bereich": "Betrieb und Logistik",
@@ -90679,7 +91948,7 @@
  {
   "firma": "Indie Campers",
   "titel": "Tourism & Operations Internship",
-  "ort": "Wien, Wien, Austria; Berlin, Berlin, Germany; Hamburg, Hamburg, Germany und 6 weitere",
+  "ort": "Wien, Wien, Austria; Zürich, Zürich, Switzerland; Geneva, Geneva, Switzerland und 6 weitere",
   "land": "Österreich",
   "stadt": "Wien",
   "bereich": "Betrieb und Logistik",
@@ -92061,27 +93330,6 @@
   ]
  },
  {
-  "firma": "Voyfai",
-  "titel": "Marketing Manager (m/f/d) - Berlin",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Marketing",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-11-02",
-  "tage_offen": 24,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/voyfai/55b776fa-d920-4aea-8e73-5f5f1576301c",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Fix Group Management",
   "titel": "A-LEVEL AUTOMOTIVE TECHNICIAN WANTED! - No Weekends + Paid Full Book Time (No Warranty Cuts)!",
   "ort": "Bremen, IN",
@@ -92281,7 +93529,7 @@
   "online_seit": "2026-11-04",
   "tage_offen": 23,
   "druck": 4,
-  "link": "https://flix.careers/job/8928206002?gh_jid=8928206002",
+  "link": "https://flix.careers/job/8929727002?gh_jid=8929727002",
   "staedte": [
    "Berlin",
    "München"
@@ -92985,7 +94233,7 @@
   "online_seit": "2026-11-04",
   "tage_offen": 23,
   "druck": 4,
-  "link": "https://job-boards.greenhouse.io/artefactjobs/jobs/8930210002",
+  "link": "https://job-boards.greenhouse.io/artefactjobs/jobs/8930192002",
   "staedte": [
    "Zürich"
   ],
@@ -93572,11 +94820,11 @@
   ]
  },
  {
-  "firma": "Capco",
-  "titel": "Business Analyst* – Capital Markets (Middle & Back Office Operations)",
-  "ort": "Germany - Dusseldorf; Germany - Munich; Germany - Frankfurt am Main",
+  "firma": "A11",
+  "titel": "Analytics Engineer / Data Engineer (m/f/d)",
+  "ort": "Berlin",
   "land": "Deutschland",
-  "stadt": "Düsseldorf",
+  "stadt": "Berlin",
   "bereich": "Daten und KI",
   "stufe": 2,
   "art": "",
@@ -93584,7 +94832,49 @@
   "online_seit": "2026-11-05",
   "tage_offen": 22,
   "druck": 4,
-  "link": "https://job-boards.greenhouse.io/capco/jobs/8355182",
+  "link": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8932169002",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "A11",
+  "titel": "ML Ops & Data Engineer (m/f/d)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Daten und KI",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-05",
+  "tage_offen": 22,
+  "druck": 4,
+  "link": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8932160002",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Capco",
+  "titel": "Business Analyst* – Capital Markets (Middle & Back Office Operations)",
+  "ort": "Germany - Munich; Germany - Dusseldorf; Germany - Frankfurt am Main",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Daten und KI",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-05",
+  "tage_offen": 22,
+  "druck": 4,
+  "link": "https://job-boards.greenhouse.io/capco/jobs/8355178",
   "staedte": [
    "Düsseldorf",
    "Frankfurt",
@@ -94253,6 +95543,48 @@
   ]
  },
  {
+  "firma": "Enpal",
+  "titel": "Analyst CGO Office  (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Daten und KI",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-06",
+  "tage_offen": 21,
+  "druck": 4,
+  "link": "https://jobs.ashbyhq.com/enpal/f2defc7b-21a1-4454-97cc-cb15903112a0",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Enpal",
+  "titel": "Paid Social & Growth Development Manager:in (w/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Marketing",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-06",
+  "tage_offen": 21,
+  "druck": 4,
+  "link": "https://jobs.ashbyhq.com/enpal/bbb30554-5b5d-49c3-8f03-63d3183e33a5",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Sereact",
   "titel": "Finance & Accounting Manager (m/f/d)",
   "ort": "Stuttgart Schockenriedstr. 17, Germany",
@@ -94329,6 +95661,27 @@
   "tage_offen": 21,
   "druck": 4,
   "link": "https://jobs.ashbyhq.com/openai/0cf4a8f4-a57a-494b-aad8-4df8ac096939",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Harvey",
+  "titel": "Legal Engineer, Product Specialist",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Software und IT",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-11-06",
+  "tage_offen": 21,
+  "druck": 4,
+  "link": "https://jobs.ashbyhq.com/harvey/4e562e06-1903-4573-8c54-0ac6b0c60d34",
   "staedte": [
    "München"
   ],
@@ -94415,48 +95768,6 @@
   "link": "https://job-boards.eu.greenhouse.io/thequalitygroupgmbh1/jobs/5026144101",
   "staedte": [
    "Hamburg"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "A11",
-  "titel": "Analytics Engineer / Data Engineer (m/f/d)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Daten und KI",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-05",
-  "tage_offen": 21,
-  "druck": 4,
-  "link": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8932169002",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "A11",
-  "titel": "ML Ops & Data Engineer (m/f/d)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Daten und KI",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-05",
-  "tage_offen": 21,
-  "druck": 4,
-  "link": "https://job-boards.greenhouse.io/projectaservicesgmbhcokg/jobs/8932160002",
-  "staedte": [
-   "Berlin"
   ],
   "laender": [
    "Deutschland"
@@ -94686,9 +95997,9 @@
  {
   "firma": "FeverUp",
   "titel": "Health and Safety Specialist",
-  "ort": "Berlin; Hamburg; Munich",
+  "ort": "Hamburg; Berlin; Munich",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "Hamburg",
   "bereich": "Betrieb und Logistik",
   "stufe": 2,
   "art": "",
@@ -94696,7 +96007,7 @@
   "online_seit": "2026-11-06",
   "tage_offen": 21,
   "druck": 4,
-  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/5029753101",
+  "link": "https://job-boards.eu.greenhouse.io/feverup/jobs/5029760101",
   "staedte": [
    "Berlin",
    "Hamburg",
@@ -94741,6 +96052,27 @@
   "tage_offen": 21,
   "druck": 4,
   "link": "https://jobs.ashbyhq.com/voize/d71c4f49-e3d3-4153-b2ec-5904dc0c8a58",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "voize",
+  "titel": "Customer Infrastructure Engineer (m/f/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Kundenservice",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-11-06",
+  "tage_offen": 21,
+  "druck": 4,
+  "link": "https://jobs.ashbyhq.com/voize/89f23977-d132-43a2-9c58-26150775f0ab",
   "staedte": [
    "Berlin"
   ],
@@ -94932,6 +96264,25 @@
   ]
  },
  {
+  "firma": "Flora Food Group",
+  "titel": "HR Manager (m/w/d)",
+  "ort": "Pratau, Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Personal",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-06",
+  "tage_offen": 21,
+  "druck": 4,
+  "link": "https://www.florafoodgroup.com/careers/join-flora-food-group/8933353002?gh_jid=8933353002",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Everfield",
   "titel": "IT & Cloud Manager (m/w/d)",
   "ort": "Germany - Krumbach | Hybrid",
@@ -94986,6 +96337,27 @@
   "druck": 4,
   "link": "https://jobs.ashbyhq.com/zip/4e3d47fa-f399-4032-8c05-bb97d79cce39",
   "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "ATOSS Aloud GmbH - Crewmeister",
+  "titel": "Commercial Growth Project Manager  (m/w/d)",
+  "ort": "Munich",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-06",
+  "tage_offen": 21,
+  "druck": 4,
+  "link": "https://job-boards.eu.greenhouse.io/crewmeister/jobs/5030001101",
+  "staedte": [
+   "München"
+  ],
   "laender": [
    "Deutschland"
   ]
@@ -95273,48 +96645,6 @@
   ]
  },
  {
-  "firma": "Enpal",
-  "titel": "Analyst CGO Office  (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Daten und KI",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-06",
-  "tage_offen": 20,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/enpal/f2defc7b-21a1-4454-97cc-cb15903112a0",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Enpal",
-  "titel": "Paid Social & Growth Development Manager:in (w/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Marketing",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-06",
-  "tage_offen": 20,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/enpal/bbb30554-5b5d-49c3-8f03-63d3183e33a5",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Parloa",
   "titel": "Partner Sales Manager - SAP",
   "ort": "Berlin, Germany",
@@ -95330,27 +96660,6 @@
   "link": "https://jobs.ashbyhq.com/parloa/cc034fa1-c474-49eb-8c96-01faca914618",
   "staedte": [
    "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Harvey",
-  "titel": "Legal Engineer, Product Specialist",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Software und IT",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-11-06",
-  "tage_offen": 20,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/harvey/4e562e06-1903-4573-8c54-0ac6b0c60d34",
-  "staedte": [
-   "München"
   ],
   "laender": [
    "Deutschland"
@@ -95399,27 +96708,6 @@
   ]
  },
  {
-  "firma": "voize",
-  "titel": "Customer Infrastructure Engineer (m/f/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Kundenservice",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-11-06",
-  "tage_offen": 20,
-  "druck": 4,
-  "link": "https://jobs.ashbyhq.com/voize/89f23977-d132-43a2-9c58-26150775f0ab",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "AlixPartners",
   "titel": "Management Berater:in (m/w/d)",
   "ort": "Austria",
@@ -95460,25 +96748,6 @@
   ]
  },
  {
-  "firma": "Flora Food Group",
-  "titel": "HR Manager (m/w/d)",
-  "ort": "Pratau, Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Personal",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-06",
-  "tage_offen": 20,
-  "druck": 4,
-  "link": "https://www.florafoodgroup.com/careers/join-flora-food-group/8933353002?gh_jid=8933353002",
-  "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "SwissBorg",
   "titel": "Assistant(e) Juridique",
   "ort": "Lausanne",
@@ -95495,27 +96764,6 @@
   "staedte": [],
   "laender": [
    "Schweiz"
-  ]
- },
- {
-  "firma": "ATOSS Aloud GmbH - Crewmeister",
-  "titel": "Commercial Growth Project Manager  (m/w/d)",
-  "ort": "Munich",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-06",
-  "tage_offen": 20,
-  "druck": 4,
-  "link": "https://job-boards.eu.greenhouse.io/crewmeister/jobs/5030001101",
-  "staedte": [
-   "München"
-  ],
-  "laender": [
-   "Deutschland"
   ]
  },
  {
@@ -97512,9 +98760,9 @@
  {
   "firma": "Indie Campers",
   "titel": "Tourism & Operations Internship - Erasmus+",
-  "ort": "Wien, Wien, Austria; Berlin, Berlin, Germany; Düsseldorf, Nordrhein-Westfalen, Germany und 7 weitere",
-  "land": "Österreich",
-  "stadt": "Wien",
+  "ort": "Geneva, Geneva, Switzerland; Zürich, Zürich, Switzerland; Belgium; Croatia; Faro, Faro, Portugal; Finland ; France; Germany; Greece; Iceland; Ireland; Italy; Lisboa, Lisboa, Portugal; Malmö, Skåne län, Sweden; Netherlands; Norway ; Poland; Porto, Porto, Portugal; Spain; Stockholm, Stockholms län, Sweden; Switzerland; UK; Wien, Wien, Austria und 7 weitere",
+  "land": "Schweiz",
+  "stadt": "Genf",
   "bereich": "Betrieb und Logistik",
   "stufe": 0,
   "art": "Praktikum",
@@ -97522,7 +98770,7 @@
   "online_seit": "2026-09-16",
   "tage_offen": 72,
   "druck": 3,
-  "link": "https://job-boards.greenhouse.io/indiecampers/jobs/8809645002",
+  "link": "https://job-boards.greenhouse.io/indiecampers/jobs/8811568002",
   "staedte": [
    "Berlin",
    "Düsseldorf",
@@ -98787,6 +100035,48 @@
   ]
  },
  {
+  "firma": "OMP Careers",
+  "titel": "Supply Chain Consultant",
+  "ort": "DE-Cologne",
+  "land": "Deutschland",
+  "stadt": "Köln",
+  "bereich": "Strategie und Projekte",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-09",
+  "tage_offen": 18,
+  "druck": 3,
+  "link": "https://careers.omp.com/job/navigate/5031031101?gh_jid=5031031101",
+  "staedte": [
+   "Köln"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "OMP",
+  "titel": "Supply Chain Consultant",
+  "ort": "Cologne",
+  "land": "Deutschland",
+  "stadt": "Köln",
+  "bereich": "Strategie und Projekte",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-09",
+  "tage_offen": 18,
+  "druck": 3,
+  "link": "https://job-boards.eu.greenhouse.io/ompexternaljobboards/jobs/5031033101",
+  "staedte": [
+   "Köln"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Celonis",
   "titel": "Forward Deployed Engineer - CPG/Retail",
   "ort": "Munich, Germany",
@@ -98926,6 +100216,27 @@
   "tage_offen": 17,
   "druck": 3,
   "link": "https://jobs.ashbyhq.com/peec/4f30b4f4-339e-49b9-87a8-40bcf7eb1fa1",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Forto",
+  "titel": "Sales Development Representative (f/m/d) - South & East",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-10",
+  "tage_offen": 17,
+  "druck": 3,
+  "link": "https://jobs.ashbyhq.com/forto/2bc276e4-42d8-44db-a95a-230fc6560747",
   "staedte": [
    "Berlin"
   ],
@@ -99192,6 +100503,25 @@
   "staedte": [
    "München"
   ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "AIOS (YC W20/S21)",
+  "titel": "Web Designer at AIOS — Remote, $100k-$200k/yr (including equity)",
+  "ort": "Remote (EU), Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Produkt und Design",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-11-10",
+  "tage_offen": 17,
+  "druck": 3,
+  "link": "https://jobs.ashbyhq.com/aios/1b474ec0-6307-4732-ad8e-28bedcd368d0",
+  "staedte": [],
   "laender": [
    "Deutschland"
   ]
@@ -99504,6 +100834,69 @@
   ]
  },
  {
+  "firma": "Flix",
+  "titel": "Örtlicher Betriebsleiter (m/w/d) – Schienenverkehr",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-11",
+  "tage_offen": 16,
+  "druck": 3,
+  "link": "https://flix.careers/job/8919401002?gh_jid=8919401002",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Flix",
+  "titel": "Referent Eisenbahnbetriebsleitung (m/w/d)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-11",
+  "tage_offen": 16,
+  "druck": 3,
+  "link": "https://flix.careers/job/8937905002?gh_jid=8937905002",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Flix",
+  "titel": "Referent Sicherheitmanagement (m/w/d)",
+  "ort": "Berlin",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Betrieb und Logistik",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-11",
+  "tage_offen": 16,
+  "druck": 3,
+  "link": "https://flix.careers/job/8937907002?gh_jid=8937907002",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Wolt - English",
   "titel": "Strategy & Operations Manager, Pricing & Affordability",
   "ort": "Berlin, Germany",
@@ -99601,27 +100994,6 @@
   "link": "https://jobs.ashbyhq.com/wayve/5001dc43-5b1f-4fcd-a51f-60434075a5e6",
   "staedte": [
    "Stuttgart"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Forto",
-  "titel": "Sales Development Representative (f/m/d) - South & East",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-10",
-  "tage_offen": 16,
-  "druck": 3,
-  "link": "https://jobs.ashbyhq.com/forto/2bc276e4-42d8-44db-a95a-230fc6560747",
-  "staedte": [
-   "Berlin"
   ],
   "laender": [
    "Deutschland"
@@ -99964,25 +101336,6 @@
   ]
  },
  {
-  "firma": "AIOS (YC W20/S21)",
-  "titel": "Web Designer at AIOS — Remote, $100k-$200k/yr (including equity)",
-  "ort": "Remote (EU), Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Produkt und Design",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Remote",
-  "online_seit": "2026-11-10",
-  "tage_offen": 16,
-  "druck": 3,
-  "link": "https://jobs.ashbyhq.com/aios/1b474ec0-6307-4732-ad8e-28bedcd368d0",
-  "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Benchling",
   "titel": "SMB Account Executive",
   "ort": "Zurich, Switzerland",
@@ -100268,6 +101621,48 @@
  },
  {
   "firma": "Helsing",
+  "titel": "Early Careers - Aerospace and Aeronautical Engineering",
+  "ort": "London; Munich",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Hardware und Ingenieurwesen",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-12",
+  "tage_offen": 15,
+  "druck": 3,
+  "link": "https://helsing.ai/jobs/5035173101?gh_jid=5035173101",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Helsing",
+  "titel": "Early Careers - Electronics and RF Engineering",
+  "ort": "London; Munich",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Hardware und Ingenieurwesen",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-12",
+  "tage_offen": 15,
+  "druck": 3,
+  "link": "https://helsing.ai/jobs/5035194101?gh_jid=5035194101",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Helsing",
   "titel": "Product Manager - Autonomy",
   "ort": "Berlin; Munich - Berlin - London",
   "land": "Deutschland",
@@ -100280,69 +101675,6 @@
   "tage_offen": 15,
   "druck": 3,
   "link": "https://helsing.ai/jobs/5034019101?gh_jid=5034019101",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Flix",
-  "titel": "Örtlicher Betriebsleiter (m/w/d) – Schienenverkehr",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sonstiges",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-11",
-  "tage_offen": 15,
-  "druck": 3,
-  "link": "https://flix.careers/job/8919401002?gh_jid=8919401002",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Flix",
-  "titel": "Referent Eisenbahnbetriebsleitung (m/w/d)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Sonstiges",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-11",
-  "tage_offen": 15,
-  "druck": 3,
-  "link": "https://flix.careers/job/8937905002?gh_jid=8937905002",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Flix",
-  "titel": "Referent Sicherheitmanagement (m/w/d)",
-  "ort": "Berlin",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Betrieb und Logistik",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-11",
-  "tage_offen": 15,
-  "druck": 3,
-  "link": "https://flix.careers/job/8937907002?gh_jid=8937907002",
   "staedte": [
    "Berlin"
   ],
@@ -101044,48 +102376,6 @@
   "tage_offen": 15,
   "druck": 3,
   "link": "https://jobs.ashbyhq.com/docebo/5a1b64b7-b4ea-4471-b67f-8ef95b2a6b85",
-  "staedte": [
-   "München"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Helsing",
-  "titel": "Early Careers - Aerospace and Aeronautical Engineering",
-  "ort": "London; Munich",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Hardware und Ingenieurwesen",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-12",
-  "tage_offen": 14,
-  "druck": 3,
-  "link": "https://helsing.ai/jobs/5035173101?gh_jid=5035173101",
-  "staedte": [
-   "München"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Helsing",
-  "titel": "Early Careers - Electronics and RF Engineering",
-  "ort": "London; Munich",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Hardware und Ingenieurwesen",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-12",
-  "tage_offen": 14,
-  "druck": 3,
-  "link": "https://helsing.ai/jobs/5035194101?gh_jid=5035194101",
   "staedte": [
    "München"
   ],
@@ -102669,6 +103959,27 @@
   ]
  },
  {
+  "firma": "bunch",
+  "titel": "Senior People Operations Manager (f/m/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Personal",
+  "stufe": 3,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "druck": 3,
+  "link": "https://jobs.ashbyhq.com/bunch/936c27a4-ecd7-4952-8e22-ab634676f58c",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Sonar",
   "titel": "Senior Project Manager, Strategic Initiatives",
   "ort": "Geneva",
@@ -102856,6 +104167,27 @@
   ]
  },
  {
+  "firma": "Omnicom Media",
+  "titel": "(Senior) Client Consulting (all gender)",
+  "ort": "Düsseldorf, North Rhine-Westphalia, Germany; Germany",
+  "land": "Deutschland",
+  "stadt": "Düsseldorf",
+  "bereich": "Sonstiges",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "druck": 3,
+  "link": "https://job-boards.greenhouse.io/mediabrands/jobs/5251768007",
+  "staedte": [
+   "Düsseldorf"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Helsing",
   "titel": "Senior Warhead Engineer – Lethality Centre of Excellence",
   "ort": "Munich",
@@ -102933,27 +104265,6 @@
   "tage_offen": 10,
   "druck": 3,
   "link": "https://jobs.ashbyhq.com/peec/aee622f9-4b02-4cd1-b8b1-39b2e5f6c3dc",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "bunch",
-  "titel": "Senior People Operations Manager (f/m/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Personal",
-  "stufe": 3,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-16",
-  "tage_offen": 10,
-  "druck": 3,
-  "link": "https://jobs.ashbyhq.com/bunch/936c27a4-ecd7-4952-8e22-ab634676f58c",
   "staedte": [
    "Berlin"
   ],
@@ -103294,6 +104605,27 @@
   ]
  },
  {
+  "firma": "SteerBridge",
+  "titel": "Security Operations Center Lead",
+  "ort": "Vienna, VA",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Software und IT",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-11-18",
+  "tage_offen": 9,
+  "druck": 3,
+  "link": "https://jobs.lever.co/steerbridge/faf4fde5-fe41-4496-a011-fee383d70bf2",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
   "firma": "Mozilla",
   "titel": "Staff Performance Engineer, JavaScript Engine (SpiderMonkey)",
   "ort": "Remote Germany",
@@ -103308,6 +104640,27 @@
   "druck": 3,
   "link": "https://job-boards.greenhouse.io/mozilla/jobs/8396578",
   "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Xometry Europe",
+  "titel": "Senior Engineering Manager",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Software und IT",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-18",
+  "tage_offen": 9,
+  "druck": 3,
+  "link": "https://job-boards.greenhouse.io/xometryeurope/jobs/5298035007",
+  "staedte": [
+   "München"
+  ],
   "laender": [
    "Deutschland"
   ]
@@ -103395,27 +104748,6 @@
   ]
  },
  {
-  "firma": "SteerBridge",
-  "titel": "Security Operations Center Lead",
-  "ort": "Vienna, VA",
-  "land": "Österreich",
-  "stadt": "Wien",
-  "bereich": "Software und IT",
-  "stufe": 4,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-11-18",
-  "tage_offen": 8,
-  "druck": 3,
-  "link": "https://jobs.lever.co/steerbridge/faf4fde5-fe41-4496-a011-fee383d70bf2",
-  "staedte": [
-   "Wien"
-  ],
-  "laender": [
-   "Österreich"
-  ]
- },
- {
   "firma": "Mozilla",
   "titel": "Staff Software Engineer, OS Integration",
   "ort": "Remote Germany",
@@ -103430,27 +104762,6 @@
   "druck": 3,
   "link": "https://job-boards.greenhouse.io/mozilla/jobs/8394830",
   "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Xometry Europe",
-  "titel": "Senior Engineering Manager",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Software und IT",
-  "stufe": 4,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-18",
-  "tage_offen": 8,
-  "druck": 3,
-  "link": "https://job-boards.greenhouse.io/xometryeurope/jobs/5298035007",
-  "staedte": [
-   "München"
-  ],
   "laender": [
    "Deutschland"
   ]
@@ -103801,6 +105112,25 @@
   ]
  },
  {
+  "firma": "Onapsis",
+  "titel": "Director, Alliances EMEA (GSI) (m/f/d)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 5,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-20",
+  "tage_offen": 6,
+  "druck": 3,
+  "link": "https://job-boards.greenhouse.io/onapsis/jobs/8956442002",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "BoxLunch & Hot Topic",
   "titel": "Sales Associate",
   "ort": "Vienna, WV",
@@ -103906,7 +105236,7 @@
  {
   "firma": "Evernest",
   "titel": "Selbstständiger Immobilienmakler und Quereinsteiger (m/w/d)",
-  "ort": "Bergisch Gladbach, North Rhine-Westphalia, Germany; Aachen, North Rhine-Westphalia, Germany; Hannover, Lower Saxony, Germany und 25 weitere",
+  "ort": "Aachen, North Rhine-Westphalia, Germany; Hannover, Lower Saxony, Germany; Münster und 25 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Sonstiges",
@@ -103916,7 +105246,7 @@
   "online_seit": "2024-04-19",
   "tage_offen": 952,
   "druck": 2,
-  "link": "https://www.evernest.com/de/karriere/job/4324486101/?gh_jid=4324486101",
+  "link": "https://www.evernest.com/de/karriere/job/4324494101/?gh_jid=4324494101",
   "staedte": [
    "Dortmund",
    "Dresden",
@@ -104134,7 +105464,7 @@
   "art": "Vollzeit",
   "modus": "",
   "online_seit": "2025-07-14",
-  "tage_offen": 500,
+  "tage_offen": 501,
   "druck": 2,
   "link": "https://jobs.ashbyhq.com/uncountable/ebaa9f2a-04ec-4bfb-a004-eeefb48d251e",
   "staedte": [
@@ -104415,7 +105745,7 @@
  {
   "firma": "Picnic",
   "titel": "Graduate Operations Supervisor (m/w/d)",
-  "ort": "Hamburg, Hamburg, Germany; Berlin, Berlin, Germany; Potsdam, Brandenburg, Germany und 12 weitere",
+  "ort": "Hamburg, Hamburg, Germany; Falkensee, Brandenburg, Germany; Potsdam, Brandenburg, Germany und 12 weitere",
   "land": "Deutschland",
   "stadt": "Hamburg",
   "bereich": "Betrieb und Logistik",
@@ -104583,7 +105913,7 @@
  {
   "firma": "Picnic",
   "titel": "Fast Track to Leadership Trainee",
-  "ort": "Herne, North Rhine-Westphalia, Germany; Hamm, North Rhine-Westphalia, Germany; Hannover, Lower Saxony, Germany und 1 weitere",
+  "ort": "Mülheim an der Ruhr, North Rhine-Westphalia, Germany; Hamm, North Rhine-Westphalia, Germany; Hannover, Lower Saxony, Germany und 1 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Sonstiges",
@@ -104593,7 +105923,7 @@
   "online_seit": "2026-03-18",
   "tage_offen": 254,
   "druck": 2,
-  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=7730917",
+  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=7730889",
   "staedte": [
    "Hannover"
   ],
@@ -106572,6 +107902,25 @@
   ]
  },
  {
+  "firma": "Qualysoft",
+  "titel": "ServiceNow Implementation & Deployment Specialist (m/f/d)",
+  "ort": "Open",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Kundenservice",
+  "stufe": 2,
+  "art": "Freelance",
+  "modus": "Remote",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "druck": 2,
+  "link": "https://jobs.lever.co/qualysoft/53cfd033-a84d-459a-904c-580d7c3756d9",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Andercore",
   "titel": "Account Executive ,UK",
   "ort": "Berlin, Germany",
@@ -106588,6 +107937,25 @@
   "staedte": [
    "Berlin"
   ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Simtra BioPharma Solutions",
+  "titel": "Technician (m/w/d) Quality Oversight Production",
+  "ort": "Halle, North Rhine-Westphalia, Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Handwerk und Montage",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "druck": 2,
+  "link": "https://job-boards.greenhouse.io/simtrabps/jobs/5231884007",
+  "staedte": [],
   "laender": [
    "Deutschland"
   ]
@@ -107103,6 +108471,25 @@
   ]
  },
  {
+  "firma": "Commvault",
+  "titel": "Commercial Account Executive (Germany - Zip Code 7)",
+  "ort": "Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-16",
+  "tage_offen": 11,
+  "druck": 2,
+  "link": "https://job-boards.greenhouse.io/commvault/jobs/5481254008",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Lyra Health",
   "titel": "Psychological Counsellor",
   "ort": "Genève",
@@ -107578,7 +108965,7 @@
  {
   "firma": "Capco",
   "titel": "Infrastructure Manager (m/w/d) for AI Ops Implementation",
-  "ort": "Germany; Germany - Dusseldorf; Germany - Berlin und 1 weitere",
+  "ort": "Germany; Germany - Munich; Germany - Dusseldorf und 1 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Kundenservice",
@@ -108017,25 +109404,6 @@
  },
  {
   "firma": "Qualysoft",
-  "titel": "ServiceNow Implementation & Deployment Specialist (m/f/d)",
-  "ort": "Open",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Kundenservice",
-  "stufe": 2,
-  "art": "Freelance",
-  "modus": "Remote",
-  "online_seit": "2026-11-16",
-  "tage_offen": 10,
-  "druck": 2,
-  "link": "https://jobs.lever.co/qualysoft/53cfd033-a84d-459a-904c-580d7c3756d9",
-  "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Qualysoft",
   "titel": "ServiceNow Solution / Platform Architect (m/f/d)",
   "ort": "Open",
   "land": "Deutschland",
@@ -108170,25 +109538,6 @@
   "tage_offen": 10,
   "druck": 2,
   "link": "https://jobs.lever.co/weloglobal/88e21e16-b855-45f4-a712-ddedb03e46fd",
-  "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Simtra BioPharma Solutions",
-  "titel": "Technician (m/w/d) Quality Oversight Production",
-  "ort": "Halle, North Rhine-Westphalia, Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Handwerk und Montage",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-16",
-  "tage_offen": 10,
-  "druck": 2,
-  "link": "https://job-boards.greenhouse.io/simtrabps/jobs/5231884007",
   "staedte": [],
   "laender": [
    "Deutschland"
@@ -108587,25 +109936,6 @@
   ]
  },
  {
-  "firma": "Commvault",
-  "titel": "Commercial Account Executive (Germany - Zip Code 7)",
-  "ort": "Germany",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-16",
-  "tage_offen": 10,
-  "druck": 2,
-  "link": "https://job-boards.greenhouse.io/commvault/jobs/5481254008",
-  "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Lalamove",
   "titel": "Driver Support Partner",
   "ort": "Berlin",
@@ -108814,9 +110144,9 @@
  {
   "firma": "Celonis",
   "titel": "Account Executive - Cross Industries",
-  "ort": "Zürich, Switzerland; Remote, Switzerland",
+  "ort": "Remote, Switzerland; Zürich, Switzerland",
   "land": "Schweiz",
-  "stadt": "Zürich",
+  "stadt": "",
   "bereich": "Sales",
   "stufe": 2,
   "art": "",
@@ -108824,7 +110154,7 @@
   "online_seit": "2026-11-18",
   "tage_offen": 9,
   "druck": 2,
-  "link": "https://job-boards.greenhouse.io/celonis/jobs/8042632003?gh_jid=8042632003",
+  "link": "https://job-boards.greenhouse.io/celonis/jobs/8208041003?gh_jid=8208041003",
   "staedte": [
    "Zürich"
   ],
@@ -109166,7 +110496,7 @@
  {
   "firma": "Picnic",
   "titel": "Regional HR Business Partner (m/w/d)",
-  "ort": "Herne, North Rhine-Westphalia, Germany; Mülheim an der Ruhr, North Rhine-Westphalia, Germany; Langenfeld, North Rhine-Westphalia, Germany und 3 weitere",
+  "ort": "Mülheim an der Ruhr, North Rhine-Westphalia, Germany; Oberhausen, North Rhine-Westphalia, Germany; Langenfeld, North Rhine-Westphalia, Germany und 3 weitere",
   "land": "Deutschland",
   "stadt": "",
   "bereich": "Personal",
@@ -109176,7 +110506,7 @@
   "online_seit": "2026-11-18",
   "tage_offen": 9,
   "druck": 2,
-  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8398515",
+  "link": "https://jobs.picnic.app/nl/vacancies?gh_jid=8398519",
   "staedte": [
    "Bremen",
    "Hamburg"
@@ -109735,6 +111065,27 @@
   ]
  },
  {
+  "firma": "Prior Labs",
+  "titel": "Partnerships Manager",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-11-18",
+  "tage_offen": 9,
+  "druck": 2,
+  "link": "https://jobs.ashbyhq.com/prior-labs/6dabf0b6-6afe-41e7-ba26-b04a3bc6ce0d",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "wongdoody",
   "titel": "Backend Engineer / DevOps",
   "ort": "Berlin, DE | Germany (REMOTE) | Stuttgart, DE",
@@ -110101,6 +111452,27 @@
   ]
  },
  {
+  "firma": "Suitsupply",
+  "titel": "Customer Experience Coordinator",
+  "ort": "Vienna, Austria",
+  "land": "Österreich",
+  "stadt": "Wien",
+  "bereich": "Kundenservice",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-18",
+  "tage_offen": 9,
+  "druck": 2,
+  "link": "https://careersatsuitsupply.com/en-us/vacancies/8398685?gh_jid=8398685",
+  "staedte": [
+   "Wien"
+  ],
+  "laender": [
+   "Österreich"
+  ]
+ },
+ {
   "firma": "Helsing",
   "titel": "Senior Systems Engineer - Flight & Mission Planning",
   "ort": "Munich",
@@ -110229,9 +111601,9 @@
  {
   "firma": "SumUp",
   "titel": "Senior Backend Engineer - Identity",
-  "ort": "Cologne, Germany; Berlin, Germany",
+  "ort": "Berlin, Germany; Cologne, Germany",
   "land": "Deutschland",
-  "stadt": "Köln",
+  "stadt": "Berlin",
   "bereich": "Software und IT",
   "stufe": 3,
   "art": "",
@@ -110239,7 +111611,7 @@
   "online_seit": "2026-11-19",
   "tage_offen": 8,
   "druck": 2,
-  "link": "https://sumup.com/careers/positions/8951363002?gh_jid=8951363002",
+  "link": "https://sumup.com/careers/positions/8821323002?gh_jid=8821323002",
   "staedte": [
    "Berlin",
    "Köln"
@@ -110747,9 +112119,9 @@
  {
   "firma": "Capco",
   "titel": "(Senior) Consultant* - Murex/Capital Markets (m/w/d)",
-  "ort": "Germany - Dusseldorf; Germany - Frankfurt am Main; Germany und 2 weitere",
+  "ort": "Germany - Frankfurt am Main; Germany - Dusseldorf; Germany - Munich und 2 weitere",
   "land": "Deutschland",
-  "stadt": "Düsseldorf",
+  "stadt": "Frankfurt",
   "bereich": "Strategie und Projekte",
   "stufe": 3,
   "art": "",
@@ -110757,7 +112129,7 @@
   "online_seit": "2026-11-20",
   "tage_offen": 7,
   "druck": 2,
-  "link": "https://job-boards.greenhouse.io/capco/jobs/8406047",
+  "link": "https://job-boards.greenhouse.io/capco/jobs/8406032",
   "staedte": [
    "Berlin",
    "Düsseldorf",
@@ -114309,9 +115681,9 @@
  {
   "firma": "IONOS DE",
   "titel": "Werkstudent (w/m/d) Sales Operations Cloud",
-  "ort": "Revaler Straße 28-31, 10245 Berlin; Hinterm Hauptbahnhof 3-5, 76137 Karlsruhe",
+  "ort": "Hinterm Hauptbahnhof 3-5, 76137 Karlsruhe; Revaler Straße 28-31, 10245 Berlin",
   "land": "Deutschland",
-  "stadt": "Berlin",
+  "stadt": "Karlsruhe",
   "bereich": "Sales",
   "stufe": 0,
   "art": "Werkstudent",
@@ -114319,7 +115691,7 @@
   "online_seit": "2026-11-13",
   "tage_offen": 14,
   "druck": 1,
-  "link": "https://job-boards.eu.greenhouse.io/ionos/jobs/5035906101",
+  "link": "https://job-boards.eu.greenhouse.io/ionos/jobs/5035905101",
   "staedte": [
    "Berlin",
    "Karlsruhe"
@@ -115117,6 +116489,27 @@
   ]
  },
  {
+  "firma": "Hypersonica",
+  "titel": "IT Systems Administrator (m/w/d) – Munich",
+  "ort": "Munich",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Software und IT",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Vor Ort",
+  "online_seit": "2026-11-19",
+  "tage_offen": 8,
+  "druck": 1,
+  "link": "https://jobs.lever.co/hypersonica-prod/7473f8ad-bfe4-4891-ab48-9783bd42aaf5",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Salonkee",
   "titel": "Sales Representative (all genders) Quereinstieg - Glarus",
   "ort": "Schweiz / Glarus, Switzerland",
@@ -115266,18 +116659,18 @@
  },
  {
   "firma": "Prior Labs",
-  "titel": "Partnerships Manager",
+  "titel": "Developer Relations Engineer",
   "ort": "Berlin, Germany",
   "land": "Deutschland",
   "stadt": "Berlin",
-  "bereich": "Sales",
+  "bereich": "Software und IT",
   "stufe": 2,
   "art": "Vollzeit",
   "modus": "Vor Ort",
-  "online_seit": "2026-11-18",
+  "online_seit": "2026-11-19",
   "tage_offen": 8,
   "druck": 1,
-  "link": "https://jobs.ashbyhq.com/prior-labs/6dabf0b6-6afe-41e7-ba26-b04a3bc6ce0d",
+  "link": "https://jobs.ashbyhq.com/prior-labs/6fe950ce-b927-4a8a-a670-62084b5380ba",
   "staedte": [
    "Berlin"
   ],
@@ -115904,6 +117297,27 @@
   ]
  },
  {
+  "firma": "HubSpot",
+  "titel": "Partner Specialist, DACH",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Sonstiges",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-19",
+  "tage_offen": 8,
+  "druck": 1,
+  "link": "https://www.hubspot.com/careers/jobs/8395247?gh_jid=8395247",
+  "staedte": [
+   "Berlin"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "HelloFresh",
   "titel": "Test Kitchen Assistant (All Genders)",
   "ort": "Verden, Niedersachsen, Germany",
@@ -115959,6 +117373,25 @@
   "tage_offen": 7,
   "druck": 1,
   "link": "https://www.samsara.com/company/careers/roles/8392903?gh_jid=8392903",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Fivetran",
+  "titel": "Business Development Rep, Enterprise, DACH",
+  "ort": "Remote, Germany, EMEA",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "",
+  "modus": "Remote",
+  "online_seit": "2026-11-20",
+  "tage_offen": 7,
+  "druck": 1,
+  "link": "https://www.fivetran.com/careers/job?gh_jid=8209310003",
   "staedte": [],
   "laender": [
    "Deutschland"
@@ -116316,27 +117749,6 @@
   ]
  },
  {
-  "firma": "Hypersonica",
-  "titel": "IT Systems Administrator (m/w/d) – Munich",
-  "ort": "Munich",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Software und IT",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-11-19",
-  "tage_offen": 7,
-  "druck": 1,
-  "link": "https://jobs.lever.co/hypersonica-prod/7473f8ad-bfe4-4891-ab48-9783bd42aaf5",
-  "staedte": [
-   "München"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Salonkee",
   "titel": "Sales Representative (all genders) - Hamburg",
   "ort": "Deutschland / Hamburg, Germany",
@@ -116371,6 +117783,25 @@
   "tage_offen": 7,
   "druck": 1,
   "link": "https://jobs.ashbyhq.com/salonkee/a13b3232-0825-47c2-bd2c-2f7662f7fff4",
+  "staedte": [],
+  "laender": [
+   "Schweiz"
+  ]
+ },
+ {
+  "firma": "Salonkee",
+  "titel": "Sales Representative (all genders) Quereinstieg - Thurgau",
+  "ort": "Schweiz / Thurgau, Switzerland",
+  "land": "Schweiz",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-11-20",
+  "tage_offen": 7,
+  "druck": 1,
+  "link": "https://jobs.ashbyhq.com/salonkee/2b93be48-097e-441d-8295-9d21dd41278c",
   "staedte": [],
   "laender": [
    "Schweiz"
@@ -116715,27 +118146,6 @@
   ]
  },
  {
-  "firma": "Prior Labs",
-  "titel": "Developer Relations Engineer",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Software und IT",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Vor Ort",
-  "online_seit": "2026-11-19",
-  "tage_offen": 7,
-  "druck": 1,
-  "link": "https://jobs.ashbyhq.com/prior-labs/6fe950ce-b927-4a8a-a670-62084b5380ba",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Wellhub",
   "titel": "Business Development Representative (BDR) - Austria (m/w/d)",
   "ort": "Austria (Vienna - Hybrid)",
@@ -117056,25 +118466,6 @@
   ]
  },
  {
-  "firma": "Fivetran",
-  "titel": "Business Development Rep, Enterprise, DACH",
-  "ort": "Remote, Germany, EMEA",
-  "land": "Deutschland",
-  "stadt": "",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "",
-  "modus": "Remote",
-  "online_seit": "2026-11-20",
-  "tage_offen": 6,
-  "druck": 1,
-  "link": "https://www.fivetran.com/careers/job?gh_jid=8209310003",
-  "staedte": [],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Parloa",
   "titel": "CEO Office Associate",
   "ort": "Berlin HQ",
@@ -117224,7 +118615,7 @@
  {
   "firma": "CarOnSale",
   "titel": "Mobiler Fahrzeugbewerter im Außendienst - Region Steiermark (m/w/d)",
-  "ort": "Leoben, Austria; Knittelfeld, Austria; Bruck an der Mur, Austria",
+  "ort": "Knittelfeld, Austria; Bruck an der Mur, Austria; Leoben, Austria",
   "land": "Österreich",
   "stadt": "",
   "bereich": "Sales",
@@ -117234,7 +118625,7 @@
   "online_seit": "2026-11-20",
   "tage_offen": 6,
   "druck": 1,
-  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/5043792101",
+  "link": "https://job-boards.eu.greenhouse.io/caronsale/jobs/5043805101",
   "staedte": [],
   "laender": [
    "Österreich"
@@ -117281,25 +118672,6 @@
   ],
   "laender": [
    "Deutschland"
-  ]
- },
- {
-  "firma": "Salonkee",
-  "titel": "Sales Representative (all genders) Quereinstieg - Thurgau",
-  "ort": "Schweiz / Thurgau, Switzerland",
-  "land": "Schweiz",
-  "stadt": "",
-  "bereich": "Sales",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-11-20",
-  "tage_offen": 6,
-  "druck": 1,
-  "link": "https://jobs.ashbyhq.com/salonkee/2b93be48-097e-441d-8295-9d21dd41278c",
-  "staedte": [],
-  "laender": [
-   "Schweiz"
   ]
  },
  {
@@ -119336,6 +120708,27 @@
   ]
  },
  {
+  "firma": "Verve",
+  "titel": "Controller (Frankfurt or Dublin)",
+  "ort": "Dublin, Ireland; Frankfurt am Main, Germany",
+  "land": "Deutschland",
+  "stadt": "Frankfurt",
+  "bereich": "Finanzen und Recht",
+  "stufe": 2,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-23",
+  "tage_offen": 4,
+  "druck": 1,
+  "link": "https://job-boards.greenhouse.io/verve/jobs/8958635002",
+  "staedte": [
+   "Frankfurt"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "JustPlay GmbH",
   "titel": "Finance Controller Lead (all genders)",
   "ort": "Berlin (Hybrid), Germany",
@@ -119654,6 +121047,25 @@
   "tage_offen": 4,
   "druck": 1,
   "link": "https://job-boards.greenhouse.io/showpad/jobs/8411201",
+  "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "HubSpot",
+  "titel": "Sales Manager, Small Business - DACH",
+  "ort": "Remote - Germany",
+  "land": "Deutschland",
+  "stadt": "",
+  "bereich": "Sales",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Remote",
+  "online_seit": "2026-11-23",
+  "tage_offen": 4,
+  "druck": 1,
+  "link": "https://www.hubspot.com/careers/jobs/7774493?gh_jid=7774493",
   "staedte": [],
   "laender": [
    "Deutschland"
@@ -121275,7 +122687,7 @@
   "online_seit": "2026-11-24",
   "tage_offen": 3,
   "druck": 1,
-  "link": "https://job-boards.greenhouse.io/artefact/jobs/8959922002",
+  "link": "https://job-boards.greenhouse.io/artefact/jobs/8959918002",
   "staedte": [
    "Berlin"
   ],
@@ -121338,7 +122750,7 @@
   "online_seit": "2026-11-24",
   "tage_offen": 3,
   "druck": 1,
-  "link": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8959923002",
+  "link": "https://job-boards.greenhouse.io/artefactlinkedin/jobs/8959919002",
   "staedte": [
    "Berlin"
   ],
@@ -121555,27 +122967,6 @@
   ]
  },
  {
-  "firma": "Verve",
-  "titel": "Controller (Frankfurt or Dublin)",
-  "ort": "Dublin, Ireland; Frankfurt am Main, Germany",
-  "land": "Deutschland",
-  "stadt": "Frankfurt",
-  "bereich": "Finanzen und Recht",
-  "stufe": 2,
-  "art": "",
-  "modus": "",
-  "online_seit": "2026-11-23",
-  "tage_offen": 3,
-  "druck": 1,
-  "link": "https://job-boards.greenhouse.io/verve/jobs/8958635002",
-  "staedte": [
-   "Frankfurt"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Intrinsic",
   "titel": "Senior Research Scientist 3D Reconstruction & Spatial AI",
   "ort": "Zurich, Switzerland",
@@ -121697,6 +123088,27 @@
   ],
   "laender": [
    "Schweiz"
+  ]
+ },
+ {
+  "firma": "Novaspace",
+  "titel": "HR Operations & Payroll Coordinator - Germany & Belgium",
+  "ort": "Munich, Germany",
+  "land": "Deutschland",
+  "stadt": "München",
+  "bereich": "Finanzen und Recht",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-11-24",
+  "tage_offen": 3,
+  "druck": 1,
+  "link": "https://jobs.lever.co/novaspace/51ea7aef-8f77-4fb9-a1e1-f14c4ac97000",
+  "staedte": [
+   "München"
+  ],
+  "laender": [
+   "Deutschland"
   ]
  },
  {
@@ -121977,6 +123389,27 @@
   "druck": 1,
   "link": "https://jobs.lever.co/paralleldomain/e7d1d2f8-da76-4117-b034-ccd9e22a787c",
   "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Human Rights Watch",
+  "titel": "Senior Researcher, Human Rights and Artificial Intelligence",
+  "ort": "Amsterdam; Berlin, Berlin, Germany; Brussels, Belgium; Johannesburg, Gauteng, South Africa; London, England, United Kingdom; Los Angeles, California, United States; Nairobi, Nairobi, Kenya; New York, New York, United States; San Francisco, California, United States; Stockholm, Stockholms län, Sweden; São Paulo, São Paulo, Brazil; Toronto, Ontario, Canada; Washington, District of Columbia, United States; بيروت, Beirut, Lebanon",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Daten und KI",
+  "stufe": 3,
+  "art": "",
+  "modus": "",
+  "online_seit": "2026-11-23",
+  "tage_offen": 3,
+  "druck": 1,
+  "link": "https://job-boards.greenhouse.io/humanrightswatch/jobs/8959190002",
+  "staedte": [
+   "Berlin"
+  ],
   "laender": [
    "Deutschland"
   ]
@@ -124695,6 +126128,27 @@
   ]
  },
  {
+  "firma": "Emma – The Sleep Company",
+  "titel": "Performance Marketing Manager",
+  "ort": "Frankfurt",
+  "land": "Deutschland",
+  "stadt": "Frankfurt",
+  "bereich": "Marketing",
+  "stufe": 2,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-11-25",
+  "tage_offen": 2,
+  "druck": 0,
+  "link": "https://jobs.lever.co/emma-sleep/495c2355-2efb-445d-b74a-7a1142bbf941",
+  "staedte": [
+   "Frankfurt"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
   "firma": "Mozilla",
   "titel": "Certificate Authority Program Steward",
   "ort": "Remote Germany",
@@ -125273,27 +126727,6 @@
   ]
  },
  {
-  "firma": "Novaspace",
-  "titel": "HR Operations & Payroll Coordinator - Germany & Belgium",
-  "ort": "Munich, Germany",
-  "land": "Deutschland",
-  "stadt": "München",
-  "bereich": "Finanzen und Recht",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-11-24",
-  "tage_offen": 2,
-  "druck": 0,
-  "link": "https://jobs.lever.co/novaspace/51ea7aef-8f77-4fb9-a1e1-f14c4ac97000",
-  "staedte": [
-   "München"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
   "firma": "Horace Mann - Agent Opportunities",
   "titel": "Insurance Agent - Lake Geneva, WI",
   "ort": "Lake Geneva, WI",
@@ -125636,6 +127069,27 @@
   "druck": 0,
   "link": "https://jobs.ashbyhq.com/enpal/b4b69e34-15eb-47a0-b08d-bc50f0c0d3f2",
   "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Enpal",
+  "titel": "Associate Business Engineer – Virtual Power Plant Onboarding (m/w/d)",
+  "ort": "Berlin, Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Kundenservice",
+  "stufe": 1,
+  "art": "Vollzeit",
+  "modus": "",
+  "online_seit": "2026-11-26",
+  "tage_offen": 1,
+  "druck": 0,
+  "link": "https://jobs.ashbyhq.com/enpal/cb1ac7fe-64f7-44e0-af30-6a69f496520a",
+  "staedte": [
+   "Berlin"
+  ],
   "laender": [
    "Deutschland"
   ]
@@ -126214,27 +127668,6 @@
  },
  {
   "firma": "Emma – The Sleep Company",
-  "titel": "Performance Marketing Manager",
-  "ort": "Frankfurt",
-  "land": "Deutschland",
-  "stadt": "Frankfurt",
-  "bereich": "Marketing",
-  "stufe": 2,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-11-25",
-  "tage_offen": 1,
-  "druck": 0,
-  "link": "https://jobs.lever.co/emma-sleep/495c2355-2efb-445d-b74a-7a1142bbf941",
-  "staedte": [
-   "Frankfurt"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Emma – The Sleep Company",
   "titel": "Pricing & Performance Manager (m/f/d)",
   "ort": "Frankfurt",
   "land": "Deutschland",
@@ -126372,6 +127805,27 @@
   "druck": 0,
   "link": "https://jobs.lever.co/doonails/2ffeca7d-fb45-42d6-a6f1-a99cb90dbef4",
   "staedte": [],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "lemon.markets",
+  "titel": "Engineering Manager - Customer Lifecycle (f/m/x)",
+  "ort": "Berlin (Hybrid), Germany",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Kundenservice",
+  "stufe": 4,
+  "art": "Vollzeit",
+  "modus": "Hybrid",
+  "online_seit": "2026-11-26",
+  "tage_offen": 1,
+  "druck": 0,
+  "link": "https://jobs.ashbyhq.com/lemon-markets/ad20cf90-1fc5-482d-8abc-9d4097926bdf",
+  "staedte": [
+   "Berlin"
+  ],
   "laender": [
    "Deutschland"
   ]
@@ -127195,27 +128649,6 @@
   "tage_offen": 0,
   "druck": 0,
   "link": "https://jobs.ashbyhq.com/enpal/2237258e-f891-406c-8592-8ed5d4dcae32",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "Enpal",
-  "titel": "Associate Business Engineer – Virtual Power Plant Onboarding (m/w/d)",
-  "ort": "Berlin, Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Kundenservice",
-  "stufe": 1,
-  "art": "Vollzeit",
-  "modus": "",
-  "online_seit": "2026-11-26",
-  "tage_offen": 0,
-  "druck": 0,
-  "link": "https://jobs.ashbyhq.com/enpal/cb1ac7fe-64f7-44e0-af30-6a69f496520a",
   "staedte": [
    "Berlin"
   ],
@@ -128567,7 +130000,7 @@
   "online_seit": "2026-11-27",
   "tage_offen": 0,
   "druck": 0,
-  "link": "https://job-boards.greenhouse.io/artefact/jobs/8963895002",
+  "link": "https://job-boards.greenhouse.io/artefact/jobs/8963891002",
   "staedte": [
    "Zürich"
   ],
@@ -128589,27 +130022,6 @@
   "tage_offen": 0,
   "druck": 0,
   "link": "https://job-boards.greenhouse.io/dept/jobs/8420561",
-  "staedte": [
-   "Berlin"
-  ],
-  "laender": [
-   "Deutschland"
-  ]
- },
- {
-  "firma": "lemon.markets",
-  "titel": "Engineering Manager - Customer Lifecycle (f/m/x)",
-  "ort": "Berlin (Hybrid), Germany",
-  "land": "Deutschland",
-  "stadt": "Berlin",
-  "bereich": "Kundenservice",
-  "stufe": 4,
-  "art": "Vollzeit",
-  "modus": "Hybrid",
-  "online_seit": "2026-11-26",
-  "tage_offen": 0,
-  "druck": 0,
-  "link": "https://jobs.ashbyhq.com/lemon-markets/ad20cf90-1fc5-482d-8abc-9d4097926bdf",
   "staedte": [
    "Berlin"
   ],
@@ -128711,6 +130123,27 @@
   "link": "https://jobs.ashbyhq.com/tonies/de9b507f-06ce-428f-bd0a-e40e54e651dd",
   "staedte": [
    "Düsseldorf"
+  ],
+  "laender": [
+   "Deutschland"
+  ]
+ },
+ {
+  "firma": "Kombo",
+  "titel": "Talent Acquisition Intern (Contract)",
+  "ort": "Berlin Office, European Union",
+  "land": "Deutschland",
+  "stadt": "Berlin",
+  "bereich": "Marketing",
+  "stufe": 0,
+  "art": "Praktikum",
+  "modus": "Vor Ort",
+  "online_seit": "2026-11-27",
+  "tage_offen": 0,
+  "druck": 0,
+  "link": "https://jobs.ashbyhq.com/Kombo/61744e7f-5b75-465d-bb48-8ee165eaa16d",
+  "staedte": [
+   "Berlin"
   ],
   "laender": [
    "Deutschland"
@@ -129209,6 +130642,27 @@
   "tage_offen": 0,
   "druck": 0,
   "link": "https://job-boards.greenhouse.io/alphafmcrolesearlycareers/jobs/8963622002",
+  "staedte": [
+   "Genf"
+  ],
+  "laender": [
+   "Schweiz"
+  ]
+ },
+ {
+  "firma": "Alpha Financial Markets Consulting - Early Careers",
+  "titel": "Intern Consultant - Zurich",
+  "ort": "Geneva",
+  "land": "Schweiz",
+  "stadt": "Genf",
+  "bereich": "Strategie und Projekte",
+  "stufe": 0,
+  "art": "Praktikum",
+  "modus": "",
+  "online_seit": "2026-11-27",
+  "tage_offen": 0,
+  "druck": 0,
+  "link": "https://job-boards.greenhouse.io/alphafmcrolesearlycareers/jobs/8964115002",
   "staedte": [
    "Genf"
   ],

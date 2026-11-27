@@ -815,3 +815,18 @@ lever:winamax | WINAMAX
 lever:Yassir | Yassir
 lever:zeeco | Zeeco
 lever:zimperium | Zimperium
+
+# Vom Entdecker am 27.11.2026 gefunden: 13 Firmen
+greenhouse:hubspotjobs | HubSpot
+greenhouse:mediabrands | Omnicom Media
+greenhouse:suitsupply | suitsupply
+greenhouse:onrunning | On
+greenhouse:connectwise | ‎ConnectWise
+greenhouse:efihr | OMP Careers
+greenhouse:coreweaveu | CoreWeave Europe
+greenhouse:ompexternaljobboards | ompexternaljobboards
+greenhouse:onapsis | onapsis
+greenhouse:humanrightswatch | Human Rights Watch
+greenhouse:hunterdouglas | Hunter Douglas
+greenhouse:strato | strato
+greenhouse:stubhubinc | StubHub

@@ -1,5 +1,5 @@
 {
- "stand": "2026-11-27 16:29",
+ "stand": "2026-11-27 16:39",
  "firmen": [
   {
    "quelle": "greenhouse",
@@ -19,14 +19,14 @@
    "quelle": "greenhouse",
    "kuerzel": "hellofresh",
    "name": "HelloFresh",
-   "stellen": 354,
+   "stellen": 353,
    "dach": 72
   },
   {
    "quelle": "greenhouse",
    "kuerzel": "celonis",
    "name": "Celonis",
-   "stellen": 255,
+   "stellen": 256,
    "dach": 63
   },
   {
@@ -138,7 +138,7 @@
    "quelle": "greenhouse",
    "kuerzel": "stripe",
    "name": "Stripe",
-   "stellen": 764,
+   "stellen": 765,
    "dach": 11
   },
   {
@@ -1496,8 +1496,8 @@
    "quelle": "ashby",
    "kuerzel": "kombo",
    "name": "Kombo",
-   "stellen": 19,
-   "dach": 10
+   "stellen": 20,
+   "dach": 11
   },
   {
    "quelle": "ashby",
@@ -2098,7 +2098,7 @@
    "quelle": "lever",
    "kuerzel": "alimentiv-2",
    "name": "Alimentiv",
-   "stellen": 49,
+   "stellen": 48,
    "dach": 6
   },
   {
@@ -2224,7 +2224,7 @@
    "quelle": "ashby",
    "kuerzel": "perk",
    "name": "Perk",
-   "stellen": 113,
+   "stellen": 115,
    "dach": 4
   },
   {
@@ -2308,7 +2308,7 @@
    "quelle": "greenhouse",
    "kuerzel": "landor",
    "name": "Landor",
-   "stellen": 59,
+   "stellen": 58,
    "dach": 5
   },
   {
@@ -2560,7 +2560,7 @@
    "quelle": "greenhouse",
    "kuerzel": "bayada",
    "name": "BAYADA Home Health Care",
-   "stellen": 2559,
+   "stellen": 2557,
    "dach": 4
   },
   {
@@ -4401,7 +4401,7 @@
    "quelle": "ashby",
    "kuerzel": "primeintellect",
    "name": "Prime Intellect",
-   "stellen": 36,
+   "stellen": 35,
    "dach": 1
   },
   {
@@ -4513,8 +4513,8 @@
    "quelle": "greenhouse",
    "kuerzel": "alphafmcrolesearlycareers",
    "name": "Alpha Financial Markets Consulting - Early Careers",
-   "stellen": 3,
-   "dach": 1
+   "stellen": 4,
+   "dach": 2
   },
   {
    "quelle": "greenhouse",
@@ -4898,7 +4898,7 @@
    "quelle": "greenhouse",
    "kuerzel": "minitab",
    "name": "Minitab",
-   "stellen": 25,
+   "stellen": 24,
    "dach": 1
   },
   {
@@ -5599,6 +5599,97 @@
    "kuerzel": "zimperium",
    "name": "Zimperium",
    "stellen": 20,
+   "dach": 1
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "hubspotjobs",
+   "name": "HubSpot",
+   "stellen": 141,
+   "dach": 17
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "mediabrands",
+   "name": "Omnicom Media",
+   "stellen": 223,
+   "dach": 12
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "suitsupply",
+   "name": "Suitsupply",
+   "stellen": 213,
+   "dach": 12
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "onrunning",
+   "name": "On",
+   "stellen": 131,
+   "dach": 8
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "connectwise",
+   "name": "‎ConnectWise",
+   "stellen": 58,
+   "dach": 4
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "efihr",
+   "name": "OMP Careers",
+   "stellen": 35,
+   "dach": 4
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "coreweaveu",
+   "name": "CoreWeave Europe",
+   "stellen": 72,
+   "dach": 3
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "ompexternaljobboards",
+   "name": "OMP",
+   "stellen": 28,
+   "dach": 2
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "onapsis",
+   "name": "Onapsis",
+   "stellen": 11,
+   "dach": 2
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "humanrightswatch",
+   "name": "Human Rights Watch",
+   "stellen": 11,
+   "dach": 1
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "hunterdouglas",
+   "name": "Hunter Douglas",
+   "stellen": 63,
+   "dach": 1
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "strato",
+   "name": "STRATO DE",
+   "stellen": 1,
+   "dach": 1
+  },
+  {
+   "quelle": "greenhouse",
+   "kuerzel": "stubhubinc",
+   "name": "StubHub",
+   "stellen": 55,
    "dach": 1
   }
  ]
