@@ -91,3 +91,727 @@ lever:sonarsource | Sonar
 lever:finn | FINN
 lever:spotify | Spotify
 lever:researchgate | ResearchGate
+
+# Vom Entdecker am 27.11.2026 gefunden: 722 Firmen
+lever:tsmg | TSMG
+lever:jobgether | Jobgether
+greenhouse:teampicnic | Picnic
+greenhouse:cfoinsights | CFO Insights
+greenhouse:privateequityinsights | Private Equity Insights
+greenhouse:unitedmedia | unitedmedia
+greenhouse:caronsale | CarOnSale
+ashby:bjakcareer | Bjak
+greenhouse:indiecampers | Indie Campers
+ashby:airapps | Air Apps
+ashby:the-exploration-company | The Exploration Company
+greenhouse:thequalitygroupgmbh1 | The Quality Group GmbH
+greenhouse:projectaservicesgmbhcokg | A11
+greenhouse:capco | Capco
+greenhouse:evernest | Evernest
+greenhouse:wppmedia | WPP Media
+greenhouse:thequalitygroupgmbh2 | The Quality Group
+ashby:doctolib | Doctolib
+ashby:clera | Clera
+greenhouse:rubyhotels | rubyhotels
+lever:hypersonica-prod | Hypersonica
+ashby:salonkee | Salonkee
+ashby:harmattan-ai | Harmattan AI
+greenhouse:feverup | FeverUp
+ashby:proxima-fusion | Proxima Fusion
+lever:qualysoft | Qualysoft
+greenhouse:ionos | ionos
+ashby:rohlik | Rohlik
+greenhouse:avimedical | Avi Medical
+ashby:voize | voize
+ashby:andercore | Andercore
+lever:leverdemo-8 | Lever Implementation Training Environment
+lever:weloglobal | Welo Global
+ashby:vrey | VREY
+lever:octoenergy | Octopus Energy Group
+ashby:focused | Focused
+ashby:se3 | SE3 Labs
+greenhouse:alixpartners | AlixPartners
+greenhouse:nebius | Nebius
+lever:steerbridge | SteerBridge
+greenhouse:simtrabps | Simtra BioPharma Solutions
+ashby:lilt-production | LILT (Production)
+ashby:pennylane | Pennylane SAS
+ashby:vogel | Vogel
+greenhouse:bybit | Bybit
+greenhouse:kinexon | kinexon
+lever:emma-sleep | Emma – The Sleep Company
+ashby:robco | RobCo
+ashby:pergolux | Pergolux
+greenhouse:bitpanda | Bitpanda
+ashby:applied | Applied Intuition
+ashby:pplwise | pplwise
+greenhouse:autoscout24 | AutoScout24
+greenhouse:mozilla | Mozilla
+greenhouse:planetlabs | Planet
+lever:netlight | Netlight
+ashby:lio | Lio
+ashby:almedia | Almedia
+ashby:blockstream | Blockstream
+ashby:statista | Statista
+ashby:wemolo | Wemolo
+greenhouse:auterion | Auterion
+greenhouse:navvis | NavVis
+lever:anybotics | ANYbotics
+lever:vivenu | vivenu GmbH
+ashby:prior-labs | Prior Labs
+greenhouse:aloyoga | ALO
+greenhouse:formlabs | Formlabs
+greenhouse:lucidmotors | Lucid Motors
+greenhouse:gympass | Wellhub
+greenhouse:wongdoody | wongdoody
+ashby:sosafe | SoSafe
+greenhouse:proton | Proton
+greenhouse:superchat | superchat
+greenhouse:agency | Invisible Agency
+ashby:secfix | Secfix
+greenhouse:flaconi | flaconi
+ashby:10xteam | 10x Team
+ashby:ashby | Ashby
+ashby:cuspai | CuspAI
+ashby:dataguard | DataGuard
+ashby:eye-security | Eye Security
+ashby:iceye | ICEYE
+ashby:trading212 | Trading212
+greenhouse:rubrik | Rubrik Job Board
+greenhouse:talonone | Talon.One
+ashby:skalar | Skalar
+ashby:the-flex | The Flex
+greenhouse:finanzcheck | FFG FINANZCHECK Finanzportale GmbH
+greenhouse:quince | Quince
+greenhouse:smavagmbh | smava GmbH
+greenhouse:tripactions | tripactions
+lever:doonails | Doonails
+lever:usasurveyjob | TowardJobs
+ashby:constructor | Constructor
+ashby:deepjudge | DeepJudge
+ashby:legora | Legora AB
+ashby:melotech | Melotech
+ashby:munich-electrification | Munich Electrification
+ashby:trm-labs | TRM Labs
+ashby:uncountable | Uncountable Inc.
+greenhouse:apaleo | Apaleo
+greenhouse:artefact | Artefact
+greenhouse:axon | Axon
+greenhouse:dept | DEPT®
+greenhouse:purestorage | Everpure
+greenhouse:ionq | IonQ
+lever:rai | Robotics and AI Institute
+ashby:lemon-markets | lemon.markets
+ashby:skydio | Skydio
+ashby:tandem-health | Tandem Health
+ashby:telli | telli
+ashby:zenjob | Zenjob
+greenhouse:betterhelp | BetterHelp
+greenhouse:artefactlinkedin | LinkedIn Job Wrapping
+greenhouse:ntconcepts | NT Concepts
+greenhouse:speechify | Speechify
+greenhouse:via | Via
+lever:ircagroup | Irca Group
+lever:pigment | Pigment
+ashby:airwallex | Airwallex
+ashby:carwow | Carwow
+ashby:ideals | Ideals
+ashby:nomos | Nomos
+ashby:roompricegenie | RoomPriceGenie
+ashby:tonies | tonies
+greenhouse:gostudent | GoStudent
+greenhouse:michelscorporation | michelscorporation
+greenhouse:numagroupgmbh | Numa
+greenhouse:svetness | Svetness Personal Training
+greenhouse:valtech | Valtech
+greenhouse:zscaler | Zscaler
+ashby:aios | AIOS (YC W20/S21)
+ashby:arago | Arago
+ashby:benchling | Benchling
+ashby:kombo | Kombo
+ashby:neuralconcept | Neural Concept
+ashby:thorit | Thorit
+ashby:workerbase | WORKERBASE
+greenhouse:akqa | AKQA
+greenhouse:braze | Braze
+greenhouse:catonetworks | Cato Networks
+greenhouse:florafoodgroup | Flora Food Group
+greenhouse:lawzero | LawZero
+greenhouse:thirdbridge | Third Bridge
+lever:aogarciaagency | AO Garcia Agency
+lever:xsolla | Xsolla
+ashby:everfield | Everfield
+ashby:factor-eleven | Factor Eleven
+ashby:kayak | KAYAK
+ashby:mercura | Mercura
+ashby:tebi | Tebi
+greenhouse:bridgebio | BridgeBio Pharma
+greenhouse:intercom | Fin
+greenhouse:goodman | Goodman
+greenhouse:stepstone | stepstone
+greenhouse:think-cell | think-cell
+greenhouse:veeamsoftware | Veeam Software
+greenhouse:zattoo | zattoo
+lever:360learning | 360Learning
+lever:agicap | Agicap
+lever:impossiblecloud | Impossible Cloud
+lever:insiderone | Insider One
+lever:Packmatic | Packmatic GmbH
+ashby:amboss | AMBOSS
+ashby:cortea | Cortea AI
+ashby:hrs | HRS
+ashby:klim | Klim GmbH
+greenhouse:amoriabond | Amoria Group
+greenhouse:chainguard | Chainguard
+greenhouse:cmbluenergyag | CMBlu Energy AG
+greenhouse:gotion | Gotion, Inc.
+greenhouse:netskope | netskope
+greenhouse:reolink | reolink
+greenhouse:tripledotstudios | Tripledot Studios
+greenhouse:verve | Verve
+lever:arcteryx.com | ARC'TERYX
+lever:swissborg | SwissBorg
+lever:wingtra-2 | Wingtra AG
+ashby:babbel | Babbel
+ashby:justplay-gmbh | JustPlay GmbH
+ashby:lightspeedhq | Lightspeed Commerce, Inc.
+ashby:mapbox | Mapbox
+ashby:mirelo | Mirelo AI
+ashby:neko-health | Neko Health
+ashby:paradox | Paradox
+ashby:uplane | Uplane
+ashby:zip | Zip
+greenhouse:butternutbox | Butternut Box
+greenhouse:charlesriverassociates | Charles River Associates
+greenhouse:emnify | emnify
+greenhouse:sothebys | Sotheby's
+greenhouse:tenstorrent | Tenstorrent
+greenhouse:tulip | tulip
+greenhouse:xometryeurope | Xometry Europe
+lever:agile-defense | Agile Defense
+lever:crytek | Crytek
+lever:lifestance | LifeStance Health
+lever:rws | RWS TrainAI
+ashby:adaption | adaption
+ashby:alohi | Alohi SA
+ashby:comstruct | comstruct ICT
+ashby:lap | LAP Coffee
+ashby:sensmore | Sensmore
+ashby:yepoda | Yepoda
+greenhouse:appinio | Appinio
+greenhouse:applovin | AppLovin
+greenhouse:audibenehearcom | audibene / hear.com
+greenhouse:eucalyptus | Careers at Eucalyptus
+greenhouse:esri | Esri
+greenhouse:firstglobalmanagementservicesinc | First Global Management Services, Inc.
+greenhouse:intrinsicrobotics | intrinsicrobotics
+greenhouse:mewssystems | mewssystems
+greenhouse:nice | NICE
+greenhouse:orcristtechnologies | orcristtechnologies
+greenhouse:pia | pia
+greenhouse:sharkninjaoperatingllc | SharkNinja
+greenhouse:swissitsecuritygroup | swissitsecuritygroup
+greenhouse:unybrands | unybrands
+greenhouse:viralnation | Viral Nation Inc.
+greenhouse:waymo | waymo
+lever:alimentiv-2 | Alimentiv
+lever:apex-ai | Apex.AI
+lever:clovirtualfashion | CLO Virtual Fashion
+lever:dilitrust | DiliTrust
+lever:gravisrobotics | Gravis Robotics
+lever:mendix | Mendix
+ashby:aerovect | AeroVect
+ashby:augustus | Augustus
+ashby:bliro | Bliro GmbH
+ashby:buildlinx | Buildlinx GmbH
+ashby:everai | EverAI
+ashby:exa | Exa
+ashby:glow25 | Glow25
+ashby:jellyfishcareers | Jellyfish
+ashby:jupus | JUPUS
+ashby:keyrock | Keyrock
+ashby:knowunity | Knowunity GmbH
+ashby:onebrief | Onebrief
+ashby:perk | Perk
+ashby:voodoo | Voodoo
+greenhouse:alphasights | AlphaSights
+greenhouse:anaplan | Anaplan
+greenhouse:crewmeister | ATOSS Aloud GmbH - Crewmeister
+greenhouse:awin | Awin
+greenhouse:barbaricum | Barbaricum
+greenhouse:baringa | Baringa
+greenhouse:commvault | Commvault
+greenhouse:gallup | Gallup
+greenhouse:imc | IMC
+greenhouse:ketryx | Ketryx
+greenhouse:landor | Landor
+greenhouse:massarcapital | Massar Capital
+greenhouse:nozominetworks | Nozomi Networks
+greenhouse:quberesearchandtechnologies | Qube Research & Technologies
+greenhouse:redwoodsoftware | Redwood Software
+greenhouse:secretariatadvisorsllc | Secretariat
+greenhouse:soundcloud71 | SoundCloud
+greenhouse:sparetech | SPARETECH
+greenhouse:sprengnetter | Sprengnetter GmbH
+greenhouse:teneo | teneo
+greenhouse:teneolinkedin | Teneo external feed for LinkedIn
+greenhouse:vercel | Vercel
+greenhouse:artefactjobs | Welcome to the Jungle
+greenhouse:workato | Workato
+lever:qwello.eu | Qwello
+lever:scholarrock | Scholar Rock
+lever:zurichinstruments | Zurich Instruments
+ashby:camunda | Camunda
+ashby:dandy | Dandy
+ashby:deepgram | Deepgram
+ashby:duck-duck-go | DuckDuckGo
+ashby:flink | Flink Robotics
+ashby:founders-factory | Founders Factory
+ashby:foxelligroup | Foxelli Group
+ashby:jameda | Jameda
+ashby:lexroom | Lexroom
+ashby:owkin | Owkin
+ashby:quantexa | Quantexa
+ashby:sanity | Sanity
+ashby:sentry | Sentry
+ashby:sierra | Sierra
+ashby:sparta-commodities | Sparta
+ashby:temporal | Temporal Technologies
+ashby:the-global-talent-co | The Global Talent Co.
+ashby:viessmann | Viessmann Generations Group
+greenhouse:banyansoftware | Banyan Software
+greenhouse:bayada | BAYADA Home Health Care
+greenhouse:catapultsports | Catapult Sports
+greenhouse:catawiki | Catawiki
+greenhouse:coalition | Coalition, Inc.
+greenhouse:cribl | Cribl
+greenhouse:enchargeai36 | EnCharge AI
+greenhouse:excel | Excel Learning Center
+greenhouse:gongio | Gong.io
+greenhouse:hive | Hive
+greenhouse:inceptive | Inceptive
+greenhouse:jfrog | jfrog
+greenhouse:jumio | Jumio
+greenhouse:openspace | openspace
+greenhouse:pfm | pfm
+greenhouse:plscareers | PLS
+greenhouse:qualtrics | qualtrics
+greenhouse:shopfully | Shopfully
+greenhouse:sohohouseco | Soho House & Co.
+greenhouse:sonymusicentertainment | Sony Music Global Job Board
+greenhouse:thetradedesk | The Trade Desk
+greenhouse:trustpilot | trustpilot
+greenhouse:unframe | Unframe
+lever:boxlunch | BoxLunch & Hot Topic
+lever:infinit | INFINIT
+lever:kolibrigames | Kolibri Games
+lever:kpler | Kpler
+lever:lalamove | Lalamove
+lever:laminarprojects | Laminar Projects
+lever:lyrahealth | Lyra Health
+lever:novaspace | Novaspace
+lever:sila | Sila Services
+ashby:attio | Attio
+ashby:axelera | Axelera AI
+ashby:docebo | Docebo
+ashby:elliptic | Elliptic
+ashby:filigran | Filigran
+ashby:humanoid | Humanoid
+ashby:industrious | Industrious
+ashby:influxdata | InfluxData
+ashby:kong | Kong
+ashby:kyra | Kyra
+ashby:lilt-corporate | LILT
+ashby:litmus | Litmus
+ashby:nubank | Nubank
+ashby:plasmidsaurus | Plasmidsaurus
+ashby:polene-paris | Polène Paris
+ashby:praxipal | praxipal
+ashby:rhoda-ai | Rhoda AI
+ashby:snyk | Snyk
+ashby:voyfai | Voyfai
+ashby:yazio | Yazio
+greenhouse:acadiapharmaceuticals | Acadia Pharmaceuticals Inc.
+greenhouse:affinidi | Affinidi
+greenhouse:alphafmcroles | Alpha Financial Markets Consulting
+greenhouse:anteristech | Anteris Technologies
+greenhouse:anydesk | AnyDesk
+greenhouse:autoproff | AutoProff
+greenhouse:benchmarkpt | Benchmark Physical Therapy
+greenhouse:bitmovin | Bitmovin
+greenhouse:blackbirdhealth | Blackbird Health
+greenhouse:blacklane | BLACKLANE
+greenhouse:boxinc | Box
+greenhouse:tide | Careers at Tide
+greenhouse:castaigroupinc | Cast AI
+greenhouse:charles | charles
+greenhouse:cloudbeds | Cloudbeds
+greenhouse:cognite | Cognite - AI for Industry
+greenhouse:ecosio | ecosio
+greenhouse:enmacc | enmacc
+greenhouse:eositsolutions | EOS https://app2.greenhouse.io/job_boards/4008206002/settings
+greenhouse:geotab | Geotab
+greenhouse:infront | Infront
+greenhouse:intellishoredk | intellishoredk
+greenhouse:mintel | mintel
+greenhouse:mirumpharmaceuticals | mirumpharmaceuticals
+greenhouse:opentable | OpenTable
+greenhouse:platformsh | platformsh
+greenhouse:sonyinteractiveentertainmentglobal | PlayStation Global
+greenhouse:precisionmedicinegroup | Precision Medicine Group
+greenhouse:remotewoman | Remote Woman
+greenhouse:riotgames | riotgames
+greenhouse:schrdinger | Schrödinger
+greenhouse:sentinellabs | sentinellabs
+greenhouse:seyond | Seyond
+greenhouse:smartlyio | Smartly
+greenhouse:smxtech | smxtech
+greenhouse:spire | spire
+greenhouse:taboola | taboola
+greenhouse:thefork | The Fork
+greenhouse:theorchard | theorchard
+greenhouse:torq | Torq
+greenhouse:vaxcyte | Vaxcyte
+greenhouse:warburgpincusllc | Warburg Pincus LLC
+greenhouse:wizinc | wizinc
+greenhouse:world4you | world4you
+greenhouse:worldquant | WorldQuant
+greenhouse:world4822stri986des | WorldStrides
+greenhouse:yext | Yext
+greenhouse:zetaglobal | zetaglobal
+lever:ajax | Ajax Systems
+lever:aleph | Aleph
+lever:bloomon | Bloom & Wild Group
+lever:cagents | CAI
+lever:cargo-partner | cargo-partner
+lever:celerion | Celerion
+lever:companial | Companial
+lever:dnb | Dun & Bradstreet
+lever:FixGroup | Fix Group Management
+lever:global-cxm | Global Commissioning
+lever:hophr | Hop
+lever:linkrehabwellness | Link Rehab and Wellness
+lever:malt | Malt
+lever:saviynt | Saviynt
+lever:springoakliving | Spring Oak Senior Living
+lever:topdesk | TOPdesk
+lever:vestiairecollective | Vestiaire Collective
+lever:xtb | XTB Trial
+lever:zencore | Zencore
+ashby:3e | 3E
+ashby:artsy | Artsy
+ashby:bettermile | Bettermile
+ashby:chatbase | Chatbase
+ashby:clipboard | Clipboard
+ashby:conductorai | ConductorAI
+ashby:dedale-intelligence | Dedale Intelligence
+ashby:docplanner | Docplanner
+ashby:horizon3ai | Horizon3 AI
+ashby:illumio | Illumio
+ashby:livinghr | livingHR
+ashby:mollie | Mollie
+ashby:omnea | Omnea
+ashby:onhires | OnHires
+ashby:percona | Percona
+ashby:plane | Plane Software, Inc.
+ashby:prometheus | prometheus
+ashby:proxima | Proxima
+ashby:sardine | Sardine
+ashby:semperis | Semperis
+ashby:share | Share
+ashby:siteminder | SiteMinder
+ashby:solidgate | Solidgate
+ashby:watershed | Watershed
+ashby:wayflyer | Wayflyer
+ashby:wundergraph | WunderGraph, Inc.
+ashby:zeno | Zeno
+greenhouse:3redpartners | 3Red Partners
+greenhouse:accelerationpartners | Acceleration Partners
+greenhouse:alamarbiosciences | Alamar Biosciences
+greenhouse:appian | Appian Corporation
+greenhouse:asm | ASM
+greenhouse:asteralabs | Astera Labs
+greenhouse:bdainc | BDA
+greenhouse:bitgo | BitGo
+greenhouse:bloomreach | Bloomreach
+greenhouse:brandwatch | Brandwatch
+greenhouse:brunswickgroup | Brunswick Group
+greenhouse:bursonglobalcareers | Burson
+greenhouse:buynomics | Buynomics
+greenhouse:cision | Cision
+greenhouse:clariness | Clariness
+greenhouse:conga | Conga
+greenhouse:cresta | Cresta
+greenhouse:dialecticch | Dialectic
+greenhouse:digicert | DigiCert
+greenhouse:ecoworks | ecoworks
+greenhouse:fieldwire | Fieldwire
+greenhouse:fireblocks | Fireblocks
+greenhouse:flipp | Flipp
+greenhouse:heartpaw | Heart + Paw
+greenhouse:horacemannagents | Horace Mann - Agent Opportunities
+greenhouse:indiecampers-linkedin | Indie Campers LinkedIn
+greenhouse:infuse | INFUSE
+greenhouse:kaseya | kaseya
+greenhouse:kayzen | kayzen
+greenhouse:keyfactorinc | Keyfactor, Inc.
+greenhouse:klaviyo | klaviyo
+greenhouse:konux | KONUX
+greenhouse:liberis | Liberis
+greenhouse:mirakl | Mirakl
+greenhouse:monks | monks
+greenhouse:netcracker | Netcracker
+greenhouse:onetrust | onetrust
+greenhouse:pendo | Pendo
+greenhouse:planradar | planradar
+greenhouse:portwest | portwest
+greenhouse:pqshield | pqshield
+greenhouse:prophet | prophet
+greenhouse:pt | pt
+greenhouse:pubmatic | PubMatic
+greenhouse:rti | Real-Time Innovations
+greenhouse:safebreach | safebreach
+greenhouse:simscale | simscale
+greenhouse:smartsheet | Smartsheet
+greenhouse:sonymusicde | Sony Music Entertainment Germany
+greenhouse:spacexglobal | SpaceX_Global
+greenhouse:spektrum | Spektrum
+greenhouse:telnyx54 | Telnyx
+greenhouse:verkada | Verkada
+greenhouse:wekatest | wekatest
+greenhouse:whalarinc | Whalar Group
+greenhouse:wpp | WPP
+greenhouse:xund | xund
+greenhouse:yondrgroup | Yondr Group
+lever:airalo | Airalo
+lever:apryse | Apryse
+lever:BTSE | BTSE
+lever:cirquedusoleil | Cirque du Soleil Entertainment Group
+lever:cwsc | Computer World Services
+lever:doctrine | Doctrine
+lever:eleks | Eleks
+lever:justwatch | JustWatch
+lever:magnetforensics | Magnet Forensics
+lever:mantisinnovation | Mantis Innovation
+lever:NuvoAir | NuvoAir
+lever:storiogroup | Storio group
+lever:swissblock | Swissblock
+lever:transmutex | Transmutex SA
+lever:unisoninfra | Unison Infrastructure
+lever:veepee | Veepee
+lever:walkme | WalkMe
+lever:wmg | Warner Music Inc.
+ashby:join9am | 9amHealth
+ashby:akur8 | Akur8
+ashby:astronomer | Astronomer
+ashby:axiom-co | Axiom
+ashby:axle-careers | Axle Energy
+ashby:bynder | Bynder
+ashby:change | Change.org
+ashby:checkly | Checkly
+ashby:cognition | Cognition
+ashby:cradlebio | Cradle
+ashby:cube | CUBE
+ashby:cubic3 | Cubic³
+ashby:ddn | DDN
+ashby:decagon | Decagon
+ashby:delinea | Delinea
+ashby:easygenerator | Easygenerator
+ashby:ekumenlabs | Ekumen
+ashby:engflow | EngFlow
+ashby:featherlessai | Featherless AI
+ashby:fiducial | Fiducial
+ashby:fnatic | Fnatic
+ashby:goodmaven | Good Maven
+ashby:gotphoto | GotPhoto
+ashby:higgsfieldai | Higgsfield
+ashby:hivemq | HiveMQ GmbH
+ashby:infisical | Infisical
+ashby:livekit | LiveKit
+ashby:loki | Loki Robotics
+ashby:lyric | Lyric
+ashby:merge | Merge
+ashby:mimica | Mimica
+ashby:mondoo | Mondoo
+ashby:motherduck | MotherDuck
+ashby:netgear | NETGEAR
+ashby:nord-security | nord-security
+ashby:oktoberagency | OKTOBER
+ashby:omaze | Omaze
+ashby:pandektes | Pandektes
+ashby:patlytics | Patlytics, Inc.
+ashby:plaud | Plaud
+ashby:poesis | Poesis
+ashby:pragmatike | Pragmatike
+ashby:primeintellect | Prime Intellect
+ashby:profound | Profound
+ashby:reedsy | Reedsy
+ashby:singular | Singular
+ashby:spearbio | Spear Bio
+ashby:splitmetrics | SplitMetrics
+ashby:vertice | Vertice
+ashby:whoop | Whoop
+ashby:wordsmith | Wordsmith AI
+ashby:xbowcareers | XBOW
+ashby:xds | XDS
+ashby:yondr | Yondr
+ashby:zello | Zello
+greenhouse:agecareers | AGE Solutions
+greenhouse:airspace | Airspace
+greenhouse:alabamatitleloansinc | Alabama Title Loans, Inc
+greenhouse:alphafmcrolesearlycareers | Alpha Financial Markets Consulting - Early Careers
+greenhouse:alphasightsresumedrop | AlphaSights Campus Recruiting
+greenhouse:aperture | Aperture Labs
+greenhouse:atariinc | Atari, Inc.
+greenhouse:atolls | Atolls
+greenhouse:authenticbrandsgroup | Authentic Brands Group
+greenhouse:axicom | Axicom
+greenhouse:bluewireless | Blue Wireless
+greenhouse:breezeway | Breezeway
+greenhouse:c3iot | C3 AI
+greenhouse:nlcventures | CAREERS AT NLC
+greenhouse:chargepoint | ChargePoint
+greenhouse:cockroachlabs | Cockroach Labs
+greenhouse:cofraholding | COFRA Holding
+greenhouse:colabsoftware | CoLab Software
+greenhouse:concentric | Concentric
+greenhouse:coveoen | Coveo
+greenhouse:cultureamp | Culture Amp
+greenhouse:descope | Descope
+greenhouse:dragos | Dragos
+greenhouse:elementbiosciences | Element Biosciences
+greenhouse:emplifi | Emplifi
+greenhouse:endorlabs | Endor Labs
+greenhouse:energyexemplarllc | Energy Exemplar
+greenhouse:envoyglobalinc | Envoy Global, Inc.
+greenhouse:eyecarecenter | eyecarecenter
+greenhouse:fanaticscollectibles | Fanatics Collectibles
+greenhouse:feedzai | Feedzai
+greenhouse:fender | Fender
+greenhouse:fgsglobal | FGS Global
+greenhouse:fschumacherco | F. Schumacher & Co.
+greenhouse:gardacp | Garda Capital Partners
+greenhouse:generalatlantic | General Atlantic
+greenhouse:guardsquare | Guardsquare
+greenhouse:gumgum | GumGum
+greenhouse:harnessinc | Harness
+greenhouse:hasbro | Hasbro
+greenhouse:ifit | iFIT
+greenhouse:immoverkauf24 | immoverkauf24
+greenhouse:inmobi | InMobi
+greenhouse:interbrand | Interbrand
+greenhouse:intersystems | intersystems
+greenhouse:interviewengineering | Interview Engineering
+greenhouse:isomorphiclabs | Isomorphic Labs
+greenhouse:iterativehealth | Iterative Health
+greenhouse:ivalua | ivalua
+greenhouse:jackmortonworldwide | jackmortonworldwide
+greenhouse:janes | Janes
+greenhouse:jetbrains | JetBrains
+greenhouse:koddi | Koddi
+greenhouse:lastpass | LastPass
+greenhouse:leapwork | Leapwork
+greenhouse:logicmonitor | logicmonitor
+greenhouse:mentimeter | mentimeter
+greenhouse:minio | MinIO
+greenhouse:minitab | Minitab
+greenhouse:miqdigital | MiQ Digital
+greenhouse:mitratech | Mitratech
+greenhouse:mitsogoinc | Mitsogo Inc
+greenhouse:octagon | octagon
+greenhouse:okx | OKX
+greenhouse:oneacrefund | oneacrefund
+greenhouse:oneoncology | oneoncology
+greenhouse:pallet | Pallet
+greenhouse:pandadoc | PandaDoc
+greenhouse:directapplication | Prophet Application
+greenhouse:recordedfuture | Recorded Future
+greenhouse:relex | relex
+greenhouse:revloncorporate | Revlon Corporate
+greenhouse:ripple | ripple
+greenhouse:rocketlab | Rocket Lab Corporation
+greenhouse:roller | ROLLER
+greenhouse:rtbhouse | rtbhouse
+greenhouse:scopely | Scopely
+greenhouse:sedo | sedo
+greenhouse:sezzle | Sezzle
+greenhouse:showpad | showpad
+greenhouse:skillsoft | skillsoft
+greenhouse:sonatus | Sonatus
+greenhouse:sonicwall | SonicWall
+greenhouse:squarepointcapital | Squarepoint Capital
+greenhouse:staged | staged
+greenhouse:switzerland | switzerland
+greenhouse:syndigo | Syndigo
+greenhouse:talkdesk2 | Talkdesk
+greenhouse:tanium | tanium
+greenhouse:telixus | telixus
+greenhouse:tenon | tenon
+greenhouse:ubiquiti | ubiquiti
+greenhouse:uug | uug
+greenhouse:vectranetworks | vectranetworks
+greenhouse:veterinarypracticepartners | veterinarypracticepartners
+greenhouse:wargamingen | Wargaming
+greenhouse:headquarter | WePractice (Head Quarter)
+greenhouse:agencywithin | WITHIN
+greenhouse:xometry | Xometry
+greenhouse:yubico | Yubico Inc.
+lever:abtaba | Above and Beyond Therapy
+lever:adlook | Adlook
+lever:aethoshotels | Aethos
+lever:aeva | Aeva, Inc.
+lever:appzen | AppZen, Inc.
+lever:azul | Azul
+lever:bigblue | Bigblue
+lever:bioagilytix | BioAgilytix
+lever:brevo | Brevo
+lever:caliza-financial-technologies | Caliza
+lever:canarytechnologies | Canary Technologies Corp
+lever:capital | capital.com
+lever:caseware | Caseware
+lever:coinmarketcap | Coin Market Cap Ltd
+lever:controlup | ControlUp
+lever:coupa | Coupa Software, Inc.
+lever:deltasands | Delta Solutions & Strategies
+lever:diamondfoundry | Diamond Foundry
+lever:disher | DISHER
+lever:espace | E-Space
+lever:firemon | FireMon
+lever:floqast | FloQast
+lever:fuellabs | Fuel Labs
+lever:ghsmartjobs | ghSMART
+lever:innocraft | InnoCraft
+lever:jetsupport | Jet Support Services, Inc.
+lever:jushico | Jushi
+lever:kepler | Kepler Communications
+lever:keyloop | Keyloop
+lever:MachinaLabs | Machina Labs
+lever:matchgroup | Match Group
+lever:megaport | Megaport
+lever:metaview | Metaview
+lever:mistplay | Mistplay
+lever:mythic-ai.com | Mythic
+lever:paralleldomain | Parallel Domain
+lever:penumbrainc | Penumbra
+lever:pioneer-services | Powered by Pioneer
+lever:q-ctrl | Q-CTRL
+lever:quantco- | QuantCo
+lever:radformation | Radformation
+lever:rapidmicrobio | Rapid Micro Biosystems
+lever:rover | Rover.com
+lever:scismic | Scismic
+lever:serotonin | Serotonin
+lever:spinai | Spin Technology
+lever:springrecruits | Succession Planning for Railroads Investing in the Next Generation LLC
+lever:sysdig | Sysdig
+lever:theinformationlab | The Information Lab
+lever:toptal | Toptal
+lever:truv | Truv
+lever:ultrahealthproviders | Ultra Health
+lever:valdera | Valdera
+lever:valiantys | Valiantys
+lever:weride | WeRide.ai
+lever:winamax | WINAMAX
+lever:Yassir | Yassir
+lever:zeeco | Zeeco
+lever:zimperium | Zimperium
