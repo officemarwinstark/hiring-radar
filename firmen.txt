@@ -1,0 +1,7 @@
+# Eine Firma pro Zeile: das Kürzel aus der Greenhouse-Adresse
+n26
+raisin
+contentful
+sumup
+hellofresh
+celonis
